@@ -911,6 +911,25 @@
   "updated": "2026-11-19 18:09:05",
   "verified": ""
  },
+ "chemistry/elements-compounds": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "ffb774a82031",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
+  "title": {
+   "en": "Elements, Compounds & Mixtures",
+   "zh": "元素、化合物与混合物"
+  },
+  "updated": "2026-11-19 18:09:33",
+  "verified": ""
+ },
  "chemistry/periodic-table": {
   "counts": {
    "done": 0,
