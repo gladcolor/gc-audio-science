@@ -1120,6 +1120,25 @@
   "updated": "2026-11-19 18:04:41",
   "verified": ""
  },
+ "physics/forces": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "3b662e03eb57",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/forces.html",
+  "title": {
+   "en": "Forces, Friction & Gravity",
+   "zh": "力、摩擦力与重力"
+  },
+  "updated": "2026-11-19 18:08:19",
+  "verified": ""
+ },
  "physics/motion": {
   "counts": {
    "done": 0,
