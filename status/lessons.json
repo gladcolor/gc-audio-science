@@ -208,6 +208,25 @@
   "updated": "2026-11-19 18:01:48",
   "verified": "2026-11-19 18:02:24"
  },
+ "biology/heredity": {
+  "counts": {
+   "done": 10,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 10,
+   "total": 20
+  },
+  "fingerprint": "55a7aade0832",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/biology/heredity.html",
+  "title": {
+   "en": "Genes, Traits & Punnett Squares",
+   "zh": "基因、性状与庞氏方格"
+  },
+  "updated": "2026-11-19 18:03:03",
+  "verified": ""
+ },
  "biology/osmosis": {
   "counts": {
    "done": 42,
