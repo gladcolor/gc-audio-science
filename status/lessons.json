@@ -550,6 +550,25 @@
   "updated": "2026-11-19 18:04:52",
   "verified": ""
  },
+ "earth/natural-resources": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "3d809a12fa52",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/natural-resources.html",
+  "title": {
+   "en": "Natural Resources & Energy",
+   "zh": "自然资源与能源"
+  },
+  "updated": "2026-11-19 18:05:27",
+  "verified": ""
+ },
  "earth/oceans": {
   "counts": {
    "done": 0,
