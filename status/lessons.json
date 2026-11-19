@@ -284,6 +284,25 @@
   "updated": "2026-11-19 17:59:35",
   "verified": "2026-11-19 18:00:17"
  },
+ "biology/photosynthesis": {
+  "counts": {
+   "done": 1,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 17,
+   "total": 18
+  },
+  "fingerprint": "99c1e0fe6128",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
+  "title": {
+   "en": "Photosynthesis & Respiration",
+   "zh": "光合作用与呼吸作用"
+  },
+  "updated": "2026-11-19 18:03:26",
+  "verified": ""
+ },
  "biology/protein-synthesis": {
   "counts": {
    "done": 9,
