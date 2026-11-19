@@ -1120,6 +1120,25 @@
   "updated": "2026-11-19 18:24:45",
   "verified": ""
  },
+ "cs/cs-internet": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "06232b709f32",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/cs/cs-internet.html",
+  "title": {
+   "en": "How the Internet Works",
+   "zh": "互联网是怎样工作的"
+  },
+  "updated": "2026-11-19 18:25:00",
+  "verified": ""
+ },
  "earth/atmosphere": {
   "counts": {
    "done": 0,
