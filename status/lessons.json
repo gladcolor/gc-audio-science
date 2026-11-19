@@ -511,5 +511,24 @@
   },
   "updated": "2026-11-19 18:04:29",
   "verified": ""
+ },
+ "earth/rocks-minerals": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 15,
+   "total": 15
+  },
+  "fingerprint": "1a07bf951b27",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/rocks-minerals.html",
+  "title": {
+   "en": "Rocks, Minerals & the Rock Cycle",
+   "zh": "岩石、矿物与岩石循环"
+  },
+  "updated": "2026-11-19 18:04:35",
+  "verified": ""
  }
 }

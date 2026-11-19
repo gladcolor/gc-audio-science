@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 18:04:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 18:04:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -31,3 +31,4 @@ Updated 2026-11-19 18:04:29. Labels: finished / in progress / no audio / failed 
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 18:00:23 | 2026-11-19 18:01:02 |
 | earth/earth-layers | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:04:23 |  |
 | earth/plate-tectonics | old voice | 0 | 21 | 0 | 0 | 0 | 2026-11-19 18:04:29 |  |
+| earth/rocks-minerals | old voice | 0 | 15 | 0 | 0 | 0 | 2026-11-19 18:04:35 |  |
