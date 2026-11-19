@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:05:45",
   "verified": ""
  },
+ "astronomy/gravity-orbits": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "7e7e781fe2b0",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/gravity-orbits.html",
+  "title": {
+   "en": "Gravity & Orbits",
+   "zh": "引力与轨道"
+  },
+  "updated": "2026-11-19 18:05:50",
+  "verified": ""
+ },
  "astronomy/solar-system": {
   "counts": {
    "done": 0,
