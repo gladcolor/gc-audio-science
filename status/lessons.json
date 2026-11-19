@@ -227,6 +227,25 @@
   "updated": "2026-11-19 17:59:35",
   "verified": "2026-11-19 18:00:17"
  },
+ "biology/protein-synthesis": {
+  "counts": {
+   "done": 9,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 9,
+   "total": 18
+  },
+  "fingerprint": "de9c35512f04",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
+  "title": {
+   "en": "DNA → RNA → Protein",
+   "zh": "DNA → RNA → 蛋白质"
+  },
+  "updated": "2026-11-19 18:02:57",
+  "verified": ""
+ },
  "biology/tonicity-labs": {
   "counts": {
    "done": 51,
