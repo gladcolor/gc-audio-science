@@ -1234,6 +1234,25 @@
   "updated": "2026-11-19 18:08:24",
   "verified": ""
  },
+ "physics/sound": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 20,
+   "total": 20
+  },
+  "fingerprint": "63cf6b8f6db0",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/sound.html",
+  "title": {
+   "en": "Sound",
+   "zh": "声音"
+  },
+  "updated": "2026-11-19 18:08:44",
+  "verified": ""
+ },
  "physics/waves": {
   "counts": {
    "done": 0,
