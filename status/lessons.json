@@ -170,6 +170,25 @@
   "updated": "2026-11-19 18:06:20",
   "verified": ""
  },
+ "astronomy/planets-moons": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 32,
+   "total": 32
+  },
+  "fingerprint": "8ce0ccbb7e77",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/planets-moons.html",
+  "title": {
+   "en": "Planet Lab: Worlds & Moons",
+   "zh": "行星实验室：行星与卫星"
+  },
+  "updated": "2026-11-19 18:07:50",
+  "verified": ""
+ },
  "astronomy/rocketry": {
   "counts": {
    "done": 0,

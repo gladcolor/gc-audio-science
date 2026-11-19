@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "astronomy/planets-moons", "voice": "serena", "en": "002fdc7e 0da049f4 10d1d70c 160babde 17795637 2304def3 29127b58 3225d6f2 3b5891e8 4f8c9a23 5ed9a014 a9cf1292 cb637e98 cda31e37 cfd2f3bd ec1a77f9", "zh": "06d21e60 2b2a0a3b 3834c15e 41df8cce 4e9f2d72 518a12e7 6c0b1de1 746186dd 8c68ee62 8dfdc279 960ace9f 962a68bb a547ef3a b4c8272f d396219b daefcc19"});
