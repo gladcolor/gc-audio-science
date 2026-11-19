@@ -892,6 +892,25 @@
   "updated": "2026-11-19 18:00:23",
   "verified": "2026-11-19 18:01:02"
  },
+ "chemistry/atoms": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 32,
+   "total": 32
+  },
+  "fingerprint": "51828c16aca0",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/chemistry/atoms.html",
+  "title": {
+   "en": "Atomic Structure",
+   "zh": "原子结构"
+  },
+  "updated": "2026-11-19 18:09:05",
+  "verified": ""
+ },
  "earth/atmosphere": {
   "counts": {
    "done": 0,

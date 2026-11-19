@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/atoms", "voice": "serena", "en": "0da13f5f 1e7491ef 43533460 4970c91f 4f0bac9f 4f90f861 6671c791 7ae1f88b 9825665f 9d89dd0d a0666233 a6ec2e50 c18423c8 c6e1f1ac e0b5cac0 f27aef43", "zh": "0ad6799e 0bd92564 2037b1b4 21e59502 2cb221bc 335f8b26 337afbac 76247cb6 8cd9968c 90371d15 9500ed08 aa5676b5 ad61e86a beea2e71 f856bc71 fe6c3b4d"});
