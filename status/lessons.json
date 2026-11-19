@@ -1063,6 +1063,25 @@
   "updated": "2026-11-19 18:09:27",
   "verified": ""
  },
+ "cs/cs-ai": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 2,
+   "total": 2
+  },
+  "fingerprint": "494b6481aaaa",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/cs/cs-ai.html",
+  "title": {
+   "en": "Artificial Intelligence & Machine Learning",
+   "zh": "人工智能与机器学习"
+  },
+  "updated": "2026-11-19 18:25:09",
+  "verified": ""
+ },
  "cs/cs-algorithms": {
   "counts": {
    "done": 0,
