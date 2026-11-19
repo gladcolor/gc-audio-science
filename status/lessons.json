@@ -1177,6 +1177,25 @@
   "updated": "2026-11-19 18:08:33",
   "verified": ""
  },
+ "physics/light": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "9151e4acecd0",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/light.html",
+  "title": {
+   "en": "Light & the EM Spectrum",
+   "zh": "光与电磁波谱"
+  },
+  "updated": "2026-11-19 18:08:49",
+  "verified": ""
+ },
  "physics/motion": {
   "counts": {
    "done": 0,
