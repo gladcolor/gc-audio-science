@@ -265,6 +265,25 @@
   "updated": "2026-11-19 18:02:57",
   "verified": ""
  },
+ "biology/reproduction": {
+  "counts": {
+   "done": 11,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 11,
+   "total": 22
+  },
+  "fingerprint": "994eb9b73e4a",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/biology/reproduction.html",
+  "title": {
+   "en": "Reproduction & Selective Breeding",
+   "zh": "生殖与选择育种"
+  },
+  "updated": "2026-11-19 18:03:08",
+  "verified": ""
+ },
  "biology/tonicity-labs": {
   "counts": {
    "done": 51,
