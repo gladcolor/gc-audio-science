@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "biology/osmosis", "voice": "serena", "en": "0c049efc 0d849971 19faa505 1b5a80e2 221ce800 2c32acc0 3b399703 43586fd9 48171b61 48194c0b 68fb13bc 782e96e2 8866388c 963cd74d a0d44793 b2abaa1a bf4f8a4c cbfa1552 e730aec7 f4ae3474", "zh": "00e8f2b5 070e3923 0dc5d957 12d3e8bb 1e86c91d 2333d47d 3c906396 3e8433b1 4679c3ee 61549653 62c07239 7072b958 8c61b054 8cc07ce1 91f2c49f 92af0b58 95f407b9 b0a9bb50 b0b07c5d b19c4f18 b76f8549 c65fdcc4"});
