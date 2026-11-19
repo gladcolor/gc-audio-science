@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/acids-bases", "voice": "serena", "en": "16cb9103 2f390313 374047af 3c1d6132 55a7dbfa 56dda3c7 5d940f5c 6464f209 7d7736d9 86d0adff 86e059dd 949d0feb 97125c40 a30ab69f aa14d082 bfb8e209 d7492e68 ed1fe20e fa817a74 fe7b63d0", "zh": "01f385e2 06e90a50 13d97c9b 342ea6fd 36e4a745 3a098f1f 3e1cb40f 3e87b506 5ecae456 7721c7b2 802c449c 84e80d5e 9498e8b6 96407ef5 9ae1142f b451d8c6 e87b4227 eafde3c6 edefc0c6 fc35760b"});
