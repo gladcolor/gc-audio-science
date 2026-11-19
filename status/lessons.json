@@ -303,6 +303,25 @@
   "updated": "2026-11-19 18:03:26",
   "verified": ""
  },
+ "biology/plants": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 24,
+   "total": 24
+  },
+  "fingerprint": "efa88118a234",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/biology/plants.html",
+  "title": {
+   "en": "Plant Structure & Life Cycle",
+   "zh": "植物结构与生命周期"
+  },
+  "updated": "2026-11-19 18:03:32",
+  "verified": ""
+ },
  "biology/protein-synthesis": {
   "counts": {
    "done": 9,
