@@ -1215,6 +1215,25 @@
   "updated": "2026-11-19 18:08:49",
   "verified": ""
  },
+ "physics/magnetism": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "7916d28ac4b6",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/magnetism.html",
+  "title": {
+   "en": "Magnetism & Electromagnets",
+   "zh": "磁与电磁铁"
+  },
+  "updated": "2026-11-19 18:08:59",
+  "verified": ""
+ },
  "physics/motion": {
   "counts": {
    "done": 0,
