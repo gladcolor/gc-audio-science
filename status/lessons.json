@@ -473,5 +473,24 @@
   },
   "updated": "2026-11-19 18:00:23",
   "verified": "2026-11-19 18:01:02"
+ },
+ "earth/earth-layers": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 14,
+   "total": 14
+  },
+  "fingerprint": "0f6d9847ba88",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/earth-layers.html",
+  "title": {
+   "en": "Earth’s Layers",
+   "zh": "地球的圈层"
+  },
+  "updated": "2026-11-19 18:04:23",
+  "verified": ""
  }
 }
