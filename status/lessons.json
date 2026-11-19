@@ -1233,5 +1233,24 @@
   },
   "updated": "2026-11-19 18:08:24",
   "verified": ""
+ },
+ "physics/waves": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "10809d50972e",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/waves.html",
+  "title": {
+   "en": "Waves",
+   "zh": "波"
+  },
+  "updated": "2026-11-19 18:08:38",
+  "verified": ""
  }
 }
