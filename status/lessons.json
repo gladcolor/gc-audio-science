@@ -949,6 +949,25 @@
   "updated": "2026-11-19 18:09:39",
   "verified": ""
  },
+ "chemistry/density": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 2,
+   "old": 28,
+   "total": 30
+  },
+  "fingerprint": "a7525ed78862",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/chemistry/density.html",
+  "title": {
+   "en": "Density",
+   "zh": "密度"
+  },
+  "updated": "2026-11-19 18:10:03",
+  "verified": ""
+ },
  "chemistry/elements-compounds": {
   "counts": {
    "done": 0,

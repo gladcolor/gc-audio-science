@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/density", "voice": "serena", "en": "0c5da94b 29c0514c 424fc945 4787fb41 56c8f389 5e15778a 79678d49 7b80e52c 92add0b1 98b27da7 b24415e6 e64f7b2a e734fee6 f596cdf0", "zh": "0f810a4a 10210470 1b062fb0 2e8d6d2c 4d728f64 580970e8 59f6697d 5b4e671b 5c8669c5 7ea82070 8f832947 90eef171 9a68e5f6 ffba656a"});
