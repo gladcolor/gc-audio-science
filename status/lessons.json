@@ -1120,6 +1120,25 @@
   "updated": "2026-11-19 18:04:41",
   "verified": ""
  },
+ "physics/electricity": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 12,
+   "total": 12
+  },
+  "fingerprint": "8ef5ca5cdd0d",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/electricity.html",
+  "title": {
+   "en": "Electric Circuits",
+   "zh": "电路"
+  },
+  "updated": "2026-11-19 18:08:54",
+  "verified": ""
+ },
  "physics/energy": {
   "counts": {
    "done": 0,
