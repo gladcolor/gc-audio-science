@@ -37,6 +37,25 @@
   "updated": "2026-11-19 18:05:50",
   "verified": ""
  },
+ "astronomy/moon-phases": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 26,
+   "total": 26
+  },
+  "fingerprint": "520c061c9df9",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
+  "title": {
+   "en": "Phases of the Moon",
+   "zh": "月相"
+  },
+  "updated": "2026-11-19 18:06:03",
+  "verified": ""
+ },
  "astronomy/seasons": {
   "counts": {
    "done": 0,

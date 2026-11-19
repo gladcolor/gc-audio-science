@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "astronomy/moon-phases", "voice": "serena", "en": "24dcfbb8 3a6d41a2 428d7cea 4f4ed5e7 91656bf4 95490d00 96ed77fa 9ca0c008 9d6b2f4d ac894d30 bdee4706 dafcfd77 ef7a3238", "zh": "0080fb59 03e692b6 17733259 2597aafa 2e5e3a1a 32875f57 38f46b32 4666ce12 4a5c2e70 6fad4906 8e8698c5 9314d3c9 b20a1974"});
