@@ -569,6 +569,25 @@
   "updated": "2026-11-19 18:04:47",
   "verified": ""
  },
+ "earth/water-cycle": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 17,
+   "total": 17
+  },
+  "fingerprint": "4fc53d0ed413",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/water-cycle.html",
+  "title": {
+   "en": "The Water Cycle",
+   "zh": "水循环"
+  },
+  "updated": "2026-11-19 18:04:58",
+  "verified": ""
+ },
  "earth/weathering-erosion": {
   "counts": {
    "done": 0,
