@@ -512,6 +512,25 @@
   "updated": "2026-11-19 18:04:52",
   "verified": ""
  },
+ "earth/oceans": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "d8a87299a506",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/oceans.html",
+  "title": {
+   "en": "Oceans, Waves & Currents",
+   "zh": "海洋、波浪与洋流"
+  },
+  "updated": "2026-11-19 18:05:03",
+  "verified": ""
+ },
  "earth/plate-tectonics": {
   "counts": {
    "done": 0,
