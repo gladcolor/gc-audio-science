@@ -1082,6 +1082,25 @@
   "updated": "2026-11-19 18:24:51",
   "verified": ""
  },
+ "cs/cs-coding": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 10,
+   "total": 10
+  },
+  "fingerprint": "4d360138170c",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/cs/cs-coding.html",
+  "title": {
+   "en": "Coding: Loops & Conditions",
+   "zh": "编程：循环与条件"
+  },
+  "updated": "2026-11-19 18:24:55",
+  "verified": ""
+ },
  "cs/cs-computers": {
   "counts": {
    "done": 0,
