@@ -75,6 +75,25 @@
   "updated": "2026-11-19 18:06:03",
   "verified": ""
  },
+ "astronomy/night-sky": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 25,
+   "total": 25
+  },
+  "fingerprint": "e3164e94280d",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/night-sky.html",
+  "title": {
+   "en": "Constellations & the Night Sky",
+   "zh": "星座与夜空"
+  },
+  "updated": "2026-11-19 18:06:20",
+  "verified": ""
+ },
  "astronomy/seasons": {
   "counts": {
    "done": 0,
