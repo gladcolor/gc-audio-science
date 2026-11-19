@@ -1063,6 +1063,25 @@
   "updated": "2026-11-19 18:09:27",
   "verified": ""
  },
+ "cs/cs-computers": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "68105def67be",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/cs/cs-computers.html",
+  "title": {
+   "en": "How Computers Work",
+   "zh": "计算机是怎样工作的"
+  },
+  "updated": "2026-11-19 18:24:45",
+  "verified": ""
+ },
  "earth/atmosphere": {
   "counts": {
    "done": 0,
