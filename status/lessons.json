@@ -626,6 +626,25 @@
   "updated": "2026-11-19 18:04:58",
   "verified": ""
  },
+ "earth/weather": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 26,
+   "total": 26
+  },
+  "fingerprint": "a4b9f8eea90b",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/weather.html",
+  "title": {
+   "en": "Weather & Air Masses",
+   "zh": "天气与气团"
+  },
+  "updated": "2026-11-19 18:05:15",
+  "verified": ""
+ },
  "earth/weathering-erosion": {
   "counts": {
    "done": 0,
