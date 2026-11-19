@@ -18,6 +18,25 @@
   "updated": "2026-11-19 18:05:33",
   "verified": ""
  },
+ "astronomy/sun-stars": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 21,
+   "total": 21
+  },
+  "fingerprint": "2a0050638bd7",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
+  "title": {
+   "en": "The Sun & Life of Stars",
+   "zh": "太阳与恒星的一生"
+  },
+  "updated": "2026-11-19 18:05:39",
+  "verified": ""
+ },
  "biology/animals": {
   "counts": {
    "done": 0,
