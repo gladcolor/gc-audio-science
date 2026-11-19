@@ -531,6 +531,25 @@
   "updated": "2026-11-19 18:04:35",
   "verified": ""
  },
+ "earth/soil": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "6e29c403f787",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/soil.html",
+  "title": {
+   "en": "Soil Formation",
+   "zh": "土壤的形成"
+  },
+  "updated": "2026-11-19 18:04:47",
+  "verified": ""
+ },
  "earth/weathering-erosion": {
   "counts": {
    "done": 0,
