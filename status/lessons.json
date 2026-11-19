@@ -1158,6 +1158,25 @@
   "updated": "2026-11-19 18:08:19",
   "verified": ""
  },
+ "physics/heat-transfer": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 14,
+   "total": 14
+  },
+  "fingerprint": "0989b3b084e6",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/heat-transfer.html",
+  "title": {
+   "en": "Heat Transfer",
+   "zh": "热传递"
+  },
+  "updated": "2026-11-19 18:08:33",
+  "verified": ""
+ },
  "physics/motion": {
   "counts": {
    "done": 0,
