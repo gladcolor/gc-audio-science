@@ -1120,6 +1120,25 @@
   "updated": "2026-11-19 18:04:41",
   "verified": ""
  },
+ "physics/energy": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 14,
+   "total": 14
+  },
+  "fingerprint": "78d71e1a7bc2",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/energy.html",
+  "title": {
+   "en": "Kinetic & Potential Energy",
+   "zh": "动能与势能"
+  },
+  "updated": "2026-11-19 18:08:29",
+  "verified": ""
+ },
  "physics/forces": {
   "counts": {
    "done": 0,
