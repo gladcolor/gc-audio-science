@@ -930,6 +930,25 @@
   "updated": "2026-11-19 18:09:19",
   "verified": ""
  },
+ "chemistry/states-of-matter": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 24,
+   "total": 24
+  },
+  "fingerprint": "324d66c91714",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
+  "title": {
+   "en": "States of Matter",
+   "zh": "物质的状态"
+  },
+  "updated": "2026-11-19 18:09:27",
+  "verified": ""
+ },
  "earth/atmosphere": {
   "counts": {
    "done": 0,
