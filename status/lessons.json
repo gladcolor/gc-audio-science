@@ -113,6 +113,25 @@
   "updated": "2026-11-19 18:05:56",
   "verified": ""
  },
+ "astronomy/sky-tonight": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 52,
+   "old": 84,
+   "total": 136
+  },
+  "fingerprint": "67998c13dd16",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
+  "title": {
+   "en": "Planetarium: The Sky Tonight",
+   "zh": "天象馆：今晚的星空"
+  },
+  "updated": "2026-11-19 18:06:44",
+  "verified": ""
+ },
  "astronomy/solar-system": {
   "counts": {
    "done": 0,
