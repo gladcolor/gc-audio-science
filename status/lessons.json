@@ -265,6 +265,25 @@
   "updated": "2026-11-19 18:06:44",
   "verified": ""
  },
+ "astronomy/small-bodies": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "347816f8949a",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/small-bodies.html",
+  "title": {
+   "en": "Asteroids, Comets & Meteors",
+   "zh": "小行星、彗星与流星"
+  },
+  "updated": "2026-11-19 18:07:56",
+  "verified": ""
+ },
  "astronomy/solar-system": {
   "counts": {
    "done": 0,
