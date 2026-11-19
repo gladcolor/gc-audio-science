@@ -227,6 +227,25 @@
   "updated": "2026-11-19 18:05:39",
   "verified": ""
  },
+ "astronomy/telescopes-light": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 14,
+   "total": 14
+  },
+  "fingerprint": "9ddcfa79e124",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/telescopes-light.html",
+  "title": {
+   "en": "Telescopes & Invisible Light",
+   "zh": "望远镜与看不见的光"
+  },
+  "updated": "2026-11-19 18:07:06",
+  "verified": ""
+ },
  "astronomy/tides": {
   "counts": {
    "done": 0,
