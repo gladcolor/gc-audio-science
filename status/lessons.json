@@ -911,6 +911,25 @@
   "updated": "2026-11-19 18:09:05",
   "verified": ""
  },
+ "chemistry/periodic-table": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 36,
+   "old": 98,
+   "total": 134
+  },
+  "fingerprint": "ef402608649a",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/chemistry/periodic-table.html",
+  "title": {
+   "en": "The Periodic Table",
+   "zh": "元素周期表"
+  },
+  "updated": "2026-11-19 18:09:19",
+  "verified": ""
+ },
  "earth/atmosphere": {
   "counts": {
    "done": 0,
