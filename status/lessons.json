@@ -1,4 +1,23 @@
 {
+ "astronomy/galaxies": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 18,
+   "total": 18
+  },
+  "fingerprint": "d7701fd996ad",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
+  "title": {
+   "en": "Galaxies & the Universe",
+   "zh": "星系与宇宙"
+  },
+  "updated": "2026-11-19 18:05:45",
+  "verified": ""
+ },
  "astronomy/solar-system": {
   "counts": {
    "done": 0,
