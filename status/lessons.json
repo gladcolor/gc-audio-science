@@ -1063,6 +1063,25 @@
   "updated": "2026-11-19 18:09:27",
   "verified": ""
  },
+ "cs/cs-algorithms": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 6,
+   "old": 12,
+   "total": 18
+  },
+  "fingerprint": "e326e44a484c",
+  "label": "no audio",
+  "page": "https://shanchuan.org/middle/cs/cs-algorithms.html",
+  "title": {
+   "en": "Algorithms: Sorting & Searching",
+   "zh": "算法：排序与查找"
+  },
+  "updated": "2026-11-19 18:24:51",
+  "verified": ""
+ },
  "cs/cs-computers": {
   "counts": {
    "done": 0,
