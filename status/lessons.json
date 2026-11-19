@@ -492,5 +492,24 @@
   },
   "updated": "2026-11-19 18:04:23",
   "verified": ""
+ },
+ "earth/plate-tectonics": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 21,
+   "total": 21
+  },
+  "fingerprint": "ec8288e718df",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
+  "title": {
+   "en": "Plate Tectonics",
+   "zh": "板块构造"
+  },
+  "updated": "2026-11-19 18:04:29",
+  "verified": ""
  }
 }
