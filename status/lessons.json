@@ -530,5 +530,24 @@
   },
   "updated": "2026-11-19 18:04:35",
   "verified": ""
+ },
+ "earth/weathering-erosion": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 16,
+   "total": 16
+  },
+  "fingerprint": "84cce522c04e",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
+  "title": {
+   "en": "Weathering, Erosion & Deposition",
+   "zh": "风化、侵蚀与沉积"
+  },
+  "updated": "2026-11-19 18:04:41",
+  "verified": ""
  }
 }
