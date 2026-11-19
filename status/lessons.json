@@ -265,6 +265,25 @@
   "updated": "2026-11-19 18:01:48",
   "verified": "2026-11-19 18:02:24"
  },
+ "biology/food-webs": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 14,
+   "total": 14
+  },
+  "fingerprint": "d4506bb64300",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/biology/food-webs.html",
+  "title": {
+   "en": "Food Webs & Energy Pyramids",
+   "zh": "食物网与能量金字塔"
+  },
+  "updated": "2026-11-19 18:03:51",
+  "verified": ""
+ },
  "biology/heredity": {
   "counts": {
    "done": 10,
