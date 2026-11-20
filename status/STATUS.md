@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 19:22:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 19:24:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Updated 2026-11-19 19:22:20. Labels: finished / in progress / no audio / failed 
 | biology/cells-review | finished | 157 | 0 | 0 | 0 | 0 | 2026-11-19 18:36:27 |  |
 | biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 19:08:56 | 2026-11-19 19:10:00 |
 | biology/classification | in progress | 9 | 13 | 0 | 0 | 0 | 2026-11-19 18:03:14 |  |
-| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 19:22:20 |  |
+| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 19:22:20 | 2026-11-19 19:23:21 |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 18:41:52 |  |
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
 | biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 18:01:06 |  |
@@ -45,7 +45,7 @@ Updated 2026-11-19 19:22:20. Labels: finished / in progress / no audio / failed 
 | biology/food-webs | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:03:51 |  |
 | biology/heredity | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-19 18:03:03 |  |
 | biology/microorganisms | in progress | 13 | 13 | 0 | 0 | 0 | 2026-11-19 18:03:20 |  |
-| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 17:59:35 |  |
+| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 19:24:39 |  |
 | biology/photosynthesis | in progress | 1 | 17 | 0 | 0 | 0 | 2026-11-19 18:03:26 |  |
 | biology/plants | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:03:32 |  |
 | biology/protein-synthesis | in progress | 9 | 9 | 0 | 0 | 0 | 2026-11-19 18:02:57 |  |
