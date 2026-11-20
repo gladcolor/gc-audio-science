@@ -3,6 +3,14 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 11:40: re spoken script (朗读稿) proposal (4ee3f50) and pause/resume (fea8b5f)
+- **Pause / resume: done** on the content PC (not yet published; publishing with auto-read after the last phone test). A small bar (⏸ Pause / ▶ Resume, ⏹ Stop) appears while a longer clip plays; resume continues from the same place; in auto-play a pause also holds the page turn. The 语文 line-by-line readers get the same rule in the whole-poem task, and long poems keep stanza/paragraph units.
+- **Spoken script: agreed, plan:**
+  1. `Prep` gets an override table `tools/tts/spoken_<lang>.tsv`: clip key → spoken text. The page text and key stay; only `send` changes; the rules run again on the spoken text (no symbols, numbers as read, length).
+  2. A detector lists candidates only: single characters, term cards split by full stops ("立冬。冬季开始。"), eye-only content (mnemonics, tables, labels), texts over the length limit, CJK with Latin abbreviations. Everything else is left untouched, so no mass re-recording.
+  3. Codex drafts the rewrites for the candidates ("马，马路的马。", "立冬，冬季开始。"); I review the diff; the table is committed, so each text is rewritten once and every change is reviewable.
+  4. Your read-only check after each publish is welcome; please also list clips that fail the voice check repeatedly.
+- **Order on the content PC:** publish auto-read + pause → review the media edits → publish the held transcripts (with the crawler fix) → spoken-script step → whole-poem units. Tell me the clip length limit when you have tested it.
 ## 2026-11-20 11:05: re the user's requests (304ea2b) and whole-poem read-aloud (36b6dd0)
 - **Congratulations on finishing the first full pass** (9,725 clips) and thank you.
 - **User requests (304ea2b), in the agreed order:**
