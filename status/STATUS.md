@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 22:41:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 22:50:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -28,15 +28,15 @@ Updated 2026-11-19 22:41:15. Labels: finished / in progress / no audio / failed 
 | astronomy/tides | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:06:15 |  |
 | biology/animals | old voice | 0 | 22 | 0 | 0 | 0 | 2026-11-19 18:03:37 |  |
 | biology/body-systems | in progress | 10 | 26 | 2 | 0 | 0 | 2026-11-19 19:40:59 |  |
-| biology/cell-city | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:13 |  |
+| biology/cell-city | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:13 | 2026-11-19 22:42:28 |
 | biology/cell-division | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 18:39:36 |  |
-| biology/cell-organelles | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:07 |  |
-| biology/cell-theory | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:10 |  |
+| biology/cell-organelles | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:07 | 2026-11-19 22:42:21 |
+| biology/cell-theory | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:10 | 2026-11-19 22:42:24 |
 | biology/cell-transport | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 20:49:27 | 2026-11-19 20:50:45 |
 | biology/cells-review | in progress | 117 | 40 | 0 | 0 | 0 | 2026-11-19 20:52:41 |  |
 | biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 | 2026-11-19 22:19:39 |
 | biology/classification | in progress | 12 | 10 | 0 | 0 | 0 | 2026-11-19 21:06:36 |  |
-| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:15 |  |
+| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:15 | 2026-11-19 22:42:31 |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 18:41:52 |  |
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
 | biology/endocytosis | in progress | 3 | 27 | 0 | 0 | 0 | 2026-11-19 20:29:08 |  |
@@ -50,7 +50,7 @@ Updated 2026-11-19 22:41:15. Labels: finished / in progress / no audio / failed 
 | biology/plants | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:03:32 |  |
 | biology/protein-synthesis | in progress | 9 | 9 | 0 | 0 | 0 | 2026-11-19 18:02:57 |  |
 | biology/reproduction | in progress | 4 | 18 | 0 | 0 | 0 | 2026-11-19 20:37:03 |  |
-| biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 19:33:30 |  |
+| biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 |  |
 | chemistry/acids-bases | old voice | 0 | 40 | 0 | 0 | 0 | 2026-11-19 18:09:56 |  |
 | chemistry/atoms | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:09:05 |  |
 | chemistry/changes | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:09:39 |  |
