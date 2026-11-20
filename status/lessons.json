@@ -8,7 +8,7 @@
    "old": 0,
    "total": 39
   },
-  "fingerprint": "88731efc00b3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/big-bang.html",
   "title": {
@@ -16,7 +16,7 @@
    "zh": "大爆炸与膨胀的宇宙"
   },
   "updated": "2026-11-20 00:52:42",
-  "verified": "2026-11-20 00:53:56"
+  "verified": ""
  },
  "astronomy/black-holes": {
   "counts": {
@@ -27,7 +27,7 @@
    "old": 0,
    "total": 8
   },
-  "fingerprint": "9c98cda7ce3e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/black-holes.html",
   "title": {
@@ -35,7 +35,7 @@
    "zh": "黑洞与引力波"
   },
   "updated": "2026-11-20 02:32:47",
-  "verified": "2026-11-20 02:35:04"
+  "verified": ""
  },
  "astronomy/eclipses": {
   "counts": {
@@ -46,7 +46,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "5c3f0ca55137",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/eclipses.html",
   "title": {
@@ -54,7 +54,7 @@
    "zh": "日食与月食"
   },
   "updated": "2026-11-19 23:25:34",
-  "verified": "2026-11-19 23:26:35"
+  "verified": ""
  },
  "astronomy/exoplanets": {
   "counts": {
@@ -65,7 +65,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "3d9bf7c2636f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/exoplanets.html",
   "title": {
@@ -73,7 +73,7 @@
    "zh": "系外行星：其他恒星的世界"
   },
   "updated": "2026-11-20 06:58:55",
-  "verified": "2026-11-20 07:00:08"
+  "verified": ""
  },
  "astronomy/galaxies": {
   "counts": {
@@ -84,7 +84,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "a47c4f9927d8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
   "title": {
@@ -92,7 +92,7 @@
    "zh": "星系与宇宙"
   },
   "updated": "2026-11-19 23:25:24",
-  "verified": "2026-11-19 23:26:27"
+  "verified": ""
  },
  "astronomy/gravity-orbits": {
   "counts": {
@@ -103,7 +103,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "7e7e781fe2b0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/gravity-orbits.html",
   "title": {
@@ -111,7 +111,7 @@
    "zh": "引力与轨道"
   },
   "updated": "2026-11-19 23:25:26",
-  "verified": "2026-11-19 23:26:29"
+  "verified": ""
  },
  "astronomy/kepler-laws": {
   "counts": {
@@ -122,7 +122,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "5169459e3135",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/kepler-laws.html",
   "title": {
@@ -130,7 +130,7 @@
    "zh": "轨道、开普勒定律与飞向火星"
   },
   "updated": "2026-11-20 02:27:30",
-  "verified": "2026-11-20 02:28:39"
+  "verified": ""
  },
  "astronomy/measuring-distance": {
   "counts": {
@@ -141,7 +141,7 @@
    "old": 0,
    "total": 4
   },
-  "fingerprint": "907decb4ebe0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/measuring-distance.html",
   "title": {
@@ -149,7 +149,7 @@
    "zh": "怎样测量宇宙的距离"
   },
   "updated": "2026-11-20 09:55:45",
-  "verified": "2026-11-20 09:56:29"
+  "verified": ""
  },
  "astronomy/moon-phases": {
   "counts": {
@@ -160,7 +160,7 @@
    "old": 0,
    "total": 26
   },
-  "fingerprint": "520c061c9df9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
   "title": {
@@ -168,7 +168,7 @@
    "zh": "月相"
   },
   "updated": "2026-11-19 23:25:31",
-  "verified": "2026-11-19 23:26:34"
+  "verified": ""
  },
  "astronomy/night-sky": {
   "counts": {
@@ -179,7 +179,7 @@
    "old": 0,
    "total": 25
   },
-  "fingerprint": "e3164e94280d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/night-sky.html",
   "title": {
@@ -187,7 +187,7 @@
    "zh": "星座与夜空"
   },
   "updated": "2026-11-19 23:25:39",
-  "verified": "2026-11-19 23:26:38"
+  "verified": ""
  },
  "astronomy/planets-moons": {
   "counts": {
@@ -198,7 +198,7 @@
    "old": 0,
    "total": 32
   },
-  "fingerprint": "4ff7737bca74",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/planets-moons.html",
   "title": {
@@ -206,7 +206,7 @@
    "zh": "行星实验室：行星与卫星"
   },
   "updated": "2026-11-20 07:32:31",
-  "verified": "2026-11-20 07:34:04"
+  "verified": ""
  },
  "astronomy/rocketry": {
   "counts": {
@@ -217,7 +217,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "6ef143129108",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/rocketry.html",
   "title": {
@@ -225,7 +225,7 @@
    "zh": "火箭是怎样飞上天的"
   },
   "updated": "2026-11-20 02:16:34",
-  "verified": "2026-11-20 02:17:53"
+  "verified": ""
  },
  "astronomy/scale-universe": {
   "counts": {
@@ -236,7 +236,7 @@
    "old": 0,
    "total": 32
   },
-  "fingerprint": "a6042be4302b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/scale-universe.html",
   "title": {
@@ -244,7 +244,7 @@
    "zh": "宇宙有多大"
   },
   "updated": "2026-11-20 01:36:27",
-  "verified": "2026-11-20 01:37:43"
+  "verified": ""
  },
  "astronomy/seasons": {
   "counts": {
@@ -255,7 +255,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "9bb27110616b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/seasons.html",
   "title": {
@@ -263,7 +263,7 @@
    "zh": "昼夜与四季"
   },
   "updated": "2026-11-19 23:25:29",
-  "verified": "2026-11-19 23:26:31"
+  "verified": ""
  },
  "astronomy/sky-tonight": {
   "counts": {
@@ -274,7 +274,7 @@
    "old": 0,
    "total": 136
   },
-  "fingerprint": "67998c13dd16",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
   "title": {
@@ -282,7 +282,7 @@
    "zh": "天象馆：今晚的星空"
   },
   "updated": "2026-11-20 02:28:52",
-  "verified": "2026-11-20 02:31:07"
+  "verified": ""
  },
  "astronomy/small-bodies": {
   "counts": {
@@ -293,7 +293,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "ced047c39326",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/small-bodies.html",
   "title": {
@@ -301,7 +301,7 @@
    "zh": "小行星、彗星与流星"
   },
   "updated": "2026-11-20 07:04:48",
-  "verified": "2026-11-20 07:05:55"
+  "verified": ""
  },
  "astronomy/solar-system": {
   "counts": {
@@ -312,7 +312,7 @@
    "old": 0,
    "total": 25
   },
-  "fingerprint": "72cee2a86526",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "title": {
@@ -320,7 +320,7 @@
    "zh": "太阳系"
   },
   "updated": "2026-11-20 07:00:33",
-  "verified": "2026-11-20 07:01:37"
+  "verified": ""
  },
  "astronomy/space-exploration": {
   "counts": {
@@ -331,7 +331,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "380f3acb9946",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/space-exploration.html",
   "title": {
@@ -339,7 +339,7 @@
    "zh": "太空探索"
   },
   "updated": "2026-11-19 23:25:41",
-  "verified": "2026-11-19 23:26:41"
+  "verified": ""
  },
  "astronomy/star-life": {
   "counts": {
@@ -350,7 +350,7 @@
    "old": 0,
    "total": 116
   },
-  "fingerprint": "9ee0e9bf7d0b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/star-life.html",
   "title": {
@@ -358,7 +358,7 @@
    "zh": "恒星的一生：赫罗图"
   },
   "updated": "2026-11-20 02:35:30",
-  "verified": "2026-11-20 02:37:28"
+  "verified": ""
  },
  "astronomy/sun-stars": {
   "counts": {
@@ -369,7 +369,7 @@
    "old": 0,
    "total": 21
   },
-  "fingerprint": "5e317336139c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
   "title": {
@@ -377,7 +377,7 @@
    "zh": "太阳与恒星的一生"
   },
   "updated": "2026-11-20 06:54:17",
-  "verified": "2026-11-20 06:55:47"
+  "verified": ""
  },
  "astronomy/telescopes-light": {
   "counts": {
@@ -388,7 +388,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "9ddcfa79e124",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/telescopes-light.html",
   "title": {
@@ -396,7 +396,7 @@
    "zh": "望远镜与看不见的光"
   },
   "updated": "2026-11-20 02:29:50",
-  "verified": "2026-11-20 02:31:08"
+  "verified": ""
  },
  "astronomy/tides": {
   "counts": {
@@ -407,7 +407,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "343c4aeb25ab",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/tides.html",
   "title": {
@@ -415,7 +415,7 @@
    "zh": "潮汐"
   },
   "updated": "2026-11-19 23:25:37",
-  "verified": "2026-11-19 23:26:37"
+  "verified": ""
  },
  "biology/animals": {
   "counts": {
@@ -426,7 +426,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "724272f48e0a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/animals.html",
   "title": {
@@ -434,7 +434,7 @@
    "zh": "动物界"
   },
   "updated": "2026-11-19 23:24:42",
-  "verified": "2026-11-19 23:25:55"
+  "verified": ""
  },
  "biology/body-systems": {
   "counts": {
@@ -445,7 +445,7 @@
    "old": 0,
    "total": 38
   },
-  "fingerprint": "b163fe26d378",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/body-systems.html",
   "title": {
@@ -453,7 +453,7 @@
    "zh": "人体系统"
   },
   "updated": "2026-11-19 23:24:45",
-  "verified": "2026-11-19 23:27:44"
+  "verified": ""
  },
  "biology/cell-city": {
   "counts": {
@@ -464,7 +464,7 @@
    "old": 0,
    "total": 68
   },
-  "fingerprint": "50bc228b002e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
   "title": {
@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 22:41:13",
-  "verified": "2026-11-19 22:42:28"
+  "verified": ""
  },
  "biology/cell-division": {
   "counts": {
@@ -483,7 +483,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "e3947024c30c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-division.html",
   "title": {
@@ -491,7 +491,7 @@
    "zh": "有丝分裂与减数分裂"
   },
   "updated": "2026-11-19 23:03:31",
-  "verified": "2026-11-19 23:04:54"
+  "verified": ""
  },
  "biology/cell-organelles": {
   "counts": {
@@ -502,7 +502,7 @@
    "old": 0,
    "total": 19
   },
-  "fingerprint": "26ef9e6c9d6b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
   "title": {
@@ -510,26 +510,29 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-19 22:41:07",
-  "verified": "2026-11-19 22:42:21"
+  "verified": ""
  },
  "biology/cell-theory": {
   "counts": {
-   "done": 38,
+   "done": 31,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 38
+   "total": 31
   },
-  "fingerprint": "27732a581368",
+  "fingerprint": "12e62a3269dd",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Cell Theory & Levels of Organization",
    "zh": "细胞学说与结构层次"
   },
-  "updated": "2026-11-19 22:41:10",
-  "verified": "2026-11-19 22:42:24"
+  "updated": "2026-11-20 18:54:09",
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
@@ -540,7 +543,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "c4a7b6a3aa49",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "title": {
@@ -548,7 +551,7 @@
    "zh": "扩散与渗透"
   },
   "updated": "2026-11-19 20:49:27",
-  "verified": "2026-11-19 20:50:45"
+  "verified": ""
  },
  "biology/cells-review": {
   "counts": {
@@ -559,7 +562,7 @@
    "old": 0,
    "total": 158
   },
-  "fingerprint": "74642e18a6b1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "title": {
@@ -567,7 +570,7 @@
    "zh": "细胞单元复习与模拟测试"
   },
   "updated": "2026-11-20 06:53:43",
-  "verified": "2026-11-20 06:55:45"
+  "verified": ""
  },
  "biology/characteristics-of-life": {
   "counts": {
@@ -578,7 +581,7 @@
    "old": 0,
    "total": 80
   },
-  "fingerprint": "3995a5fa21e1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "title": {
@@ -586,7 +589,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-19 22:17:54",
-  "verified": "2026-11-19 22:19:39"
+  "verified": ""
  },
  "biology/classification": {
   "counts": {
@@ -597,7 +600,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "288b92da48dd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
@@ -605,7 +608,7 @@
    "zh": "生物分类与二歧检索表"
   },
   "updated": "2026-11-20 06:51:10",
-  "verified": "2026-11-20 06:52:30"
+  "verified": ""
  },
  "biology/diffusion": {
   "counts": {
@@ -616,7 +619,7 @@
    "old": 0,
    "total": 43
   },
-  "fingerprint": "ba637140f91e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "title": {
@@ -624,7 +627,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-20 06:54:21",
-  "verified": "2026-11-20 06:55:50"
+  "verified": ""
  },
  "biology/dna": {
   "counts": {
@@ -635,7 +638,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "732c99c97585",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/dna.html",
   "title": {
@@ -643,7 +646,7 @@
    "zh": "DNA：生命密码"
   },
   "updated": "2026-11-19 23:03:33",
-  "verified": "2026-11-19 23:04:55"
+  "verified": ""
  },
  "biology/ecosystems": {
   "counts": {
@@ -654,7 +657,7 @@
    "old": 0,
    "total": 48
   },
-  "fingerprint": "ae529e0905e6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/ecosystems.html",
   "title": {
@@ -662,7 +665,7 @@
    "zh": "生物群落与生态系统"
   },
   "updated": "2026-11-19 23:24:49",
-  "verified": "2026-11-19 23:26:00"
+  "verified": ""
  },
  "biology/endocytosis": {
   "counts": {
@@ -673,7 +676,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "2737f82f01a7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "title": {
@@ -681,7 +684,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-19 22:50:44",
-  "verified": "2026-11-19 22:51:43"
+  "verified": ""
  },
  "biology/evolution": {
   "counts": {
@@ -692,7 +695,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "d729f01890eb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "title": {
@@ -700,7 +703,7 @@
    "zh": "自然选择与进化"
   },
   "updated": "2026-11-19 23:24:52",
-  "verified": "2026-11-19 23:26:01"
+  "verified": ""
  },
  "biology/exocytosis": {
   "counts": {
@@ -711,7 +714,7 @@
    "old": 0,
    "total": 28
   },
-  "fingerprint": "1df784df9ba7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "title": {
@@ -719,7 +722,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 22:50:46",
-  "verified": "2026-11-19 22:51:46"
+  "verified": ""
  },
  "biology/food-webs": {
   "counts": {
@@ -730,7 +733,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "bbf19cc25663",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/food-webs.html",
   "title": {
@@ -738,7 +741,7 @@
    "zh": "食物网与能量金字塔"
   },
   "updated": "2026-11-19 23:24:47",
-  "verified": "2026-11-19 23:25:56"
+  "verified": ""
  },
  "biology/habitat-niche": {
   "counts": {
@@ -749,7 +752,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "d3230c6b99ed",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/habitat-niche.html",
   "title": {
@@ -757,7 +760,7 @@
    "zh": "栖息地、生态位与种群的限制"
   },
   "updated": "2026-11-20 00:57:27",
-  "verified": "2026-11-20 00:59:15"
+  "verified": ""
  },
  "biology/heredity": {
   "counts": {
@@ -768,7 +771,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "3d4a220aa861",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/heredity.html",
   "title": {
@@ -776,7 +779,7 @@
    "zh": "基因、性状与庞氏方格"
   },
   "updated": "2026-11-19 23:24:27",
-  "verified": "2026-11-19 23:27:42"
+  "verified": ""
  },
  "biology/microorganisms": {
   "counts": {
@@ -787,7 +790,7 @@
    "old": 0,
    "total": 26
   },
-  "fingerprint": "aaf9fbdf3892",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "title": {
@@ -795,7 +798,7 @@
    "zh": "微生物"
   },
   "updated": "2026-11-19 23:24:35",
-  "verified": "2026-11-19 23:25:48"
+  "verified": ""
  },
  "biology/osmosis": {
   "counts": {
@@ -806,7 +809,7 @@
    "old": 0,
    "total": 42
   },
-  "fingerprint": "b5a6dcfbb3c9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "title": {
@@ -814,7 +817,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-19 22:18:20",
-  "verified": "2026-11-19 22:19:54"
+  "verified": ""
  },
  "biology/photosynthesis": {
   "counts": {
@@ -825,7 +828,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "8aef49aabf7e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
   "title": {
@@ -833,7 +836,7 @@
    "zh": "光合作用与呼吸作用"
   },
   "updated": "2026-11-19 23:24:37",
-  "verified": "2026-11-19 23:25:50"
+  "verified": ""
  },
  "biology/plants": {
   "counts": {
@@ -844,7 +847,7 @@
    "old": 0,
    "total": 24
   },
-  "fingerprint": "efa88118a234",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/plants.html",
   "title": {
@@ -852,7 +855,7 @@
    "zh": "植物结构与生命周期"
   },
   "updated": "2026-11-19 23:24:40",
-  "verified": "2026-11-19 23:25:52"
+  "verified": ""
  },
  "biology/protein-synthesis": {
   "counts": {
@@ -863,7 +866,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "de9c35512f04",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
   "title": {
@@ -871,7 +874,7 @@
    "zh": "DNA → RNA → 蛋白质"
   },
   "updated": "2026-11-19 23:03:36",
-  "verified": "2026-11-19 23:04:57"
+  "verified": ""
  },
  "biology/reproduction": {
   "counts": {
@@ -882,7 +885,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "994eb9b73e4a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/reproduction.html",
   "title": {
@@ -890,7 +893,7 @@
    "zh": "生殖与选择育种"
   },
   "updated": "2026-11-20 09:55:42",
-  "verified": "2026-11-20 09:56:29"
+  "verified": ""
  },
  "biology/tonicity-labs": {
   "counts": {
@@ -901,7 +904,7 @@
    "old": 0,
    "total": 51
   },
-  "fingerprint": "f185214dd4c8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
   "title": {
@@ -909,7 +912,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-19 22:50:37",
-  "verified": "2026-11-19 22:51:41"
+  "verified": ""
  },
  "chemistry/acids-bases": {
   "counts": {
@@ -920,7 +923,7 @@
    "old": 0,
    "total": 40
   },
-  "fingerprint": "9dd25b1a8354",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
   "title": {
@@ -928,7 +931,7 @@
    "zh": "酸、碱与 pH"
   },
   "updated": "2026-11-20 03:05:49",
-  "verified": "2026-11-20 03:07:17"
+  "verified": ""
  },
  "chemistry/atoms": {
   "counts": {
@@ -939,7 +942,7 @@
    "old": 0,
    "total": 32
   },
-  "fingerprint": "e9dea6133960",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/atoms.html",
   "title": {
@@ -947,7 +950,7 @@
    "zh": "原子结构"
   },
   "updated": "2026-11-20 07:06:56",
-  "verified": "2026-11-20 07:08:06"
+  "verified": ""
  },
  "chemistry/changes": {
   "counts": {
@@ -958,7 +961,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "a5d909e4085f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
   "title": {
@@ -966,7 +969,7 @@
    "zh": "物理变化与化学变化"
   },
   "updated": "2026-11-20 02:40:58",
-  "verified": "2026-11-20 02:42:36"
+  "verified": ""
  },
  "chemistry/density": {
   "counts": {
@@ -977,7 +980,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "a7525ed78862",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/density.html",
   "title": {
@@ -985,7 +988,7 @@
    "zh": "密度"
   },
   "updated": "2026-11-20 03:21:52",
-  "verified": "2026-11-20 03:23:06"
+  "verified": ""
  },
  "chemistry/elements-compounds": {
   "counts": {
@@ -996,7 +999,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "d1ec50617586",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
   "title": {
@@ -1004,7 +1007,7 @@
    "zh": "元素、化合物与混合物"
   },
   "updated": "2026-11-20 02:58:13",
-  "verified": "2026-11-20 02:59:23"
+  "verified": ""
  },
  "chemistry/periodic-table": {
   "counts": {
@@ -1015,7 +1018,7 @@
    "old": 0,
    "total": 134
   },
-  "fingerprint": "ef402608649a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/periodic-table.html",
   "title": {
@@ -1023,7 +1026,7 @@
    "zh": "元素周期表"
   },
   "updated": "2026-11-20 02:51:51",
-  "verified": "2026-11-20 02:53:19"
+  "verified": ""
  },
  "chemistry/reactions": {
   "counts": {
@@ -1034,7 +1037,7 @@
    "old": 0,
    "total": 8
   },
-  "fingerprint": "0f83962433ab",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/reactions.html",
   "title": {
@@ -1042,7 +1045,7 @@
    "zh": "化学反应与质量守恒"
   },
   "updated": "2026-11-20 02:49:20",
-  "verified": "2026-11-20 02:50:22"
+  "verified": ""
  },
  "chemistry/solutions": {
   "counts": {
@@ -1053,7 +1056,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "7bf7c025436b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/solutions.html",
   "title": {
@@ -1061,7 +1064,7 @@
    "zh": "溶液与溶解度"
   },
   "updated": "2026-11-20 02:35:21",
-  "verified": "2026-11-20 02:37:15"
+  "verified": ""
  },
  "chemistry/states-of-matter": {
   "counts": {
@@ -1072,7 +1075,7 @@
    "old": 0,
    "total": 24
   },
-  "fingerprint": "324d66c91714",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
   "title": {
@@ -1080,7 +1083,7 @@
    "zh": "物质的状态"
   },
   "updated": "2026-11-20 02:51:11",
-  "verified": "2026-11-20 02:53:09"
+  "verified": ""
  },
  "cs/cs-ai": {
   "counts": {
@@ -1091,7 +1094,7 @@
    "old": 0,
    "total": 2
   },
-  "fingerprint": "494b6481aaaa",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-ai.html",
   "title": {
@@ -1099,7 +1102,7 @@
    "zh": "人工智能与机器学习"
   },
   "updated": "2026-11-20 08:23:43",
-  "verified": "2026-11-20 08:25:00"
+  "verified": ""
  },
  "cs/cs-algorithms": {
   "counts": {
@@ -1110,7 +1113,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "b62d57beb7cc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-algorithms.html",
   "title": {
@@ -1118,7 +1121,7 @@
    "zh": "算法：排序与查找"
   },
   "updated": "2026-11-20 08:51:33",
-  "verified": "2026-11-20 08:53:42"
+  "verified": ""
  },
  "cs/cs-coding": {
   "counts": {
@@ -1129,7 +1132,7 @@
    "old": 0,
    "total": 10
   },
-  "fingerprint": "532b94990bec",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-coding.html",
   "title": {
@@ -1137,7 +1140,7 @@
    "zh": "编程：循环与条件"
   },
   "updated": "2026-11-20 09:02:10",
-  "verified": "2026-11-20 09:03:17"
+  "verified": ""
  },
  "cs/cs-computers": {
   "counts": {
@@ -1148,7 +1151,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "2521949c929a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-computers.html",
   "title": {
@@ -1156,7 +1159,7 @@
    "zh": "计算机是怎样工作的"
   },
   "updated": "2026-11-20 09:00:03",
-  "verified": "2026-11-20 09:01:51"
+  "verified": ""
  },
  "cs/cs-data-crypto": {
   "counts": {
@@ -1167,7 +1170,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "16682816ec7d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-data-crypto.html",
   "title": {
@@ -1175,7 +1178,7 @@
    "zh": "数据、编码与加密"
   },
   "updated": "2026-11-20 09:09:53",
-  "verified": "2026-11-20 09:11:25"
+  "verified": ""
  },
  "cs/cs-internet": {
   "counts": {
@@ -1186,7 +1189,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "c74e6349d592",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-internet.html",
   "title": {
@@ -1194,7 +1197,7 @@
    "zh": "互联网是怎样工作的"
   },
   "updated": "2026-11-20 08:51:06",
-  "verified": "2026-11-20 08:53:40"
+  "verified": ""
  },
  "cs/cs-safety": {
   "counts": {
@@ -1205,7 +1208,7 @@
    "old": 0,
    "total": 2
   },
-  "fingerprint": "cde934292b80",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-safety.html",
   "title": {
@@ -1213,7 +1216,7 @@
    "zh": "网络安全与数字公民"
   },
   "updated": "2026-11-20 08:50:59",
-  "verified": "2026-11-20 08:53:39"
+  "verified": ""
  },
  "earth/atmosphere": {
   "counts": {
@@ -1224,7 +1227,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "81bd9714bce3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/atmosphere.html",
   "title": {
@@ -1232,7 +1235,7 @@
    "zh": "大气层"
   },
   "updated": "2026-11-19 23:25:12",
-  "verified": "2026-11-19 23:26:17"
+  "verified": ""
  },
  "earth/climate": {
   "counts": {
@@ -1243,7 +1246,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "ae04625d07db",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/climate.html",
   "title": {
@@ -1251,7 +1254,7 @@
    "zh": "气候"
   },
   "updated": "2026-11-19 23:25:17",
-  "verified": "2026-11-19 23:26:22"
+  "verified": ""
  },
  "earth/earth-layers": {
   "counts": {
@@ -1262,7 +1265,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "8823e15de145",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/earth-layers.html",
   "title": {
@@ -1270,7 +1273,7 @@
    "zh": "地球的圈层"
   },
   "updated": "2026-11-19 23:24:54",
-  "verified": "2026-11-19 23:26:03"
+  "verified": ""
  },
  "earth/fossils-time": {
   "counts": {
@@ -1281,7 +1284,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "02142c301885",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "title": {
@@ -1289,7 +1292,7 @@
    "zh": "化石与地质年代"
   },
   "updated": "2026-11-19 23:25:06",
-  "verified": "2026-11-19 23:26:12"
+  "verified": ""
  },
  "earth/natural-resources": {
   "counts": {
@@ -1300,7 +1303,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "3d809a12fa52",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/natural-resources.html",
   "title": {
@@ -1308,7 +1311,7 @@
    "zh": "自然资源与能源"
   },
   "updated": "2026-11-19 23:25:19",
-  "verified": "2026-11-19 23:26:24"
+  "verified": ""
  },
  "earth/oceans": {
   "counts": {
@@ -1319,7 +1322,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "a88c8e41a142",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/oceans.html",
   "title": {
@@ -1327,7 +1330,7 @@
    "zh": "海洋、波浪与洋流"
   },
   "updated": "2026-11-19 23:25:10",
-  "verified": "2026-11-19 23:26:16"
+  "verified": ""
  },
  "earth/plate-tectonics": {
   "counts": {
@@ -1338,7 +1341,7 @@
    "old": 0,
    "total": 21
   },
-  "fingerprint": "0b1c987893fa",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
   "title": {
@@ -1346,7 +1349,7 @@
    "zh": "板块构造"
   },
   "updated": "2026-11-19 23:24:56",
-  "verified": "2026-11-19 23:26:05"
+  "verified": ""
  },
  "earth/rocks-minerals": {
   "counts": {
@@ -1357,7 +1360,7 @@
    "old": 0,
    "total": 15
   },
-  "fingerprint": "2d7d1527f7ea",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/rocks-minerals.html",
   "title": {
@@ -1365,7 +1368,7 @@
    "zh": "岩石、矿物与岩石循环"
   },
   "updated": "2026-11-19 23:24:59",
-  "verified": "2026-11-19 23:26:07"
+  "verified": ""
  },
  "earth/soil": {
   "counts": {
@@ -1376,7 +1379,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "6e29c403f787",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/soil.html",
   "title": {
@@ -1384,7 +1387,7 @@
    "zh": "土壤的形成"
   },
   "updated": "2026-11-19 23:25:03",
-  "verified": "2026-11-19 23:26:10"
+  "verified": ""
  },
  "earth/water-cycle": {
   "counts": {
@@ -1395,7 +1398,7 @@
    "old": 0,
    "total": 17
   },
-  "fingerprint": "4fc53d0ed413",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/water-cycle.html",
   "title": {
@@ -1403,7 +1406,7 @@
    "zh": "水循环"
   },
   "updated": "2026-11-19 23:25:08",
-  "verified": "2026-11-19 23:26:14"
+  "verified": ""
  },
  "earth/weather": {
   "counts": {
@@ -1414,7 +1417,7 @@
    "old": 0,
    "total": 26
   },
-  "fingerprint": "0a9ad5ac1fd6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weather.html",
   "title": {
@@ -1422,7 +1425,7 @@
    "zh": "天气与气团"
   },
   "updated": "2026-11-19 23:25:15",
-  "verified": "2026-11-19 23:27:47"
+  "verified": ""
  },
  "earth/weathering-erosion": {
   "counts": {
@@ -1433,7 +1436,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "e9fe65a50f2c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "title": {
@@ -1441,7 +1444,7 @@
    "zh": "风化、侵蚀与沉积"
   },
   "updated": "2026-11-19 23:25:01",
-  "verified": "2026-11-19 23:26:08"
+  "verified": ""
  },
  "physics/electricity": {
   "counts": {
@@ -1452,7 +1455,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "48c688fd1c37",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electricity.html",
   "title": {
@@ -1460,7 +1463,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-20 01:25:28",
-  "verified": "2026-11-20 01:26:42"
+  "verified": ""
  },
  "physics/energy": {
   "counts": {
@@ -1471,7 +1474,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "f4f5c4773c31",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/energy.html",
   "title": {
@@ -1479,7 +1482,7 @@
    "zh": "动能与势能"
   },
   "updated": "2026-11-20 01:14:10",
-  "verified": "2026-11-20 01:16:16"
+  "verified": ""
  },
  "physics/forces": {
   "counts": {
@@ -1490,7 +1493,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "95d299558827",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/forces.html",
   "title": {
@@ -1498,7 +1501,7 @@
    "zh": "力、摩擦力与重力"
   },
   "updated": "2026-11-20 01:25:37",
-  "verified": "2026-11-20 01:26:43"
+  "verified": ""
  },
  "physics/heat-transfer": {
   "counts": {
@@ -1509,7 +1512,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "0989b3b084e6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/heat-transfer.html",
   "title": {
@@ -1517,7 +1520,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-20 02:32:55",
-  "verified": "2026-11-20 02:35:07"
+  "verified": ""
  },
  "physics/light": {
   "counts": {
@@ -1528,7 +1531,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "cd0541660f07",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/light.html",
   "title": {
@@ -1536,7 +1539,7 @@
    "zh": "光与电磁波谱"
   },
   "updated": "2026-11-20 02:43:28",
-  "verified": "2026-11-20 02:44:37"
+  "verified": ""
  },
  "physics/magnetism": {
   "counts": {
@@ -1547,7 +1550,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "8f2b29aff657",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/magnetism.html",
   "title": {
@@ -1555,7 +1558,7 @@
    "zh": "磁与电磁铁"
   },
   "updated": "2026-11-20 02:51:20",
-  "verified": "2026-11-20 02:53:10"
+  "verified": ""
  },
  "physics/motion": {
   "counts": {
@@ -1585,7 +1588,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "6157218c4d04",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/newtons-laws.html",
   "title": {
@@ -1593,7 +1596,7 @@
    "zh": "牛顿运动定律"
   },
   "updated": "2026-11-20 02:33:07",
-  "verified": "2026-11-20 02:35:09"
+  "verified": ""
  },
  "physics/simple-machines": {
   "counts": {
@@ -1604,7 +1607,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "b902f545cb6b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/simple-machines.html",
   "title": {
@@ -1612,7 +1615,7 @@
    "zh": "简单机械"
   },
   "updated": "2026-11-20 01:36:36",
-  "verified": "2026-11-20 01:37:44"
+  "verified": ""
  },
  "physics/sound": {
   "counts": {
@@ -1623,7 +1626,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "f5061a7453f5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/sound.html",
   "title": {
@@ -1631,7 +1634,7 @@
    "zh": "声音"
   },
   "updated": "2026-11-20 02:46:15",
-  "verified": "2026-11-20 02:48:14"
+  "verified": ""
  },
  "physics/waves": {
   "counts": {
@@ -1642,7 +1645,7 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "f334cbcdeafd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/waves.html",
   "title": {
@@ -1650,6 +1653,6 @@
    "zh": "波"
   },
   "updated": "2026-11-20 02:33:14",
-  "verified": "2026-11-20 02:35:10"
+  "verified": ""
  }
 }
