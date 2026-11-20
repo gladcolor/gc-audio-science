@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 20:52:41. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 21:04:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -41,11 +41,11 @@ Updated 2026-11-19 20:52:41. Labels: finished / in progress / no audio / failed 
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
 | biology/endocytosis | in progress | 3 | 27 | 0 | 0 | 0 | 2026-11-19 20:29:08 |  |
 | biology/evolution | in progress | 12 | 6 | 0 | 0 | 0 | 2026-11-19 19:44:03 |  |
-| biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-19 19:39:48 |  |
+| biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-19 21:04:24 |  |
 | biology/food-webs | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:03:51 |  |
 | biology/heredity | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-19 18:03:03 |  |
 | biology/microorganisms | in progress | 11 | 15 | 0 | 0 | 0 | 2026-11-19 20:48:23 |  |
-| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 20:51:32 |  |
+| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 20:51:32 | 2026-11-19 20:52:52 |
 | biology/photosynthesis | in progress | 1 | 17 | 0 | 0 | 0 | 2026-11-19 18:03:26 |  |
 | biology/plants | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:03:32 |  |
 | biology/protein-synthesis | in progress | 9 | 9 | 0 | 0 | 0 | 2026-11-19 18:02:57 |  |
