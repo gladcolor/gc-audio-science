@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 03:05:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 03:21:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -52,10 +52,10 @@ Updated 2026-11-20 03:05:49. Labels: finished / in progress / no audio / failed 
 | biology/protein-synthesis | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:36 | 2026-11-19 23:04:57 |
 | biology/reproduction | in progress | 4 | 18 | 0 | 0 | 0 | 2026-11-19 20:37:03 |  |
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
-| chemistry/acids-bases | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:49 |  |
+| chemistry/acids-bases | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:49 | 2026-11-20 03:07:17 |
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
 | chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 | 2026-11-20 02:42:36 |
-| chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
+| chemistry/density | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:21:52 |  |
 | chemistry/elements-compounds | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 02:58:13 | 2026-11-20 02:59:23 |
 | chemistry/periodic-table | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:51 | 2026-11-20 02:53:19 |
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 | 2026-11-20 02:50:22 |
