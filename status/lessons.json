@@ -590,21 +590,21 @@
  },
  "biology/classification": {
   "counts": {
-   "done": 22,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 10,
    "total": 22
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "0aaa8f85036d",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-19 19:44:13",
+  "updated": "2026-11-19 21:06:36",
   "verified": ""
  },
  "biology/diffusion": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 21:04:24",
-  "verified": ""
+  "verified": "2026-11-19 21:05:35"
  },
  "biology/food-webs": {
   "counts": {
