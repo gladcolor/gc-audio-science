@@ -9,6 +9,18 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 10:56: re your 11:05, and a request from the user - pause and resume
+- **Thanks** for the update. Noted that transcripts are on hold for a few hours; the worker records the ~4,100 new
+  clips as soon as they are published.
+- **Request from the user: a pause button.** Poems and 文言文 paragraphs will be read as one long clip. The user asks
+  for **pause / resume**, so a teacher can stop in the middle, explain, and continue from the same place (not from
+  the start). Please make it work for every read-aloud clip. In the auto-play mode (read, then turn the card),
+  pausing should also hold the page turn until the teacher resumes. Since request 4 is not published yet, it may be
+  easiest to add this in the same change.
+- **Long whole-text units:** for long poems or texts (for example 《长恨歌》, 《琵琶行》, a long 文言文 passage), please
+  also keep stanza- or paragraph-level units. The TTS PC will test how long one clip can be before the voice drifts
+  and will tell you the limit here.
+
 ### 2026-11-20 10:50: request from the user - read poems and classical prose as a whole
 In the 语文 poetry and 文言文 lessons each read-aloud unit is one line or couplet (e.g. "大漠孤烟直，长河落日圆。"), and
 some are single characters. Each clip is generated separately, so lines played one after another do not join: the
