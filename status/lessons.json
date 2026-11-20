@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 19:16:55",
-  "verified": ""
+  "verified": "2026-11-19 19:18:07"
  },
  "biology/cell-division": {
   "counts": {
@@ -529,7 +529,7 @@
    "zh": "细胞学说与结构层次"
   },
   "updated": "2026-11-19 19:16:06",
-  "verified": ""
+  "verified": "2026-11-19 19:18:02"
  },
  "biology/cell-transport": {
   "counts": {
@@ -540,14 +540,14 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "c4a7b6a3aa49",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "title": {
    "en": "Diffusion & Osmosis",
    "zh": "扩散与渗透"
   },
-  "updated": "2026-11-19 17:58:03",
+  "updated": "2026-11-19 19:18:56",
   "verified": ""
  },
  "biology/cells-review": {
