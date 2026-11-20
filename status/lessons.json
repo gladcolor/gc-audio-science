@@ -491,7 +491,7 @@
    "zh": "有丝分裂与减数分裂"
   },
   "updated": "2026-11-19 23:03:31",
-  "verified": ""
+  "verified": "2026-11-19 23:04:54"
  },
  "biology/cell-organelles": {
   "counts": {
@@ -567,7 +567,7 @@
    "zh": "细胞单元复习与模拟测试"
   },
   "updated": "2026-11-19 23:03:21",
-  "verified": ""
+  "verified": "2026-11-19 23:04:52"
  },
  "biology/characteristics-of-life": {
   "counts": {
@@ -643,7 +643,7 @@
    "zh": "DNA：生命密码"
   },
   "updated": "2026-11-19 23:03:33",
-  "verified": ""
+  "verified": "2026-11-19 23:04:55"
  },
  "biology/ecosystems": {
   "counts": {
@@ -742,21 +742,21 @@
  },
  "biology/heredity": {
   "counts": {
-   "done": 10,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 10,
+   "old": 0,
    "total": 20
   },
-  "fingerprint": "",
-  "label": "in progress",
+  "fingerprint": "3d4a220aa861",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/heredity.html",
   "title": {
    "en": "Genes, Traits & Punnett Squares",
    "zh": "基因、性状与庞氏方格"
   },
-  "updated": "2026-11-19 18:03:03",
+  "updated": "2026-11-19 23:24:27",
   "verified": ""
  },
  "biology/microorganisms": {
@@ -852,7 +852,7 @@
    "zh": "DNA → RNA → 蛋白质"
   },
   "updated": "2026-11-19 23:03:36",
-  "verified": ""
+  "verified": "2026-11-19 23:04:57"
  },
  "biology/reproduction": {
   "counts": {

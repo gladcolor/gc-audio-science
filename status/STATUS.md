@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 23:03:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 23:24:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -29,26 +29,26 @@ Updated 2026-11-19 23:03:36. Labels: finished / in progress / no audio / failed 
 | biology/animals | old voice | 0 | 22 | 0 | 0 | 0 | 2026-11-19 18:03:37 |  |
 | biology/body-systems | in progress | 10 | 26 | 2 | 0 | 0 | 2026-11-19 19:40:59 |  |
 | biology/cell-city | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:13 | 2026-11-19 22:42:28 |
-| biology/cell-division | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:31 |  |
+| biology/cell-division | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:31 | 2026-11-19 23:04:54 |
 | biology/cell-organelles | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:07 | 2026-11-19 22:42:21 |
 | biology/cell-theory | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:10 | 2026-11-19 22:42:24 |
 | biology/cell-transport | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 20:49:27 | 2026-11-19 20:50:45 |
-| biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:21 |  |
+| biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:21 | 2026-11-19 23:04:52 |
 | biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 | 2026-11-19 22:19:39 |
 | biology/classification | in progress | 12 | 10 | 0 | 0 | 0 | 2026-11-19 21:06:36 |  |
 | biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:15 | 2026-11-19 22:42:31 |
-| biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:33 |  |
+| biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:33 | 2026-11-19 23:04:55 |
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
 | biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:44 | 2026-11-19 22:51:43 |
 | biology/evolution | in progress | 12 | 6 | 0 | 0 | 0 | 2026-11-19 19:44:03 |  |
 | biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:46 | 2026-11-19 22:51:46 |
 | biology/food-webs | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:03:51 |  |
-| biology/heredity | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-19 18:03:03 |  |
+| biology/heredity | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:27 |  |
 | biology/microorganisms | in progress | 11 | 15 | 0 | 0 | 0 | 2026-11-19 20:48:23 |  |
 | biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:20 | 2026-11-19 22:19:54 |
 | biology/photosynthesis | in progress | 1 | 17 | 0 | 0 | 0 | 2026-11-19 18:03:26 |  |
 | biology/plants | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:03:32 |  |
-| biology/protein-synthesis | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:36 |  |
+| biology/protein-synthesis | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:36 | 2026-11-19 23:04:57 |
 | biology/reproduction | in progress | 4 | 18 | 0 | 0 | 0 | 2026-11-19 20:37:03 |  |
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
 | chemistry/acids-bases | old voice | 0 | 40 | 0 | 0 | 0 | 2026-11-19 18:09:56 |  |
