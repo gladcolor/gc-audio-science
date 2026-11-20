@@ -392,6 +392,7 @@ zh	9ff5affd	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 01:33:09	tts
 zh	a6964e3d	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:00:40	tts	f08bbe13c2
 zh	a7c9d057	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:09:00	tts	4bec2dc577
 zh	b570d5c0	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:08:18	tts	f614f716bf
+zh	bad8d72f	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:28:52	tts	cdc42f56e6
 zh	cbc60cac	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 01:35:16	tts	a121aa5570
 zh	cc9d5720	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:09:03	tts	b4ad46454c
 zh	ceab9963	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 01:44:13	tts	d7624452f1
@@ -405,6 +406,7 @@ zh	eaf8c155	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 01:44:21	tts
 zh	f5059ee8	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:00:43	tts	e4e019dd9d
 zh	f70bab2f	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 01:44:19	tts	7db12aaffd
 zh	fc5a4ca2	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:20:20	tts	0d875b1dfe
+zh	fe38e0d4	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 02:27:38	tts	a0f5b8e88d
 en	00f1a51f	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 00:44:00	tts	c4f223d04b
 en	2eb6d154	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 01:13:53	tts	d2e8c44ca2
 en	8641f1be	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 00:40:00	tts	91353631d2
@@ -1578,6 +1580,7 @@ zh	3a098f1f	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:25	tts
 zh	3e1cb40f	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:22	tts	63b1cda5f8
 zh	b451d8c6	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:20:17	tts	590d7dbb75
 zh	e87b4227	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:26	tts	4c39dacc1f
+zh	fc35760b	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:28:48	tts	7bf8fb9ff2
 en	0da13f5f	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:39:17	tts	2cb134cfa2
 en	1e7491ef	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:39:16	tts	3737cba555
 en	43533460	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:41:17	tts	262fcdf767
@@ -1668,6 +1671,7 @@ en	80aa7e38	chemistry/reactions	serena t0.5 -16LUFS	48	2026-11-20 01:25:33	tts	1
 en	eb0314ac	chemistry/reactions	serena t0.5 -16LUFS	48	2026-11-20 01:25:25	tts	47ab24f778
 zh	305a540e	chemistry/reactions	serena t0.5 -16LUFS	48	2026-11-20 02:23:59	tts	3ece60e423
 zh	4802a4d5	chemistry/reactions	serena t0.5 -16LUFS	48	2026-11-20 02:24:07	tts	0c4d61ed7d
+zh	e01039d5	chemistry/reactions	serena t0.5 -16LUFS	48	2026-11-20 02:28:50	tts	446467f156
 en	20a3042b	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:36:19	tts	14cfa57e52
 en	360d5ce9	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:25:25	tts	c18524e632
 en	518f9444	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:23:01	tts	14596f500b
@@ -1677,9 +1681,12 @@ en	92b04540	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:25:24	tts	5
 en	c021e2c3	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:25:27	tts	8a1c103ade
 en	c4bb579f	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:23:02	tts	67d4bfc170
 en	d9ef0316	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 01:23:09	tts	399d11f40f
+zh	3ce92a48	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:28:49	tts	32b3e39db4
 zh	49584d2d	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:23:56	tts	15c3ad4d42
 zh	70c9cdc7	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:20:16	tts	50dd498663
+zh	86b560f6	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:28:46	tts	a48152c238
 zh	c228c32b	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:24:06	tts	b15a2bad35
+zh	eca3bfad	chemistry/solutions	serena t0.5 -16LUFS	48	2026-11-20 02:28:47	tts	76ddc798b8
 en	298f0c27	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:01:51	tts	5ce71fb892
 en	315ee293	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:01:57	tts	25fe7eb4be
 en	324fc1e3	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:02:01	tts	7651119ecf
