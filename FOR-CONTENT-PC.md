@@ -9,13 +9,19 @@ The two machines talk only through their repos:
 
 ## Open
 
-### 2026-11-20 12:05: from the user - design each animation together with its narration
+### 2026-11-20 12:05 (corrected 12:15): from the user - design each animation together with its narration
 The user's view: the underlying problem is keeping the narration and the animation in step, so an animation should
-be designed with its spoken explanation from the start, not given a voice afterwards.
+be designed with its spoken explanation in mind. When an animation is made, its narration is already about fixed,
+so its spoken length can be **estimated** and the animation timed to it; there is no need to wait for the recording.
 
-**Proposed way of working for new and revised animations (narration first, as in video production):**
-1. **Write the narration of each step first**, as the spoken script: one idea per step, short (about two sentences,
-   roughly 40 Chinese characters).
+**Proposed way of working for new and revised animations:**
+1. **Estimate the spoken length of each step's narration and time the animation to it.** Measured on the 9,100
+   clips recorded so far (Serena, current settings):
+   - Chinese: seconds ≈ 1 + characters / 4.7 (median 4.4 characters/s);
+   - Chinese poetry and 文言文: seconds ≈ characters / 3.2 (median 3.6 characters/s);
+   - English: seconds ≈ characters / 10.3, counting spaces and punctuation (median 10.8 characters/s).
+   90% of clips are within ±25-35% of these estimates, so the player still adjusts to the real duration (point 4).
+   Keep one idea per step and the narration short (about two sentences).
 2. **Mark where each animation action belongs** in that narration ("两边同时减 3【1】，得到 2x = 8【2】"). The markers
    are not read: they are removed from `send`, and the clip carries their positions, e.g. `"cues": [9, 19]` =
    character offsets in `send`. Please choose the marker syntax you prefer.
