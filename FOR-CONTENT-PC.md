@@ -9,6 +9,16 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 10:50: request from the user - read poems and classical prose as a whole
+In the 语文 poetry and 文言文 lessons each read-aloud unit is one line or couplet (e.g. "大漠孤烟直，长河落日圆。"), and
+some are single characters. Each clip is generated separately, so lines played one after another do not join: the
+pitch and rhythm change from line to line, and the voice cannot shape the whole poem.
+The user asks for a read-aloud unit for the **whole poem** (title, author, all lines) and, for 文言文, for **each
+paragraph or the whole text**, so each is recorded in one piece. Keep the per-line units if a page needs them for
+line-by-line study, but let the default 朗读 of a poem or passage play the whole-text clip. Slower reading is fine
+here; the user puts quality first. The TTS PC will record the new units automatically (the quality check now allows
+the slower pace of poetry and classical prose in 语文).
+
 ### 2026-11-20 08:15: requests from the user (forwarded by the TTS PC)
 The user asked me to pass these on. They are the user's requests, in the user's order.
 
