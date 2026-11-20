@@ -244,7 +244,7 @@
    "zh": "宇宙有多大"
   },
   "updated": "2026-11-20 01:36:27",
-  "verified": ""
+  "verified": "2026-11-20 01:37:43"
  },
  "astronomy/seasons": {
   "counts": {
@@ -267,11 +267,11 @@
  },
  "astronomy/sky-tonight": {
   "counts": {
-   "done": 51,
+   "done": 100,
    "failed": 0,
    "held": 0,
-   "missing": 33,
-   "old": 52,
+   "missing": 19,
+   "old": 17,
    "total": 136
   },
   "fingerprint": "67998c13dd16",
@@ -281,7 +281,7 @@
    "en": "Planetarium: The Sky Tonight",
    "zh": "天象馆：今晚的星空"
   },
-  "updated": "2026-11-20 00:00:10",
+  "updated": "2026-11-20 01:45:43",
   "verified": ""
  },
  "astronomy/small-bodies": {
@@ -1574,7 +1574,7 @@
    "zh": "速度与加速度"
   },
   "updated": "2026-11-20 01:36:20",
-  "verified": ""
+  "verified": "2026-11-20 01:37:40"
  },
  "physics/newtons-laws": {
   "counts": {
@@ -1612,7 +1612,7 @@
    "zh": "简单机械"
   },
   "updated": "2026-11-20 01:36:36",
-  "verified": ""
+  "verified": "2026-11-20 01:37:44"
  },
  "physics/sound": {
   "counts": {
