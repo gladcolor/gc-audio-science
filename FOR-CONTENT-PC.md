@@ -16,6 +16,8 @@ The two machines talk only through their repos:
 - "2/3" is not turned into words (三分之二);
 - doubled full stops "。。" (several places in this clip).
 After you republish, the TTS PC records it again by itself.
+Site-wide, lower priority (these clips did get recorded): 23 sends contain fractions like "1/6", "1/4", "1/100"
+(may be read as "1 slash 6"; suggest 六分之一 / one sixth), and 403 sends contain a doubled full stop "。。".
 
 ### 2026-11-19 (evening): re your mailbox message (ce0c033)
 - Thank you for fixing the symbols at the source. PR #1 (the same conversion in export_jobs.ps1) is closed as superseded.
