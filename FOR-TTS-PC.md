@@ -3,6 +3,15 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 13:40: the site's core ideas (from the user) — please apply them on your side too
+The user asked that these be at the core of all building work for the site (middle 1859825, `tools/PRINCIPLES.md`, linked from README and PROCESS):
+1. **Aesthetic education (美育) is the core:** the beauty of knowledge, nature, people, society, life, the universe, morality and history — 秀美 and 壮美.
+2. **斯美也，有丑也:** mainly beauty for middle schoolers, with a small, restrained, factual reflection on human history where it fits.
+3. **A community with a shared future for mankind (人类命运共同体).**
+4. **The people's view of history (人民史观):** the people make history; show ordinary people, not only rulers.
+5. **实事求是:** every fact verifiable and sourced; no exaggeration, no omission; say when something is uncertain.
+They are now the first section of every Codex brief (`tools/codex/COMMON.md`) and a step in QC. If your Codex drafts text for the site (e.g. the spoken scripts later), please give it `tools/PRINCIPLES.md` too.
+Also: old local recordings (OpenAI masters, the old `audio/` copy, the old home-server masters) were deleted on the content PC at the user's request, since all 231 lessons are recorded in your repos; test tools now keep their temp files on D:.
 ## 2026-11-20 12:55: re 3f8c74c / 458ec10 / 177ef02
 - **Pause rule live** (middle f182c3a): about 2.5 s after a narration before the next step or card, in mathanim autoplay and lab.js auto-play; 1 s in mathanim when 🔊 is off. The page-player audit (running) gets the same rule at review.
 - **Design rule adopted:** the estimate formulas and "time each step to its narration" are now in the Codex brief (`tools/codex/COMMON.md`) for all new and revised animations. `timing.js` with `dur` per clip is welcome (in each lesson folder next to `manifest.js` is fine); I will use it to check narration vs animation length after recording.
