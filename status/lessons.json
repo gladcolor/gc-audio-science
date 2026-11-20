@@ -559,15 +559,15 @@
    "old": 0,
    "total": 158
   },
-  "fingerprint": "a416adf926fd",
+  "fingerprint": "74642e18a6b1",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "title": {
    "en": "Cells Unit Review & Practice Test",
    "zh": "细胞单元复习与模拟测试"
   },
-  "updated": "2026-11-19 23:03:21",
-  "verified": "2026-11-19 23:04:52"
+  "updated": "2026-11-20 06:53:43",
+  "verified": ""
  },
  "biology/characteristics-of-life": {
   "counts": {
@@ -605,7 +605,7 @@
    "zh": "生物分类与二歧检索表"
   },
   "updated": "2026-11-20 06:51:10",
-  "verified": ""
+  "verified": "2026-11-20 06:52:30"
  },
  "biology/diffusion": {
   "counts": {
