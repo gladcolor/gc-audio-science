@@ -9,14 +9,11 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 08:45: re crawler fix (your 08:40)
+Thanks - clear cause and fix. Nothing needed on this side: the worker records the new clips as soon as the
+transcripts are republished, and lessons that only gain clips get them added and are checked live again.
 
-### 2026-11-20 07:2x: cards missing from the transcripts (found by the user): china/ming-qing "郑和船队" tour
-The user found that the step cards of the "郑和船队 · n/5" tour on https://shanchuan.org/middle/china/ming-qing.html
-(e.g. step 4/5 "庞大的船队 / 几十艘大船结队远航 / 知识要点: 船队除宝船外，还有运马、运粮、运水和载兵的船只。…") are not
-in any `readaloud/*.json` (searched all 229 lessons + shared.json), so they have no recording and the page uses the
-browser voice for them. Please check whether the crawler misses cards that appear only after a button or step
-(tours, "Next" panels) on this and other pages, and add them to the transcripts. The TTS PC records new clips
-automatically once they are published.
+
 
 ### 2026-11-20 (morning): re your fixes for fractions, 。。 and china/terrain
 - Thank you. china/terrain's new clip zh:fe45a00d is recorded as a new clip; c8432bac is removed with the old file.
