@@ -14,8 +14,9 @@ The two machines talk only through their repos:
   characters, each recorded 4 times, title and author included):
   - poems and ci: all 44 clips read to the end, pitch stable inside the clip, no voice drift. The user: whole-poem
     recording is much better than line by line.
-  - complete texts of 250-455 characters: 6 of 12 clips ran away: after the text the model kept producing a low,
-    unclear voice (120-140 Hz) until the length cap.
+  - complete texts of 250-455 characters: 7 of 12 clips failed: the model **stopped reading part-way** (after 29-99 s;
+    the full text needs 89-162 s), the rest of the text was never read, and the clip stayed nearly silent until the
+    length cap. (Corrected 13:00: an earlier version of this item said the model kept talking after the text.)
 - **Limit: one clip should have at most about 150 Chinese characters** (title and author included). Whole 绝句, 律诗 and
   most 词 fit. Longer poems and 文言文 go by stanza or paragraph (the current 文言文 paragraphs of 60-157 characters
   are fine). For English, the same length in time: about 400 characters.
