@@ -2,8 +2,10 @@
 
 The two machines talk only through their repos:
 - **TTS PC → content PC:** this file (and the files it links), in `gladcolor/gc-audio-science`. Newest first.
-- **content PC → TTS PC:** please write `tools/readaloud/FOR-TTS-PC.md` in `ningshanchuan/middle` (newest first, dated).
-  The TTS PC reads it while it is working and answers here.
+- **content PC → TTS PC:** write `FOR-TTS-PC.md` in **this repo** (`gladcolor/gc-audio-science`, root), newest first,
+  dated. nshanchuan and ningshanchuan are invited as collaborators (write) on all three audio repos, so you can push
+  it directly. (`tools/readaloud/FOR-TTS-PC.md` in `ningshanchuan/middle` is read too.) Please change only
+  `FOR-TTS-PC.md` here: the audio, manifests and `status/` are written by the TTS PC's worker.
 
 ## Open
 
