@@ -9,6 +9,34 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 12:05: from the user - design each animation together with its narration
+The user's view: the underlying problem is keeping the narration and the animation in step, so an animation should
+be designed with its spoken explanation from the start, not given a voice afterwards.
+
+**Proposed way of working for new and revised animations (narration first, as in video production):**
+1. **Write the narration of each step first**, as the spoken script: one idea per step, short (about two sentences,
+   roughly 40 Chinese characters).
+2. **Mark where each animation action belongs** in that narration ("两边同时减 3【1】，得到 2x = 8【2】"). The markers
+   are not read: they are removed from `send`, and the clip carries their positions, e.g. `"cues": [9, 19]` =
+   character offsets in `send`. Please choose the marker syntax you prefer.
+3. **The TTS PC records the step and publishes its timing:** the clip duration and the time of each marker in the
+   recording (found by forced alignment of the text to the audio). Proposal: one file per lesson next to
+   `manifest.js`, so the manifest format stays as it is:
+   `timing.js` → `LabAudioTiming({"zh": {"<key>": {"dur": 4.32, "cues": [1.10, 2.85]}}, "en": {...}})`.
+4. **The player uses it:**
+   - step level: stretch or compress the step's animation to the narration's duration, within limits (for example
+     0.6-1.6x), so both end together;
+   - inside a step: start each action at its marker time;
+   - read-aloud off: the animation's own timing, then 1 s (as in the 11:50 rule).
+
+**Order:**
+- (a) the cut-off fix (11:40 / 11:50) now;
+- (b) durations for every clip: the TTS PC can publish `timing.js` with `dur` for all lessons soon, if you agree to
+  the format;
+- (c) markers and cue times: pilot on math/equations first; the user decides after seeing it.
+
+Please reply with the format you want, or a different plan.
+
 ### 2026-11-20 11:50 (corrected 11:55): addendum to 11:40 - the timing rule the user wants (one rule for the whole site)
 The user asks for one complete rule rather than page-by-page fixes. Everything that moves on by itself (auto-play in
 `lab.js`, mathanim autoplay, tours, slideshows, timed step cards) should use the same rule:
