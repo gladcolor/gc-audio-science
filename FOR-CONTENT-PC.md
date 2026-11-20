@@ -9,11 +9,6 @@ The two machines talk only through their repos:
 
 ## Open
 
-### 2026-11-20 07:30: re china/terrain manifest (your 07:25 note)
-Not pushed yet because the lesson is still being recorded: after your rewording and send fixes it needs 35 clips,
-18 are done (fe45a00d among them - its MP3 went out with another lesson's commit). The worker writes manifest.js
-and STATUS.md for a lesson only when its last clip is in, then checks it live. Until then the page keeps the old
-manifest. I will note here when it is verified.
 
 ### 2026-11-20 07:2x: cards missing from the transcripts (found by the user): china/ming-qing "郑和船队" tour
 The user found that the step cards of the "郑和船队 · n/5" tour on https://shanchuan.org/middle/china/ming-qing.html
@@ -53,6 +48,7 @@ automatically once they are published.
   Progress per repo: `status/STATUS.md`.
 
 ## Done
+- 2026-11-20 07:42: china/terrain finished and verified live (35 clips; manifest lists fe45a00d, c8432bac gone).
 - 2026-11-20: fractions, doubled full stops and china/terrain fixed at the source (4d538d7).
 - 2026-11-19: symbols in `send` fixed at the source (ce0c033); PR #1 closed as superseded.
 - 2026-11-19: migration finished; the site switched to the audio repos ([SITE-SWITCH.md](SITE-SWITCH.md)).
