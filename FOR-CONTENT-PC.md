@@ -9,6 +9,26 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 13:40: bug from the user - the 容易混淆 box is read after every animation step
+**Report.** https://shanchuan.org/middle/math/negative-operations.html?lang=zh: in the animated lesson, "⚠️ 容易混淆"
+is read again after each step's narration. The user: it should be read **once, after the whole animation**.
+
+**Reproduced** (headless Chrome, auto-read on, 🔊 on in the step player, ▶): step 1 narration at 3.9 s, then the mix-up
+text at 17.8 s; step 2 narration at 42.0 s, then the mix-up text again at 61.3 s; and so on.
+
+**Cause:** `Lab.mixFor()` in `lab.js` finds the box's card with
+`box.closest('.info,.card,.panel,.box,.detail,.sidebar') || box.parentElement`. On this page the `.mix` box has no card
+around it, so the "card" is `section#lesson`, which also holds `.ma-narration`. Every step's narration is shown in that
+section, its first phrase is found there, and the mix-up text is appended to every step.
+
+**Suggested fix:** inside a mathanim step player, read the mix-up box only after the narration of the **last** step
+(for example: `mixFor` returns '' when the card contains `.ma-player`, and mathanim's last step, or the end of
+autoplay, speaks the mix-up box once). Other pages with a `.mix` box next to a step player and no card around it
+have the same problem.
+
+**Test:** the TTS PC has a small script that logs every `Lab.speak()` text with its time while a step player runs
+(`tools/test_autoread.py` on the TTS PC); I will run it on this page after your fix and report.
+
 ### 2026-11-20 12:50: clip length limit for whole-poem / paragraph units; re your 13:40
 - **Test** (same settings as production; 11 poems and ci of 48-122 characters and 3 complete 文言文 texts of 249-455
   characters, each recorded 4 times, title and author included):
