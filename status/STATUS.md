@@ -1,11 +1,11 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:33:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:35:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 00:52:42 | 2026-11-20 00:53:56 |
-| astronomy/black-holes | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:47 |  |
+| astronomy/black-holes | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:47 | 2026-11-20 02:35:04 |
 | astronomy/eclipses | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:34 | 2026-11-19 23:26:35 |
 | astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:23:03 | 2026-11-20 01:24:13 |
 | astronomy/galaxies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:24 | 2026-11-19 23:26:27 |
@@ -14,12 +14,12 @@ Updated 2026-11-20 02:33:19. Labels: finished / in progress / no audio / failed 
 | astronomy/measuring-distance | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:07:02 |  |
 | astronomy/moon-phases | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:31 | 2026-11-19 23:26:34 |
 | astronomy/night-sky | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:39 | 2026-11-19 23:26:38 |
-| astronomy/planets-moons | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:44 |  |
+| astronomy/planets-moons | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:44 | 2026-11-20 02:35:03 |
 | astronomy/rocketry | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:16:34 | 2026-11-20 02:17:53 |
 | astronomy/scale-universe | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:27 | 2026-11-20 01:37:43 |
 | astronomy/seasons | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:29 | 2026-11-19 23:26:31 |
 | astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-20 02:28:52 | 2026-11-20 02:31:07 |
-| astronomy/small-bodies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:51 |  |
+| astronomy/small-bodies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:51 | 2026-11-20 02:35:06 |
 | astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 | 2026-11-19 23:27:49 |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
 | astronomy/star-life | in progress | 103 | 13 | 0 | 0 | 0 | 2026-11-19 22:40:31 |  |
@@ -53,13 +53,13 @@ Updated 2026-11-20 02:33:19. Labels: finished / in progress / no audio / failed 
 | biology/reproduction | in progress | 4 | 18 | 0 | 0 | 0 | 2026-11-19 20:37:03 |  |
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
 | chemistry/acids-bases | old voice | 0 | 40 | 0 | 0 | 0 | 2026-11-19 18:09:56 |  |
-| chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 |  |
+| chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
 | chemistry/changes | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:09:39 |  |
 | chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
 | chemistry/elements-compounds | in progress | 7 | 13 | 0 | 0 | 0 | 2026-11-20 01:13:44 |  |
 | chemistry/periodic-table | no audio | 0 | 98 | 36 | 0 | 0 | 2026-11-19 18:09:19 |  |
 | chemistry/reactions | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:09:43 |  |
-| chemistry/solutions | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:09:48 |  |
+| chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 |  |
 | chemistry/states-of-matter | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:09:27 |  |
 | cs/cs-ai | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:09 |  |
 | cs/cs-algorithms | no audio | 0 | 12 | 6 | 0 | 0 | 2026-11-19 18:24:51 |  |
@@ -83,11 +83,11 @@ Updated 2026-11-20 02:33:19. Labels: finished / in progress / no audio / failed 
 | physics/electricity | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:28 | 2026-11-20 01:26:42 |
 | physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 | 2026-11-20 01:16:16 |
 | physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 | 2026-11-20 01:26:43 |
-| physics/heat-transfer | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:55 |  |
+| physics/heat-transfer | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:55 | 2026-11-20 02:35:07 |
 | physics/light | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:49 |  |
 | physics/magnetism | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:59 |  |
 | physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 | 2026-11-20 01:37:40 |
-| physics/newtons-laws | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:07 |  |
+| physics/newtons-laws | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:07 | 2026-11-20 02:35:09 |
 | physics/simple-machines | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:36 | 2026-11-20 01:37:44 |
 | physics/sound | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:08:44 |  |
-| physics/waves | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:14 |  |
+| physics/waves | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:14 | 2026-11-20 02:35:10 |

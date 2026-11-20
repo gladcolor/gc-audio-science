@@ -35,7 +35,7 @@
    "zh": "黑洞与引力波"
   },
   "updated": "2026-11-20 02:32:47",
-  "verified": ""
+  "verified": "2026-11-20 02:35:04"
  },
  "astronomy/eclipses": {
   "counts": {
@@ -206,7 +206,7 @@
    "zh": "行星实验室：行星与卫星"
   },
   "updated": "2026-11-20 02:32:44",
-  "verified": ""
+  "verified": "2026-11-20 02:35:03"
  },
  "astronomy/rocketry": {
   "counts": {
@@ -301,7 +301,7 @@
    "zh": "小行星、彗星与流星"
   },
   "updated": "2026-11-20 02:32:51",
-  "verified": ""
+  "verified": "2026-11-20 02:35:06"
  },
  "astronomy/solar-system": {
   "counts": {
@@ -947,7 +947,7 @@
    "zh": "原子结构"
   },
   "updated": "2026-11-20 02:33:19",
-  "verified": ""
+  "verified": "2026-11-20 02:35:13"
  },
  "chemistry/changes": {
   "counts": {
@@ -1046,21 +1046,21 @@
  },
  "chemistry/solutions": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
   "fingerprint": "7bf7c025436b",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/solutions.html",
   "title": {
    "en": "Solutions & Solubility",
    "zh": "溶液与溶解度"
   },
-  "updated": "2026-11-19 18:09:48",
+  "updated": "2026-11-20 02:35:21",
   "verified": ""
  },
  "chemistry/states-of-matter": {
@@ -1517,7 +1517,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-20 02:32:55",
-  "verified": ""
+  "verified": "2026-11-20 02:35:07"
  },
  "physics/light": {
   "counts": {
@@ -1593,7 +1593,7 @@
    "zh": "牛顿运动定律"
   },
   "updated": "2026-11-20 02:33:07",
-  "verified": ""
+  "verified": "2026-11-20 02:35:09"
  },
  "physics/simple-machines": {
   "counts": {
@@ -1650,6 +1650,6 @@
    "zh": "波"
   },
   "updated": "2026-11-20 02:33:14",
-  "verified": ""
+  "verified": "2026-11-20 02:35:10"
  }
 }
