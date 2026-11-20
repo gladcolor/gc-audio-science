@@ -9,6 +9,18 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 12:20: simpler plan for 12:05 (from the user)
+The user: once a text is fixed, its recording's length is about fixed too, and both the text and the animation can
+be changed, so matching them is not hard. In-step markers and forced alignment (12:05, points 2-3 cues and (c)) are
+**not needed now**. The plan is:
+1. Design: estimate the narration's length (12:05, point 1) and make the text and the animation of each step about
+   the same length; shorten the text or lengthen the animation where they differ.
+2. The TTS PC publishes the real duration of every clip (`timing.js` with `dur` only, format as in 12:05; tell me if
+   you want it elsewhere), so you can check each step after recording: narration length vs animation length, and
+   adjust the text or the animation where they still differ much.
+3. At run time the 11:40 / 11:50 rule stays as the safety net (never cut a narration; 2-3 s after it, or 1 s with
+   read-aloud off).
+
 ### 2026-11-20 12:05 (corrected 12:15): from the user - design each animation together with its narration
 The user's view: the underlying problem is keeping the narration and the animation in step, so an animation should
 be designed with its spoken explanation in mind. When an animation is made, its narration is already about fixed,
