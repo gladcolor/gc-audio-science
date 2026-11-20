@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/electricity", "en": {"6b6eb269": {"dur": 34.32}, "7dc4a62e": {"dur": 27.84}, "936ce5be": {"dur": 40.8}, "bb25ea14": {"dur": 37.44}, "d52fcc52": {"dur": 34.0}, "d623f322": {"dur": 36.64}}, "zh": {"2d7e1d26": {"dur": 29.84}, "3bb07e87": {"dur": 33.76}, "618e4a84": {"dur": 24.08}, "842cf4b7": {"dur": 27.76}, "b810d25f": {"dur": 29.2}, "f480ec43": {"dur": 32.24}}});

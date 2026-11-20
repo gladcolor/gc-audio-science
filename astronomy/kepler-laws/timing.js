@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "astronomy/kepler-laws", "en": {"1333daab": {"dur": 80.0}, "23b83ba7": {"dur": 74.4}, "93f80b10": {"dur": 76.96}, "bee2f95a": {"dur": 81.6}, "ecaa0d7d": {"dur": 95.12}, "f4c4945f": {"dur": 60.0}}, "zh": {"3df21c1f": {"dur": 66.8}, "590487ec": {"dur": 62.48}, "ca55eb0a": {"dur": 65.84}, "ecd0dc7c": {"dur": 50.96}, "f09c39ba": {"dur": 62.56}, "fbb4c148": {"dur": 51.12}}});

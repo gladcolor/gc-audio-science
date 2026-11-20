@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "biology/dna", "en": {"0b5fc79a": {"dur": 19.04}, "165deb05": {"dur": 13.44}, "5489f7a2": {"dur": 13.76}, "7608c157": {"dur": 27.2}, "bb4be4b0": {"dur": 17.2}, "e338bae0": {"dur": 16.56}, "ef857012": {"dur": 13.12}}, "zh": {"3633e034": {"dur": 16.56}, "38808323": {"dur": 26.0}, "403b4e8f": {"dur": 12.56}, "4e68c791": {"dur": 13.04}, "8591e2f3": {"dur": 13.12}, "91dd669b": {"dur": 14.8}, "a5bf66ff": {"dur": 10.88}}});

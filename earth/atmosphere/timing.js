@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "earth/atmosphere", "en": {"174c594c": {"dur": 46.72}, "25c08ab9": {"dur": 49.12}, "28a208be": {"dur": 27.2}, "2c827678": {"dur": 52.32}, "45828cd1": {"dur": 35.2}, "b45121a4": {"dur": 48.56}, "f44b4179": {"dur": 30.64}}, "zh": {"1348d77a": {"dur": 32.48}, "362a832f": {"dur": 41.76}, "66fb1539": {"dur": 38.64}, "77c4651d": {"dur": 28.16}, "8a4f7e03": {"dur": 23.12}, "ed37769a": {"dur": 26.24}, "eeb035e1": {"dur": 40.32}}});

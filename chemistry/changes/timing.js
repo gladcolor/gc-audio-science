@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "chemistry/changes", "en": {"1ea70471": {"dur": 8.88}, "2ffe380e": {"dur": 8.88}, "42fe3755": {"dur": 7.76}, "458d9051": {"dur": 8.0}, "82ddddc8": {"dur": 8.48}, "d57b4f2c": {"dur": 8.72}, "ec99932a": {"dur": 7.12}}, "zh": {"152fd490": {"dur": 5.92}, "5e773c67": {"dur": 7.6}, "60187e5c": {"dur": 5.2}, "9aef169a": {"dur": 5.68}, "9edd8ba5": {"dur": 6.48}, "c684e6a0": {"dur": 7.36}, "fd21b8af": {"dur": 5.76}}});

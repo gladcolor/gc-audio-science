@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "astronomy/gravity-orbits", "en": {"1f6c203f": {"dur": 47.76}, "4c1e0311": {"dur": 34.88}, "603c6c88": {"dur": 56.4}, "c6bcfaa5": {"dur": 33.2}, "f316227d": {"dur": 23.04}, "f41e0251": {"dur": 40.08}}, "zh": {"0b2b6e0a": {"dur": 26.96}, "5139b4cd": {"dur": 32.4}, "a558e2dd": {"dur": 30.08}, "b801a4f7": {"dur": 40.88}, "d65e4ff9": {"dur": 20.88}, "e12ac2fc": {"dur": 32.72}}});

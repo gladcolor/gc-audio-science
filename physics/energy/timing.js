@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/energy", "en": {"091fe96f": {"dur": 28.64}, "24c325d1": {"dur": 28.96}, "70d23d04": {"dur": 34.8}, "beca8810": {"dur": 28.32}, "c3eb2ae6": {"dur": 26.8}, "e9205542": {"dur": 27.04}, "f4ef3533": {"dur": 24.0}}, "zh": {"02b92663": {"dur": 33.36}, "04b59cdb": {"dur": 21.84}, "20549b91": {"dur": 20.16}, "3b183678": {"dur": 18.48}, "3f53668a": {"dur": 24.4}, "e4869fd1": {"dur": 23.04}, "ea3a3752": {"dur": 23.12}}});

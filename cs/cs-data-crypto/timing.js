@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "cs/cs-data-crypto", "en": {"095aafc6": {"dur": 33.52}, "3cbb909b": {"dur": 21.44}, "43aa993e": {"dur": 25.2}, "50e595a7": {"dur": 26.64}, "9f0eb234": {"dur": 29.68}, "e522de05": {"dur": 28.8}}, "zh": {"22a936df": {"dur": 24.32}, "536878ee": {"dur": 18.96}, "6401a64e": {"dur": 26.32}, "9d82456d": {"dur": 15.12}, "bb744f07": {"dur": 26.88}, "ef8f3789": {"dur": 26.8}}});

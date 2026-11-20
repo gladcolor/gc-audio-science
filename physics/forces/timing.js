@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/forces", "en": {"0cc2aea7": {"dur": 29.6}, "495b445b": {"dur": 31.6}, "830ead98": {"dur": 25.84}, "9c67b1ab": {"dur": 35.52}, "e7923962": {"dur": 36.0}, "f2d14fa5": {"dur": 34.4}}, "zh": {"36b16d06": {"dur": 34.08}, "5c96d638": {"dur": 20.88}, "95e78c61": {"dur": 23.04}, "c05b3346": {"dur": 23.6}, "c1e954b8": {"dur": 30.32}, "c7d3d881": {"dur": 24.4}}});

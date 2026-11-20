@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "earth/rocks-minerals", "en": {"2beccf7a": {"dur": 21.28}, "5e7364d0": {"dur": 31.76}, "5fd95817": {"dur": 34.72}, "83d1936b": {"dur": 28.4}, "93968a8c": {"dur": 24.32}, "b1a1c4e2": {"dur": 33.68}, "c67812bf": {"dur": 29.28}, "d680dc18": {"dur": 25.04}}, "zh": {"25af8f45": {"dur": 20.72}, "26a537c9": {"dur": 31.68}, "4cbe9436": {"dur": 24.4}, "55a22d64": {"dur": 23.68}, "85a448f8": {"dur": 28.96}, "a44a56ea": {"dur": 18.96}, "f9beec81": {"dur": 26.96}}});

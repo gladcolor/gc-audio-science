@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "biology/food-webs", "en": {"03e1223e": {"dur": 24.32}, "0bee50ab": {"dur": 32.08}, "3652ea4c": {"dur": 35.28}, "5534de9d": {"dur": 28.16}, "5a9e6da4": {"dur": 30.56}, "aec88ec0": {"dur": 28.56}, "d275c45f": {"dur": 25.2}}, "zh": {"2be36c5d": {"dur": 39.68}, "31bd47a0": {"dur": 21.28}, "60dfdd51": {"dur": 22.56}, "635a00b3": {"dur": 22.08}, "6d70e787": {"dur": 25.68}, "7188d0f6": {"dur": 23.36}, "898f8890": {"dur": 25.52}}});
