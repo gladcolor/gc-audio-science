@@ -464,7 +464,7 @@
    "old": 0,
    "total": 66
   },
-  "fingerprint": "ee42f9f2f455",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
   "title": {
@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 17:56:48",
-  "verified": "2026-11-19 17:57:58"
+  "verified": ""
  },
  "biology/cell-division": {
   "counts": {
@@ -483,7 +483,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "e3947024c30c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-division.html",
   "title": {
@@ -491,7 +491,7 @@
    "zh": "有丝分裂与减数分裂"
   },
   "updated": "2026-11-19 18:39:36",
-  "verified": "2026-11-19 18:40:40"
+  "verified": ""
  },
  "biology/cell-organelles": {
   "counts": {
@@ -502,7 +502,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "15ceb41585cb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
   "title": {
@@ -510,7 +510,7 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-19 17:54:49",
-  "verified": "2026-11-19 17:55:55"
+  "verified": ""
  },
  "biology/cell-theory": {
   "counts": {
@@ -521,7 +521,7 @@
    "old": 0,
    "total": 46
   },
-  "fingerprint": "68d725a30221",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "title": {
@@ -529,7 +529,7 @@
    "zh": "细胞学说与结构层次"
   },
   "updated": "2026-11-19 17:56:01",
-  "verified": "2026-11-19 17:56:41"
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
@@ -540,7 +540,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "c4a7b6a3aa49",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "title": {
@@ -548,7 +548,7 @@
    "zh": "扩散与渗透"
   },
   "updated": "2026-11-19 17:58:03",
-  "verified": "2026-11-19 17:58:43"
+  "verified": ""
  },
  "biology/cells-review": {
   "counts": {
@@ -559,7 +559,7 @@
    "old": 0,
    "total": 157
   },
-  "fingerprint": "05fc7ad376f3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "title": {
@@ -567,7 +567,7 @@
    "zh": "细胞单元复习与模拟测试"
   },
   "updated": "2026-11-19 18:36:27",
-  "verified": "2026-11-19 18:37:41"
+  "verified": ""
  },
  "biology/characteristics-of-life": {
   "counts": {
@@ -585,8 +585,8 @@
    "en": "Is It Alive? Characteristics of Life",
    "zh": "它是活的吗？生物的特征"
   },
-  "updated": "2026-11-19 17:54:03",
-  "verified": "2026-11-19 17:54:45"
+  "updated": "2026-11-19 19:08:56",
+  "verified": ""
  },
  "biology/classification": {
   "counts": {
@@ -597,7 +597,7 @@
    "old": 13,
    "total": 22
   },
-  "fingerprint": "0aaa8f85036d",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
@@ -616,7 +616,7 @@
    "old": 0,
    "total": 43
   },
-  "fingerprint": "1f454ce1c679",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "title": {
@@ -624,7 +624,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-19 17:58:49",
-  "verified": "2026-11-19 17:59:28"
+  "verified": ""
  },
  "biology/dna": {
   "counts": {
@@ -635,7 +635,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "39b60580fb55",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/dna.html",
   "title": {
@@ -673,7 +673,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "5cfee8b9d137",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "title": {
@@ -681,7 +681,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-19 18:01:06",
-  "verified": "2026-11-19 18:01:43"
+  "verified": ""
  },
  "biology/evolution": {
   "counts": {
@@ -711,7 +711,7 @@
    "old": 0,
    "total": 28
   },
-  "fingerprint": "1df784df9ba7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "title": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 18:01:48",
-  "verified": "2026-11-19 18:02:24"
+  "verified": ""
  },
  "biology/food-webs": {
   "counts": {
@@ -749,7 +749,7 @@
    "old": 10,
    "total": 20
   },
-  "fingerprint": "55a7aade0832",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/heredity.html",
   "title": {
@@ -768,7 +768,7 @@
    "old": 13,
    "total": 26
   },
-  "fingerprint": "a22c48923e86",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "title": {
@@ -787,7 +787,7 @@
    "old": 0,
    "total": 42
   },
-  "fingerprint": "b5a6dcfbb3c9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "title": {
@@ -795,7 +795,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-19 17:59:35",
-  "verified": "2026-11-19 18:00:17"
+  "verified": ""
  },
  "biology/photosynthesis": {
   "counts": {
@@ -806,7 +806,7 @@
    "old": 17,
    "total": 18
   },
-  "fingerprint": "99c1e0fe6128",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
   "title": {
@@ -844,7 +844,7 @@
    "old": 9,
    "total": 18
   },
-  "fingerprint": "de9c35512f04",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
   "title": {
@@ -863,7 +863,7 @@
    "old": 11,
    "total": 22
   },
-  "fingerprint": "994eb9b73e4a",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/reproduction.html",
   "title": {
@@ -882,7 +882,7 @@
    "old": 0,
    "total": 51
   },
-  "fingerprint": "35b008292405",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
   "title": {
@@ -890,7 +890,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-19 18:00:23",
-  "verified": "2026-11-19 18:01:02"
+  "verified": ""
  },
  "chemistry/acids-bases": {
   "counts": {
