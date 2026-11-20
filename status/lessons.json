@@ -293,15 +293,15 @@
    "old": 0,
    "total": 18
   },
-  "fingerprint": "c455ea6d4eab",
+  "fingerprint": "ced047c39326",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/small-bodies.html",
   "title": {
    "en": "Asteroids, Comets & Meteors",
    "zh": "小行星、彗星与流星"
   },
-  "updated": "2026-11-20 02:32:51",
-  "verified": "2026-11-20 02:35:06"
+  "updated": "2026-11-20 07:04:48",
+  "verified": ""
  },
  "astronomy/solar-system": {
   "counts": {
@@ -320,7 +320,7 @@
    "zh": "太阳系"
   },
   "updated": "2026-11-20 07:00:33",
-  "verified": ""
+  "verified": "2026-11-20 07:01:37"
  },
  "astronomy/space-exploration": {
   "counts": {
