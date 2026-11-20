@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 03:21:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:51:10. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Updated 2026-11-20 03:21:52. Labels: finished / in progress / no audio / failed 
 | astronomy/seasons | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:29 | 2026-11-19 23:26:31 |
 | astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-20 02:28:52 | 2026-11-20 02:31:07 |
 | astronomy/small-bodies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:51 | 2026-11-20 02:35:06 |
-| astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 | 2026-11-19 23:27:49 |
+| astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 |  |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
 | astronomy/star-life | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:30 | 2026-11-20 02:37:28 |
 | astronomy/sun-stars | old voice | 0 | 21 | 0 | 0 | 0 | 2026-11-19 18:05:39 |  |
@@ -35,8 +35,8 @@ Updated 2026-11-20 03:21:52. Labels: finished / in progress / no audio / failed 
 | biology/cell-transport | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 20:49:27 | 2026-11-19 20:50:45 |
 | biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:21 | 2026-11-19 23:04:52 |
 | biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 | 2026-11-19 22:19:39 |
-| biology/classification | in progress | 12 | 10 | 0 | 0 | 0 | 2026-11-19 21:06:36 |  |
-| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:15 | 2026-11-19 22:42:31 |
+| biology/classification | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 06:51:10 |  |
+| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:15 |  |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:33 | 2026-11-19 23:04:55 |
 | biology/ecosystems | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:49 | 2026-11-19 23:26:00 |
 | biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:44 | 2026-11-19 22:51:43 |
@@ -55,7 +55,7 @@ Updated 2026-11-20 03:21:52. Labels: finished / in progress / no audio / failed 
 | chemistry/acids-bases | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:49 | 2026-11-20 03:07:17 |
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
 | chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 | 2026-11-20 02:42:36 |
-| chemistry/density | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:21:52 |  |
+| chemistry/density | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-20 03:21:52 | 2026-11-20 03:23:06 |
 | chemistry/elements-compounds | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 02:58:13 | 2026-11-20 02:59:23 |
 | chemistry/periodic-table | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:51 | 2026-11-20 02:53:19 |
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 | 2026-11-20 02:50:22 |

@@ -312,7 +312,7 @@
    "old": 0,
    "total": 25
   },
-  "fingerprint": "4214ca155ae7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "title": {
@@ -320,7 +320,7 @@
    "zh": "太阳系"
   },
   "updated": "2026-11-19 23:25:22",
-  "verified": "2026-11-19 23:27:49"
+  "verified": ""
  },
  "astronomy/space-exploration": {
   "counts": {
@@ -369,7 +369,7 @@
    "old": 21,
    "total": 21
   },
-  "fingerprint": "2a0050638bd7",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
   "title": {
@@ -590,21 +590,21 @@
  },
  "biology/classification": {
   "counts": {
-   "done": 12,
+   "done": 22,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 10,
+   "old": 0,
    "total": 22
   },
-  "fingerprint": "0aaa8f85036d",
-  "label": "in progress",
+  "fingerprint": "288b92da48dd",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-19 21:06:36",
+  "updated": "2026-11-20 06:51:10",
   "verified": ""
  },
  "biology/diffusion": {
@@ -616,7 +616,7 @@
    "old": 0,
    "total": 43
   },
-  "fingerprint": "ead3f2702bc4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "title": {
@@ -624,7 +624,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-19 22:41:15",
-  "verified": "2026-11-19 22:42:31"
+  "verified": ""
  },
  "biology/dna": {
   "counts": {
@@ -985,7 +985,7 @@
    "zh": "密度"
   },
   "updated": "2026-11-20 03:21:52",
-  "verified": ""
+  "verified": "2026-11-20 03:23:06"
  },
  "chemistry/elements-compounds": {
   "counts": {
