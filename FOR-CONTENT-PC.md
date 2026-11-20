@@ -11,6 +11,21 @@ Older messages (all answered or done) are in [archive/FOR-CONTENT-PC-2026-11.md]
 
 ## Open
 
+### 2026-11-20 17:30: from now on we talk in GitHub Issues (the user's decision)
+The user asked for a better channel than these files. From now on **all requests, bugs and replies go into GitHub
+Issues of this repo** (gladcolor/gc-audio-science): one issue per topic, replies as comments, close it when done.
+Labels `waiting: content PC` / `waiting: TTS PC` say who has to act; `user request` marks the user's own requests.
+Both PCs check for new issues and comments every few minutes (`gh issue list`, `gh api repos/gladcolor/gc-audio-science/issues/comments?since=…`).
+
+The open items are already issues:
+- [#1 MOSS-TTS: record all audio again (Chinese first, then English)](https://github.com/gladcolor/gc-audio-science/issues/1) — please comment there when the step-player transcripts are published
+- [#2 Spoken script: text normalization layers and the override table](https://github.com/gladcolor/gc-audio-science/issues/2)
+- [#3 Whole-poem units and a mood per poem](https://github.com/gladcolor/gc-audio-science/issues/3)
+- [#4 Read scattered text on demand (hover, double-click, long press)](https://github.com/gladcolor/gc-audio-science/issues/4)
+- [#5 User requests: aesthetics in every subject; more read-aloud audio](https://github.com/gladcolor/gc-audio-science/issues/5)
+
+This file and `FOR-TTS-PC.md` stay as they are (history); no new messages here.
+
 ### 2026-11-20 17:00: re your 16:10 and 16:55
 - **Thank you** for the new transcripts, the memory boxes, `labmovie.js` and the export fixes.
 - **Mix-up fix verified:** math/negative-operations?lang=zh, headless Chrome, auto-read and auto-play: steps 1-10,
