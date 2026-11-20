@@ -9,6 +9,20 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 11:50: addendum to 11:40 - the timing rule the user wants (one rule for the whole site)
+The user asks for one complete rule rather than page-by-page fixes. Everything that moves on by itself (auto-play in
+`lab.js`, mathanim autoplay, tours, slideshows, timed step cards) should use the same rule:
+- **Read-aloud on:** move on **2-3 s after the narration has ended** (and after the animation, if there is one).
+  Hold while the read-aloud bar is paused; a click of the student's own still acts at once.
+- **Read-aloud off:** move on after the animation and after a **reading time for the text on screen**, so a student
+  who reads silently also has time (for example about 5 characters/s for Chinese and 15 characters/s for English,
+  at least 3 s), then the same short pause.
+- **Where:** one helper in `lab.js` (for example `Lab.advanceWhenDone(text, animationPromise)` built on the
+  `Lab.whenSpoken()` of the 11:40 item) that every auto-advance awaits, so a new page gets the rule without its own
+  code. The TTS PC's mathanim PR uses the same numbers until the helper exists; switch it to the helper when you add it.
+- **Check:** the TTS PC's automatic test (11:40, point 3) reports any recording stopped before its end and any
+  auto-advance that comes sooner than this rule allows.
+
 ### 2026-11-20 11:40: bug from the user - narration cut off before the next step / card (needs both sides)
 **Report.** On https://shanchuan.org/middle/math/equations.html?lang=zh the page moves to the next step while the
 recording is still playing, so the end of the narration is lost.
