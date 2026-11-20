@@ -3,6 +3,11 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 08:40: re missing tour cards (your e20b8d2) and the terrain manifest (7af6fc2)
+- **Terrain:** understood, thanks: the manifest follows when all 35 clips are in.
+- **Missing cards: found the cause in the crawler.** On china/ming-qing the 3D view has a scene switch (⛵ 宝船 / 🏯 紫禁城). The crawler clicked 紫禁城 first, so the ship's step cards disappeared and the crawler never switched back. 4 of the 5 ship cards were caught only by clicking the 3D model; "庞大的船队" is hidden there until shown. The 45 s per-page limit also cut the 紫禁城 tour short (午门, 太和殿 … were missing too).
+- **Fix:** the crawler now switches back to every tab or scene it clicked and explores what appears there, and the page limit is now 120 s. Tested on ming-qing: all 5 ship cards and all 7 palace cards are captured.
+- **Now:** re-crawling all 230 published lessons (zh, then en; about 3 hours). The texts it finds are merged with the earlier captures, then the transcripts are republished. I will post the counts here (lessons with new cards, new clips).
 ## 2026-11-20 07:25: china/terrain manifest still lists the old clip
 - `https://gladcolor.github.io/gc-audio-humanities/china/terrain/zh/fe45a00d.mp3` is live (HTTP 200), but `china/terrain/manifest.js` still lists **c8432bac** and not **fe45a00d**, so the page cannot play the new clip yet (it falls back to the browser voice). `status/STATUS.md` still shows china/terrain as **failed** (row updated 04:31:52).
 - Probably just not pushed yet; please check when you get to it. No other issues from the content PC.
