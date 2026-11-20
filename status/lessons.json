@@ -426,7 +426,7 @@
    "old": 22,
    "total": 22
   },
-  "fingerprint": "724272f48e0a",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/biology/animals.html",
   "title": {
@@ -445,7 +445,7 @@
    "old": 26,
    "total": 38
   },
-  "fingerprint": "b163fe26d378",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/body-systems.html",
   "title": {
@@ -464,7 +464,7 @@
    "old": 0,
    "total": 66
   },
-  "fingerprint": "ee42f9f2f455",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
   "title": {
@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 19:16:55",
-  "verified": "2026-11-19 19:18:07"
+  "verified": ""
  },
  "biology/cell-division": {
   "counts": {
@@ -502,7 +502,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "15ceb41585cb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
   "title": {
@@ -510,26 +510,26 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-19 19:13:24",
-  "verified": "2026-11-19 19:14:22"
+  "verified": ""
  },
  "biology/cell-theory": {
   "counts": {
-   "done": 46,
+   "done": 6,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 40,
    "total": 46
   },
   "fingerprint": "68d725a30221",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "title": {
    "en": "Cell Theory & Levels of Organization",
    "zh": "细胞学说与结构层次"
   },
-  "updated": "2026-11-19 19:16:06",
-  "verified": "2026-11-19 19:18:02"
+  "updated": "2026-11-19 20:27:08",
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
@@ -540,7 +540,7 @@
    "old": 0,
    "total": 20
   },
-  "fingerprint": "c4a7b6a3aa49",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "title": {
@@ -548,7 +548,7 @@
    "zh": "扩散与渗透"
   },
   "updated": "2026-11-19 19:18:56",
-  "verified": "2026-11-19 19:20:21"
+  "verified": ""
  },
  "biology/cells-review": {
   "counts": {
@@ -578,7 +578,7 @@
    "old": 0,
    "total": 80
   },
-  "fingerprint": "3995a5fa21e1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "title": {
@@ -586,7 +586,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-19 19:08:56",
-  "verified": "2026-11-19 19:10:00"
+  "verified": ""
  },
  "biology/classification": {
   "counts": {
@@ -597,7 +597,7 @@
    "old": 0,
    "total": 22
   },
-  "fingerprint": "0aaa8f85036d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
@@ -616,7 +616,7 @@
    "old": 0,
    "total": 43
   },
-  "fingerprint": "1f454ce1c679",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "title": {
@@ -624,7 +624,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-19 19:22:20",
-  "verified": "2026-11-19 19:23:21"
+  "verified": ""
  },
  "biology/dna": {
   "counts": {
@@ -654,7 +654,7 @@
    "old": 48,
    "total": 48
   },
-  "fingerprint": "ae529e0905e6",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/biology/ecosystems.html",
   "title": {
@@ -673,7 +673,7 @@
    "old": 0,
    "total": 30
   },
-  "fingerprint": "5cfee8b9d137",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "title": {
@@ -681,7 +681,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-19 19:37:08",
-  "verified": "2026-11-19 19:38:16"
+  "verified": ""
  },
  "biology/evolution": {
   "counts": {
@@ -692,7 +692,7 @@
    "old": 6,
    "total": 18
   },
-  "fingerprint": "d729f01890eb",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "title": {
@@ -711,7 +711,7 @@
    "old": 0,
    "total": 28
   },
-  "fingerprint": "1df784df9ba7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "title": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 19:39:48",
-  "verified": "2026-11-19 19:41:08"
+  "verified": ""
  },
  "biology/food-webs": {
   "counts": {
@@ -730,7 +730,7 @@
    "old": 14,
    "total": 14
   },
-  "fingerprint": "d4506bb64300",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/biology/food-webs.html",
   "title": {
@@ -787,7 +787,7 @@
    "old": 0,
    "total": 42
   },
-  "fingerprint": "b5a6dcfbb3c9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "title": {
@@ -795,7 +795,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-19 19:24:39",
-  "verified": "2026-11-19 19:25:44"
+  "verified": ""
  },
  "biology/photosynthesis": {
   "counts": {
@@ -825,7 +825,7 @@
    "old": 24,
    "total": 24
   },
-  "fingerprint": "efa88118a234",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/biology/plants.html",
   "title": {
@@ -882,7 +882,7 @@
    "old": 0,
    "total": 51
   },
-  "fingerprint": "35b008292405",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
   "title": {
@@ -890,7 +890,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-19 19:33:30",
-  "verified": "2026-11-19 19:35:05"
+  "verified": ""
  },
  "chemistry/acids-bases": {
   "counts": {
@@ -1262,7 +1262,7 @@
    "old": 16,
    "total": 16
   },
-  "fingerprint": "b7cc3ae7cf31",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "title": {
@@ -1319,7 +1319,7 @@
    "old": 21,
    "total": 21
   },
-  "fingerprint": "ec8288e718df",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
   "title": {
@@ -1338,7 +1338,7 @@
    "old": 15,
    "total": 15
   },
-  "fingerprint": "1a07bf951b27",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/rocks-minerals.html",
   "title": {
@@ -1357,7 +1357,7 @@
    "old": 16,
    "total": 16
   },
-  "fingerprint": "6e29c403f787",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/soil.html",
   "title": {
@@ -1414,7 +1414,7 @@
    "old": 16,
    "total": 16
   },
-  "fingerprint": "84cce522c04e",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "title": {
