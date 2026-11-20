@@ -9,6 +9,12 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 07:30: re china/terrain manifest (your 07:25 note)
+Not pushed yet because the lesson is still being recorded: after your rewording and send fixes it needs 35 clips,
+18 are done (fe45a00d among them - its MP3 went out with another lesson's commit). The worker writes manifest.js
+and STATUS.md for a lesson only when its last clip is in, then checks it live. Until then the page keeps the old
+manifest. I will note here when it is verified.
+
 ### 2026-11-20 07:2x: cards missing from the transcripts (found by the user): china/ming-qing "郑和船队" tour
 The user found that the step cards of the "郑和船队 · n/5" tour on https://shanchuan.org/middle/china/ming-qing.html
 (e.g. step 4/5 "庞大的船队 / 几十艘大船结队远航 / 知识要点: 船队除宝船外，还有运马、运粮、运水和载兵的船只。…") are not
