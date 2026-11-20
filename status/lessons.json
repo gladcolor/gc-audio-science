@@ -153,21 +153,21 @@
  },
  "astronomy/moon-phases": {
   "counts": {
-   "done": 25,
+   "done": 26,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 1,
+   "old": 0,
    "total": 26
   },
   "fingerprint": "520c061c9df9",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
   "title": {
    "en": "Phases of the Moon",
    "zh": "月相"
   },
-  "updated": "2026-11-19 22:25:28",
+  "updated": "2026-11-19 23:25:31",
   "verified": ""
  },
  "astronomy/night-sky": {
