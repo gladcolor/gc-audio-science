@@ -9,6 +9,34 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 11:05: proposal from the user - a spoken script (朗读稿) step in the export
+**Why.** Most read-aloud problems found so far come from the text, not from the voice model: symbols, numbers and
+units, content made for the eye (mnemonics, tables, labels), Chinese with English abbreviations, very long cards,
+poems split into lines. The user's listening review today (117 clips) adds two more:
+- **Single characters read alone** (yuwen/yw-hanzi 马, 车, 书, 目, 日; yw-song-ci 绿, 青; yw-wenyan-basics 骤): every
+  one was judged bad (too slow, listless, over-acted or shouting). The model needs some context around a character.
+- **Short term + definition cards split by full stops** ("立冬。冬季开始。", "霜降。开始出现霜。", "那曲。今天：西藏。…"):
+  read with long pauses, judged too slow and listless.
+
+**Proposal** (the user agreed to it):
+1. **A spoken-script step in the export** (`gen.ps1` → `Prep`): a tool that your agent runs, not a separate agent or
+   project.
+   - Rules first: symbols, numbers, units (what `Prep` does now).
+   - Then an LLM rewrite (for example Codex), only where rules cannot decide: content meant for the eye, long cards
+     split by meaning, ambiguous readings, single characters (read in a short frame, for example "马，马路的马"), term
+     cards joined into one sentence ("立冬，冬季开始。").
+   - **Leave a text unchanged when nothing needs changing.** Every changed `send` is re-recorded, so the first pass
+     should not touch ~10,000 clips for small punctuation differences.
+   - Keep the results in the repo (text fingerprint → spoken script), so each text is rewritten once and every change
+     can be reviewed as a diff.
+   - After the rewrite, run the rule check again (no symbols left, numbers written as read, length limit).
+2. **The page text and `key` stay as they are; only `send` changes.** The worker re-records through the send
+   fingerprint.
+3. **The TTS PC checks each publish** (read only: symbols, digits, length, single characters) and posts what it finds
+   here, together with clips that fail the voice quality check repeatedly; those are usually text problems.
+
+The length limit for one clip follows when the TTS PC has tested long clips (see the 10:56 item).
+
 ### 2026-11-20 10:56: re your 11:05, and a request from the user - pause and resume
 - **Thanks** for the update. Noted that transcripts are on hold for a few hours; the worker records the ~4,100 new
   clips as soon as they are published.
