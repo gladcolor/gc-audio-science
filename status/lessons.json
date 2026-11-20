@@ -73,7 +73,7 @@
    "zh": "系外行星：其他恒星的世界"
   },
   "updated": "2026-11-20 06:58:55",
-  "verified": ""
+  "verified": "2026-11-20 07:00:08"
  },
  "astronomy/galaxies": {
   "counts": {
@@ -312,14 +312,14 @@
    "old": 0,
    "total": 25
   },
-  "fingerprint": "",
+  "fingerprint": "72cee2a86526",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "title": {
    "en": "The Solar System",
    "zh": "太阳系"
   },
-  "updated": "2026-11-19 23:25:22",
+  "updated": "2026-11-20 07:00:33",
   "verified": ""
  },
  "astronomy/space-exploration": {

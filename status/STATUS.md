@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 06:58:55. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 07:00:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 00:52:42 | 2026-11-20 00:53:56 |
 | astronomy/black-holes | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:47 | 2026-11-20 02:35:04 |
 | astronomy/eclipses | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:34 | 2026-11-19 23:26:35 |
-| astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 06:58:55 |  |
+| astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 06:58:55 | 2026-11-20 07:00:08 |
 | astronomy/galaxies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:24 | 2026-11-19 23:26:27 |
 | astronomy/gravity-orbits | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:26 | 2026-11-19 23:26:29 |
 | astronomy/kepler-laws | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:27:30 | 2026-11-20 02:28:39 |
@@ -20,7 +20,7 @@ Updated 2026-11-20 06:58:55. Labels: finished / in progress / no audio / failed 
 | astronomy/seasons | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:29 | 2026-11-19 23:26:31 |
 | astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-20 02:28:52 | 2026-11-20 02:31:07 |
 | astronomy/small-bodies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:51 | 2026-11-20 02:35:06 |
-| astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 |  |
+| astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-20 07:00:33 |  |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
 | astronomy/star-life | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:30 | 2026-11-20 02:37:28 |
 | astronomy/sun-stars | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 06:54:17 | 2026-11-20 06:55:47 |
