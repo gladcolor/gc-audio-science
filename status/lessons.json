@@ -1236,21 +1236,21 @@
  },
  "earth/earth-layers": {
   "counts": {
-   "done": 0,
+   "done": 14,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 14,
+   "old": 0,
    "total": 14
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "8823e15de145",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/earth/earth-layers.html",
   "title": {
    "en": "Earth’s Layers",
    "zh": "地球的圈层"
   },
-  "updated": "2026-11-19 18:04:23",
+  "updated": "2026-11-19 23:24:54",
   "verified": ""
  },
  "earth/fossils-time": {
