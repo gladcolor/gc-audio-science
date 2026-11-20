@@ -206,7 +206,7 @@
    "zh": "行星实验室：行星与卫星"
   },
   "updated": "2026-11-20 07:32:31",
-  "verified": ""
+  "verified": "2026-11-20 07:34:04"
  },
  "astronomy/rocketry": {
   "counts": {
@@ -1084,21 +1084,21 @@
  },
  "cs/cs-ai": {
   "counts": {
-   "done": 0,
+   "done": 2,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 2,
+   "old": 0,
    "total": 2
   },
   "fingerprint": "494b6481aaaa",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-ai.html",
   "title": {
    "en": "Artificial Intelligence & Machine Learning",
    "zh": "人工智能与机器学习"
   },
-  "updated": "2026-11-19 18:25:09",
+  "updated": "2026-11-20 08:23:43",
   "verified": ""
  },
  "cs/cs-algorithms": {

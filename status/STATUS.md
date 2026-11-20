@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 07:32:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 08:23:43. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-20 07:32:31. Labels: finished / in progress / no audio / failed 
 | astronomy/measuring-distance | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:07:02 |  |
 | astronomy/moon-phases | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:31 | 2026-11-19 23:26:34 |
 | astronomy/night-sky | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:39 | 2026-11-19 23:26:38 |
-| astronomy/planets-moons | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:31 |  |
+| astronomy/planets-moons | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:31 | 2026-11-20 07:34:04 |
 | astronomy/rocketry | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:16:34 | 2026-11-20 02:17:53 |
 | astronomy/scale-universe | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:27 | 2026-11-20 01:37:43 |
 | astronomy/seasons | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:29 | 2026-11-19 23:26:31 |
@@ -61,7 +61,7 @@ Updated 2026-11-20 07:32:31. Labels: finished / in progress / no audio / failed 
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 | 2026-11-20 02:50:22 |
 | chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 | 2026-11-20 02:37:15 |
 | chemistry/states-of-matter | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:11 | 2026-11-20 02:53:09 |
-| cs/cs-ai | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:09 |  |
+| cs/cs-ai | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 08:23:43 |  |
 | cs/cs-algorithms | no audio | 0 | 12 | 6 | 0 | 0 | 2026-11-19 18:24:51 |  |
 | cs/cs-coding | old voice | 0 | 10 | 0 | 0 | 0 | 2026-11-19 18:24:55 |  |
 | cs/cs-computers | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:24:45 |  |
