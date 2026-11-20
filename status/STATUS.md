@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 06:54:21. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 06:58:55. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 00:52:42 | 2026-11-20 00:53:56 |
 | astronomy/black-holes | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:47 | 2026-11-20 02:35:04 |
 | astronomy/eclipses | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:34 | 2026-11-19 23:26:35 |
-| astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:23:03 | 2026-11-20 01:24:13 |
+| astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 06:58:55 |  |
 | astronomy/galaxies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:24 | 2026-11-19 23:26:27 |
 | astronomy/gravity-orbits | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:26 | 2026-11-19 23:26:29 |
 | astronomy/kepler-laws | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:27:30 | 2026-11-20 02:28:39 |
@@ -23,7 +23,7 @@ Updated 2026-11-20 06:54:21. Labels: finished / in progress / no audio / failed 
 | astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 |  |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
 | astronomy/star-life | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:30 | 2026-11-20 02:37:28 |
-| astronomy/sun-stars | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 06:54:17 |  |
+| astronomy/sun-stars | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-20 06:54:17 | 2026-11-20 06:55:47 |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:29:50 | 2026-11-20 02:31:08 |
 | astronomy/tides | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:37 | 2026-11-19 23:26:37 |
 | biology/animals | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:42 | 2026-11-19 23:25:55 |
@@ -33,10 +33,10 @@ Updated 2026-11-20 06:54:21. Labels: finished / in progress / no audio / failed 
 | biology/cell-organelles | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:07 | 2026-11-19 22:42:21 |
 | biology/cell-theory | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-19 22:41:10 | 2026-11-19 22:42:24 |
 | biology/cell-transport | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 20:49:27 | 2026-11-19 20:50:45 |
-| biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-20 06:53:43 |  |
+| biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-20 06:53:43 | 2026-11-20 06:55:45 |
 | biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 | 2026-11-19 22:19:39 |
 | biology/classification | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 06:51:10 | 2026-11-20 06:52:30 |
-| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 06:54:21 |  |
+| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-20 06:54:21 | 2026-11-20 06:55:50 |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:33 | 2026-11-19 23:04:55 |
 | biology/ecosystems | finished | 48 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:49 | 2026-11-19 23:26:00 |
 | biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:44 | 2026-11-19 22:51:43 |
