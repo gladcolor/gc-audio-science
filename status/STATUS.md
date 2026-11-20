@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:29:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:32:40. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -18,13 +18,13 @@ Updated 2026-11-20 02:29:50. Labels: finished / in progress / no audio / failed 
 | astronomy/rocketry | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:16:34 | 2026-11-20 02:17:53 |
 | astronomy/scale-universe | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:27 | 2026-11-20 01:37:43 |
 | astronomy/seasons | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:29 | 2026-11-19 23:26:31 |
-| astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-20 02:28:52 |  |
+| astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-20 02:28:52 | 2026-11-20 02:31:07 |
 | astronomy/small-bodies | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:07:56 |  |
 | astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 | 2026-11-19 23:27:49 |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
 | astronomy/star-life | in progress | 103 | 13 | 0 | 0 | 0 | 2026-11-19 22:40:31 |  |
 | astronomy/sun-stars | old voice | 0 | 21 | 0 | 0 | 0 | 2026-11-19 18:05:39 |  |
-| astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:29:50 |  |
+| astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:29:50 | 2026-11-20 02:31:08 |
 | astronomy/tides | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:37 | 2026-11-19 23:26:37 |
 | biology/animals | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:42 | 2026-11-19 23:25:55 |
 | biology/body-systems | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:45 | 2026-11-19 23:27:44 |
@@ -87,7 +87,7 @@ Updated 2026-11-20 02:29:50. Labels: finished / in progress / no audio / failed 
 | physics/light | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:49 |  |
 | physics/magnetism | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:59 |  |
 | physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 | 2026-11-20 01:37:40 |
-| physics/newtons-laws | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:14 |  |
+| physics/newtons-laws | in progress | 15 | 1 | 0 | 0 | 0 | 2026-11-20 02:32:40 |  |
 | physics/simple-machines | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:36 | 2026-11-20 01:37:44 |
 | physics/sound | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:08:44 |  |
 | physics/waves | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:38 |  |

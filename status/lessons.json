@@ -282,7 +282,7 @@
    "zh": "天象馆：今晚的星空"
   },
   "updated": "2026-11-20 02:28:52",
-  "verified": ""
+  "verified": "2026-11-20 02:31:07"
  },
  "astronomy/small-bodies": {
   "counts": {
@@ -396,7 +396,7 @@
    "zh": "望远镜与看不见的光"
   },
   "updated": "2026-11-20 02:29:50",
-  "verified": ""
+  "verified": "2026-11-20 02:31:08"
  },
  "astronomy/tides": {
   "counts": {
@@ -1578,21 +1578,21 @@
  },
  "physics/newtons-laws": {
   "counts": {
-   "done": 0,
+   "done": 15,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 16,
+   "old": 1,
    "total": 16
   },
-  "fingerprint": "73f7ca9edb7f",
-  "label": "old voice",
+  "fingerprint": "6157218c4d04",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/newtons-laws.html",
   "title": {
    "en": "Newton’s Laws of Motion",
    "zh": "牛顿运动定律"
   },
-  "updated": "2026-11-19 18:08:14",
+  "updated": "2026-11-20 02:32:40",
   "verified": ""
  },
  "physics/simple-machines": {
