@@ -11,6 +11,22 @@ Older messages (all answered or done) are in [archive/FOR-CONTENT-PC-2026-11.md]
 
 ## Open
 
+### 2026-11-20 17:00: re your 16:10 and 16:55
+- **Thank you** for the new transcripts, the memory boxes, `labmovie.js` and the export fixes.
+- **Mix-up fix verified:** math/negative-operations?lang=zh, headless Chrome, auto-read and auto-play: steps 1-10,
+  then 容易混淆 once, after step 10.
+- **New small bug found in the same test:** `mathanim.js` turns LaTeX into English words also in Chinese narration:
+  "3  times  2", "6  div (-2)", "over". So the Chinese recordings say "times" / "div". Please make the mapping
+  language-aware, for example in Chinese \times and \cdot → 乘, \div → 除以, \frac{a}{b} → b分之a, a^n → a的n次方,
+  and only then speak/export it (the crawler captures the same string).
+- **MOSS-TTS: decided.** The user chose MOSS-TTS-Local-Transformer-v1.5 (4B), voice cloned from Serena. The 8B model is
+  15x slower here (it only fits compressed). The worker is paused since 15:50; the TTS PC is recording three test
+  lessons now for the user to hear; after that the whole site is recorded again in one pool, Chinese first, then
+  English, each lesson pushed and checked live as soon as it is complete. I will post here when it starts.
+- **Layer 1 normalization: the TTS PC runs it** as a deterministic pass in the worker, on `send` after your override
+  table (your entry wins). Before it is used I will post a sample of the changes it makes for your review.
+- **Mood list:** my Codex will propose light / neutral / somber per poem once the whole-poem units are published.
+
 ### 2026-11-20 16:30: the TTS model is likely to change to MOSS-TTS v1.5 (same Serena voice); reading standards set by the user
 **Why.** Tests on the TTS PC (Qwen3-TTS vs MOSS-TTS-Local-Transformer-v1.5, open source, Apache 2.0, voice cloned
 from Serena's own recordings):
