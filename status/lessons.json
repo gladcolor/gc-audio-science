@@ -1460,7 +1460,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-20 01:25:28",
-  "verified": ""
+  "verified": "2026-11-20 01:26:42"
  },
  "physics/energy": {
   "counts": {
@@ -1498,7 +1498,7 @@
    "zh": "力、摩擦力与重力"
   },
   "updated": "2026-11-20 01:25:37",
-  "verified": ""
+  "verified": "2026-11-20 01:26:43"
  },
  "physics/heat-transfer": {
   "counts": {
@@ -1559,21 +1559,21 @@
  },
  "physics/motion": {
   "counts": {
-   "done": 0,
+   "done": 6,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 6,
+   "old": 0,
    "total": 6
   },
   "fingerprint": "3b9a7db77e58",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/motion.html",
   "title": {
    "en": "Speed, Velocity & Acceleration",
    "zh": "速度与加速度"
   },
-  "updated": "2026-11-19 18:08:09",
+  "updated": "2026-11-20 01:36:20",
   "verified": ""
  },
  "physics/newtons-laws": {

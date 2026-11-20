@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 01:25:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 01:36:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -80,13 +80,13 @@ Updated 2026-11-20 01:25:37. Labels: finished / in progress / no audio / failed 
 | earth/water-cycle | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:08 | 2026-11-19 23:26:14 |
 | earth/weather | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:15 | 2026-11-19 23:27:47 |
 | earth/weathering-erosion | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:01 | 2026-11-19 23:26:08 |
-| physics/electricity | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:28 |  |
+| physics/electricity | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:28 | 2026-11-20 01:26:42 |
 | physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 | 2026-11-20 01:16:16 |
-| physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 |  |
+| physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 | 2026-11-20 01:26:43 |
 | physics/heat-transfer | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:08:33 |  |
 | physics/light | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:49 |  |
 | physics/magnetism | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:59 |  |
-| physics/motion | old voice | 0 | 6 | 0 | 0 | 0 | 2026-11-19 18:08:09 |  |
+| physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 |  |
 | physics/newtons-laws | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:14 |  |
 | physics/simple-machines | in progress | 15 | 5 | 0 | 0 | 0 | 2026-11-19 23:01:56 |  |
 | physics/sound | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:08:44 |  |
