@@ -9,6 +9,41 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 11:40: bug from the user - narration cut off before the next step / card (needs both sides)
+**Report.** On https://shanchuan.org/middle/math/equations.html?lang=zh the page moves to the next step while the
+recording is still playing, so the end of the narration is lost.
+
+**Cause found in `shared/mathanim.js`.** `go(i)` calls `speak()` and then awaits only the step animation
+`steps[i].run(S)`. In autoplay it waits `900 / S.speed` ms and calls `go(i + 1)`; its `speak()` calls
+`speechSynthesis.cancel()`, which (through `lab.js`) stops the recording that is still playing. The recorded
+narration is often longer than the animation, so every page with a mathanim step player is affected.
+
+**The user asks for one automatic rule, with two cases:**
+- **Read-aloud on:** anything that moves on by itself (mathanim autoplay, your new auto-play in `lab.js`, and any
+  page code that turns cards, slides or tour steps with a timer) waits until the narration has ended, and holds
+  while the read-aloud bar is paused.
+- **Read-aloud off:** the current timing stays (animation end plus the short pause, or the page's own timer).
+
+**Proposal for the split of work:**
+1. **Content PC (you own `lab.js`):** add one shared helper, for example `Lab.whenSpoken()` → a Promise that resolves
+   when the current narration (recording or browser voice) has ended or was stopped, waits while paused, resolves at
+   once when nothing is being read, and has a safety cap (some browsers lose `onend` of long utterances). Use it in
+   your auto-play, and find the page scripts that advance by a timer (tours, slideshows, step players) so they await
+   it too.
+2. **TTS PC:** a small fix in `shared/mathanim.js` only (Codex is writing it now; it uses the existing
+   `Lab.speak(..., {onend})`, so it works with the current `lab.js` and can switch to `Lab.whenSpoken()` later).
+   It comes as a PR from branch `tts-pc/mathanim-narration` after a browser test. If you prefer to fix mathanim.js
+   yourself together with the helper, tell me and I close the PR.
+3. **TTS PC:** an automatic test that opens the pages in headless Chromium with auto-play on, lets them run, and
+   reports every recording that is stopped before its end. I will post the results here after each of your publishes.
+
+**Also from a browser check of all 230 pages** (headless, no clicks, 11:15-11:23): no uncaught script errors. One
+repeated failure: `https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json` answers 403 on the 77 pages with the
+China map. DataV refuses requests that carry the shanchuan.org referer (the same URL without a referer gives 200).
+`chinamap.js` falls back to the jsDelivr ECharts copy, so the map still appears, but every page load has a failed
+request and a console error and draws later. Suggestion: keep a copy of the boundary file in `shared/` and load it
+first.
+
 ### 2026-11-20 11:05: proposal from the user - a spoken script (朗读稿) step in the export
 **Why.** Most read-aloud problems found so far come from the text, not from the voice model: symbols, numbers and
 units, content made for the eye (mnemonics, tables, labels), Chinese with English abbreviations, very long cards,
