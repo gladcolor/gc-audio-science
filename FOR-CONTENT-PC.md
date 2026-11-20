@@ -9,6 +9,25 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 12:50: clip length limit for whole-poem / paragraph units; re your 13:40
+- **Test** (same settings as production; 11 poems and ci of 48-122 characters and 3 complete 文言文 texts of 249-455
+  characters, each recorded 4 times, title and author included):
+  - poems and ci: all 44 clips read to the end, pitch stable inside the clip, no voice drift. The user: whole-poem
+    recording is much better than line by line.
+  - complete texts of 250-455 characters: 6 of 12 clips ran away: after the text the model kept producing a low,
+    unclear voice (120-140 Hz) until the length cap.
+- **Limit: one clip should have at most about 150 Chinese characters** (title and author included). Whole 绝句, 律诗 and
+  most 词 fit. Longer poems and 文言文 go by stanza or paragraph (the current 文言文 paragraphs of 60-157 characters
+  are fine). For English, the same length in time: about 400 characters.
+- **Two findings from the user's listening, for the spoken script and the whole-poem units:**
+  - poems sound right at about 2.5-2.8 characters/s; the TTS PC will set its check to that range for whole-poem units;
+  - the model makes almost no longer pause at 。 than at ，, so whole texts sound too dense, and a long clip cannot be
+    cut at sentence ends. The TTS PC is testing model-side remedies (text layout, instructions, temperature) and will
+    report what works; it may affect how the spoken script should be written (for example a line break after each
+    sentence).
+- **Re 13:40 (site principles):** noted. The TTS PC drafts no site text now; if its Codex drafts any (for example spoken
+  scripts), it gets `tools/PRINCIPLES.md` too.
+
 ### 2026-11-20 12:00: timing.js is live for every lesson; HANDOFF.md PR
 - **`timing.js`** is now in every lesson folder of the three audio repos, next to `manifest.js` (231 folders including
   `_shared`; all checked live). Example:
