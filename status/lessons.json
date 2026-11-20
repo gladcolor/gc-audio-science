@@ -989,21 +989,21 @@
  },
  "chemistry/elements-compounds": {
   "counts": {
-   "done": 7,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 13,
+   "old": 0,
    "total": 20
   },
   "fingerprint": "d1ec50617586",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
   "title": {
    "en": "Elements, Compounds & Mixtures",
    "zh": "元素、化合物与混合物"
   },
-  "updated": "2026-11-20 01:13:44",
+  "updated": "2026-11-20 02:58:13",
   "verified": ""
  },
  "chemistry/periodic-table": {
@@ -1023,7 +1023,7 @@
    "zh": "元素周期表"
   },
   "updated": "2026-11-20 02:51:51",
-  "verified": ""
+  "verified": "2026-11-20 02:53:19"
  },
  "chemistry/reactions": {
   "counts": {
@@ -1080,7 +1080,7 @@
    "zh": "物质的状态"
   },
   "updated": "2026-11-20 02:51:11",
-  "verified": ""
+  "verified": "2026-11-20 02:53:09"
  },
  "cs/cs-ai": {
   "counts": {
@@ -1555,7 +1555,7 @@
    "zh": "磁与电磁铁"
   },
   "updated": "2026-11-20 02:51:20",
-  "verified": ""
+  "verified": "2026-11-20 02:53:10"
  },
  "physics/motion": {
   "counts": {

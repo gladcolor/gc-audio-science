@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:51:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:58:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -56,11 +56,11 @@ Updated 2026-11-20 02:51:51. Labels: finished / in progress / no audio / failed 
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
 | chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 | 2026-11-20 02:42:36 |
 | chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
-| chemistry/elements-compounds | in progress | 7 | 13 | 0 | 0 | 0 | 2026-11-20 01:13:44 |  |
-| chemistry/periodic-table | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:51 |  |
+| chemistry/elements-compounds | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 02:58:13 |  |
+| chemistry/periodic-table | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:51 | 2026-11-20 02:53:19 |
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 | 2026-11-20 02:50:22 |
 | chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 | 2026-11-20 02:37:15 |
-| chemistry/states-of-matter | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:11 |  |
+| chemistry/states-of-matter | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:11 | 2026-11-20 02:53:09 |
 | cs/cs-ai | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:09 |  |
 | cs/cs-algorithms | no audio | 0 | 12 | 6 | 0 | 0 | 2026-11-19 18:24:51 |  |
 | cs/cs-coding | old voice | 0 | 10 | 0 | 0 | 0 | 2026-11-19 18:24:55 |  |
@@ -85,7 +85,7 @@ Updated 2026-11-20 02:51:51. Labels: finished / in progress / no audio / failed 
 | physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 | 2026-11-20 01:26:43 |
 | physics/heat-transfer | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:55 | 2026-11-20 02:35:07 |
 | physics/light | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:43:28 | 2026-11-20 02:44:37 |
-| physics/magnetism | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:20 |  |
+| physics/magnetism | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:20 | 2026-11-20 02:53:10 |
 | physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 | 2026-11-20 01:37:40 |
 | physics/newtons-laws | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:07 | 2026-11-20 02:35:09 |
 | physics/simple-machines | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:36 | 2026-11-20 01:37:44 |
