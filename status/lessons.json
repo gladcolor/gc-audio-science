@@ -761,21 +761,21 @@
  },
  "biology/microorganisms": {
   "counts": {
-   "done": 11,
+   "done": 26,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 15,
+   "old": 0,
    "total": 26
   },
-  "fingerprint": "",
-  "label": "in progress",
+  "fingerprint": "aaf9fbdf3892",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "title": {
    "en": "Microorganisms",
    "zh": "微生物"
   },
-  "updated": "2026-11-19 20:48:23",
+  "updated": "2026-11-19 23:24:35",
   "verified": ""
  },
  "biology/osmosis": {
