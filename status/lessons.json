@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 20:43:22",
-  "verified": ""
+  "verified": "2026-11-19 20:45:30"
  },
  "biology/cell-division": {
   "counts": {
@@ -510,7 +510,7 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-19 20:44:07",
-  "verified": ""
+  "verified": "2026-11-19 20:45:32"
  },
  "biology/cell-theory": {
   "counts": {
@@ -761,21 +761,21 @@
  },
  "biology/microorganisms": {
   "counts": {
-   "done": 13,
+   "done": 11,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 13,
+   "old": 15,
    "total": 26
   },
-  "fingerprint": "",
+  "fingerprint": "a22c48923e86",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "title": {
    "en": "Microorganisms",
    "zh": "微生物"
   },
-  "updated": "2026-11-19 18:03:20",
+  "updated": "2026-11-19 20:48:23",
   "verified": ""
  },
  "biology/osmosis": {
