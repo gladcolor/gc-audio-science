@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 09:55:45. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 09:56:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-20 09:55:45. Labels: finished / in progress / no audio / failed 
 | astronomy/galaxies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:24 | 2026-11-19 23:26:27 |
 | astronomy/gravity-orbits | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:26 | 2026-11-19 23:26:29 |
 | astronomy/kepler-laws | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 02:27:30 | 2026-11-20 02:28:39 |
-| astronomy/measuring-distance | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 09:55:45 |  |
+| astronomy/measuring-distance | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-20 09:55:45 | 2026-11-20 09:56:29 |
 | astronomy/moon-phases | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:31 | 2026-11-19 23:26:34 |
 | astronomy/night-sky | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:39 | 2026-11-19 23:26:38 |
 | astronomy/planets-moons | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:32:31 | 2026-11-20 07:34:04 |
@@ -50,7 +50,7 @@ Updated 2026-11-20 09:55:45. Labels: finished / in progress / no audio / failed 
 | biology/photosynthesis | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:37 | 2026-11-19 23:25:50 |
 | biology/plants | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-19 23:24:40 | 2026-11-19 23:25:52 |
 | biology/protein-synthesis | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:03:36 | 2026-11-19 23:04:57 |
-| biology/reproduction | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 09:55:42 |  |
+| biology/reproduction | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 09:55:42 | 2026-11-20 09:56:29 |
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
 | chemistry/acids-bases | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-20 03:05:49 | 2026-11-20 03:07:17 |
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 07:06:56 | 2026-11-20 07:08:06 |
