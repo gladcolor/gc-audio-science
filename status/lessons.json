@@ -438,21 +438,21 @@
  },
  "biology/body-systems": {
   "counts": {
-   "done": 0,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 2,
-   "old": 36,
+   "old": 26,
    "total": 38
   },
   "fingerprint": "b163fe26d378",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/body-systems.html",
   "title": {
    "en": "Human Body Systems",
    "zh": "人体系统"
   },
-  "updated": "2026-11-19 18:03:45",
+  "updated": "2026-11-19 19:40:59",
   "verified": ""
  },
  "biology/cell-city": {
