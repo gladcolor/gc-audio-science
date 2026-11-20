@@ -1118,7 +1118,7 @@
    "zh": "算法：排序与查找"
   },
   "updated": "2026-11-20 08:51:33",
-  "verified": ""
+  "verified": "2026-11-20 08:53:42"
  },
  "cs/cs-coding": {
   "counts": {
@@ -1141,21 +1141,21 @@
  },
  "cs/cs-computers": {
   "counts": {
-   "done": 0,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 0,
    "total": 18
   },
-  "fingerprint": "68105def67be",
-  "label": "old voice",
+  "fingerprint": "2521949c929a",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-computers.html",
   "title": {
    "en": "How Computers Work",
    "zh": "计算机是怎样工作的"
   },
-  "updated": "2026-11-19 18:24:45",
+  "updated": "2026-11-20 09:00:03",
   "verified": ""
  },
  "cs/cs-data-crypto": {
@@ -1194,7 +1194,7 @@
    "zh": "互联网是怎样工作的"
   },
   "updated": "2026-11-20 08:51:06",
-  "verified": ""
+  "verified": "2026-11-20 08:53:40"
  },
  "cs/cs-safety": {
   "counts": {
@@ -1213,7 +1213,7 @@
    "zh": "网络安全与数字公民"
   },
   "updated": "2026-11-20 08:50:59",
-  "verified": ""
+  "verified": "2026-11-20 08:53:39"
  },
  "earth/atmosphere": {
   "counts": {
