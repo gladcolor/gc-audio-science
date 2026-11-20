@@ -153,11 +153,11 @@
  },
  "astronomy/moon-phases": {
   "counts": {
-   "done": 8,
+   "done": 25,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 1,
    "total": 26
   },
   "fingerprint": "520c061c9df9",
@@ -167,7 +167,7 @@
    "en": "Phases of the Moon",
    "zh": "月相"
   },
-  "updated": "2026-11-19 22:04:18",
+  "updated": "2026-11-19 22:25:28",
   "verified": ""
  },
  "astronomy/night-sky": {
@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 22:18:15",
-  "verified": ""
+  "verified": "2026-11-19 22:19:47"
  },
  "biology/cell-division": {
   "counts": {
@@ -529,7 +529,7 @@
    "zh": "细胞学说与结构层次"
   },
   "updated": "2026-11-19 22:18:12",
-  "verified": ""
+  "verified": "2026-11-19 22:19:42"
  },
  "biology/cell-transport": {
   "counts": {
@@ -586,7 +586,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-19 22:17:54",
-  "verified": ""
+  "verified": "2026-11-19 22:19:39"
  },
  "biology/classification": {
   "counts": {
@@ -624,7 +624,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-19 22:18:17",
-  "verified": ""
+  "verified": "2026-11-19 22:19:51"
  },
  "biology/dna": {
   "counts": {
@@ -795,7 +795,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-19 22:18:20",
-  "verified": ""
+  "verified": "2026-11-19 22:19:54"
  },
  "biology/photosynthesis": {
   "counts": {

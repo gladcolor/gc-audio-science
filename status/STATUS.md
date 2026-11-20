@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 22:18:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 22:25:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Updated 2026-11-19 22:18:20. Labels: finished / in progress / no audio / failed 
 | astronomy/gravity-orbits | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:05:50 |  |
 | astronomy/kepler-laws | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:07:37 |  |
 | astronomy/measuring-distance | old voice | 0 | 4 | 0 | 0 | 0 | 2026-11-19 18:07:02 |  |
-| astronomy/moon-phases | in progress | 8 | 18 | 0 | 0 | 0 | 2026-11-19 22:04:18 |  |
+| astronomy/moon-phases | in progress | 25 | 1 | 0 | 0 | 0 | 2026-11-19 22:25:28 |  |
 | astronomy/night-sky | old voice | 0 | 25 | 0 | 0 | 0 | 2026-11-19 18:06:20 |  |
 | astronomy/planets-moons | old voice | 0 | 32 | 0 | 0 | 0 | 2026-11-19 18:07:50 |  |
 | astronomy/rocketry | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:07:43 |  |
@@ -28,15 +28,15 @@ Updated 2026-11-19 22:18:20. Labels: finished / in progress / no audio / failed 
 | astronomy/tides | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:06:15 |  |
 | biology/animals | old voice | 0 | 22 | 0 | 0 | 0 | 2026-11-19 18:03:37 |  |
 | biology/body-systems | in progress | 10 | 26 | 2 | 0 | 0 | 2026-11-19 19:40:59 |  |
-| biology/cell-city | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:15 |  |
+| biology/cell-city | finished | 66 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:15 | 2026-11-19 22:19:47 |
 | biology/cell-division | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 18:39:36 |  |
 | biology/cell-organelles | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 20:44:07 |  |
-| biology/cell-theory | finished | 46 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:12 |  |
+| biology/cell-theory | finished | 46 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:12 | 2026-11-19 22:19:42 |
 | biology/cell-transport | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-19 20:49:27 | 2026-11-19 20:50:45 |
 | biology/cells-review | in progress | 117 | 40 | 0 | 0 | 0 | 2026-11-19 20:52:41 |  |
-| biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 |  |
+| biology/characteristics-of-life | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-19 22:17:54 | 2026-11-19 22:19:39 |
 | biology/classification | in progress | 12 | 10 | 0 | 0 | 0 | 2026-11-19 21:06:36 |  |
-| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:17 |  |
+| biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:17 | 2026-11-19 22:19:51 |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 18:41:52 |  |
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
 | biology/endocytosis | in progress | 3 | 27 | 0 | 0 | 0 | 2026-11-19 20:29:08 |  |
@@ -45,7 +45,7 @@ Updated 2026-11-19 22:18:20. Labels: finished / in progress / no audio / failed 
 | biology/food-webs | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:03:51 |  |
 | biology/heredity | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-19 18:03:03 |  |
 | biology/microorganisms | in progress | 11 | 15 | 0 | 0 | 0 | 2026-11-19 20:48:23 |  |
-| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:20 |  |
+| biology/osmosis | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-19 22:18:20 | 2026-11-19 22:19:54 |
 | biology/photosynthesis | in progress | 1 | 17 | 0 | 0 | 0 | 2026-11-19 18:03:26 |  |
 | biology/plants | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:03:32 |  |
 | biology/protein-synthesis | in progress | 9 | 9 | 0 | 0 | 0 | 2026-11-19 18:02:57 |  |
