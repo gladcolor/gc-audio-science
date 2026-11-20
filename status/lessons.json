@@ -548,7 +548,7 @@
    "zh": "扩散与渗透"
   },
   "updated": "2026-11-19 19:18:56",
-  "verified": ""
+  "verified": "2026-11-19 19:20:21"
  },
  "biology/cells-review": {
   "counts": {
@@ -609,21 +609,21 @@
  },
  "biology/diffusion": {
   "counts": {
-   "done": 43,
+   "done": 42,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 43
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "1f454ce1c679",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "title": {
    "en": "Diffusion in the Body",
    "zh": "人体中的扩散"
   },
-  "updated": "2026-11-19 17:58:49",
+  "updated": "2026-11-19 19:22:14",
   "verified": ""
  },
  "biology/dna": {
