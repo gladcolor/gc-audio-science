@@ -1407,21 +1407,21 @@
  },
  "earth/weathering-erosion": {
   "counts": {
-   "done": 0,
+   "done": 16,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 16,
+   "old": 0,
    "total": 16
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "e9fe65a50f2c",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "title": {
    "en": "Weathering, Erosion & Deposition",
    "zh": "风化、侵蚀与沉积"
   },
-  "updated": "2026-11-19 18:04:41",
+  "updated": "2026-11-19 23:25:01",
   "verified": ""
  },
  "physics/electricity": {
