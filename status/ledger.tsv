@@ -1226,11 +1226,14 @@ zh	1665b945	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:53	tts
 zh	2dab181e	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:11	tts	4ac00bff21
 zh	432f5285	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	a8d6780d93
 zh	45bff887	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:52	tts	8922e8b4fe
+zh	53a0ed3c	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:54:00	tts	c58d7cde12
 zh	54521d14	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:55	tts	44a4960a5f
 zh	5fbe7be2	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:49	tts	a1e0d74c0e
 zh	86c1e7e7	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:52:28	tts	e18dd4220f
+zh	9b158f94	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:57:27	tts	acb666308d
 zh	b343dec6	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:11	tts	41d335ae2b
 zh	bc177e32	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:54	tts	50e019d712
+zh	c952c7e8	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:52:53	tts	05b4588582
 zh	dd678b85	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:49:04	tts	a6183441f1
 zh	e0ae3629	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:50	tts	62d92618f4
 en	0b64934d	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:37:17	tts	
@@ -1471,27 +1474,49 @@ zh	0ad6799e	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:26	tts	1a353
 zh	0bd92564	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:26	tts	0df14fc42a
 zh	2037b1b4	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:30	tts	cf9ff69137
 zh	2cb221bc	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:24	tts	15356bfec4
+zh	337afbac	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:49	tts	4742560973
 zh	76247cb6	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:30	tts	fd1ae2428e
 zh	8cd9968c	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:29	tts	2181764ba9
 zh	90371d15	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:07	tts	ffbad25862
 zh	9500ed08	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:25	tts	a3c5256d71
 zh	aa5676b5	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:06	tts	ca9e356194
+zh	ad61e86a	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:49	tts	ad6d88952c
 zh	beea2e71	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:27	tts	def36e061a
 zh	f856bc71	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:31	tts	6dbb9c4c59
 zh	fe6c3b4d	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:07	tts	c32fca9155
+zh	1a2d5ddf	chemistry/elements-compounds	serena t0.5 -16LUFS	48	2026-11-20 00:57:25	tts	1a2b115eee
+zh	4a1e8ea8	chemistry/elements-compounds	serena t0.5 -16LUFS	48	2026-11-20 00:57:26	tts	bc8cf55e77
 zh	26aeeef3	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	93844ad58e
+zh	2fa22d60	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:02	tts	46e33c6b71
+zh	4c30ffb2	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:01	tts	875e23e4b6
+zh	59a44ccb	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:01	tts	593e9a6688
+zh	5a5fa69e	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:02	tts	8656852cca
 zh	68603359	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	ddf1d33df1
+zh	755c58a3	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:00	tts	935bd01324
 zh	7a45ffa8	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	d18ad37b75
+zh	7e56c22c	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:00	tts	801b008322
 zh	82b9b0d1	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	76a9a37819
 zh	88b55c1d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:12	tts	75037fda87
+zh	8df5fc31	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:03	tts	787b1b4671
+zh	a6ec5b3c	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:03	tts	5bb70f68ad
+zh	be0bd510	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:04	tts	4abcb3dda1
 zh	c076ae54	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:06	tts	c6067be092
 zh	c1645d6a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:10	tts	bb42871652
 zh	cf12953a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	aa9b5bdd1d
 zh	dcc1248a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:10	tts	8593146a72
 zh	ee7c439d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:13	tts	d7a7ec9a9d
 zh	f4087563	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:09	tts	5b144297ad
+zh	fb35e96a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:54:04	tts	63c72d8260
 zh	fce0a23d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:13	tts	1f3e8dd7ca
+zh	0d16e55a	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:47	tts	736c125e12
+zh	16a5c060	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:48	tts	35817ec1a7
+zh	591abda2	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:50	tts	296f49d09a
+zh	79b4b0a0	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:48	tts	ea894620ee
 zh	8cdb7cd6	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:40	tts	13290522cc
+zh	a2674e6b	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:52	tts	200a649c34
+zh	c09684ae	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:53	tts	7fe0b2facd
+zh	cc0cfff0	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:51	tts	dbf5e4977e
+zh	f0b17e88	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:52	tts	bb41b48534
 en	174c594c	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:22:48	tts	
 en	25c08ab9	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:20:30	tts	
 en	28a208be	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:05:59	tts	

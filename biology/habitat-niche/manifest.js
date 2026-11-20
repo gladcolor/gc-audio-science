@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "biology/habitat-niche", "voice": "serena", "en": "008345d8 2ed1567e 3f59bd7e 513f9a3f 51c45d8d 70f8590b 7a20cb3d 8b55e7b6 98b16f6e b0d05597 b68153a8 e2055712 e22bd8b9 e640735b ffd39527", "zh": "03f0872d 2dab181e 432f5285 b343dec6"});
+LabAudioManifest({"lesson": "biology/habitat-niche", "voice": "serena", "en": "008345d8 2ed1567e 3f59bd7e 513f9a3f 51c45d8d 70f8590b 7a20cb3d 8b55e7b6 98b16f6e b0d05597 b68153a8 e2055712 e22bd8b9 e640735b ffd39527", "zh": "03f0872d 1665b945 2dab181e 432f5285 45bff887 53a0ed3c 54521d14 5fbe7be2 86c1e7e7 9b158f94 b343dec6 bc177e32 c952c7e8 dd678b85 e0ae3629"});

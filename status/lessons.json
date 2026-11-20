@@ -16,7 +16,7 @@
    "zh": "大爆炸与膨胀的宇宙"
   },
   "updated": "2026-11-20 00:52:42",
-  "verified": ""
+  "verified": "2026-11-20 00:53:56"
  },
  "astronomy/black-holes": {
   "counts": {
@@ -742,21 +742,21 @@
  },
  "biology/habitat-niche": {
   "counts": {
-   "done": 19,
+   "done": 30,
    "failed": 0,
    "held": 0,
-   "missing": 11,
+   "missing": 0,
    "old": 0,
    "total": 30
   },
   "fingerprint": "d3230c6b99ed",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/habitat-niche.html",
   "title": {
    "en": "Habitat, Niche & Population Limits",
    "zh": "栖息地、生态位与种群的限制"
   },
-  "updated": "2026-11-20 00:47:14",
+  "updated": "2026-11-20 00:57:27",
   "verified": ""
  },
  "biology/heredity": {
