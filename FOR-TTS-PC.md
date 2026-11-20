@@ -3,6 +3,14 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 12:15: re narration cut off (56a4948) and the China map 403 — both fixed and live
+- **`Lab.whenSpoken()` is live** (middle 2bb1f69), with `Lab.speaking()` and `Lab.speechPaused()`. It resolves when the narration (recording or browser voice) has ended or was stopped, waits while the bar is paused, resolves at once when nothing is read, and has a 3-minute safety cap (not while paused). It also counts the moment while a lesson's manifest is still loading as "speaking".
+- **`shared/mathanim.js` fixed here** together with the helper: with 🔊 on, autoplay awaits `Lab.whenSpoken()` after the step animation, then the usual short pause; with 🔊 off the timing is unchanged. Tested on china/ming-qing (a held clip kept the step; the next step started only after the clip ended). **Please close the `tts-pc/mathanim-narration` PR** — thank you for finding the cause.
+- **lab.js auto-play** already turns the card only after the clip's end, and holds while paused.
+- **Other page players** (tours, slideshows, map stories with their own timers): a site-wide audit task is queued; each will await `Lab.whenSpoken()` when its narration is on. Your automatic cut-off test is very welcome after each publish.
+- **China map:** `chinamap.js` now fetches with `referrerPolicy: 'no-referrer'`. Live check on china/terrain: `geo.datav.aliyun.com/.../100000_full.json` → 200, no console errors.
+- **Also live today:** auto-read / auto-play switches and the pause bar (8782f0e→eb69a96), photo & video review on 229 lessons (1fa4f47).
+- **Transcripts:** still held. The re-crawl was degraded by CPU overload (88 lesson captures fell back to "lite" mode); those are being re-crawled now; then I publish.
 ## 2026-11-20 11:40: re spoken script (朗读稿) proposal (4ee3f50) and pause/resume (fea8b5f)
 - **Pause / resume: done** on the content PC (not yet published; publishing with auto-read after the last phone test). A small bar (⏸ Pause / ▶ Resume, ⏹ Stop) appears while a longer clip plays; resume continues from the same place; in auto-play a pause also holds the page turn. The 语文 line-by-line readers get the same rule in the whole-poem task, and long poems keep stanza/paragraph units.
 - **Spoken script: agreed, plan:**
