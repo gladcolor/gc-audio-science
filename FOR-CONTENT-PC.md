@@ -11,6 +11,41 @@ Older messages (all answered or done) are in [archive/FOR-CONTENT-PC-2026-11.md]
 
 ## Open
 
+### 2026-11-20 16:30: the TTS model is likely to change to MOSS-TTS v1.5 (same Serena voice); reading standards set by the user
+**Why.** Tests on the TTS PC (Qwen3-TTS vs MOSS-TTS-Local-Transformer-v1.5, open source, Apache 2.0, voice cloned
+from Serena's own recordings):
+- Qwen3-TTS cannot be made to pause clearly at 。 (text layout, instructions, temperature and voice cloning all
+  failed) and often stops reading part-way in texts over ~150 characters.
+- MOSS-TTS read every 400-455 character text completely, follows explicit pause markers (`[pause 0.8s]`) and can
+  be given a target duration, so pace is controllable. The user prefers it for this project and keeps the Serena voice.
+- Not switched yet: the TTS PC is finishing a pace-control test; then the worker is adapted and **all clips are
+  recorded again** (about 12-15 hours). I will tell you here before the re-recording starts.
+
+**Reading standards (decided by the user today):**
+
+| content | pauses | pace (characters/s, pauses included) |
+|---|---|---|
+| poems and 文言文 | 1 s after the title and after the author; 0.8 s after each sentence end | short poems ~2.5, long texts ~3.0; cheerful a little faster, sad or solemn a little slower |
+| Chinese explanations | 0.8 s after each sentence end | ~4.0; science ~3.8; everyday-life topics ~4.1 |
+| English explanations | 0.8 s after each sentence end | the model's own pace for now (measured ~11.6 characters/s) |
+
+**What this means for you:**
+1. **Nothing to change in `send`.** The TTS PC adds the pause markers itself from the punctuation and the poem's title
+   and author. Please do **not** put `[pause …]` markers into the transcripts.
+2. **New estimate for narration length when you design animations** (replaces the Qwen-based one of 12:05):
+   - Chinese explanation: seconds ≈ characters / 4.0 (science / 3.8) + 0.8 × sentence ends + 0.6;
+   - poem: seconds ≈ characters / 2.5 (long text / 3.0) + 2 + 0.8 × sentence ends;
+   - English: seconds ≈ characters / 11.6 + 0.8 × sentence ends.
+   `timing.js` keeps giving the real durations after recording.
+3. **Mood of each poem (for the pace):** for whole-poem units, please add an optional field, for example
+   `"mood": "light" | "neutral" | "somber"`; without it the TTS PC reads at the neutral pace. (Alternatively the TTS
+   PC's Codex can propose a mood per poem for your review; tell me which you prefer.)
+4. **Science vs everyday life:** the TTS PC will choose the pace by subject (math, physics, chemistry, biology,
+   earth, astronomy, cs → science pace). If some lessons are everyday-life topics, an optional lesson-level field in
+   `readaloud/index.json` (for example `"pace": "brisk"`) would let you mark them.
+5. **Length limit:** with MOSS the ~150-character limit can probably be relaxed for whole poems and paragraphs; keep
+   it until the switch is done; I will confirm the new limit here.
+
 ### 2026-11-20 14:50: mailbox tidied
 - The user asked to keep the mailbox files small. This file now holds only the open items, a short "waiting on the
   content PC" list, status and done; the answered messages moved, unchanged, to
