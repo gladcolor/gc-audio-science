@@ -9,6 +9,39 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 14:35: full scan of all transcripts - 87 classes, 3 export bugs, and a layered plan for the spoken script
+At the user's request, Codex (on the TTS PC) scanned every `send` (9,725 clips) for anything a TTS model is likely
+to read wrongly or badly. Results in this repo:
+- [textscan/textscan_report.md](textscan/textscan_report.md): 87 classes ranked by impact; for each a detection rule,
+  counts per language, real examples, how a narrator should read it, and **fixed rule** or **needs context**
+  (LLM rewrite + review), with false-positive notes.
+- [textscan/textscan.py](textscan/textscan.py): the scanner; it reads `transcripts/*.json` next to it (copies of
+  `readaloud/<lesson>.json`, `/` in the id replaced by `__`). The TTS PC will re-run it after each publish.
+
+**Please fix first - errors made by the current export (`Prep`), verified by hand:**
+1. **Multi-digit exponents broken** (4 clips): 10²⁶ became "10 的平方 ⁶" / "10 squared ⁶", 2¹²⁸ became "2¹ 的平方 ⁸"
+   (astronomy/big-bang e4cae1fa, a07c0cd8; cs/cs-data-crypto 6401a64e, 095aafc6). Should be 10的26次方, 2的128次方.
+2. **Reaction arrows turned into commas** (8 clips): "二氧化碳 + 水 —（光能），有机物（葡萄糖）+ 氧气",
+   "H⁺ + OH⁻，H2O", "酸 + 碱，盐 + 水", "HCl + NaOH，NaCl + H2O" (biology/food-webs, chemistry/acids-bases,
+   chemistry/reactions). The direction is lost; read 生成 / "gives" (e.g. 在光能作用下，二氧化碳和水生成葡萄糖和氧气).
+3. **Double bond read as an equation**: "O 等于 O 键" (chemistry/reactions 305a540e) should be 氧氧双键 / O=O 双键.
+
+**Largest classes** (clips zh / en): term cards split by full stops 734 / 1,888; over the length limit (150 zh /
+400 en characters) 614 / 369 - these risk the model stopping part-way; years and dates 1,131 / 1,042; acronyms
+487 / 942; degrees and coordinates 660 / 754; decimals 923 / 933; Chinese-English mixing 1,000 / 224; middle dot
+1,020 / 6; `+` between words 368 / 330; UTC offsets, polyphonic characters (536 zh), units, percent, ranges, etc.
+
+**Suggested layers for the spoken script** (the user asked the TTS PC to look for existing solutions too):
+1. **Standard text normalization with an established library** instead of adding rules one by one: numbers, dates,
+   times, temperatures (-10°C → 零下十度), percentages, fractions, units. Open-source options used by Chinese TTS
+   projects: PaddleSpeech `zh_normalization` (Apache 2.0, plain Python regexes; also used by GPT-SoVITS, ChatTTS) and
+   WeTextProcessing (WeNet; used with CosyVoice).
+2. **Math from the LaTeX source**, not from the flattened text: absolute value, powers, roots, fractions, inequalities,
+   reactions. The DAISY MathCAT speech rules (with Chinese rule files) show the conventions.
+3. **Context classes by LLM rewrite + your review** (the override table): `+` and `/` between words, term cards,
+   eye-only content, splitting texts over the length limit at sentence groups.
+4. **TTS PC check after each publish** (textscan.py) and feedback here.
+
 ### 2026-11-20 14:20: PR #3 fixes the 容易混淆 repetition (please merge or replace); requests from the user
 - **PR https://github.com/ningshanchuan/middle/pull/3** (3 lines in `shared/lab.js`, for the 13:40 bug): the user asked
   for a quick fix because the pages are hard to use now (also math/exponents). In `Lab.mixFor()`, when the box's card
