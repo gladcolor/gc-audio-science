@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:43:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:46:15. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -84,10 +84,10 @@ Updated 2026-11-20 02:43:28. Labels: finished / in progress / no audio / failed 
 | physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 | 2026-11-20 01:16:16 |
 | physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 | 2026-11-20 01:26:43 |
 | physics/heat-transfer | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:55 | 2026-11-20 02:35:07 |
-| physics/light | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:43:28 |  |
+| physics/light | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:43:28 | 2026-11-20 02:44:37 |
 | physics/magnetism | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:59 |  |
 | physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 | 2026-11-20 01:37:40 |
 | physics/newtons-laws | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:07 | 2026-11-20 02:35:09 |
 | physics/simple-machines | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:36 | 2026-11-20 01:37:44 |
-| physics/sound | old voice | 0 | 20 | 0 | 0 | 0 | 2026-11-19 18:08:44 |  |
+| physics/sound | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-20 02:46:15 |  |
 | physics/waves | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:14 | 2026-11-20 02:35:10 |

@@ -1585,13 +1585,17 @@ en	7d7736d9	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:42:52	tts
 en	86d0adff	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:40:57	tts	9cc1cbcbd5
 en	86e059dd	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:40:50	tts	7240d67993
 en	949d0feb	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:40:54	tts	336f949546
+en	97125c40	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:44:59	tts	f916e5576f
 en	a30ab69f	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:39:34	tts	42c0e97963
+en	aa14d082	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:44:49	tts	5c8859da73
 en	bfb8e209	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:43:03	tts	f982345e65
 en	d7492e68	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 01:36:18	tts	44b77ef48e
 en	ed1fe20e	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:36:11	tts	c7640a907e
 en	fa817a74	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:36:10	tts	bce4997f28
+en	fe7b63d0	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:45:02	tts	be71458c66
 zh	01f385e2	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:37:32	tts	25ebda7851
 zh	13d97c9b	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:24	tts	9b91f6d87f
+zh	342ea6fd	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:46:09	tts	fb7c388754
 zh	36e4a745	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:27:25	tts	4d2f8f1fbc
 zh	3a098f1f	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:25	tts	c828bb62f7
 zh	3e1cb40f	chemistry/acids-bases	serena t0.5 -16LUFS	48	2026-11-20 02:25:22	tts	63b1cda5f8
@@ -1742,6 +1746,7 @@ en	7b3156b0	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:33:53	
 en	8051f29e	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:05	tts	9f0f312f3d
 en	82a2ff4b	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:12	tts	e6e1fceef7
 en	8463f7af	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:40:56	tts	a10c2ae653
+en	85d7a042	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:45:00	tts	81f338180f
 en	8b89895e	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:33:57	tts	b8b1090974
 en	8f1e0e1a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:08	tts	5e639be73c
 en	9106ac37	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:41:05	tts	2e6c17708b
@@ -1780,6 +1785,7 @@ en	e9447216	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:05	
 en	eb653a33	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:43:01	tts	b5073cbcbf
 en	ef8d44a2	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:00	tts	3a63f5f9f1
 en	f5735de0	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:36:06	tts	3e16f798ea
+en	f911488a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:44:52	tts	110910ddf8
 zh	23d8fa78	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:25:22	tts	4e10bf192d
 zh	261d7ec3	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 02:25:23	tts	a61792484e
 zh	26aeeef3	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	93844ad58e
@@ -2220,6 +2226,7 @@ zh	022f6475	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:52:24	tts	4f79fc8
 zh	275fa454	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:06:01	tts	62c849b200
 zh	944b224e	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:24:23	tts	8769bc2d38
 zh	b86a4873	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:03:39	tts	1847eb49ee
+zh	ccddc460	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 02:46:15	tts	d013505ac1
 zh	dc2f3e18	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:03:40	tts	2324449c50
 zh	e1af7a90	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:03:41	tts	dc0df961e4
 zh	e7d0a89e	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:03:41	tts	2e51ecdb0d
