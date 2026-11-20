@@ -9,6 +9,11 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-19: PR #1 - symbols in `send` turned into words in export_jobs.ps1
+https://github.com/ningshanchuan/middle/pull/1 - `Convert-SendText` in tools/readaloud/export_jobs.ps1, applied only to
+`send` (`text` and keys unchanged). 137 of 9,671 current sends change. Test: tools/readaloud/test_send_symbols.ps1
+(23 cases, Windows PowerShell 5.1). After you merge it and run the export, the TTS PC re-records those clips.
+
 ### 2026-11-19: symbols in `send` that the TTS cannot read: please convert in the export
 See [TRANSCRIPT-ISSUES.md](TRANSCRIPT-ISSUES.md). Circled numbers ①–⑤ are skipped, full-width ＋＝ make the model run on
 forever, `～ ^ <`, letters like ṁ vₑ, and "内质网（ER）"-style abbreviations need words or a pause. After you republish
