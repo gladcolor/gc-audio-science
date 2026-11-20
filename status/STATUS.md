@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 19:37:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 19:39:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,9 +39,9 @@ Updated 2026-11-19 19:37:08. Labels: finished / in progress / no audio / failed 
 | biology/diffusion | finished | 43 | 0 | 0 | 0 | 0 | 2026-11-19 19:22:20 | 2026-11-19 19:23:21 |
 | biology/dna | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-19 18:41:52 |  |
 | biology/ecosystems | old voice | 0 | 48 | 0 | 0 | 0 | 2026-11-19 18:03:59 |  |
-| biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 19:37:08 |  |
+| biology/endocytosis | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 19:37:08 | 2026-11-19 19:38:16 |
 | biology/evolution | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:04:06 |  |
-| biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-19 18:01:48 |  |
+| biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-19 19:39:48 |  |
 | biology/food-webs | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:03:51 |  |
 | biology/heredity | in progress | 10 | 10 | 0 | 0 | 0 | 2026-11-19 18:03:03 |  |
 | biology/microorganisms | in progress | 13 | 13 | 0 | 0 | 0 | 2026-11-19 18:03:20 |  |
