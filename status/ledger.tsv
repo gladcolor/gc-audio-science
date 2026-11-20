@@ -1,7 +1,10 @@
 lang	key	lesson	voice	kbps	date	source
+en	484c5b47	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:17:46	tts
 en	790b382d	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:10:29	tts
 en	8088c8a2	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:06:02	tts
 en	8821c6b6	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:05:03	tts
+en	cbbd4635	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:16:38	tts
+en	cff69b4f	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:16:33	tts
 en	f6f11f51	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:06:04	tts
 zh	498ff3da	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:08:26	tts
 zh	86672deb	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:15:47	tts
@@ -9,11 +12,13 @@ zh	90554d99	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:08:27	tts
 zh	9d0f164c	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:15:48	tts
 zh	b8f4bb94	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:08:25	tts
 zh	bef9f0ec	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:08:46	tts
+en	bc031119	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:16:28	tts
 en	f316227d	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:06:05	tts
 zh	0b2b6e0a	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:14:17	tts
 zh	d65e4ff9	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:04:27	tts
 en	24dcfbb8	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:03:21	tts
 en	3a6d41a2	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:05:57	tts
+en	428d7cea	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:16:29	tts
 en	4f4ed5e7	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:05:00	tts
 en	91656bf4	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:06:51	tts
 en	95490d00	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:04:58	tts
@@ -35,8 +40,10 @@ zh	4a5c2e70	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:12:44	tts
 zh	6fad4906	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:12:41	tts
 zh	8e8698c5	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:11:52	tts
 zh	b20a1974	astronomy/moon-phases	serena t0.5 -16LUFS	48	2026-11-19 22:04:18	tts
+en	1542fd0b	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:17:48	tts
 en	417d3e1e	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:10:54	tts
 en	cb86b4cd	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:06:41	tts
+en	cba75fbd	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:17:47	tts
 zh	22a45dda	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:15:38	tts
 zh	4380eee1	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:15:45	tts
 zh	58719741	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:12:38	tts
@@ -49,7 +56,10 @@ zh	c5ad2bec	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:08:23	tts
 en	051d3dfe	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:16:17	tts
 en	10d5b43e	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:01:56	tts
 en	62e8e8e9	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:02:07	tts
+en	a92ebeb0	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:16:39	tts
+en	bd0a8a2c	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:16:31	tts
 en	df5500dd	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:10:30	tts
+en	e9d268d3	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:17:49	tts
 zh	0b4ad5b2	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:08:49	tts
 zh	0fb6d5ba	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:04:28	tts
 zh	27afa927	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:11:58	tts
@@ -57,6 +67,8 @@ zh	9d897277	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:14:23	tts
 zh	afcf37da	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:12:00	tts
 zh	cb502529	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:08:47	tts
 zh	faf1e02d	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:12:37	tts
+en	3173b5dc	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:16:35	tts
+en	decd8b13	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:16:27	tts
 zh	0636262f	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:00:33	tts
 zh	92dc0efd	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:00:28	tts
 zh	a48b168f	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:00:26	tts
@@ -65,9 +77,12 @@ zh	a707ee58	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:00:25	tt
 zh	abf1eb38	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:00:32	tts
 zh	f909bff3	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:14:24	tts
 zh	f98ddec2	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:14:21	tts
+en	0a295189	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:17:43	tts
 en	5a5aba2a	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:10:52	tts
 en	bbbbfe47	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:10:33	tts
 en	de1b00e0	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:10:18	tts
+en	e10ad68a	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:16:30	tts
+en	ff6a3711	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:17:37	tts
 zh	1912a6a6	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:08:24	tts
 zh	3f337524	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:14:20	tts
 zh	4902768c	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:14:12	tts
@@ -85,6 +100,8 @@ zh	d3f17e42	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:08:
 en	229aea4d	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:10:36	tts
 en	2e545681	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:10:47	tts
 en	304a45e8	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:16:16	tts
+en	34c7d536	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:17:51	tts
+en	353d79c3	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:17:39	tts
 en	6ce9d637	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:06:42	tts
 en	7b0dc635	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:01:58	tts
 en	b35b2175	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:10:44	tts
@@ -539,6 +556,7 @@ zh	3fc1f8e1	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20
 zh	4b5531f2	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:30:58	tts
 zh	4b8d27b8	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:32:08	tts
 zh	4b968a09	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:28:27	tts
+zh	4d162247	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 22:17:54	tts
 zh	5374db0f	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:31:01	tts
 zh	5447d2e5	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:31:02	tts
 zh	58cbeec0	biology/characteristics-of-life	serena t0.5 -16LUFS	48	2026-11-19 20:28:09	tts
@@ -1003,6 +1021,7 @@ zh	d4345d73	biology/tonicity-labs	serena t0.5 -16LUFS	48	2026-11-19 20:29:07	tts
 zh	da407c6c	biology/tonicity-labs	serena t0.5 -16LUFS	48	2026-11-19 20:31:00	tts
 zh	f46200a8	biology/tonicity-labs	serena t0.5 -16LUFS	48	2026-11-19 20:31:28	tts
 en	28a208be	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:05:59	tts
+en	45828cd1	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:17:38	tts
 en	f44b4179	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:04:56	tts
 zh	1348d77a	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:00:24	tts
 zh	362a832f	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:00:29	tts
@@ -1012,8 +1031,10 @@ zh	8a4f7e03	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 21:43:16	tts
 zh	ed37769a	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:15:35	tts
 en	04fcb56b	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:10:36	tts
 en	126dc0b4	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:03:23	tts
+en	24731686	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:17:41	tts
 en	24ae04cd	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:06:06	tts
 en	44a69266	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:10:35	tts
+en	e7a44f26	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:17:44	tts
 en	ea2e3784	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:04:54	tts
 en	ef07aea9	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:06:10	tts
 en	fc6082e5	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:03:28	tts
@@ -1039,6 +1060,7 @@ zh	4712db7b	earth/earth-layers	serena t0.5 -16LUFS	48	2026-11-19 22:15:37	tts
 zh	803b0498	earth/earth-layers	serena t0.5 -16LUFS	48	2026-11-19 21:01:03	tts
 zh	86096d57	earth/earth-layers	serena t0.5 -16LUFS	48	2026-11-19 22:08:44	tts
 zh	90e4ac29	earth/earth-layers	serena t0.5 -16LUFS	48	2026-11-19 21:34:27	tts
+en	15abbd3c	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:16:34	tts
 en	871f0e95	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:06:07	tts
 en	91fe9ff6	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:06:48	tts
 zh	01f405a3	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 21:39:17	tts
@@ -1051,8 +1073,12 @@ zh	d62f4574	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 21:39:13	tts
 zh	de6230ec	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 21:39:01	tts
 en	06359e55	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:06:55	tts
 en	37aeb9ca	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:10:31	tts
+en	860a0910	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:17:50	tts
 en	933bb3fb	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:06:50	tts
+en	a5b6ff79	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:17:40	tts
 en	b738e504	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:10:41	tts
+en	cc479d10	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:16:38	tts
+en	f1e570e0	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:16:32	tts
 zh	339b116b	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:08:42	tts
 zh	55a84685	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:15:46	tts
 zh	858df746	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:15:42	tts
@@ -1080,10 +1106,12 @@ zh	fb603ae1	earth/oceans	serena t0.5 -16LUFS	48	2026-11-19 21:41:25	tts
 en	1574bfb4	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:06:54	tts
 en	16a7df25	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:06:03	tts
 en	29e23122	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:10:34	tts
+en	32751b56	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:16:37	tts
 en	4c36af9a	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 21:04:20	tts
 en	6d6f18c6	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:05:03	tts
 en	6f4a24b6	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:06:55	tts
 en	9cdc8404	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:03:30	tts
+en	b3d4e2a3	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:17:48	tts
 en	c1cd9715	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:10:53	tts
 zh	17fc53ec	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 22:11:55	tts
 zh	57be78f4	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 21:41:31	tts
@@ -1097,6 +1125,7 @@ zh	ea748864	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 21:41:26	tts
 zh	f104bd62	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 21:41:32	tts
 zh	f70e1f6d	earth/plate-tectonics	serena t0.5 -16LUFS	48	2026-11-19 21:41:30	tts
 en	2beccf7a	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:02:02	tts
+en	5e7364d0	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:16:36	tts
 en	5fd95817	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 21:04:18	tts
 en	83d1936b	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:06:05	tts
 en	93968a8c	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:06:02	tts
@@ -1112,7 +1141,9 @@ zh	a44a56ea	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 21:39:37	tts
 zh	f9beec81	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:12:04	tts
 en	1d1e8ab7	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:05:59	tts
 en	6e807a66	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:10:42	tts
+en	70819d7a	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:17:42	tts
 en	8a37e593	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:03:21	tts
+en	9df87949	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:17:45	tts
 en	bebc44c9	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:10:56	tts
 zh	017dc631	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:11:54	tts
 zh	1217afa4	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 21:34:38	tts
