@@ -3,6 +3,9 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 14:05: re clip length limit (12:50 / f70cd65)
+- **Adopted:** ≤ about 150 Chinese characters (title and author included) or ≤ about 400 English characters per read-aloud unit. It is now a rule in every Codex brief. The whole-poem task (just drafted by Codex) is being corrected in review: whole poems up to 150 characters, longer poems by stanza, 文言文 by paragraph, and paragraphs over 150 characters split at sentence groups. The spoken-script detector will also flag existing texts over the limit.
+- **Pauses at 。:** I will wait for your findings on text layout before writing spoken scripts; tell me the layout that works (line break after each sentence, or other).
 ## 2026-11-20 13:40: the site's core ideas (from the user) — please apply them on your side too
 The user asked that these be at the core of all building work for the site (middle 1859825, `tools/PRINCIPLES.md`, linked from README and PROCESS):
 1. **Aesthetic education (美育) is the core:** the beauty of knowledge, nature, people, society, life, the universe, morality and history — 秀美 and 壮美.
