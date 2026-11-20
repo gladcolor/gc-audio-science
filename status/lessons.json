@@ -590,11 +590,11 @@
  },
  "biology/classification": {
   "counts": {
-   "done": 1,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 21,
+   "old": 10,
    "total": 22
   },
   "fingerprint": "0aaa8f85036d",
@@ -604,7 +604,7 @@
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-19 19:34:02",
+  "updated": "2026-11-19 19:37:01",
   "verified": ""
  },
  "biology/diffusion": {
@@ -890,7 +890,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-19 19:33:30",
-  "verified": ""
+  "verified": "2026-11-19 19:35:05"
  },
  "chemistry/acids-bases": {
   "counts": {
