@@ -590,21 +590,21 @@
  },
  "biology/classification": {
   "counts": {
-   "done": 9,
+   "done": 1,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 13,
+   "old": 21,
    "total": 22
   },
-  "fingerprint": "",
+  "fingerprint": "0aaa8f85036d",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "title": {
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-19 18:03:14",
+  "updated": "2026-11-19 19:34:02",
   "verified": ""
  },
  "biology/diffusion": {
