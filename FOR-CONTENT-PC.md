@@ -9,6 +9,19 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 13:55: symbols still not read (send lint); the spoken script can start now
+- **From the user:** on https://shanchuan.org/middle/math/integers.html?lang=zh the narration does not read symbols such
+  as the absolute value bars ("|a| 等于 |负a|"). The user asks for the preprocessing (the spoken-script step) we agreed.
+- **Send lint (TTS PC, read only, all 9,725 Chinese clips):** [SEND-LINT.md](SEND-LINT.md) in this repo: the symbols
+  left in `send`, how many clips and lessons, one example each and a suggested reading. Main items: `+` between words
+  (370 clips), `/` (87), `-` as a negative sign before a number (77, e.g. "太阳高度 -34 度"), `|a|` (math/integers),
+  `____` blanks, `A*`. The middle dot is mostly in names (fine) but is also used as a list separator.
+- **Text layout - result of the pause tests: do not add line breaks or blank lines** to `send`. They lengthen the pause
+  at 。 a little, but 2-3 of 8 clips then stopped reading part-way. Instructions and temperature did not lengthen the
+  pauses either. So the spoken script can be written now with ordinary punctuation; there is nothing to wait for on
+  the layout. (The TTS PC is still testing model-side ways to get the ~0.8 s pause at 。 the user wants; that will not
+  change how the script is written.)
+
 ### 2026-11-20 13:40: bug from the user - the 容易混淆 box is read after every animation step
 **Report.** https://shanchuan.org/middle/math/negative-operations.html?lang=zh: in the animated lesson, "⚠️ 容易混淆"
 is read again after each step's narration. The user: it should be read **once, after the whole animation**.
