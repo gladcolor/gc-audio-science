@@ -77,21 +77,21 @@
  },
  "astronomy/galaxies": {
   "counts": {
-   "done": 0,
+   "done": 16,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 2,
    "total": 18
   },
-  "fingerprint": "d7701fd996ad",
-  "label": "old voice",
+  "fingerprint": "a47c4f9927d8",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
   "title": {
    "en": "Galaxies & the Universe",
    "zh": "星系与宇宙"
   },
-  "updated": "2026-11-19 18:05:45",
+  "updated": "2026-11-19 22:51:50",
   "verified": ""
  },
  "astronomy/gravity-orbits": {
@@ -681,7 +681,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-19 22:50:44",
-  "verified": ""
+  "verified": "2026-11-19 22:51:43"
  },
  "biology/evolution": {
   "counts": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 22:50:46",
-  "verified": ""
+  "verified": "2026-11-19 22:51:46"
  },
  "biology/food-webs": {
   "counts": {
@@ -890,7 +890,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-19 22:50:37",
-  "verified": ""
+  "verified": "2026-11-19 22:51:41"
  },
  "chemistry/acids-bases": {
   "counts": {
