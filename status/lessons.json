@@ -966,7 +966,7 @@
    "zh": "物理变化与化学变化"
   },
   "updated": "2026-11-20 02:40:58",
-  "verified": ""
+  "verified": "2026-11-20 02:42:36"
  },
  "chemistry/density": {
   "counts": {
@@ -1521,21 +1521,21 @@
  },
  "physics/light": {
   "counts": {
-   "done": 0,
+   "done": 16,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 16,
+   "old": 0,
    "total": 16
   },
-  "fingerprint": "9151e4acecd0",
-  "label": "old voice",
+  "fingerprint": "cd0541660f07",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/light.html",
   "title": {
    "en": "Light & the EM Spectrum",
    "zh": "光与电磁波谱"
   },
-  "updated": "2026-11-19 18:08:49",
+  "updated": "2026-11-20 02:43:28",
   "verified": ""
  },
  "physics/magnetism": {

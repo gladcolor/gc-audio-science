@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:40:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:43:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Updated 2026-11-20 02:40:58. Labels: finished / in progress / no audio / failed 
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
 | chemistry/acids-bases | old voice | 0 | 40 | 0 | 0 | 0 | 2026-11-19 18:09:56 |  |
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
-| chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 |  |
+| chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 | 2026-11-20 02:42:36 |
 | chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
 | chemistry/elements-compounds | in progress | 7 | 13 | 0 | 0 | 0 | 2026-11-20 01:13:44 |  |
 | chemistry/periodic-table | no audio | 0 | 98 | 36 | 0 | 0 | 2026-11-19 18:09:19 |  |
@@ -84,7 +84,7 @@ Updated 2026-11-20 02:40:58. Labels: finished / in progress / no audio / failed 
 | physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 | 2026-11-20 01:16:16 |
 | physics/forces | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 01:25:37 | 2026-11-20 01:26:43 |
 | physics/heat-transfer | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:55 | 2026-11-20 02:35:07 |
-| physics/light | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:49 |  |
+| physics/light | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:43:28 |  |
 | physics/magnetism | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:08:59 |  |
 | physics/motion | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-20 01:36:20 | 2026-11-20 01:37:40 |
 | physics/newtons-laws | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:07 | 2026-11-20 02:35:09 |
