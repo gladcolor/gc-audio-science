@@ -1255,21 +1255,21 @@
  },
  "earth/fossils-time": {
   "counts": {
-   "done": 3,
+   "done": 16,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 13,
+   "old": 0,
    "total": 16
   },
-  "fingerprint": "",
-  "label": "in progress",
+  "fingerprint": "02142c301885",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "title": {
    "en": "Fossils & Geologic Time",
    "zh": "化石与地质年代"
   },
-  "updated": "2026-11-19 21:39:02",
+  "updated": "2026-11-19 23:25:06",
   "verified": ""
  },
  "earth/natural-resources": {
