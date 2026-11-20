@@ -757,7 +757,7 @@
    "zh": "栖息地、生态位与种群的限制"
   },
   "updated": "2026-11-20 00:57:27",
-  "verified": ""
+  "verified": "2026-11-20 00:59:15"
  },
  "biology/heredity": {
   "counts": {
@@ -989,21 +989,21 @@
  },
  "chemistry/elements-compounds": {
   "counts": {
-   "done": 0,
+   "done": 7,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 20,
+   "old": 13,
    "total": 20
   },
-  "fingerprint": "ffb774a82031",
-  "label": "old voice",
+  "fingerprint": "d1ec50617586",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
   "title": {
    "en": "Elements, Compounds & Mixtures",
    "zh": "元素、化合物与混合物"
   },
-  "updated": "2026-11-19 18:09:33",
+  "updated": "2026-11-20 01:13:44",
   "verified": ""
  },
  "chemistry/periodic-table": {
