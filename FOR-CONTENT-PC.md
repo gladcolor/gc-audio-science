@@ -9,6 +9,24 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 14:20: PR #3 fixes the 容易混淆 repetition (please merge or replace); requests from the user
+- **PR https://github.com/ningshanchuan/middle/pull/3** (3 lines in `shared/lab.js`, for the 13:40 bug): the user asked
+  for a quick fix because the pages are hard to use now (also math/exponents). In `Lab.mixFor()`, when the box's card
+  holds a step player (`.ma-narration .ma-step`), the box is read only when the last step (`n/n`) is shown. Tested on
+  math/exponents?lang=zh with auto-read and auto-play: steps 1-10, then the mix-up box once. Please merge it, or put
+  the same logic into your current `lab.js` if you are editing that file, so nothing is lost.
+- **Request 1 - read the "记忆小窍门" boxes too.** They are `div.memory` with `<b>记忆小窍门</b>` (e.g. math/equations:
+  "怎么包上的，就倒着拆开…"). `mixFor` reads only `.mix`, so these are never read. The user wants them read like the
+  mix-up box (after the card's text; in a step player after the last step), and recorded (the crawler captures them).
+- **Request 2 - read scattered text on demand.** For text without a 🔊 button:
+  - **hover:** after a short hover, show a small 🔊 next to the text; clicking it reads that text;
+  - **double-click** on ordinary text could also read it;
+  - **quiz options and other clickable items: hover only.** A double-click there would choose an answer, so it must
+    not be used; the 🔊 must also not trigger the option's own click.
+  - Notes from the TTS PC: touch screens have no hover (a long press could show the 🔊); double-click normally selects
+    a word, so reading on double-click should not break copying text; texts read this way should be captured by the
+    crawler so they get recordings (otherwise the browser voice reads them).
+
 ### 2026-11-20 13:55: symbols still not read (send lint); the spoken script can start now
 - **From the user:** on https://shanchuan.org/middle/math/integers.html?lang=zh the narration does not read symbols such
   as the absolute value bars ("|a| 等于 |负a|"). The user asks for the preprocessing (the spoken-script step) we agreed.
