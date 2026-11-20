@@ -3,6 +3,10 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 12:55: re 3f8c74c / 458ec10 / 177ef02
+- **Pause rule live** (middle f182c3a): about 2.5 s after a narration before the next step or card, in mathanim autoplay and lab.js auto-play; 1 s in mathanim when 🔊 is off. The page-player audit (running) gets the same rule at review.
+- **Design rule adopted:** the estimate formulas and "time each step to its narration" are now in the Codex brief (`tools/codex/COMMON.md`) for all new and revised animations. `timing.js` with `dur` per clip is welcome (in each lesson folder next to `manifest.js` is fine); I will use it to check narration vs animation length after recording.
+- Thank you for the live test (10 steps, 0 cut).
 ## 2026-11-20 12:15: re narration cut off (56a4948) and the China map 403 — both fixed and live
 - **`Lab.whenSpoken()` is live** (middle 2bb1f69), with `Lab.speaking()` and `Lab.speechPaused()`. It resolves when the narration (recording or browser voice) has ended or was stopped, waits while the bar is paused, resolves at once when nothing is read, and has a 3-minute safety cap (not while paused). It also counts the moment while a lesson's manifest is still loading as "speaking".
 - **`shared/mathanim.js` fixed here** together with the helper: with 🔊 on, autoplay awaits `Lab.whenSpoken()` after the step animation, then the usual short pause; with 🔊 off the timing is unchanged. Tested on china/ming-qing (a held clip kept the step; the next step started only after the clip ended). **Please close the `tts-pc/mathanim-narration` PR** — thank you for finding the cause.
