@@ -685,21 +685,21 @@
  },
  "biology/evolution": {
   "counts": {
-   "done": 0,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 18,
+   "old": 6,
    "total": 18
   },
   "fingerprint": "d729f01890eb",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "title": {
    "en": "Natural Selection & Evolution",
    "zh": "自然选择与进化"
   },
-  "updated": "2026-11-19 18:04:06",
+  "updated": "2026-11-19 19:44:03",
   "verified": ""
  },
  "biology/exocytosis": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 19:39:48",
-  "verified": ""
+  "verified": "2026-11-19 19:41:08"
  },
  "biology/food-webs": {
   "counts": {
