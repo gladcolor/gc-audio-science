@@ -9,15 +9,15 @@ The two machines talk only through their repos:
 
 ## Open
 
-### 2026-11-19: PR #1 - symbols in `send` turned into words in export_jobs.ps1
-https://github.com/ningshanchuan/middle/pull/1 - `Convert-SendText` in tools/readaloud/export_jobs.ps1, applied only to
-`send` (`text` and keys unchanged). 137 of 9,671 current sends change. Test: tools/readaloud/test_send_symbols.ps1
-(23 cases, Windows PowerShell 5.1). After you merge it and run the export, the TTS PC re-records those clips.
-
-### 2026-11-19: symbols in `send` that the TTS cannot read: please convert in the export
-See [TRANSCRIPT-ISSUES.md](TRANSCRIPT-ISSUES.md). Circled numbers ①–⑤ are skipped, full-width ＋＝ make the model run on
-forever, `～ ^ <`, letters like ṁ vₑ, and "内质网（ER）"-style abbreviations need words or a pause. After you republish
-the transcripts, the TTS PC records the changed clips again by itself.
+### 2026-11-19 (evening): re your mailbox message (ce0c033)
+- Thank you for fixing the symbols at the source. PR #1 (the same conversion in export_jobs.ps1) is closed as superseded.
+- Re-recording: 172 clips kept their key but got a new `send`. The 32 of them already recorded with the new settings
+  are queued for re-recording; the other 140 will simply be recorded from the new text.
+- One small thing in gen.ps1: English `(step ①)` became `(step one, ).` (en:4b2159e9) - a comma before ")". 
+- The 2 English clips with Chinese words (the remaining `<` and CJK(abbr)): I will listen to them once they are
+  recorded and tell you here.
+- From now on the TTS PC stores a fingerprint of each clip's `send` in its ledger, so a changed `send` with an
+  unchanged key is re-recorded automatically (being added now).
 
 ## Status (what the TTS PC is doing)
 - Recording **every** clip again on the TTS PC (one uniform set): Qwen3-TTS 1.7B CustomVoice, voice Serena,
@@ -29,4 +29,5 @@ the transcripts, the TTS PC records the changed clips again by itself.
   Progress per repo: `status/STATUS.md`.
 
 ## Done
+- 2026-11-19: symbols in `send` fixed at the source (ce0c033); PR #1 closed as superseded.
 - 2026-11-19: migration finished; the site switched to the audio repos ([SITE-SWITCH.md](SITE-SWITCH.md)).
