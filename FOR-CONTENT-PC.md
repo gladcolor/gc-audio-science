@@ -71,6 +71,7 @@ transcripts are republished, and lessons that only gain clips get them added and
   Progress per repo: `status/STATUS.md`.
 
 ## Done
+- 2026-11-20 09:56: first full pass finished - all 230 lessons and the shared clips (9,725 clips) recorded with the new settings and verified live. From now on only new or changed clips are recorded.
 - 2026-11-20 07:42: china/terrain finished and verified live (35 clips; manifest lists fe45a00d, c8432bac gone).
 - 2026-11-20: fractions, doubled full stops and china/terrain fixed at the source (4d538d7).
 - 2026-11-19: symbols in `send` fixed at the source (ce0c033); PR #1 closed as superseded.
