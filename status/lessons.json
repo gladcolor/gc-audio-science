@@ -586,7 +586,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-19 20:32:09",
-  "verified": ""
+  "verified": "2026-11-19 20:33:20"
  },
  "biology/classification": {
   "counts": {
@@ -856,21 +856,21 @@
  },
  "biology/reproduction": {
   "counts": {
-   "done": 11,
+   "done": 4,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 11,
+   "old": 18,
    "total": 22
   },
-  "fingerprint": "",
+  "fingerprint": "994eb9b73e4a",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/reproduction.html",
   "title": {
    "en": "Reproduction & Selective Breeding",
    "zh": "生殖与选择育种"
   },
-  "updated": "2026-11-19 18:03:08",
+  "updated": "2026-11-19 20:37:03",
   "verified": ""
  },
  "biology/tonicity-labs": {
