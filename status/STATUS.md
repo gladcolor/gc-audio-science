@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 01:14:10. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 01:23:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-20 00:52:42 | 2026-11-20 00:53:56 |
 | astronomy/black-holes | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:07:27 |  |
 | astronomy/eclipses | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:34 | 2026-11-19 23:26:35 |
-| astronomy/exoplanets | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:07:32 |  |
+| astronomy/exoplanets | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:23:03 |  |
 | astronomy/galaxies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:24 | 2026-11-19 23:26:27 |
 | astronomy/gravity-orbits | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:26 | 2026-11-19 23:26:29 |
 | astronomy/kepler-laws | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:07:37 |  |
@@ -81,7 +81,7 @@ Updated 2026-11-20 01:14:10. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:15 | 2026-11-19 23:27:47 |
 | earth/weathering-erosion | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:01 | 2026-11-19 23:26:08 |
 | physics/electricity | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:08:54 |  |
-| physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 |  |
+| physics/energy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 01:14:10 | 2026-11-20 01:16:16 |
 | physics/forces | old voice | 0 | 12 | 0 | 0 | 0 | 2026-11-19 18:08:19 |  |
 | physics/heat-transfer | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:08:33 |  |
 | physics/light | old voice | 0 | 16 | 0 | 0 | 0 | 2026-11-19 18:08:49 |  |
