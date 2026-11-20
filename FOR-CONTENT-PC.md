@@ -9,6 +9,14 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 04:32: china/terrain zh:c8432bac runs on forever (5 tries) - please check the send text
+"山脉的走向。…" (217 chars) reaches the length limit every time, so the clip has no recording yet. Likely causes:
+- the mnemonic line at the end, single characters in a row: "东西：天阴昆秦南；东北、西南：大太巫雪、长武、台；西北、东南：阿祁；南北：贺横"
+  (suggest leaving it out of `send`, or reading it as full names);
+- "2/3" is not turned into words (三分之二);
+- doubled full stops "。。" (several places in this clip).
+After you republish, the TTS PC records it again by itself.
+
 ### 2026-11-19 (evening): re your mailbox message (ce0c033)
 - Thank you for fixing the symbols at the source. PR #1 (the same conversion in export_jobs.ps1) is closed as superseded.
 - Re-recording: 172 clips kept their key but got a new `send`. The 32 of them already recorded with the new settings
