@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-19 23:25:19. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-19 23:25:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Updated 2026-11-19 23:25:19. Labels: finished / in progress / no audio / failed 
 | astronomy/seasons | in progress | 11 | 11 | 0 | 0 | 0 | 2026-11-19 22:16:17 |  |
 | astronomy/sky-tonight | no audio | 0 | 84 | 52 | 0 | 0 | 2026-11-19 18:06:44 |  |
 | astronomy/small-bodies | old voice | 0 | 18 | 0 | 0 | 0 | 2026-11-19 18:07:56 |  |
-| astronomy/solar-system | old voice | 0 | 25 | 0 | 0 | 0 | 2026-11-19 18:05:33 |  |
+| astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 |  |
 | astronomy/space-exploration | in progress | 9 | 21 | 0 | 0 | 0 | 2026-11-19 22:10:18 |  |
 | astronomy/star-life | in progress | 103 | 13 | 0 | 0 | 0 | 2026-11-19 22:40:31 |  |
 | astronomy/sun-stars | old voice | 0 | 21 | 0 | 0 | 0 | 2026-11-19 18:05:39 |  |
