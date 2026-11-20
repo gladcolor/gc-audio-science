@@ -358,7 +358,7 @@
    "zh": "恒星的一生：赫罗图"
   },
   "updated": "2026-11-20 02:35:30",
-  "verified": ""
+  "verified": "2026-11-20 02:37:28"
  },
  "astronomy/sun-stars": {
   "counts": {
@@ -951,21 +951,21 @@
  },
  "chemistry/changes": {
   "counts": {
-   "done": 0,
+   "done": 14,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 14,
+   "old": 0,
    "total": 14
   },
   "fingerprint": "a5d909e4085f",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
   "title": {
    "en": "Physical & Chemical Changes",
    "zh": "物理变化与化学变化"
   },
-  "updated": "2026-11-19 18:09:39",
+  "updated": "2026-11-20 02:40:58",
   "verified": ""
  },
  "chemistry/density": {
@@ -1061,7 +1061,7 @@
    "zh": "溶液与溶解度"
   },
   "updated": "2026-11-20 02:35:21",
-  "verified": ""
+  "verified": "2026-11-20 02:37:15"
  },
  "chemistry/states-of-matter": {
   "counts": {

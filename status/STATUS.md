@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:35:30. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:40:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Updated 2026-11-20 02:35:30. Labels: finished / in progress / no audio / failed 
 | astronomy/small-bodies | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:32:51 | 2026-11-20 02:35:06 |
 | astronomy/solar-system | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:22 | 2026-11-19 23:27:49 |
 | astronomy/space-exploration | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:41 | 2026-11-19 23:26:41 |
-| astronomy/star-life | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:30 |  |
+| astronomy/star-life | finished | 116 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:30 | 2026-11-20 02:37:28 |
 | astronomy/sun-stars | old voice | 0 | 21 | 0 | 0 | 0 | 2026-11-19 18:05:39 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:29:50 | 2026-11-20 02:31:08 |
 | astronomy/tides | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-19 23:25:37 | 2026-11-19 23:26:37 |
@@ -54,12 +54,12 @@ Updated 2026-11-20 02:35:30. Labels: finished / in progress / no audio / failed 
 | biology/tonicity-labs | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-19 22:50:37 | 2026-11-19 22:51:41 |
 | chemistry/acids-bases | old voice | 0 | 40 | 0 | 0 | 0 | 2026-11-19 18:09:56 |  |
 | chemistry/atoms | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-20 02:33:19 | 2026-11-20 02:35:13 |
-| chemistry/changes | old voice | 0 | 14 | 0 | 0 | 0 | 2026-11-19 18:09:39 |  |
+| chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-20 02:40:58 |  |
 | chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
 | chemistry/elements-compounds | in progress | 7 | 13 | 0 | 0 | 0 | 2026-11-20 01:13:44 |  |
 | chemistry/periodic-table | no audio | 0 | 98 | 36 | 0 | 0 | 2026-11-19 18:09:19 |  |
 | chemistry/reactions | old voice | 0 | 8 | 0 | 0 | 0 | 2026-11-19 18:09:43 |  |
-| chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 |  |
+| chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 | 2026-11-20 02:37:15 |
 | chemistry/states-of-matter | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:09:27 |  |
 | cs/cs-ai | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:09 |  |
 | cs/cs-algorithms | no audio | 0 | 12 | 6 | 0 | 0 | 2026-11-19 18:24:51 |  |
