@@ -324,21 +324,21 @@
  },
  "astronomy/space-exploration": {
   "counts": {
-   "done": 0,
+   "done": 9,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 30,
+   "old": 21,
    "total": 30
   },
   "fingerprint": "380f3acb9946",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/space-exploration.html",
   "title": {
    "en": "Space Exploration",
    "zh": "太空探索"
   },
-  "updated": "2026-11-19 18:06:27",
+  "updated": "2026-11-19 22:10:18",
   "verified": ""
  },
  "astronomy/star-life": {
