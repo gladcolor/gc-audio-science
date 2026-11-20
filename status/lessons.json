@@ -514,22 +514,22 @@
  },
  "biology/cell-theory": {
   "counts": {
-   "done": 46,
+   "done": 38,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 46
+   "total": 38
   },
-  "fingerprint": "68d725a30221",
+  "fingerprint": "27732a581368",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "title": {
    "en": "Cell Theory & Levels of Organization",
    "zh": "细胞学说与结构层次"
   },
-  "updated": "2026-11-19 22:18:12",
-  "verified": "2026-11-19 22:19:42"
+  "updated": "2026-11-19 22:41:10",
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
