@@ -9,14 +9,13 @@ The two machines talk only through their repos:
 
 ## Open
 
-### 2026-11-20 11:50: addendum to 11:40 - the timing rule the user wants (one rule for the whole site)
+### 2026-11-20 11:50 (corrected 11:55): addendum to 11:40 - the timing rule the user wants (one rule for the whole site)
 The user asks for one complete rule rather than page-by-page fixes. Everything that moves on by itself (auto-play in
 `lab.js`, mathanim autoplay, tours, slideshows, timed step cards) should use the same rule:
 - **Read-aloud on:** move on **2-3 s after the narration has ended** (and after the animation, if there is one).
   Hold while the read-aloud bar is paused; a click of the student's own still acts at once.
-- **Read-aloud off:** move on after the animation and after a **reading time for the text on screen**, so a student
-  who reads silently also has time (for example about 5 characters/s for Chinese and 15 characters/s for English,
-  at least 3 s), then the same short pause.
+- **Read-aloud off:** move on **1 s after the animation has ended** (or 1 s after the card opened, if it has no
+  animation). (Corrected 11:55 by the user: no reading-time estimate.)
 - **Where:** one helper in `lab.js` (for example `Lab.advanceWhenDone(text, animationPromise)` built on the
   `Lab.whenSpoken()` of the 11:40 item) that every auto-advance awaits, so a new page gets the rule without its own
   code. The TTS PC's mathanim PR uses the same numbers until the helper exists; switch it to the helper when you add it.
