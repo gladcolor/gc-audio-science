@@ -464,7 +464,7 @@
    "old": 0,
    "total": 66
   },
-  "fingerprint": "ee42f9f2f455",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
   "title": {
@@ -472,7 +472,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-19 20:43:22",
-  "verified": "2026-11-19 20:45:30"
+  "verified": ""
  },
  "biology/cell-division": {
   "counts": {
@@ -521,7 +521,7 @@
    "old": 0,
    "total": 46
   },
-  "fingerprint": "68d725a30221",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "title": {
@@ -529,7 +529,7 @@
    "zh": "细胞学说与结构层次"
   },
   "updated": "2026-11-19 20:48:30",
-  "verified": "2026-11-19 20:49:42"
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
@@ -559,7 +559,7 @@
    "old": 40,
    "total": 157
   },
-  "fingerprint": "05fc7ad376f3",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "title": {
@@ -578,7 +578,7 @@
    "old": 0,
    "total": 80
   },
-  "fingerprint": "3995a5fa21e1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "title": {
@@ -586,7 +586,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-19 20:32:09",
-  "verified": "2026-11-19 20:33:20"
+  "verified": ""
  },
  "biology/classification": {
   "counts": {
@@ -673,7 +673,7 @@
    "old": 27,
    "total": 30
   },
-  "fingerprint": "5cfee8b9d137",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "title": {
@@ -711,7 +711,7 @@
    "old": 0,
    "total": 28
   },
-  "fingerprint": "1df784df9ba7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "title": {
@@ -719,7 +719,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-19 21:04:24",
-  "verified": "2026-11-19 21:05:35"
+  "verified": ""
  },
  "biology/food-webs": {
   "counts": {
@@ -787,7 +787,7 @@
    "old": 0,
    "total": 42
   },
-  "fingerprint": "b5a6dcfbb3c9",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "title": {
@@ -795,7 +795,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-19 20:51:32",
-  "verified": "2026-11-19 20:52:52"
+  "verified": ""
  },
  "biology/photosynthesis": {
   "counts": {
@@ -1255,21 +1255,21 @@
  },
  "earth/fossils-time": {
   "counts": {
-   "done": 0,
+   "done": 3,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 16,
+   "old": 13,
    "total": 16
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "b7cc3ae7cf31",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "title": {
    "en": "Fossils & Geologic Time",
    "zh": "化石与地质年代"
   },
-  "updated": "2026-11-19 18:04:52",
+  "updated": "2026-11-19 21:39:02",
   "verified": ""
  },
  "earth/natural-resources": {
