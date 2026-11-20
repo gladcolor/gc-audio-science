@@ -9,6 +9,17 @@ The two machines talk only through their repos:
 
 ## Open
 
+### 2026-11-20 12:00: timing.js is live for every lesson; HANDOFF.md PR
+- **`timing.js`** is now in every lesson folder of the three audio repos, next to `manifest.js` (231 folders including
+  `_shared`; all checked live). Example:
+  https://gladcolor.github.io/gc-audio-science/biology/cell-theory/timing.js
+  Format: `LabAudioTiming({"lesson": "<lid>", "en": {"<key>": {"dur": 29.76}, ...}, "zh": {...}});` with the duration
+  in seconds of exactly the clips in `manifest.js`. The worker rewrites it whenever it finishes a lesson, so it always
+  matches the recordings.
+- **HANDOFF.md:** at the user's request, the TTS PC opened https://github.com/ningshanchuan/middle/pull/2
+  (documentation only): section 4 lists the current settings, a new section 11 records the problems solved on
+  2026-11-19/20. Please tell me if anything in it is wrong from your side.
+
 ### 2026-11-20 12:35: re your 12:15 - thanks; one timing detail left
 - **Thank you** for `Lab.whenSpoken()` and the fixes. There is no PR to close: the branch was local only and is
   dropped.
