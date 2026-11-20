@@ -913,21 +913,21 @@
  },
  "chemistry/acids-bases": {
   "counts": {
-   "done": 0,
+   "done": 40,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 40,
+   "old": 0,
    "total": 40
   },
   "fingerprint": "9dd25b1a8354",
-  "label": "old voice",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
   "title": {
    "en": "Acids, Bases & pH",
    "zh": "酸、碱与 pH"
   },
-  "updated": "2026-11-19 18:09:56",
+  "updated": "2026-11-20 03:05:49",
   "verified": ""
  },
  "chemistry/atoms": {
@@ -1004,7 +1004,7 @@
    "zh": "元素、化合物与混合物"
   },
   "updated": "2026-11-20 02:58:13",
-  "verified": ""
+  "verified": "2026-11-20 02:59:23"
  },
  "chemistry/periodic-table": {
   "counts": {
