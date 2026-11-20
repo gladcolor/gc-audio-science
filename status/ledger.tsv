@@ -33,6 +33,7 @@ zh	8c5ddeb5	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:54	tts	fc
 zh	91b95507	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:56:31	tts	d2fb7275ed
 zh	985e06e3	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:56	tts	afba2e174c
 zh	aca4271c	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:57	tts	102f8fad57
+zh	d55d77c8	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-20 00:52:42	tts	be43a51276
 zh	e4bce75b	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:51	tts	43b45c1112
 zh	e4cae1fa	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:51	tts	46074511b4
 zh	e874c8c0	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:52	tts	d1f76d8e82
@@ -40,6 +41,7 @@ zh	f070bf7d	astronomy/big-bang	serena t0.5 -16LUFS	48	2026-11-19 22:50:52	tts	ff
 en	67daba9c	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 00:46:23	tts	4492b1e31a
 en	fd243433	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 00:46:14	tts	01ae126029
 zh	0b078e60	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-19 22:54:32	tts	2420d1d914
+zh	58963bac	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 00:50:57	tts	6ab46ab1f0
 zh	cb73b4bb	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-19 22:51:57	tts	d3b846cf40
 zh	dce8a134	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-19 22:51:59	tts	7ee102e13a
 en	32d8a319	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:20:21	tts	
@@ -173,12 +175,14 @@ en	cda31e37	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:46:18	t
 en	ec1a77f9	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:39:59	tts	9585715593
 zh	2b2a0a3b	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:48:20	tts	f2c22ae1b6
 zh	3834c15e	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:54:30	tts	9c41173eea
+zh	41df8cce	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:50:51	tts	da7a7c6582
 zh	4e9f2d72	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:12:03	tts	3dea1641c9
 zh	518a12e7	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:54:29	tts	7fc94f21ca
 zh	6c0b1de1	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:05:58	tts	c7d6b963fd
 zh	746186dd	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:54:34	tts	8065c478c1
 zh	8c68ee62	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:06:05	tts	2d4ac3932c
 zh	8dfdc279	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:54:33	tts	04186cb831
+zh	960ace9f	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:50:56	tts	f36fe02bca
 zh	962a68bb	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:59:22	tts	4e1ee9e1d5
 zh	a547ef3a	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:44:57	tts	744d593986
 zh	b4c8272f	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:24:25	tts	c97c57e944
@@ -1218,9 +1222,17 @@ en	e22bd8b9	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:44:01	tts
 en	e640735b	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:46:13	tts	03053aa0db
 en	ffd39527	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:39:55	tts	125acf0ad0
 zh	03f0872d	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:11	tts	1269ff2ef3
+zh	1665b945	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:53	tts	08b9579599
 zh	2dab181e	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:11	tts	4ac00bff21
 zh	432f5285	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	a8d6780d93
+zh	45bff887	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:52	tts	8922e8b4fe
+zh	54521d14	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:55	tts	44a4960a5f
+zh	5fbe7be2	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:49	tts	a1e0d74c0e
+zh	86c1e7e7	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:52:28	tts	e18dd4220f
 zh	b343dec6	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:47:11	tts	41d335ae2b
+zh	bc177e32	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:54	tts	50e019d712
+zh	dd678b85	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:49:04	tts	a6183441f1
+zh	e0ae3629	biology/habitat-niche	serena t0.5 -16LUFS	48	2026-11-20 00:50:50	tts	62d92618f4
 en	0b64934d	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:37:17	tts	
 en	0e591dc2	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:37:20	tts	
 en	0f649640	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:36:10	tts	
@@ -1455,14 +1467,31 @@ en	a6ec2e50	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:41:27	tts	7e493
 en	c18423c8	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:39:21	tts	02b72df6be
 en	e0b5cac0	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:39:20	tts	1bb481ab70
 en	f27aef43	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:39:14	tts	60d242ae59
+zh	0ad6799e	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:26	tts	1a353719d2
+zh	0bd92564	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:26	tts	0df14fc42a
+zh	2037b1b4	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:30	tts	cf9ff69137
+zh	2cb221bc	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:24	tts	15356bfec4
+zh	76247cb6	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:30	tts	fd1ae2428e
+zh	8cd9968c	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:29	tts	2181764ba9
+zh	90371d15	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:07	tts	ffbad25862
+zh	9500ed08	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:25	tts	a3c5256d71
+zh	aa5676b5	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:06	tts	ca9e356194
+zh	beea2e71	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:27	tts	def36e061a
+zh	f856bc71	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:52:31	tts	6dbb9c4c59
+zh	fe6c3b4d	chemistry/atoms	serena t0.5 -16LUFS	48	2026-11-20 00:49:07	tts	c32fca9155
+zh	26aeeef3	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	93844ad58e
 zh	68603359	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	ddf1d33df1
+zh	7a45ffa8	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	d18ad37b75
+zh	82b9b0d1	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:05	tts	76a9a37819
 zh	88b55c1d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:12	tts	75037fda87
+zh	c076ae54	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:49:06	tts	c6067be092
 zh	c1645d6a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:10	tts	bb42871652
 zh	cf12953a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:14	tts	aa9b5bdd1d
 zh	dcc1248a	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:10	tts	8593146a72
 zh	ee7c439d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:13	tts	d7a7ec9a9d
 zh	f4087563	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:09	tts	5b144297ad
 zh	fce0a23d	chemistry/periodic-table	serena t0.5 -16LUFS	48	2026-11-20 00:47:13	tts	1f3e8dd7ca
+zh	8cdb7cd6	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 00:52:40	tts	13290522cc
 en	174c594c	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:22:48	tts	
 en	25c08ab9	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:20:30	tts	
 en	28a208be	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:05:59	tts	
@@ -1736,8 +1765,12 @@ en	eaa918c2	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:20	tts	886
 en	ed11f43e	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:26	tts	787637793d
 en	f4ed3084	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:18	tts	741959c083
 zh	07ffc2c1	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:47:12	tts	a193ddc60f
+zh	20807533	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:52:22	tts	555366e595
+zh	36e6ae8e	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:52:28	tts	8d5149df67
 zh	7883f4c0	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-19 23:24:23	tts	a920c78dfb
 zh	9518a961	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-19 23:24:20	tts	62acff57c9
+zh	ec836794	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:52:41	tts	6455d50ddd
+zh	f2239bf0	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:49:08	tts	d325c55059
 zh	f7e2c782	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-19 23:24:21	tts	1290123bfc
 en	1e096e25	physics/motion	serena t0.5 -16LUFS	48	2026-11-19 22:53:52	tts	e689011cb7
 en	5b1d3f96	physics/motion	serena t0.5 -16LUFS	48	2026-11-19 22:53:52	tts	6fa1cf86ea
@@ -1768,6 +1801,7 @@ zh	0363552d	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 22:58:09	t
 zh	03df1061	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 22:56:26	tts	6d1e24eebf
 zh	08b4b62b	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 22:56:29	tts	48d1549c0a
 zh	3e3d7f11	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 23:01:56	tts	667db2cb1f
+zh	4f50fbdd	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-20 00:52:23	tts	e1b7be8a09
 zh	50aab12c	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 22:56:29	tts	b4c05bc650
 zh	8959a9b9	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 23:24:26	tts	4e1975002d
 zh	8fd6a7c9	physics/simple-machines	serena t0.5 -16LUFS	48	2026-11-19 22:56:27	tts	88cf6559b5
@@ -1779,6 +1813,7 @@ en	32f25e62	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:41:26	tts	c547d4b
 en	785b873e	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:41:25	tts	b421855562
 en	98a7dce1	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:39:22	tts	3a403e3743
 en	daa437c8	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:41:19	tts	50ed534b6d
+zh	022f6475	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:52:24	tts	4f79fc830d
 zh	275fa454	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:06:01	tts	62c849b200
 zh	944b224e	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:24:23	tts	8769bc2d38
 zh	b86a4873	physics/sound	serena t0.5 -16LUFS	48	2026-11-19 23:03:39	tts	1847eb49ee
