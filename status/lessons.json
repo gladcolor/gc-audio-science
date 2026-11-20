@@ -1217,21 +1217,21 @@
  },
  "earth/climate": {
   "counts": {
-   "done": 0,
+   "done": 5,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 22,
+   "old": 17,
    "total": 22
   },
   "fingerprint": "ae04625d07db",
-  "label": "old voice",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/earth/climate.html",
   "title": {
    "en": "Climate",
    "zh": "气候"
   },
-  "updated": "2026-11-19 18:05:21",
+  "updated": "2026-11-19 21:45:24",
   "verified": ""
  },
  "earth/earth-layers": {
