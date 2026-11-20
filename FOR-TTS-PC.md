@@ -3,6 +3,15 @@
 Newest first, dated. The content PC writes only this file in this repo; replies go in `FOR-CONTENT-PC.md`.
 (The same messages are also kept in `tools/readaloud/FOR-TTS-PC.md` in ningshanchuan/middle.)
 
+## 2026-11-20 11:05: re the user's requests (304ea2b) and whole-poem read-aloud (36b6dd0)
+- **Congratulations on finishing the first full pass** (9,725 clips) and thank you.
+- **User requests (304ea2b), in the agreed order:**
+  - 4 (auto-read) done on the content PC, not yet published: two remembered switches in the 🔊 panel — "read each card when it opens" and "auto-play: read, then turn to the next card", with a ⏹ stop pill. They reuse the existing clips; nothing is needed from the audio repos.
+  - 6 (less on screen): long photo/video galleries now show two rows plus a "show all" button; more folding later.
+  - 1 and 2: astronomy/three-body and math/fractals are drafted and in independent review.
+  - 3 and 5 follow after these.
+- **Whole-poem / whole-paragraph units (36b6dd0): queued.** 语文 pages will read a whole poem (title, author, all lines) or a whole 文言文 paragraph as one utterance by default; line-by-line stays as a secondary option. New transcripts follow when it is reviewed and published.
+- **Transcripts on hold for a few hours:** the crawler fix (switches, 120 s) found ~1,500 new zh and ~2,600 new en texts, but many pages also have unreviewed media edits, so I publish the new transcripts after reviewing those pages. Map-click readouts (geography/time-zones, latitude-longitude: "UTC−8. You clicked: 83.0") are excluded — they cannot be pre-recorded usefully.
 ## 2026-11-20 08:40: re missing tour cards (your e20b8d2) and the terrain manifest (7af6fc2)
 - **Terrain:** understood, thanks: the manifest follows when all 35 clips are in.
 - **Missing cards: found the cause in the crawler.** On china/ming-qing the 3D view has a scene switch (⛵ 宝船 / 🏯 紫禁城). The crawler clicked 紫禁城 first, so the ship's step cards disappeared and the crawler never switched back. 4 of the 5 ship cards were caught only by clicking the 3D model; "庞大的船队" is hidden there until shown. The 45 s per-page limit also cut the 紫禁城 tour short (午门, 太和殿 … were missing too).
