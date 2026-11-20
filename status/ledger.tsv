@@ -95,6 +95,7 @@ zh	a558e2dd	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:51:55	
 zh	b801a4f7	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:38:52	tts	e44b0d3712
 zh	d65e4ff9	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:04:27	tts	
 zh	e12ac2fc	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:51:56	tts	c4eec822de
+en	1333daab	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-19 23:57:50	tts	7691af8a37
 zh	ecd0dc7c	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-19 22:46:13	tts	1fe90953e3
 zh	fbb4c148	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-19 22:46:14	tts	2cff4154b1
 en	ca9cd8b9	astronomy/measuring-distance	serena t0.5 -16LUFS	48	2026-11-19 22:36:23	tts	ed84ea9a77
@@ -165,6 +166,7 @@ zh	a547ef3a	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:44:57	t
 zh	b4c8272f	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:24:25	tts	c97c57e944
 zh	d396219b	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 23:12:04	tts	3490b783ab
 zh	daefcc19	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-19 22:45:01	tts	cd4e4bc844
+en	bb114c69	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:00:08	tts	6b2b5bf5cb
 zh	1d014b84	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-19 22:46:10	tts	722deaa178
 zh	450d6b71	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-19 22:46:08	tts	a4a0b00a78
 zh	774535c1	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-19 22:46:17	tts	9b69b35eab
@@ -218,20 +220,55 @@ zh	a66500bd	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:45:03	tts	8c2
 zh	afcf37da	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:12:00	tts	
 zh	cb502529	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:08:47	tts	
 zh	faf1e02d	astronomy/seasons	serena t0.5 -16LUFS	48	2026-11-19 22:12:37	tts	
+en	021a9f68	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:27:57	tts	d9a7a0e62d
 en	02ecc68e	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:30	tts	f09d8a8d76
+en	05dfa1ed	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:32:55	tts	1de3d20f12
 en	0a4b49c4	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:28	tts	e880802037
 en	0bd456c7	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:43	tts	678c717d0a
+en	0c9ead58	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:35:26	tts	c5ed0f1cac
 en	0cbfc81b	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:32	tts	6bc73fdf00
+en	0e09e642	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:40:13	tts	f289953b1d
+en	0e75ee09	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:32:57	tts	b7512005c8
+en	1021a243	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:54:16	tts	0e7da21151
 en	13165eda	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:45	tts	3c30a9a95f
+en	139100f5	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:40:16	tts	4200b8760c
+en	18759bed	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:47:22	tts	4038a22c24
 en	2492079c	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:12:59	tts	3aebaaac15
+en	25dd7f0d	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:57:52	tts	2d124e5b99
 en	2d5466a8	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:13:01	tts	39daa77b05
+en	31048965	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:33:03	tts	f5c68c2aee
 en	3138252a	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:25	tts	cf12d0aaa0
+en	35969e5f	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:33:01	tts	b09688e926
+en	39506576	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:54:19	tts	cac42f0663
+en	3de82f7f	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:32:59	tts	710c4e37c7
+en	444c46c0	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:27:53	tts	590833f47d
+en	51f39512	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:43:51	tts	e575b3ff1c
 en	6097adaa	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:49	tts	ee812b9a48
+en	6f8bf559	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-20 00:00:10	tts	3f99659947
+en	752ee5da	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:51:07	tts	5e6bc524bb
+en	777c8b52	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:47:20	tts	c6c7931c33
+en	7fbf8d30	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:40:07	tts	1742d08061
+en	91007fd6	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:40:11	tts	c4f68739da
+en	9cb16a60	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:57:56	tts	5f6c14dede
+en	9f3987bd	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:27:55	tts	9b61fc37a1
+en	9f41ff20	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:43:55	tts	80f29a99f5
 en	a307d71a	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:13:05	tts	30c94a856e
+en	ac67df8e	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:27:51	tts	02cd9ad964
+en	b247c004	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:43:53	tts	0b57167340
+en	b699e1fd	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:54:23	tts	166be5c5c5
+en	b7ecc40f	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:35:29	tts	57fa352e45
+en	baecdc85	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:43:49	tts	f46be1ccb1
 en	c9628f70	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:12:57	tts	f922108623
+en	cc82b978	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:51:09	tts	7a91f1bf55
+en	db6e313c	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:54:21	tts	129f23bd39
+en	dd992b2b	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:57:54	tts	0fc0b6cd13
+en	df9b3638	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:47:18	tts	9528d9bdb8
+en	e06ab9c6	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:40:09	tts	53aefe170b
 en	e67a952c	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:47	tts	b74f96b001
 en	e723feca	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:13:02	tts	5c316b1498
 en	f8deeeec	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:20:41	tts	82fea1ce23
+en	fd42be20	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:54:25	tts	23ce055616
+en	fed3c817	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 23:47:16	tts	6f480110fa
 zh	70c9c23e	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 22:51:54	tts	d64cb4b330
 zh	d8aa0ba0	astronomy/sky-tonight	serena t0.5 -16LUFS	48	2026-11-19 22:44:55	tts	21b32dcc56
 zh	09874ffb	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-19 23:12:02	tts	c211570d6f

@@ -54,7 +54,7 @@
    "zh": "日食与月食"
   },
   "updated": "2026-11-19 23:25:34",
-  "verified": ""
+  "verified": "2026-11-19 23:26:35"
  },
  "astronomy/exoplanets": {
   "counts": {
@@ -92,7 +92,7 @@
    "zh": "星系与宇宙"
   },
   "updated": "2026-11-19 23:25:24",
-  "verified": ""
+  "verified": "2026-11-19 23:26:27"
  },
  "astronomy/gravity-orbits": {
   "counts": {
@@ -111,7 +111,7 @@
    "zh": "引力与轨道"
   },
   "updated": "2026-11-19 23:25:26",
-  "verified": ""
+  "verified": "2026-11-19 23:26:29"
  },
  "astronomy/kepler-laws": {
   "counts": {
@@ -168,7 +168,7 @@
    "zh": "月相"
   },
   "updated": "2026-11-19 23:25:31",
-  "verified": ""
+  "verified": "2026-11-19 23:26:34"
  },
  "astronomy/night-sky": {
   "counts": {
@@ -187,7 +187,7 @@
    "zh": "星座与夜空"
   },
   "updated": "2026-11-19 23:25:39",
-  "verified": ""
+  "verified": "2026-11-19 23:26:38"
  },
  "astronomy/planets-moons": {
   "counts": {
@@ -263,25 +263,25 @@
    "zh": "昼夜与四季"
   },
   "updated": "2026-11-19 23:25:29",
-  "verified": ""
+  "verified": "2026-11-19 23:26:31"
  },
  "astronomy/sky-tonight": {
   "counts": {
-   "done": 0,
+   "done": 51,
    "failed": 0,
    "held": 0,
-   "missing": 52,
-   "old": 84,
+   "missing": 33,
+   "old": 52,
    "total": 136
   },
   "fingerprint": "67998c13dd16",
-  "label": "no audio",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
   "title": {
    "en": "Planetarium: The Sky Tonight",
    "zh": "天象馆：今晚的星空"
   },
-  "updated": "2026-11-19 18:06:44",
+  "updated": "2026-11-20 00:00:10",
   "verified": ""
  },
  "astronomy/small-bodies": {
@@ -320,7 +320,7 @@
    "zh": "太阳系"
   },
   "updated": "2026-11-19 23:25:22",
-  "verified": ""
+  "verified": "2026-11-19 23:27:49"
  },
  "astronomy/space-exploration": {
   "counts": {
@@ -339,7 +339,7 @@
    "zh": "太空探索"
   },
   "updated": "2026-11-19 23:25:41",
-  "verified": ""
+  "verified": "2026-11-19 23:26:41"
  },
  "astronomy/star-life": {
   "counts": {
@@ -415,7 +415,7 @@
    "zh": "潮汐"
   },
   "updated": "2026-11-19 23:25:37",
-  "verified": ""
+  "verified": "2026-11-19 23:26:37"
  },
  "biology/animals": {
   "counts": {
@@ -434,7 +434,7 @@
    "zh": "动物界"
   },
   "updated": "2026-11-19 23:24:42",
-  "verified": ""
+  "verified": "2026-11-19 23:25:55"
  },
  "biology/body-systems": {
   "counts": {
@@ -453,7 +453,7 @@
    "zh": "人体系统"
   },
   "updated": "2026-11-19 23:24:45",
-  "verified": ""
+  "verified": "2026-11-19 23:27:44"
  },
  "biology/cell-city": {
   "counts": {
@@ -662,7 +662,7 @@
    "zh": "生物群落与生态系统"
   },
   "updated": "2026-11-19 23:24:49",
-  "verified": ""
+  "verified": "2026-11-19 23:26:00"
  },
  "biology/endocytosis": {
   "counts": {
@@ -700,7 +700,7 @@
    "zh": "自然选择与进化"
   },
   "updated": "2026-11-19 23:24:52",
-  "verified": ""
+  "verified": "2026-11-19 23:26:01"
  },
  "biology/exocytosis": {
   "counts": {
@@ -738,7 +738,7 @@
    "zh": "食物网与能量金字塔"
   },
   "updated": "2026-11-19 23:24:47",
-  "verified": ""
+  "verified": "2026-11-19 23:25:56"
  },
  "biology/heredity": {
   "counts": {
@@ -757,7 +757,7 @@
    "zh": "基因、性状与庞氏方格"
   },
   "updated": "2026-11-19 23:24:27",
-  "verified": ""
+  "verified": "2026-11-19 23:27:42"
  },
  "biology/microorganisms": {
   "counts": {
@@ -776,7 +776,7 @@
    "zh": "微生物"
   },
   "updated": "2026-11-19 23:24:35",
-  "verified": ""
+  "verified": "2026-11-19 23:25:48"
  },
  "biology/osmosis": {
   "counts": {
@@ -814,7 +814,7 @@
    "zh": "光合作用与呼吸作用"
   },
   "updated": "2026-11-19 23:24:37",
-  "verified": ""
+  "verified": "2026-11-19 23:25:50"
  },
  "biology/plants": {
   "counts": {
@@ -833,7 +833,7 @@
    "zh": "植物结构与生命周期"
   },
   "updated": "2026-11-19 23:24:40",
-  "verified": ""
+  "verified": "2026-11-19 23:25:52"
  },
  "biology/protein-synthesis": {
   "counts": {
@@ -1213,7 +1213,7 @@
    "zh": "大气层"
   },
   "updated": "2026-11-19 23:25:12",
-  "verified": ""
+  "verified": "2026-11-19 23:26:17"
  },
  "earth/climate": {
   "counts": {
@@ -1232,7 +1232,7 @@
    "zh": "气候"
   },
   "updated": "2026-11-19 23:25:17",
-  "verified": ""
+  "verified": "2026-11-19 23:26:22"
  },
  "earth/earth-layers": {
   "counts": {
@@ -1251,7 +1251,7 @@
    "zh": "地球的圈层"
   },
   "updated": "2026-11-19 23:24:54",
-  "verified": ""
+  "verified": "2026-11-19 23:26:03"
  },
  "earth/fossils-time": {
   "counts": {
@@ -1270,7 +1270,7 @@
    "zh": "化石与地质年代"
   },
   "updated": "2026-11-19 23:25:06",
-  "verified": ""
+  "verified": "2026-11-19 23:26:12"
  },
  "earth/natural-resources": {
   "counts": {
@@ -1289,7 +1289,7 @@
    "zh": "自然资源与能源"
   },
   "updated": "2026-11-19 23:25:19",
-  "verified": ""
+  "verified": "2026-11-19 23:26:24"
  },
  "earth/oceans": {
   "counts": {
@@ -1308,7 +1308,7 @@
    "zh": "海洋、波浪与洋流"
   },
   "updated": "2026-11-19 23:25:10",
-  "verified": ""
+  "verified": "2026-11-19 23:26:16"
  },
  "earth/plate-tectonics": {
   "counts": {
@@ -1327,7 +1327,7 @@
    "zh": "板块构造"
   },
   "updated": "2026-11-19 23:24:56",
-  "verified": ""
+  "verified": "2026-11-19 23:26:05"
  },
  "earth/rocks-minerals": {
   "counts": {
@@ -1346,7 +1346,7 @@
    "zh": "岩石、矿物与岩石循环"
   },
   "updated": "2026-11-19 23:24:59",
-  "verified": ""
+  "verified": "2026-11-19 23:26:07"
  },
  "earth/soil": {
   "counts": {
@@ -1365,7 +1365,7 @@
    "zh": "土壤的形成"
   },
   "updated": "2026-11-19 23:25:03",
-  "verified": ""
+  "verified": "2026-11-19 23:26:10"
  },
  "earth/water-cycle": {
   "counts": {
@@ -1384,7 +1384,7 @@
    "zh": "水循环"
   },
   "updated": "2026-11-19 23:25:08",
-  "verified": ""
+  "verified": "2026-11-19 23:26:14"
  },
  "earth/weather": {
   "counts": {
@@ -1403,7 +1403,7 @@
    "zh": "天气与气团"
   },
   "updated": "2026-11-19 23:25:15",
-  "verified": ""
+  "verified": "2026-11-19 23:27:47"
  },
  "earth/weathering-erosion": {
   "counts": {
@@ -1422,7 +1422,7 @@
    "zh": "风化、侵蚀与沉积"
   },
   "updated": "2026-11-19 23:25:01",
-  "verified": ""
+  "verified": "2026-11-19 23:26:08"
  },
  "physics/electricity": {
   "counts": {
