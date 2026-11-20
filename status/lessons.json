@@ -312,7 +312,7 @@
    "old": 25,
    "total": 25
   },
-  "fingerprint": "e95f21c87cdf",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "title": {
@@ -502,7 +502,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "15ceb41585cb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
   "title": {
@@ -510,7 +510,7 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-19 20:44:07",
-  "verified": "2026-11-19 20:45:32"
+  "verified": ""
  },
  "biology/cell-theory": {
   "counts": {
@@ -521,14 +521,14 @@
    "old": 0,
    "total": 46
   },
-  "fingerprint": "",
+  "fingerprint": "68d725a30221",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "title": {
    "en": "Cell Theory & Levels of Organization",
    "zh": "细胞学说与结构层次"
   },
-  "updated": "2026-11-19 20:48:30",
+  "updated": "2026-11-19 22:18:12",
   "verified": ""
  },
  "biology/cell-transport": {
@@ -768,7 +768,7 @@
    "old": 15,
    "total": 26
   },
-  "fingerprint": "a22c48923e86",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "title": {
@@ -1205,7 +1205,7 @@
    "old": 14,
    "total": 14
   },
-  "fingerprint": "6945de36c12a",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/atmosphere.html",
   "title": {
@@ -1243,7 +1243,7 @@
    "old": 14,
    "total": 14
   },
-  "fingerprint": "0f6d9847ba88",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/earth-layers.html",
   "title": {
@@ -1262,7 +1262,7 @@
    "old": 13,
    "total": 16
   },
-  "fingerprint": "b7cc3ae7cf31",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "title": {
@@ -1300,7 +1300,7 @@
    "old": 16,
    "total": 16
   },
-  "fingerprint": "d8a87299a506",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/oceans.html",
   "title": {
@@ -1395,7 +1395,7 @@
    "old": 26,
    "total": 26
   },
-  "fingerprint": "a4b9f8eea90b",
+  "fingerprint": "",
   "label": "old voice",
   "page": "https://shanchuan.org/middle/earth/weather.html",
   "title": {
