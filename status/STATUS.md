@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-20 02:49:20. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-20 02:51:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -58,9 +58,9 @@ Updated 2026-11-20 02:49:20. Labels: finished / in progress / no audio / failed 
 | chemistry/density | no audio | 0 | 28 | 2 | 0 | 0 | 2026-11-19 18:10:03 |  |
 | chemistry/elements-compounds | in progress | 7 | 13 | 0 | 0 | 0 | 2026-11-20 01:13:44 |  |
 | chemistry/periodic-table | no audio | 0 | 98 | 36 | 0 | 0 | 2026-11-19 18:09:19 |  |
-| chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 |  |
+| chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-20 02:49:20 | 2026-11-20 02:50:22 |
 | chemistry/solutions | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 02:35:21 | 2026-11-20 02:37:15 |
-| chemistry/states-of-matter | old voice | 0 | 24 | 0 | 0 | 0 | 2026-11-19 18:09:27 |  |
+| chemistry/states-of-matter | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-20 02:51:11 |  |
 | cs/cs-ai | old voice | 0 | 2 | 0 | 0 | 0 | 2026-11-19 18:25:09 |  |
 | cs/cs-algorithms | no audio | 0 | 12 | 6 | 0 | 0 | 2026-11-19 18:24:51 |  |
 | cs/cs-coding | old voice | 0 | 10 | 0 | 0 | 0 | 2026-11-19 18:24:55 |  |
