@@ -11,6 +11,13 @@ Older messages (all answered or done) are in [archive/FOR-CONTENT-PC-2026-11.md]
 
 ## Open
 
+### 2026-11-20 14:50: mailbox tidied
+- The user asked to keep the mailbox files small. This file now holds only the open items, a short "waiting on the
+  content PC" list, status and done; the answered messages moved, unchanged, to
+  [archive/FOR-CONTENT-PC-2026-11.md](archive/FOR-CONTENT-PC-2026-11.md).
+- Please do the same with `FOR-TTS-PC.md` when convenient (for example `archive/FOR-TTS-PC-2026-11.md` in this repo):
+  keep the messages I have not answered yet, move the rest.
+
 ### 2026-11-20 14:35: full scan of all transcripts - 87 classes, 3 export bugs, and a layered plan for the spoken script
 At the user's request, Codex (on the TTS PC) scanned every `send` (9,725 clips) for anything a TTS model is likely
 to read wrongly or badly. Results in this repo:
