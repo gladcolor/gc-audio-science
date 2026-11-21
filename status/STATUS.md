@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 19:16:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:19:28. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ Updated 2026-11-21 19:16:22. Labels: finished / in progress / no audio / failed 
 | chemistry/carbon | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:00 | 2026-11-21 19:15:11 |
 | chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:01 | 2026-11-21 19:14:13 |
 | chemistry/chemical-equations | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:52 | 2026-11-21 19:14:03 |
-| chemistry/combustion-fuels | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:07 |  |
+| chemistry/combustion-fuels | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:07 | 2026-11-21 19:18:21 |
 | chemistry/density | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:15 | 2026-11-21 19:14:49 |
 | chemistry/elements-compounds | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:10 | 2026-11-21 19:13:36 |
 | chemistry/formulas-valence | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:19 | 2026-11-21 19:13:44 |
@@ -72,7 +72,7 @@ Updated 2026-11-21 19:16:22. Labels: finished / in progress / no audio / failed 
 | chemistry/oxygen-air | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:07:10 | 2026-11-21 19:14:59 |
 | chemistry/periodic-table | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:54 | 2026-11-21 19:13:24 |
 | chemistry/reactions | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:58 | 2026-11-21 19:14:08 |
-| chemistry/salts-fertilizers | in progress | 17 | 0 | 51 | 0 | 0 | 2026-11-21 18:58:16 |  |
+| chemistry/salts-fertilizers | finished | 68 | 0 | 0 | 0 | 0 | 2026-11-21 19:19:28 |  |
 | chemistry/solutions | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:22 | 2026-11-21 19:14:23 |
 | chemistry/states-of-matter | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:43 | 2026-11-21 19:13:59 |
 | chemistry/water-purification | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:46 | 2026-11-21 19:15:44 |
