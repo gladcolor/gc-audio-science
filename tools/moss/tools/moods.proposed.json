@@ -1,0 +1,1280 @@
+[
+  {
+    "work": "简·爱",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "独立自尊贯穿多重悲欢"
+  },
+  {
+    "work": "一滴水经过丽江",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "随水漫游细看丽江"
+  },
+  {
+    "work": "从百草园到三味书屋",
+    "style": "prose",
+    "mood": "light",
+    "reason": "童年见闻活泼有趣"
+  },
+  {
+    "work": "再塑生命的人",
+    "style": "prose",
+    "mood": "light",
+    "reason": "初识万物有名欣喜不已"
+  },
+  {
+    "work": "台阶",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "父亲辛劳终见衰老"
+  },
+  {
+    "work": "回忆我的母亲",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "平实追忆母亲勤劳"
+  },
+  {
+    "work": "回忆鲁迅先生·节选",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "日常琐事寄托敬意"
+  },
+  {
+    "work": "土地的誓言",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "思乡痛切誓言激越"
+  },
+  {
+    "work": "壶口瀑布",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "两观瀑布体味水势刚柔"
+  },
+  {
+    "work": "太空一日",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "纪实叙述飞行与险情"
+  },
+  {
+    "work": "孔乙己",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "众人哄笑衬出人物凄惨"
+  },
+  {
+    "work": "孤独之旅",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "风雨孤独中渐渐成长"
+  },
+  {
+    "work": "安塞腰鼓",
+    "style": "prose",
+    "mood": "light",
+    "reason": "鼓声激越生命奔放"
+  },
+  {
+    "work": "我的叔叔于勒",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "亲情冷暖寓于讽刺"
+  },
+  {
+    "work": "故乡",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "今昔反差显出故乡萧索"
+  },
+  {
+    "work": "散步",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "一家同行温情平和"
+  },
+  {
+    "work": "昆明的雨",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "雨中旧事闲适而温润"
+  },
+  {
+    "work": "春",
+    "style": "prose",
+    "mood": "light",
+    "reason": "春景蓬勃催人振奋"
+  },
+  {
+    "work": "最后一次讲演",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "悲愤声讨并号召担当"
+  },
+  {
+    "work": "济南的冬天",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "温晴冬景宁静柔和"
+  },
+  {
+    "work": "溜索",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "峡谷险峻行者从容"
+  },
+  {
+    "work": "灯笼",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "追忆灯火兼有家国感慨"
+  },
+  {
+    "work": "猫",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "错怪小猫后的愧疚难消"
+  },
+  {
+    "work": "白杨礼赞",
+    "style": "prose",
+    "mood": "light",
+    "reason": "礼赞挺拔白杨昂扬有力"
+  },
+  {
+    "work": "社戏",
+    "style": "prose",
+    "mood": "light",
+    "reason": "伙伴夜游洋溢童趣"
+  },
+  {
+    "work": "秋天的怀念",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "追忆亡母满怀哀痛"
+  },
+  {
+    "work": "紫藤萝瀑布",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "由忧痛转向生命感悟"
+  },
+  {
+    "work": "背影",
+    "style": "prose",
+    "mood": "somber",
+    "reason": "念及父亲背影心酸落泪"
+  },
+  {
+    "work": "苏州园林",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "条理分明介绍园林布局"
+  },
+  {
+    "work": "荷叶·母亲",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "雨中荷叶引出温柔母爱"
+  },
+  {
+    "work": "蒲柳人家·节选",
+    "style": "prose",
+    "mood": "light",
+    "reason": "乡土人物鲜活诙谐"
+  },
+  {
+    "work": "藤野先生",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "敬念恩师交织时局感慨"
+  },
+  {
+    "work": "邓稼先",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "叙述功勋兼有追思"
+  },
+  {
+    "work": "阿长与山海经",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "童趣与感念交织"
+  },
+  {
+    "work": "驿路梨花",
+    "style": "prose",
+    "mood": "light",
+    "reason": "山间互助温暖明朗"
+  },
+  {
+    "work": "一把旧伞",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "雨中相助情谊质朴"
+  },
+  {
+    "work": "奶奶的饺子",
+    "style": "prose",
+    "mood": "light",
+    "reason": "除夕学包饺子渐得乐趣"
+  },
+  {
+    "work": "考场",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "开考时紧张交卷后释然"
+  },
+  {
+    "work": "三顾茅庐",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "从容叙写诚心访贤"
+  },
+  {
+    "work": "刘姥姥进大观园",
+    "style": "prose",
+    "mood": "light",
+    "reason": "游园谐趣引来众人欢笑"
+  },
+  {
+    "work": "智取生辰纲",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "紧凑叙写设局与失纲"
+  },
+  {
+    "work": "范进中举",
+    "style": "prose",
+    "mood": "neutral",
+    "reason": "夸张场面讽刺世态"
+  },
+  {
+    "work": "节气歌",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "顺时节列名便于记诵"
+  },
+  {
+    "work": "朝代歌",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "按年代串联便于记诵"
+  },
+  {
+    "work": "水调歌头·游泳",
+    "style": "verse",
+    "mood": "light",
+    "reason": "畅游大江赞叹天堑变通途"
+  },
+  {
+    "work": "七律·长征",
+    "style": "verse",
+    "mood": "light",
+    "reason": "举重若轻笑迎险阻"
+  },
+  {
+    "work": "琵琶行",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "琴声勾连两人失意"
+  },
+  {
+    "work": "东林书院",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "对联勉人关怀世事"
+  },
+  {
+    "work": "九月九日忆山东兄弟",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "佳节独处思念亲人"
+  },
+  {
+    "work": "书山学海",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "用比喻劝人勤学"
+  },
+  {
+    "work": "元日",
+    "style": "verse",
+    "mood": "light",
+    "reason": "爆竹春风迎来新岁"
+  },
+  {
+    "work": "十二月八日步至西村",
+    "style": "verse",
+    "mood": "light",
+    "reason": "腊日馈粥邻里欢洽"
+  },
+  {
+    "work": "春联",
+    "style": "verse",
+    "mood": "light",
+    "reason": "春满福临喜气洋溢"
+  },
+  {
+    "work": "林则徐",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "对仗申说胸襟与操守"
+  },
+  {
+    "work": "水调歌头·明月几时有",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "怀人惆怅终于旷达祝愿"
+  },
+  {
+    "work": "清明",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "细雨行路愁绪浓"
+  },
+  {
+    "work": "爆竹梅花",
+    "style": "verse",
+    "mood": "light",
+    "reason": "爆竹梅香同贺新春"
+  },
+  {
+    "work": "登鹳雀楼",
+    "style": "verse",
+    "mood": "light",
+    "reason": "登高望远进取昂扬"
+  },
+  {
+    "work": "端午",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "念及屈原感叹沉冤"
+  },
+  {
+    "work": "芦苇竹笋",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借物讥刺虚浮浅薄"
+  },
+  {
+    "work": "青玉案·元夕",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "灯市喧闹映衬独自寻觅"
+  },
+  {
+    "work": "鹊桥仙",
+    "style": "verse",
+    "mood": "light",
+    "reason": "珍重相逢赞叹长情"
+  },
+  {
+    "work": "乡愁",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "离亲隔海乡愁渐深"
+  },
+  {
+    "work": "你是人间的四月天",
+    "style": "verse",
+    "mood": "light",
+    "reason": "四月春光赞美爱与希望"
+  },
+  {
+    "work": "周总理，你在哪里",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "反复呼唤寄托哀思"
+  },
+  {
+    "work": "啊，我们踯躅于黑暗的丛林里！",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "同行苦痛与反抗热望交织"
+  },
+  {
+    "work": "回延安",
+    "style": "verse",
+    "mood": "light",
+    "reason": "重返延安亲切欢腾"
+  },
+  {
+    "work": "天上的街市",
+    "style": "verse",
+    "mood": "light",
+    "reason": "星空想象明丽美好"
+  },
+  {
+    "work": "我爱这土地",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "鸟啼与泪水饱含沉痛"
+  },
+  {
+    "work": "我看",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "观春景而思生命悲欢"
+  },
+  {
+    "work": "断章",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "风景互观引人静思"
+  },
+  {
+    "work": "月夜",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "霜风月色中挺立自持"
+  },
+  {
+    "work": "未选择的路",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "回望选择意味多重"
+  },
+  {
+    "work": "梅岭三章",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "临危诀别兼有慷慨壮志"
+  },
+  {
+    "work": "沁园春·雪",
+    "style": "verse",
+    "mood": "light",
+    "reason": "壮丽雪景激发豪迈气概"
+  },
+  {
+    "work": "祖国啊，我亲爱的祖国",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "祖国的苦难与新生交织"
+  },
+  {
+    "work": "萧红墓畔口占",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "墓畔低语寄托哀思"
+  },
+  {
+    "work": "风雨吟",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "风雨中掌舵心怀不定"
+  },
+  {
+    "work": "黄河颂",
+    "style": "verse",
+    "mood": "light",
+    "reason": "颂唱黄河雄健昂扬"
+  },
+  {
+    "work": "十一月四日风雨大作（其二）",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "病卧孤村仍怀报国梦"
+  },
+  {
+    "work": "夜上受降城闻笛",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "霜月笛声勾起征人乡愁"
+  },
+  {
+    "work": "夜雨寄北",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "羁旅夜雨中盼相聚"
+  },
+  {
+    "work": "天净沙·秋思",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "秋暮萧瑟游子断肠"
+  },
+  {
+    "work": "峨眉山月歌",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "月下行舟含淡淡别情"
+  },
+  {
+    "work": "己亥杂诗（其五）",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "离京愁绪与护花之志交织"
+  },
+  {
+    "work": "春夜洛城闻笛",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "春夜闻笛牵动乡情"
+  },
+  {
+    "work": "晚春",
+    "style": "verse",
+    "mood": "light",
+    "reason": "群芳争艳杨花飞舞"
+  },
+  {
+    "work": "望岳",
+    "style": "verse",
+    "mood": "light",
+    "reason": "望岳兴起凌顶豪情"
+  },
+  {
+    "work": "木兰诗",
+    "style": "verse",
+    "mood": "light",
+    "reason": "代父从军归家欢腾"
+  },
+  {
+    "work": "次北固山下",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "江景开阔兼含乡思"
+  },
+  {
+    "work": "江南逢李龟年",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "落花重逢感怀盛衰"
+  },
+  {
+    "work": "泊秦淮",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "寒夜听曲忧叹兴亡"
+  },
+  {
+    "work": "游山西村",
+    "style": "verse",
+    "mood": "light",
+    "reason": "山村好客游兴盎然"
+  },
+  {
+    "work": "潼关",
+    "style": "verse",
+    "mood": "light",
+    "reason": "山河奔放见少年意气"
+  },
+  {
+    "work": "登幽州台歌",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "独对天地怆然涕下"
+  },
+  {
+    "work": "登飞来峰",
+    "style": "verse",
+    "mood": "light",
+    "reason": "登高远望自信无畏"
+  },
+  {
+    "work": "秋词（其一）",
+    "style": "verse",
+    "mood": "light",
+    "reason": "晴空鹤起秋意昂扬"
+  },
+  {
+    "work": "竹里馆",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "竹林月下独坐清幽"
+  },
+  {
+    "work": "约客",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "雨夜敲棋静候来客"
+  },
+  {
+    "work": "行军九日思长安故园",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "战地遥想故园秋菊"
+  },
+  {
+    "work": "观沧海",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "远观沧海气象雄浑"
+  },
+  {
+    "work": "贾生",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借问鬼神讥用人失当"
+  },
+  {
+    "work": "过松源晨炊漆公店（其五）",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借翻山经历说理"
+  },
+  {
+    "work": "逢入京使",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "泪望故园托人报安"
+  },
+  {
+    "work": "闻王昌龄左迁龙标遥有此寄",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "闻友远谪寄愁于月"
+  },
+  {
+    "work": "使至塞上",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "边塞行旅景象苍茫"
+  },
+  {
+    "work": "关雎",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "由求而不得到想象欢聚"
+  },
+  {
+    "work": "卖炭翁",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "饥寒劳苦又遭掠夺"
+  },
+  {
+    "work": "卜算子·咏梅",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "孤梅风雨中凄清自持"
+  },
+  {
+    "work": "卜算子·黄州定慧院寓居作",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "孤鸿冷洲寄寓幽愤"
+  },
+  {
+    "work": "如梦令·常记溪亭日暮",
+    "style": "verse",
+    "mood": "light",
+    "reason": "醉游荷间惊起鸥鹭"
+  },
+  {
+    "work": "子衿",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "久候不至思念焦灼"
+  },
+  {
+    "work": "庭中有奇树",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "折花难寄感伤久别"
+  },
+  {
+    "work": "式微",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "泥露劳苦反复怨问"
+  },
+  {
+    "work": "春望",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "国破离乱愁苦深重"
+  },
+  {
+    "work": "望洞庭湖上张丞相",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借洞庭壮景委婉求荐"
+  },
+  {
+    "work": "梁甫行",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "边海百姓生计凄苦"
+  },
+  {
+    "work": "浣溪沙·一曲新词酒一杯",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "惜时伤逝独自徘徊"
+  },
+  {
+    "work": "渔家傲·天接云涛连晓雾",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "梦境壮阔兼有身世感叹"
+  },
+  {
+    "work": "渡荆门送别",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "江景壮阔兼有乡情"
+  },
+  {
+    "work": "相见欢·金陵城上西楼",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "登楼伤怀忧叹中原"
+  },
+  {
+    "work": "石壕吏",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "夜间征役尽显一家悲苦"
+  },
+  {
+    "work": "茅屋为秋风所破歌",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "屋破夜寒忧念寒士"
+  },
+  {
+    "work": "蒹葭",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "反复寻觅可望难即"
+  },
+  {
+    "work": "赠从弟（其二）",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借松柏耐寒赞其坚贞"
+  },
+  {
+    "work": "赤壁",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "由折戟引出兴亡设想"
+  },
+  {
+    "work": "送友人",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "挥手惜别情意悠长"
+  },
+  {
+    "work": "送杜少府之任蜀州",
+    "style": "verse",
+    "mood": "light",
+    "reason": "以知己相慰旷达开朗"
+  },
+  {
+    "work": "采桑子·轻舟短棹西湖好",
+    "style": "verse",
+    "mood": "light",
+    "reason": "泛舟赏景轻盈有趣"
+  },
+  {
+    "work": "野望",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "暮秋独望茫然无依"
+  },
+  {
+    "work": "钱塘湖春行",
+    "style": "verse",
+    "mood": "light",
+    "reason": "早春莺燕花草生机勃勃"
+  },
+  {
+    "work": "雁门太守行",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "战云压城赴死悲壮"
+  },
+  {
+    "work": "题破山寺后禅院",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "古寺清幽钟磬悠远"
+  },
+  {
+    "work": "饮酒（其五）",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "采菊见山悠然自得"
+  },
+  {
+    "work": "黄鹤楼",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "暮色烟波引出乡愁"
+  },
+  {
+    "work": "龟虽寿",
+    "style": "verse",
+    "mood": "light",
+    "reason": "年暮仍有千里壮志"
+  },
+  {
+    "work": "丑奴儿·书博山道中壁",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "深愁难诉托于秋凉"
+  },
+  {
+    "work": "临江仙·夜登小阁，忆洛中旧游",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "旧游如梦今昔凄然"
+  },
+  {
+    "work": "别云间",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "家国离别慷慨悲痛"
+  },
+  {
+    "work": "十五从军征",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "老兵归来只见空宅坟茔"
+  },
+  {
+    "work": "南乡子·登京口北固亭有怀",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "登楼怀古慨叹兴亡"
+  },
+  {
+    "work": "南安军",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "归乡有憾绝食明志"
+  },
+  {
+    "work": "咸阳城东楼",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "登楼见荒苑万里愁"
+  },
+  {
+    "work": "商山早行",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "霜晨羁旅思乡凄清"
+  },
+  {
+    "work": "太常引·建康中秋夜为吕叔潜赋",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "对月叹老又寄壮志"
+  },
+  {
+    "work": "定风波·莫听穿林打叶声",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "风雨中徐行心境旷达"
+  },
+  {
+    "work": "山坡羊·潼关怀古",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "怀古伤今悲悯百姓"
+  },
+  {
+    "work": "山坡羊·骊山怀古",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "荒烟遗恨叹兴亡成土"
+  },
+  {
+    "work": "左迁至蓝关示侄孙湘",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "贬途风雪更添悲愤"
+  },
+  {
+    "work": "无题·相见时难别亦难",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "相见别离皆苦相思难尽"
+  },
+  {
+    "work": "月夜忆舍弟",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "战乱离散弟兄生死难问"
+  },
+  {
+    "work": "朝天子·咏喇叭",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "借喇叭讽刺官船扰民"
+  },
+  {
+    "work": "江城子·密州出猎",
+    "style": "verse",
+    "mood": "light",
+    "reason": "出猎豪情激发报国壮志"
+  },
+  {
+    "work": "浣溪沙·漠漠轻寒上小楼",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "轻寒细雨浸染幽愁"
+  },
+  {
+    "work": "浣溪沙·身向云山那畔行",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "深秋荒塞激起古今幽恨"
+  },
+  {
+    "work": "渔家傲·秋思",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "边城孤寒戍者思归"
+  },
+  {
+    "work": "满江红·小住京华",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "突破束缚兼叹知音难觅"
+  },
+  {
+    "work": "白雪歌送武判官归京",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "奇丽雪景交织送别惆怅"
+  },
+  {
+    "work": "破阵子·为陈同甫赋壮词以寄之",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "沙场豪梦转为白发之叹"
+  },
+  {
+    "work": "行路难（其一）",
+    "style": "verse",
+    "mood": "light",
+    "reason": "冲破迷惘昂扬自勉"
+  },
+  {
+    "work": "行香子·树绕村庄",
+    "style": "verse",
+    "mood": "light",
+    "reason": "春游村景鲜活欢快"
+  },
+  {
+    "work": "过零丁洋",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "身世家国之悲归于明志"
+  },
+  {
+    "work": "酬乐天扬州初逢席上见赠",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "感伤旧事又自我振作"
+  },
+  {
+    "work": "长沙过贾谊宅",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "凭吊谪臣寄寓自身悲愁"
+  },
+  {
+    "work": "望庐山瀑布",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "远望飞瀑惊叹壮观"
+  },
+  {
+    "work": "秋浦歌",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "白发夸张写出绵长愁绪"
+  },
+  {
+    "work": "观书有感",
+    "style": "verse",
+    "mood": "neutral",
+    "reason": "用活水譬喻读书之理"
+  },
+  {
+    "work": "赠汪伦",
+    "style": "verse",
+    "mood": "light",
+    "reason": "踏歌送别友情爽朗"
+  },
+  {
+    "work": "静夜思",
+    "style": "verse",
+    "mood": "somber",
+    "reason": "月夜低头思乡情切"
+  },
+  {
+    "work": "史记·蒙恬列传",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "叙述因地设防的做法"
+  },
+  {
+    "work": "萍洲可谈",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "记述舟师辨向的方法"
+  },
+  {
+    "work": "孙子兵法",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "条理分明申说用兵之法"
+  },
+  {
+    "work": "小石潭记",
+    "style": "wenyan",
+    "mood": "somber",
+    "reason": "游兴渐收于清寒凄寂"
+  },
+  {
+    "work": "岳阳楼记",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "写景抒怀终归忧乐之论"
+  },
+  {
+    "work": "论语",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "简练阐明为学之理"
+  },
+  {
+    "work": "醉翁亭记",
+    "style": "wenyan",
+    "mood": "light",
+    "reason": "山水宴游与民同乐"
+  },
+  {
+    "work": "陈涉世家",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "记叙困局与起事谋略"
+  },
+  {
+    "work": "陋室铭",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "清雅自足从容明志"
+  },
+  {
+    "work": "卖油翁",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "以酌油见熟能生巧"
+  },
+  {
+    "work": "咏雪",
+    "style": "wenyan",
+    "mood": "light",
+    "reason": "家人拟雪雅趣欢欣"
+  },
+  {
+    "work": "孙权劝学",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "从劝学到学成重在启发"
+  },
+  {
+    "work": "杞人忧天",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "借对话说明疑虑消解"
+  },
+  {
+    "work": "河中石兽",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "借寻石辨析经验与推断"
+  },
+  {
+    "work": "活板",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "详述活字印刷工序"
+  },
+  {
+    "work": "爱莲说",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "借莲品节申说君子操守"
+  },
+  {
+    "work": "狼",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "紧凑叙写遇狼与斗狼"
+  },
+  {
+    "work": "穿井得一人",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "误传故事重在辨明实情"
+  },
+  {
+    "work": "论语十二章",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "平实阐述为学修身"
+  },
+  {
+    "work": "诫子书",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "平静恳切劝学修身"
+  },
+  {
+    "work": "陈太丘与友期行",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "对话辨明诚信礼节"
+  },
+  {
+    "work": "三峡",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "分时铺写山水景象"
+  },
+  {
+    "work": "与朱元思书",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "山水清朗寄托闲适之情"
+  },
+  {
+    "work": "北冥有鱼",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "奇想铺写鲲鹏变化"
+  },
+  {
+    "work": "周亚夫军细柳",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "叙事凸显治军严谨"
+  },
+  {
+    "work": "大道之行也",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "条理分明陈述大同愿景"
+  },
+  {
+    "work": "富贵不能淫",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "辨论大丈夫的操守"
+  },
+  {
+    "work": "庄子与惠子游于濠梁之上",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "借鱼之乐展开机智问答"
+  },
+  {
+    "work": "得道多助，失道寡助",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "层层推论人和之要"
+  },
+  {
+    "work": "愚公移山",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "寓言叙写克难与坚持"
+  },
+  {
+    "work": "核舟记",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "从容细述微雕形态"
+  },
+  {
+    "work": "桃花源记",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "从容记叙寻访理想村落"
+  },
+  {
+    "work": "生于忧患，死于安乐",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "举例推论忧患之益"
+  },
+  {
+    "work": "答谢中书书",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "清丽山水引出赞叹"
+  },
+  {
+    "work": "虽有嘉肴",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "设喻阐明教学相长"
+  },
+  {
+    "work": "记承天寺夜游",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "月下闲步心境澄澈"
+  },
+  {
+    "work": "马说",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "借马设喻讥讽埋没人才"
+  },
+  {
+    "work": "出师表",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "忠恳陈情兼有政事劝谏"
+  },
+  {
+    "work": "唐雎不辱使命",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "对峙紧张以沉着见胆识"
+  },
+  {
+    "work": "曹刿论战",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "叙述战事并分析取胜缘由"
+  },
+  {
+    "work": "湖心亭看雪",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "独看雪景意境清寂"
+  },
+  {
+    "work": "送东阳马生序",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "以求学经历殷切劝勉"
+  },
+  {
+    "work": "邹忌讽齐王纳谏",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "由家事推及纳谏之理"
+  },
+  {
+    "work": "鱼我所欲也",
+    "style": "wenyan",
+    "mood": "neutral",
+    "reason": "层层论证舍生取义"
+  }
+]

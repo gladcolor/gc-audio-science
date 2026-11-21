@@ -1,0 +1,14 @@
+{
+ "serena_zh_poem": {
+  "source": "yuwen/yw-tang-poems (test recording, 春望 recited)",
+  "text": "春望。杜甫。国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。"
+ },
+ "serena_zh_explain": {
+  "source": "astronomy/eclipses zh:1c7b028f",
+  "text": "月球的本影。能看到日全食的地方。月球的本影很小，落到地球上最多形成一个约 270 千米宽的黑斑。随着月球运动和地球自转，黑斑扫出一条狭窄的“全食带”。全食最多持续约 7 分半钟。月球离地球较远时，本影到不了地面，人们看到的是日环食。本影斑很小，只有少数地方能看到日全食。"
+ },
+ "serena_en_explain": {
+  "source": "earth/natural-resources en:06359e55",
+  "text": "Wind power. Moving air spins turbines. Wind spins the giant blades, which turn a generator inside the nacelle at the top of the tower. Wind exists because the Sun heats Earth unevenly, so wind energy is really solar energy too. Power rises quickly with wind speed. Below about 3 m/s the blades barely turn. Try the Wind slider!"
+ }
+}
