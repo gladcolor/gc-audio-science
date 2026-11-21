@@ -1326,21 +1326,24 @@
  },
  "earth/climate": {
   "counts": {
-   "done": 22,
+   "done": 13,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 22
+   "total": 13
   },
-  "fingerprint": "",
+  "fingerprint": "7104d58c7475",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/climate.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Climate",
    "zh": "气候"
   },
-  "updated": "2026-11-19 23:25:17",
+  "updated": "2026-11-21 06:47:32",
   "verified": ""
  },
  "earth/earth-layers": {
