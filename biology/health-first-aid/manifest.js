@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "biology/health-first-aid", "voice": "serena", "en": "03245df4 0ecd54e4 123df5b5 25253e83 33dd3c84 3442e12f 3688110b 36cbe685 404892f5 4a2f5ca2 93f87552 9e6ad433 aa897a5e cb03e4af ce5e6b0f e1b034db e9cbfdd9 f5453711", "zh": "04d6ec4b 117a904f 198d1b56 55099788 592805f1 620198b0 67336cd5 69d3c5b4 80d0a9d4 9b90b8bb b7b49651 c0a779a9 c17f0e91 c46e17f8 c5204a1c c80befa6 d02013cb db7c5d30"});
