@@ -1794,7 +1794,7 @@
    "old": 0,
    "total": 7
   },
-  "fingerprint": "",
+  "fingerprint": "34f0fadc3d6b",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/buoyancy.html",
   "record_langs": [
@@ -1804,8 +1804,8 @@
    "en": "Buoyancy & Archimedes’ Principle",
    "zh": "浮力与阿基米德原理"
   },
-  "updated": "2026-11-21 11:42:24",
-  "verified": "2026-11-21 13:07:39"
+  "updated": "2026-11-21 17:34:26",
+  "verified": ""
  },
  "physics/electric-power": {
   "counts": {
