@@ -1,12 +1,12 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:57:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:16 |  |
 | astronomy/black-holes | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:04 |  |
-| astronomy/eclipses | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:53 |  |
+| astronomy/eclipses | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:53 | 2026-11-21 20:54:35 |
 | astronomy/exoplanets | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:06 |  |
 | astronomy/galaxies | in progress | 15 | 1 | 0 | 0 | 0 | 2026-11-21 20:49:39 |  |
 | astronomy/gravity-orbits | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:39:30 | 2026-11-21 20:44:57 |
@@ -17,18 +17,18 @@ Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed 
 | astronomy/planets-moons | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:12 |  |
 | astronomy/rocketry | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:10 |  |
 | astronomy/scale-universe | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:55 |  |
-| astronomy/seasons | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:09 |  |
+| astronomy/seasons | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:09 | 2026-11-21 20:54:48 |
 | astronomy/sky-tonight | finished | 73 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:53 |  |
 | astronomy/small-bodies | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:14 |  |
-| astronomy/solar-system | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:27 |  |
+| astronomy/solar-system | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:27 | 2026-11-21 20:55:47 |
 | astronomy/space-exploration | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:37:45 | 2026-11-21 20:44:12 |
 | astronomy/star-life | finished | 147 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:01 |  |
-| astronomy/sun-stars | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:13 |  |
-| astronomy/telescopes-light | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:56 |  |
+| astronomy/sun-stars | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:13 | 2026-11-21 20:54:04 |
+| astronomy/telescopes-light | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:56 | 2026-11-21 20:56:07 |
 | astronomy/three-body | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:19 |  |
 | astronomy/tides | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:39:54 | 2026-11-21 20:45:17 |
-| biology/animals | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:52:48 |  |
-| biology/body-systems | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:33 |  |
+| biology/animals | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:52:48 | 2026-11-21 20:56:49 |
+| biology/body-systems | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:33 | 2026-11-21 20:55:33 |
 | biology/breathing-circulation | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:58 | 2026-11-21 20:14:14 |
 | biology/cell-city | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 20:37:55 | 2026-11-21 20:44:34 |
 | biology/cell-division | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:39:05 | 2026-11-21 20:44:49 |
@@ -39,10 +39,10 @@ Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed 
 | biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:21 | 2026-11-21 20:33:48 |
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:31 |  |
 | biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:29:57 | 2026-11-21 20:33:09 |
-| biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:50:25 |  |
+| biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:50:25 | 2026-11-21 20:56:11 |
 | biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 20:41:38 | 2026-11-21 20:45:59 |
 | biology/endocytosis | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:37:08 | 2026-11-21 20:43:59 |
-| biology/evolution | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:35 |  |
+| biology/evolution | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:35 | 2026-11-21 20:53:30 |
 | biology/exocytosis | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:36:17 | 2026-11-21 20:43:48 |
 | biology/food-webs | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:40:03 | 2026-11-21 20:45:27 |
 | biology/habitat-niche | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:35:52 | 2026-11-21 20:43:40 |
@@ -53,7 +53,7 @@ Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed 
 | biology/nervous-endocrine | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:00 | 2026-11-21 20:14:37 |
 | biology/nutrition-digestion | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:55 | 2026-11-21 20:13:58 |
 | biology/osmosis | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 20:35:23 | 2026-11-21 20:42:45 |
-| biology/photosynthesis | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:41 |  |
+| biology/photosynthesis | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:41 | 2026-11-21 20:54:25 |
 | biology/plants | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:13 | 2026-11-21 20:33:17 |
 | biology/protein-synthesis | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:24 |  |
 | biology/reproduction | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:29 |  |
@@ -84,22 +84,22 @@ Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed 
 | cs/cs-data-crypto | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-20 09:09:53 |  |
 | cs/cs-internet | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-20 08:51:06 |  |
 | cs/cs-safety | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:56:57 |  |
-| earth/atmosphere | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:34 |  |
+| earth/atmosphere | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:34 | 2026-11-21 20:55:53 |
 | earth/climate | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:35:34 | 2026-11-21 20:43:12 |
-| earth/earth-layers | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:22 |  |
+| earth/earth-layers | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:22 | 2026-11-21 20:54:12 |
 | earth/fossils-time | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:39:49 | 2026-11-21 20:45:07 |
-| earth/natural-resources | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:47 |  |
-| earth/oceans | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:14 |  |
-| earth/plate-tectonics | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 20:51:41 |  |
+| earth/natural-resources | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:47 | 2026-11-21 20:53:39 |
+| earth/oceans | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:14 | 2026-11-21 20:54:54 |
+| earth/plate-tectonics | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 20:51:41 | 2026-11-21 20:56:26 |
 | earth/rocks-minerals | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:35 | 2026-11-21 20:33:54 |
 | earth/soil | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:42:21 | 2026-11-21 20:46:06 |
-| earth/water-cycle | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:24 |  |
-| earth/weather | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:17 |  |
-| earth/weathering-erosion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:44 |  |
+| earth/water-cycle | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:24 | 2026-11-21 20:55:16 |
+| earth/weather | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:48:17 | 2026-11-21 20:55:07 |
+| earth/weathering-erosion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:44 | 2026-11-21 20:56:01 |
 | physics/buoyancy | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:46 |  |
 | physics/communications-energy | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:13 | 2026-11-21 20:41:08 |
 | physics/electric-power | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:59 |  |
-| physics/electricity | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:53 |  |
+| physics/electricity | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:53 | 2026-11-21 20:53:47 |
 | physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
 | physics/energy | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:29 |  |
 | physics/forces | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:25 | 2026-11-21 20:22:59 |
@@ -112,11 +112,11 @@ Updated 2026-11-21 20:53:16. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
 | physics/motion | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 20:36:51 |  |
 | physics/newtons-laws | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:23 |  |
-| physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:57 |  |
+| physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:13 |  |
 | physics/phase-changes | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:53 |  |
-| physics/pressure | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:51:54 |  |
+| physics/pressure | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:51:54 | 2026-11-21 20:56:34 |
 | physics/simple-machines | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:27 |  |
-| physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:53:16 |  |
+| physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:53:16 | 2026-11-21 20:56:57 |
 | physics/specific-heat | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:51 |  |
 | physics/static-charge | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:08 | 2026-11-21 20:40:41 |
 | physics/waves | in progress | 13 | 1 | 0 | 0 | 0 | 2026-11-21 20:52:30 |  |

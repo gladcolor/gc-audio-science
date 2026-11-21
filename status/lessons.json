@@ -63,7 +63,7 @@
    "zh": "日食与月食"
   },
   "updated": "2026-11-21 20:47:53",
-  "verified": ""
+  "verified": "2026-11-21 20:54:35"
  },
  "astronomy/exoplanets": {
   "counts": {
@@ -305,7 +305,7 @@
    "zh": "昼夜与四季"
   },
   "updated": "2026-11-21 20:48:09",
-  "verified": ""
+  "verified": "2026-11-21 20:54:48"
  },
  "astronomy/sky-tonight": {
   "counts": {
@@ -371,7 +371,7 @@
    "zh": "太阳系"
   },
   "updated": "2026-11-21 20:49:27",
-  "verified": ""
+  "verified": "2026-11-21 20:55:47"
  },
  "astronomy/space-exploration": {
   "counts": {
@@ -437,7 +437,7 @@
    "zh": "太阳与恒星的一生"
   },
   "updated": "2026-11-21 20:47:13",
-  "verified": ""
+  "verified": "2026-11-21 20:54:04"
  },
  "astronomy/telescopes-light": {
   "counts": {
@@ -459,7 +459,7 @@
    "zh": "望远镜与看不见的光"
   },
   "updated": "2026-11-21 20:49:56",
-  "verified": ""
+  "verified": "2026-11-21 20:56:07"
  },
  "astronomy/three-body": {
   "counts": {
@@ -525,7 +525,7 @@
    "zh": "动物界"
   },
   "updated": "2026-11-21 20:52:48",
-  "verified": ""
+  "verified": "2026-11-21 20:56:49"
  },
  "biology/body-systems": {
   "counts": {
@@ -547,7 +547,7 @@
    "zh": "人体系统"
   },
   "updated": "2026-11-21 20:48:33",
-  "verified": ""
+  "verified": "2026-11-21 20:55:33"
  },
  "biology/breathing-circulation": {
   "counts": {
@@ -789,7 +789,7 @@
    "zh": "DNA：生命密码"
   },
   "updated": "2026-11-21 20:50:25",
-  "verified": ""
+  "verified": "2026-11-21 20:56:11"
  },
  "biology/ecosystems": {
   "counts": {
@@ -855,7 +855,7 @@
    "zh": "自然选择与进化"
   },
   "updated": "2026-11-21 20:46:35",
-  "verified": ""
+  "verified": "2026-11-21 20:53:30"
  },
  "biology/exocytosis": {
   "counts": {
@@ -1097,7 +1097,7 @@
    "zh": "光合作用与呼吸作用"
   },
   "updated": "2026-11-21 20:47:41",
-  "verified": ""
+  "verified": "2026-11-21 20:54:25"
  },
  "biology/plants": {
   "counts": {
@@ -1761,7 +1761,7 @@
    "zh": "大气层"
   },
   "updated": "2026-11-21 20:49:34",
-  "verified": ""
+  "verified": "2026-11-21 20:55:53"
  },
  "earth/climate": {
   "counts": {
@@ -1805,7 +1805,7 @@
    "zh": "地球的圈层"
   },
   "updated": "2026-11-21 20:47:22",
-  "verified": ""
+  "verified": "2026-11-21 20:54:12"
  },
  "earth/fossils-time": {
   "counts": {
@@ -1849,7 +1849,7 @@
    "zh": "自然资源与能源"
   },
   "updated": "2026-11-21 20:46:47",
-  "verified": ""
+  "verified": "2026-11-21 20:53:39"
  },
  "earth/oceans": {
   "counts": {
@@ -1871,7 +1871,7 @@
    "zh": "海洋、波浪与洋流"
   },
   "updated": "2026-11-21 20:48:14",
-  "verified": ""
+  "verified": "2026-11-21 20:54:54"
  },
  "earth/plate-tectonics": {
   "counts": {
@@ -1893,7 +1893,7 @@
    "zh": "板块构造"
   },
   "updated": "2026-11-21 20:51:41",
-  "verified": ""
+  "verified": "2026-11-21 20:56:26"
  },
  "earth/rocks-minerals": {
   "counts": {
@@ -1959,7 +1959,7 @@
    "zh": "水循环"
   },
   "updated": "2026-11-21 20:48:24",
-  "verified": ""
+  "verified": "2026-11-21 20:55:16"
  },
  "earth/weather": {
   "counts": {
@@ -1981,7 +1981,7 @@
    "zh": "天气与气团"
   },
   "updated": "2026-11-21 20:48:17",
-  "verified": ""
+  "verified": "2026-11-21 20:55:07"
  },
  "earth/weathering-erosion": {
   "counts": {
@@ -2003,7 +2003,7 @@
    "zh": "风化、侵蚀与沉积"
   },
   "updated": "2026-11-21 20:49:44",
-  "verified": ""
+  "verified": "2026-11-21 20:56:01"
  },
  "physics/buoyancy": {
   "counts": {
@@ -2091,7 +2091,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-21 20:46:53",
-  "verified": ""
+  "verified": "2026-11-21 20:53:47"
  },
  "physics/electromagnetism": {
   "counts": {
@@ -2366,7 +2366,7 @@
    "old": 0,
    "total": 4
   },
-  "fingerprint": "",
+  "fingerprint": "445d944c1ba4",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/ohms-law.html",
   "record_langs": [
@@ -2376,7 +2376,7 @@
    "en": "Ohm’s Law, Series & Parallel Circuits",
    "zh": "欧姆定律与串并联电路"
   },
-  "updated": "2026-11-21 20:01:57",
+  "updated": "2026-11-21 20:57:13",
   "verified": ""
  },
  "physics/phase-changes": {
@@ -2421,7 +2421,7 @@
    "zh": "压强：固体、液体与大气"
   },
   "updated": "2026-11-21 20:51:54",
-  "verified": ""
+  "verified": "2026-11-21 20:56:34"
  },
  "physics/simple-machines": {
   "counts": {
@@ -2465,7 +2465,7 @@
    "zh": "声音"
   },
   "updated": "2026-11-21 20:53:16",
-  "verified": ""
+  "verified": "2026-11-21 20:56:57"
  },
  "physics/specific-heat": {
   "counts": {
