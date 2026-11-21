@@ -663,11 +663,11 @@
  },
  "biology/cells-review": {
   "counts": {
-   "done": 95,
+   "done": 145,
    "failed": 0,
    "held": 0,
-   "missing": 10,
-   "old": 52,
+   "missing": 1,
+   "old": 11,
    "total": 157
   },
   "fingerprint": "50b99e74f5d6",
@@ -681,7 +681,7 @@
    "en": "Cells Unit Review & Practice Test",
    "zh": "细胞单元复习与模拟测试"
   },
-  "updated": "2026-11-21 17:38:40",
+  "updated": "2026-11-21 17:48:28",
   "verified": ""
  },
  "biology/characteristics-of-life": {
