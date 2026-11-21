@@ -664,15 +664,15 @@
  },
  "biology/cells-review": {
   "counts": {
-   "done": 145,
+   "done": 157,
    "failed": 0,
    "held": 0,
-   "missing": 1,
-   "old": 11,
+   "missing": 0,
+   "old": 0,
    "total": 157
   },
   "fingerprint": "50b99e74f5d6",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "record_langs": [
    "en",
@@ -682,7 +682,7 @@
    "en": "Cells Unit Review & Practice Test",
    "zh": "细胞单元复习与模拟测试"
   },
-  "updated": "2026-11-21 17:48:28",
+  "updated": "2026-11-21 17:51:34",
   "verified": ""
  },
  "biology/characteristics-of-life": {
