@@ -2459,6 +2459,7 @@ en	5d940f5c	chemistry/acids-bases	serena moss8b	48	2026-11-21 19:02:56	tts	c336a
 en	6464f209	chemistry/acids-bases	serena moss8b	48	2026-11-21 18:56:09	tts	e0ff77f9b8
 en	7d7736d9	chemistry/acids-bases	serena moss8b	48	2026-11-21 18:56:42	tts	bbf80f09ec
 en	86d0adff	chemistry/acids-bases	serena moss8b	48	2026-11-21 19:02:24	tts	9cc1cbcbd5
+en	86e059dd	chemistry/acids-bases	serena moss8b	48	2026-11-21 19:05:15	tts	7240d67993
 en	949d0feb	chemistry/acids-bases	serena moss8b	48	2026-11-21 18:49:44	tts	336f949546
 en	a30ab69f	chemistry/acids-bases	serena moss8b	48	2026-11-21 18:51:31	tts	42c0e97963
 en	a65a2d4f	chemistry/acids-bases	serena moss8b	48	2026-11-21 18:52:09	tts	79d6823e0a
@@ -2549,8 +2550,10 @@ zh	ec1f1eab	chemistry/atoms	serena moss8b	48	2026-11-21 11:33:50	tts	f4d6a155c8
 zh	f7956814	chemistry/atoms	serena moss8b	48	2026-11-21 11:37:42	tts	079550c088
 zh	f856bc71	chemistry/atoms	serena moss8b	48	2026-11-21 11:32:45	tts	6dbb9c4c59
 zh	fe6c3b4d	chemistry/atoms	serena moss8b	48	2026-11-21 11:21:53	tts	c32fca9155
+en	090ff625	chemistry/carbon	serena moss8b	48	2026-11-21 19:05:13	tts	c433617a9b
 en	0c0e6560	chemistry/carbon	serena moss8b	48	2026-11-21 19:04:06	tts	56c95b392c
 en	1c3cd629	chemistry/carbon	serena moss8b	48	2026-11-21 19:01:02	tts	878db50a74
+en	25f3624e	chemistry/carbon	serena moss8b	48	2026-11-21 19:05:21	tts	8b650e92fd
 en	2d1d0733	chemistry/carbon	serena moss8b	48	2026-11-21 19:00:48	tts	d97f25ad0f
 en	34567bc7	chemistry/carbon	serena moss8b	48	2026-11-21 18:57:12	tts	a8bb90f601
 en	529f12b6	chemistry/carbon	serena moss8b	48	2026-11-21 18:58:59	tts	42f933d928
@@ -2607,6 +2610,7 @@ zh	97c1a5c0	chemistry/chemical-equations	serena moss8b	48	2026-11-21 12:06:17	tt
 zh	a72fd884	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:58:50	tts	8da1d999b9
 zh	d7a6fb20	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:49:39	tts	115b4cdaae
 zh	db8e19fc	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:40:13	tts	b0fda4f590
+en	00564f6d	chemistry/chemistry-life	serena moss8b	48	2026-11-21 19:05:17	tts	25491d6404
 en	38870bdc	chemistry/chemistry-life	serena moss8b	48	2026-11-21 19:03:51	tts	608136495f
 en	457d2d64	chemistry/chemistry-life	serena moss8b	48	2026-11-21 19:00:31	tts	73fa7651e1
 en	551e0be5	chemistry/chemistry-life	serena moss8b	48	2026-11-21 19:00:34	tts	1e429bca0d
@@ -2629,6 +2633,7 @@ en	41f269b6	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 19:03:19	tts	
 en	49b69b60	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 18:58:53	tts	5041efb517
 en	62f42057	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 19:04:26	tts	73d87c6e9d
 en	686664eb	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 19:04:16	tts	1260cab444
+en	7601adbb	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 19:05:14	tts	16983ca307
 en	79b32240	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 18:58:52	tts	ea53627216
 en	9a92f56f	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 19:00:01	tts	2b28e1230d
 en	a02fa884	chemistry/combustion-fuels	serena moss8b	48	2026-11-21 18:58:48	tts	10294f5789
@@ -2755,6 +2760,7 @@ en	1f60815b	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:03:49	tts	34a292
 en	2083f2cf	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:49	tts	38daaaa123
 en	26376046	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:23	tts	e8bb1dd642
 en	31a91656	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:02:55	tts	b5eae1b648
+en	344e655b	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:05:18	tts	b1bc704814
 en	3ea87e62	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:00:38	tts	03ab6534d7
 en	4b270d04	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:17	tts	9e5585a4dc
 en	5616f382	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:49	tts	daa416c657
@@ -2772,9 +2778,12 @@ en	b87afad7	chemistry/lab-skills	serena moss8b	48	2026-11-21 18:58:33	tts	129cd5
 en	c0ee5a0e	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:00:40	tts	a7f2cdf727
 en	c42cf7e9	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:07	tts	e4660877a7
 en	c5dab00c	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:14	tts	e301ac8ddc
+en	d2df2e8a	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:05:17	tts	5faba50613
 en	d974c2c7	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:50	tts	d1836e9543
 en	de1bcf53	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:03:38	tts	7fb11717cb
+en	de84b253	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:05:16	tts	37d0cbe6c5
 en	e1cca626	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:03:06	tts	af69e16415
+en	e6dec33c	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:05:18	tts	989eee6cea
 en	e7b1305d	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:35	tts	dc8a1523cf
 en	ede0db49	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:32	tts	7b817efb13
 en	ee48f798	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:22	tts	008063d90d
@@ -2884,6 +2893,7 @@ en	8adfaadd	chemistry/oxygen-air	serena moss8b	48	2026-11-21 18:51:16	tts	6be3b8
 en	9e529e7a	chemistry/oxygen-air	serena moss8b	48	2026-11-21 19:01:56	tts	ca3c8f53bd
 en	a38128da	chemistry/oxygen-air	serena moss8b	48	2026-11-21 18:51:20	tts	17cf151135
 en	a7a2fcfb	chemistry/oxygen-air	serena moss8b	48	2026-11-21 18:59:56	tts	0487214549
+en	b4d714a3	chemistry/oxygen-air	serena moss8b	48	2026-11-21 19:05:20	tts	dcf79a2e56
 en	b7779691	chemistry/oxygen-air	serena moss8b	48	2026-11-21 18:58:30	tts	7e5489a56c
 en	b78739a3	chemistry/oxygen-air	serena moss8b	48	2026-11-21 19:03:38	tts	e5e3189385
 en	bed8370d	chemistry/oxygen-air	serena moss8b	48	2026-11-21 18:59:47	tts	600f40f6a1
@@ -3165,6 +3175,7 @@ en	4d919175	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:04:31	tts
 en	57703ffa	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:00:12	tts	e53ed1d302
 en	5bee378e	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:00:32	tts	d42f6531b4
 en	73bbe4bc	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:04:50	tts	fa0ee5d943
+en	893a2427	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:05:14	tts	79516fd043
 en	8dfbbde8	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 18:57:03	tts	daf3f7c802
 en	9c0f870a	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:00:06	tts	9da5d1ccfc
 en	9dc3621e	chemistry/salts-fertilizers	serena moss8b	48	2026-11-21 19:02:07	tts	77cd10e805
@@ -3208,7 +3219,9 @@ en	60069472	chemistry/solutions	serena moss8b	48	2026-11-21 18:56:26	tts	a76bef3
 en	72f4f03d	chemistry/solutions	serena moss8b	48	2026-11-21 19:02:43	tts	f8fde610fb
 en	7d2d3aeb	chemistry/solutions	serena moss8b	48	2026-11-21 18:56:33	tts	3be1deca99
 en	92b04540	chemistry/solutions	serena moss8b	48	2026-11-21 18:59:52	tts	5e90cdd486
+en	9d4b568b	chemistry/solutions	serena moss8b	48	2026-11-21 19:05:21	tts	a61b609da4
 en	af0059e6	chemistry/solutions	serena moss8b	48	2026-11-21 18:48:57	tts	19c32f4662
+en	c021e2c3	chemistry/solutions	serena moss8b	48	2026-11-21 19:05:11	tts	8a1c103ade
 en	c4bb579f	chemistry/solutions	serena moss8b	48	2026-11-21 18:50:52	tts	67d4bfc170
 en	d9ef0316	chemistry/solutions	serena moss8b	48	2026-11-21 18:51:01	tts	399d11f40f
 en	e00eb168	chemistry/solutions	serena moss8b	48	2026-11-21 18:48:51	tts	7ccb20a913
@@ -3282,6 +3295,7 @@ en	51412537	chemistry/water-purification	serena moss8b	48	2026-11-21 19:00:59	tt
 en	5959c902	chemistry/water-purification	serena moss8b	48	2026-11-21 18:56:48	tts	5db943b5fe
 en	699fea17	chemistry/water-purification	serena moss8b	48	2026-11-21 19:02:42	tts	334de98bf7
 en	7b106783	chemistry/water-purification	serena moss8b	48	2026-11-21 19:01:05	tts	e8aff09d0f
+en	88d92706	chemistry/water-purification	serena moss8b	48	2026-11-21 19:05:13	tts	011925f51b
 en	9f2f80a5	chemistry/water-purification	serena moss8b	48	2026-11-21 19:01:09	tts	edf88775f2
 en	ac13a7e7	chemistry/water-purification	serena moss8b	48	2026-11-21 19:00:47	tts	47d61acbc3
 en	db6dc58f	chemistry/water-purification	serena moss8b	48	2026-11-21 18:55:46	tts	3d61759713
