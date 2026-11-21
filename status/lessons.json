@@ -798,26 +798,25 @@
  },
  "biology/dna": {
   "counts": {
-   "done": 16,
+   "done": 8,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 16
+   "total": 8
   },
   "fingerprint": "f0a481e08753",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/dna.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "DNA: The Code of Life",
    "zh": "DNA：生命密码"
   },
-  "updated": "2026-11-21 17:51:08",
-  "verified": "2026-11-21 17:59:17"
+  "updated": "2026-11-21 19:59:22",
+  "verified": ""
  },
  "biology/ecosystems": {
   "counts": {
