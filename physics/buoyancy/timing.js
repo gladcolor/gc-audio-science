@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/buoyancy", "en": {}, "zh": {"0f2e85da": {"dur": 15.5}, "4dd6b7f1": {"dur": 15.34}, "6abb85f7": {"dur": 15.5}, "8861d90d": {"dur": 14.45}, "9c4a23cb": {"dur": 16.22}, "a0fc5293": {"dur": 16.94}, "d5c38e4c": {"dur": 24.86}}});
