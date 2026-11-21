@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "chemistry/reactions", "en": {"4e134b7c": {"dur": 42.77}, "7cab8310": {"dur": 46.46}, "80aa7e38": {"dur": 38.78}, "eb0314ac": {"dur": 35.9}}, "zh": {"305a540e": {"dur": 39.58}, "4802a4d5": {"dur": 29.57}, "a332cf25": {"dur": 31.97}, "e01039d5": {"dur": 43.18}}});
+LabAudioTiming({"lesson": "chemistry/reactions", "en": {"4e134b7c": {"dur": 42.77}, "7cab8310": {"dur": 46.46}, "80aa7e38": {"dur": 38.78}, "eb0314ac": {"dur": 35.9}}, "zh": {"305a540e": {"dur": 39.58}, "4802a4d5": {"dur": 29.57}, "996eaecd": {"dur": 11.66}, "a332cf25": {"dur": 31.97}, "e01039d5": {"dur": 43.18}}});

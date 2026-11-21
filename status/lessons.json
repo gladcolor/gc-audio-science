@@ -1196,21 +1196,24 @@
  },
  "chemistry/reactions": {
   "counts": {
-   "done": 8,
+   "done": 1,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
+   "missing": 3,
+   "old": 4,
    "total": 8
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "a9db68991051",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/reactions.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Chemical Reactions & Conservation of Mass",
    "zh": "化学反应与质量守恒"
   },
-  "updated": "2026-11-20 02:49:20",
+  "updated": "2026-11-21 11:34:50",
   "verified": ""
  },
  "chemistry/solutions": {
