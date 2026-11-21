@@ -460,21 +460,24 @@
  },
  "biology/cell-city": {
   "counts": {
-   "done": 68,
+   "done": 32,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 68
+   "total": 32
   },
-  "fingerprint": "",
+  "fingerprint": "8ba3dc39ead0",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Cell City: Organelle Analogies",
    "zh": "细胞城市：细胞器的类比"
   },
-  "updated": "2026-11-19 22:41:13",
+  "updated": "2026-11-21 05:37:33",
   "verified": ""
  },
  "biology/cell-division": {
