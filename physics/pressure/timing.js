@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/pressure", "en": {}, "zh": {"06aae936": {"dur": 15.26}, "0a59a545": {"dur": 15.89}, "61666a5e": {"dur": 11.18}, "6bb1975b": {"dur": 17.57}, "6d669f12": {"dur": 16.85}, "7f75185a": {"dur": 16.61}, "8eb37901": {"dur": 16.06}, "9685a157": {"dur": 12.7}, "9be215c0": {"dur": 13.49}, "ae3efa8d": {"dur": 19.82}, "b8108fd2": {"dur": 14.21}, "e2cff072": {"dur": 12.7}, "e2e5b87e": {"dur": 14.06}, "f554734b": {"dur": 14.21}}});
