@@ -226,8 +226,11 @@ en	e0a7eb5e	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:36:27	tt
 en	e1e2c4f2	astronomy/solar-system	serena t0.5 -16LUFS	48	2026-11-19 22:24:01	tts	
 zh	016e15a1	astronomy/solar-system	serena moss8b	48	2026-11-21 05:59:39	tts	585d4ccbc7
 zh	2a36a8cc	astronomy/solar-system	serena moss8b	48	2026-11-21 05:57:06	tts	27faeab1ea
+zh	412cb9e3	astronomy/solar-system	serena moss8b	48	2026-11-21 06:01:07	tts	6ff6e72f43
 zh	59dfdb69	astronomy/solar-system	serena moss8b	48	2026-11-21 06:00:31	tts	7b20878264
 zh	87302ec3	astronomy/solar-system	serena moss8b	48	2026-11-21 05:57:04	tts	4fdc02e7ef
+zh	a707ee58	astronomy/solar-system	serena moss8b	48	2026-11-21 06:05:08	tts	96ba40030b
+zh	f909bff3	astronomy/solar-system	serena moss8b	48	2026-11-21 06:02:54	tts	22cd7af424
 zh	f956d144	astronomy/solar-system	serena moss8b	48	2026-11-21 06:00:29	tts	1ebae30c22
 en	0a295189	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:17:43	tts	
 en	2993dbf6	astronomy/space-exploration	serena t0.5 -16LUFS	48	2026-11-19 22:20:12	tts	
@@ -314,6 +317,9 @@ en	6ce9d637	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:06:42	tts
 en	7b0dc635	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:01:58	tts	
 en	b35b2175	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:10:44	tts	
 en	edeb4f9d	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:06:46	tts	
+zh	2335e055	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:04:29	tts	3f5cbb0fed
+zh	2867f55d	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:04:33	tts	0675429bc0
+zh	8e6473fc	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:01:06	tts	b6d06663de
 en	585013f0	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:22:50	tts	
 en	8632f75b	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:23:52	tts	
 en	a468305d	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:23:55	tts	
@@ -672,6 +678,7 @@ zh	3e3d3ade	biology/cells-review	serena moss8b	48	2026-11-21 05:55:14	tts	eb70bb
 zh	3f27439a	biology/cells-review	serena moss8b	48	2026-11-21 05:55:19	tts	327cf99a2c
 zh	3f90dc48	biology/cells-review	serena moss8b	48	2026-11-21 05:50:32	tts	f7a9b3baba
 zh	404470e3	biology/cells-review	serena moss8b	48	2026-11-21 05:24:16	tts	1e0c62fcc4
+zh	415949a4	biology/cells-review	serena moss8b	48	2026-11-21 06:05:11	tts	946e2ffb53
 zh	43581051	biology/cells-review	serena moss8b	48	2026-11-21 05:49:20	tts	a949a288d1
 zh	468789c7	biology/cells-review	serena moss8b	48	2026-11-21 05:42:19	tts	1577a8c417
 zh	47541775	biology/cells-review	serena moss8b	48	2026-11-21 05:51:37	tts	3646edf1ec
@@ -707,6 +714,8 @@ zh	b34077c8	biology/cells-review	serena moss8b	48	2026-11-21 05:34:14	tts	9c85f1
 zh	b3fdaf48	biology/cells-review	serena moss8b	48	2026-11-21 05:25:15	tts	7e28660041
 zh	b6c72a59	biology/cells-review	serena moss8b	48	2026-11-21 05:23:11	tts	b822dbc09e
 zh	ba0b113e	biology/cells-review	serena moss8b	48	2026-11-21 05:56:28	tts	e78e227f57
+zh	bde8b7b2	biology/cells-review	serena moss8b	48	2026-11-21 06:01:05	tts	7701ed237d
+zh	c3d06dfb	biology/cells-review	serena moss8b	48	2026-11-21 06:01:00	tts	3d789579b4
 zh	c4152392	biology/cells-review	serena moss8b	48	2026-11-21 05:30:44	tts	c057bed614
 zh	c7c37d7e	biology/cells-review	serena moss8b	48	2026-11-21 05:55:20	tts	79dc16099b
 zh	c9919e07	biology/cells-review	serena moss8b	48	2026-11-21 05:55:19	tts	a2e4e7ab3c
@@ -988,6 +997,7 @@ en	d08c4aeb	biology/evolution	serena t0.5 -16LUFS	48	2026-11-19 20:58:26	tts
 en	d4fe127c	biology/evolution	serena t0.5 -16LUFS	48	2026-11-19 20:58:26	tts	
 zh	350ea691	biology/evolution	serena moss8b	48	2026-11-21 05:46:31	tts	8649e13148
 zh	3934fb58	biology/evolution	serena moss8b	48	2026-11-21 05:37:16	tts	df6bbb40ce
+zh	4c753312	biology/evolution	serena moss8b	48	2026-11-21 06:04:27	tts	5be36fcb3e
 zh	555b0b83	biology/evolution	serena moss8b	48	2026-11-21 05:37:08	tts	d86c323c59
 zh	729e7940	biology/evolution	serena moss8b	48	2026-11-21 05:45:57	tts	a708687bcd
 zh	7c47d323	biology/evolution	serena moss8b	48	2026-11-21 05:52:09	tts	4670fe70a1
@@ -1068,8 +1078,10 @@ en	9b7f4cfb	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:51:30	tts
 en	d3085434	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:48:01	tts	
 en	f55d5526	biology/heredity	serena t0.5 -16LUFS	48	2026-11-19 20:37:22	tts	
 zh	182bd59d	biology/heredity	serena moss8b	48	2026-11-21 05:32:37	tts	7c96a56d24
+zh	25085b0a	biology/heredity	serena moss8b	48	2026-11-21 06:04:31	tts	92f9f25601
 zh	6e4b4b4d	biology/heredity	serena moss8b	48	2026-11-21 05:59:38	tts	b199563fcf
 zh	8f39ef02	biology/heredity	serena moss8b	48	2026-11-21 05:25:44	tts	9220a14b9a
+zh	91bd3a3d	biology/heredity	serena moss8b	48	2026-11-21 06:02:17	tts	6279ed01ab
 zh	9bdbe251	biology/heredity	serena moss8b	48	2026-11-21 05:59:40	tts	a7b6c993c1
 zh	c4c0e14d	biology/heredity	serena moss8b	48	2026-11-21 05:40:47	tts	a0b5bc2a9e
 zh	caa27104	biology/heredity	serena moss8b	48	2026-11-21 05:52:07	tts	bd79db54d3
@@ -1515,6 +1527,7 @@ en	45828cd1	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:17:38	tts
 en	b45121a4	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:22:44	tts	
 en	f44b4179	earth/atmosphere	serena t0.5 -16LUFS	48	2026-11-19 22:32:19	tts	b2e15c5cd4
 zh	1348d77a	earth/atmosphere	serena moss8b	48	2026-11-21 05:59:29	tts	ac290ff7ae
+zh	ed37769a	earth/atmosphere	serena moss8b	48	2026-11-21 06:02:49	tts	5f44e08ff2
 zh	eeb035e1	earth/atmosphere	serena moss8b	48	2026-11-21 05:59:27	tts	f19ea7b6b8
 en	04fcb56b	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:10:36	tts	
 en	126dc0b4	earth/climate	serena t0.5 -16LUFS	48	2026-11-19 22:03:23	tts	
@@ -1551,6 +1564,8 @@ en	91fe9ff6	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:06:48	tts
 en	a13233be	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:23:51	tts	
 en	c3aa39a0	earth/fossils-time	serena t0.5 -16LUFS	48	2026-11-19 22:22:55	tts	
 zh	12d55ee3	earth/fossils-time	serena moss8b	48	2026-11-21 05:51:40	tts	4e5bdd961c
+zh	6e21ee6f	earth/fossils-time	serena moss8b	48	2026-11-21 06:01:04	tts	b848cabe50
+zh	922000b6	earth/fossils-time	serena moss8b	48	2026-11-21 06:03:59	tts	b567981b42
 zh	d62f4574	earth/fossils-time	serena moss8b	48	2026-11-21 05:55:08	tts	f4d40cacee
 zh	de6230ec	earth/fossils-time	serena moss8b	48	2026-11-21 05:55:12	tts	99a88dcb54
 en	06359e55	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:06:55	tts	
@@ -1565,6 +1580,10 @@ en	eba62fbf	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:20:11	t
 en	f1e570e0	earth/natural-resources	serena t0.5 -16LUFS	48	2026-11-19 22:16:32	tts	
 zh	0d3dce7d	earth/natural-resources	serena moss8b	48	2026-11-21 05:57:34	tts	bfb24881a4
 zh	339b116b	earth/natural-resources	serena moss8b	48	2026-11-21 05:58:56	tts	076c853806
+zh	55a84685	earth/natural-resources	serena moss8b	48	2026-11-21 06:03:57	tts	e19caefffc
+zh	858df746	earth/natural-resources	serena moss8b	48	2026-11-21 06:03:55	tts	f941731718
+zh	a0097883	earth/natural-resources	serena moss8b	48	2026-11-21 06:01:06	tts	dfe7183544
+zh	c44c913e	earth/natural-resources	serena moss8b	48	2026-11-21 06:02:50	tts	463d92a646
 en	01eca304	earth/oceans	serena t0.5 -16LUFS	48	2026-11-19 22:01:54	tts	
 en	39be7241	earth/oceans	serena t0.5 -16LUFS	48	2026-11-19 22:10:39	tts	
 en	6c59a9d9	earth/oceans	serena t0.5 -16LUFS	48	2026-11-19 22:20:16	tts	
@@ -1604,6 +1623,7 @@ en	c67812bf	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:10:43	tts
 en	d680dc18	earth/rocks-minerals	serena t0.5 -16LUFS	48	2026-11-19 22:03:24	tts	
 zh	07597d8c	earth/rocks-minerals	serena moss8b	48	2026-11-21 05:51:54	tts	cb9f939fa2
 zh	25af8f45	earth/rocks-minerals	serena moss8b	48	2026-11-21 05:46:32	tts	dfe4e07e76
+zh	26a537c9	earth/rocks-minerals	serena moss8b	48	2026-11-21 06:02:21	tts	920d9523a5
 zh	a44a56ea	earth/rocks-minerals	serena moss8b	48	2026-11-21 05:46:27	tts	41e7d62d95
 en	1d1e8ab7	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:05:59	tts	
 en	6e807a66	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:10:42	tts	
@@ -1613,6 +1633,7 @@ en	8a37e593	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:03:21	tts
 en	9df87949	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:17:45	tts	
 en	b2caa60d	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:20:08	tts	
 en	bebc44c9	earth/soil	serena t0.5 -16LUFS	48	2026-11-19 22:10:56	tts	
+zh	134ae62a	earth/soil	serena moss8b	48	2026-11-21 06:01:02	tts	15a46dac7c
 zh	7b13ba53	earth/soil	serena moss8b	48	2026-11-21 05:53:16	tts	148858d599
 zh	d5c8e5b9	earth/soil	serena moss8b	48	2026-11-21 05:56:26	tts	5c5e1fa51c
 zh	e5056beb	earth/soil	serena moss8b	48	2026-11-21 05:51:40	tts	21e534c096
@@ -1626,6 +1647,7 @@ en	ed75b9d0	earth/water-cycle	serena t0.5 -16LUFS	48	2026-11-19 22:10:40	tts
 en	f3928e5d	earth/water-cycle	serena t0.5 -16LUFS	48	2026-11-19 22:20:22	tts	
 en	f5a1883f	earth/water-cycle	serena t0.5 -16LUFS	48	2026-11-19 22:06:43	tts	
 zh	388ef172	earth/water-cycle	serena moss8b	48	2026-11-21 05:53:17	tts	8953605907
+zh	b316301c	earth/water-cycle	serena moss8b	48	2026-11-21 06:02:19	tts	2d0eec307f
 en	3ea40289	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:20:31	tts	
 en	4227e460	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:10:44	tts	
 en	47f5b1da	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:10:49	tts	
@@ -1639,6 +1661,7 @@ en	a85447cd	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:03:20	tts
 en	b161394e	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:03:32	tts	
 en	cd9037c7	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:10:28	tts	
 en	d722b826	earth/weather	serena t0.5 -16LUFS	48	2026-11-19 22:02:06	tts	
+zh	2bb71f00	earth/weather	serena moss8b	48	2026-11-21 06:02:52	tts	843b1640e2
 zh	30861a23	earth/weather	serena moss8b	48	2026-11-21 05:58:25	tts	a61045f103
 zh	fb3d0ae1	earth/weather	serena moss8b	48	2026-11-21 05:55:55	tts	e4ef1a1b3e
 en	3d278a11	earth/weathering-erosion	serena t0.5 -16LUFS	48	2026-11-19 22:03:25	tts	
@@ -1649,6 +1672,7 @@ en	c5cef5e1	earth/weathering-erosion	serena t0.5 -16LUFS	48	2026-11-19 22:10:46	
 en	d8c30c66	earth/weathering-erosion	serena t0.5 -16LUFS	48	2026-11-19 22:10:38	tts	
 en	f0cfe176	earth/weathering-erosion	serena t0.5 -16LUFS	48	2026-11-19 22:06:47	tts	
 en	fcf3f1d6	earth/weathering-erosion	serena t0.5 -16LUFS	48	2026-11-19 22:10:52	tts	
+zh	292dcccf	earth/weathering-erosion	serena moss8b	48	2026-11-21 06:04:01	tts	cdd9b62a12
 zh	66f437b8	earth/weathering-erosion	serena moss8b	48	2026-11-21 05:46:34	tts	1b8531f573
 en	6b6eb269	physics/electricity	serena t0.5 -16LUFS	48	2026-11-20 01:18:29	tts	81837c39e7
 en	7dc4a62e	physics/electricity	serena t0.5 -16LUFS	48	2026-11-20 01:14:02	tts	2effd6f6e3
