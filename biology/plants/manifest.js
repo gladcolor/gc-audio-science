@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "biology/plants", "voice": "serena", "en": "130c5a15 18801ae6 18c757ef 4d0b27ea 5799363f 61ac7034 a4dc4b12 afd6ed38 dea2c91e e9804081 eda6f10b", "zh": "0672ecfe 1115d8cf 171a7cd4 2f704718 3966e762 577b6d40 57ea053c 61c69a6f 638cb6ca 6b7b4a2a 6be4ca07 6e23d0e7 c4bbfa45 e141f96e fcdc13cd"});
+LabAudioManifest({"lesson": "biology/plants", "voice": "serena", "en": "130c5a15 18801ae6 18c757ef 4d0b27ea 5799363f 61ac7034 a4dc4b12 aefee193 afd6ed38 bcfc8ec1 ce0708b2 d29f6295 dea2c91e e9804081 eda6f10b f9be5d8f", "zh": "0672ecfe 1115d8cf 171a7cd4 2f704718 3966e762 577b6d40 57ea053c 61c69a6f 638cb6ca 6b7b4a2a 6be4ca07 6e23d0e7 c4bbfa45 e141f96e fcdc13cd"});
