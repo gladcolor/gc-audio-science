@@ -1481,21 +1481,24 @@
  },
  "earth/water-cycle": {
   "counts": {
-   "done": 17,
+   "done": 13,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 17
+   "total": 13
   },
-  "fingerprint": "",
+  "fingerprint": "140b289d02d0",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/water-cycle.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "The Water Cycle",
    "zh": "水循环"
   },
-  "updated": "2026-11-19 23:25:08",
+  "updated": "2026-11-21 06:38:29",
   "verified": ""
  },
  "earth/weather": {
