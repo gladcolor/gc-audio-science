@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/waves", "voice": "serena", "en": "0c74607d 227c6725 326d4fc3 36072c6b 50a5d863 87f04829 b440945f ba5d2988 d74f3b24", "zh": "1257b8d8 3c8c77fa 3e6d849e 6877f1b4 703ebe9e 8786f720 90a8c0a8 9125ead0 b46126e6 f16bffea f48fd92e f54e6568 f8941459 f938a88e"});
+LabAudioManifest({"lesson": "physics/waves", "voice": "serena", "en": "0c01657b 0c74607d 227c6725 265de2ce 28a626de 326d4fc3 36072c6b 50a5d863 85752031 87f04829 a44a9556 b440945f ba5d2988 d74f3b24", "zh": "1257b8d8 3c8c77fa 3e6d849e 6877f1b4 703ebe9e 8786f720 90a8c0a8 9125ead0 b46126e6 f16bffea f48fd92e f54e6568 f8941459 f938a88e"});
