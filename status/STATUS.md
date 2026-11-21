@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 17:34:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 17:34:53. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -56,7 +56,7 @@ Updated 2026-11-21 17:34:51. Labels: finished / in progress / no audio / failed 
 | chemistry/acids-bases | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 12:04:41 | 2026-11-21 13:10:25 |
 | chemistry/atoms | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:44 |  |
 | chemistry/carbon | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 12:13:26 | 2026-11-21 13:10:57 |
-| chemistry/changes | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 11:51:22 | 2026-11-21 13:09:59 |
+| chemistry/changes | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:53 |  |
 | chemistry/chemical-equations | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 12:09:41 | 2026-11-21 13:10:43 |
 | chemistry/density | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 12:08:00 | 2026-11-21 13:10:36 |
 | chemistry/elements-compounds | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:51 |  |
