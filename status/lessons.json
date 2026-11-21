@@ -130,7 +130,7 @@
    "zh": "引力与轨道"
   },
   "updated": "2026-11-21 18:19:01",
-  "verified": ""
+  "verified": "2026-11-21 18:22:41"
  },
  "astronomy/kepler-laws": {
   "counts": {
@@ -175,7 +175,7 @@
    "zh": "怎样测量宇宙的距离"
   },
   "updated": "2026-11-21 18:17:10",
-  "verified": ""
+  "verified": "2026-11-21 18:21:57"
  },
  "astronomy/moon-phases": {
   "counts": {
@@ -198,7 +198,7 @@
    "zh": "月相"
   },
   "updated": "2026-11-21 18:18:31",
-  "verified": ""
+  "verified": "2026-11-21 18:22:34"
  },
  "astronomy/night-sky": {
   "counts": {
@@ -221,7 +221,7 @@
    "zh": "星座与夜空"
   },
   "updated": "2026-11-21 18:13:03",
-  "verified": ""
+  "verified": "2026-11-21 18:19:24"
  },
  "astronomy/planets-moons": {
   "counts": {
@@ -358,24 +358,25 @@
  },
  "astronomy/solar-system": {
   "counts": {
-   "done": 26,
+   "done": 52,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 26
+   "total": 52
   },
-  "fingerprint": "",
+  "fingerprint": "298280c906d3",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "The Solar System",
    "zh": "太阳系"
   },
-  "updated": "2026-11-21 17:33:12",
+  "updated": "2026-11-21 18:23:00",
   "verified": ""
  },
  "astronomy/space-exploration": {
@@ -399,7 +400,7 @@
    "zh": "太空探索"
   },
   "updated": "2026-11-21 18:14:52",
-  "verified": ""
+  "verified": "2026-11-21 18:20:37"
  },
  "astronomy/star-life": {
   "counts": {
@@ -467,7 +468,7 @@
    "zh": "望远镜与看不见的光"
   },
   "updated": "2026-11-21 18:18:28",
-  "verified": ""
+  "verified": "2026-11-21 18:22:22"
  },
  "astronomy/three-body": {
   "counts": {
@@ -512,7 +513,7 @@
    "zh": "潮汐"
   },
   "updated": "2026-11-21 18:13:19",
-  "verified": ""
+  "verified": "2026-11-21 18:19:33"
  },
  "biology/animals": {
   "counts": {
@@ -558,7 +559,7 @@
    "zh": "人体系统"
   },
   "updated": "2026-11-21 18:15:17",
-  "verified": ""
+  "verified": "2026-11-21 18:21:22"
  },
  "biology/breathing-circulation": {
   "counts": {
@@ -581,7 +582,7 @@
    "zh": "人体的呼吸与血液循环"
   },
   "updated": "2026-11-21 18:14:41",
-  "verified": ""
+  "verified": "2026-11-21 18:20:06"
  },
  "biology/cell-city": {
   "counts": {
@@ -1064,7 +1065,7 @@
    "zh": "神经调节与激素调节"
   },
   "updated": "2026-11-21 18:14:47",
-  "verified": ""
+  "verified": "2026-11-21 18:20:25"
  },
  "biology/nutrition-digestion": {
   "counts": {
@@ -1692,7 +1693,7 @@
    "zh": "大气层"
   },
   "updated": "2026-11-21 18:18:08",
-  "verified": ""
+  "verified": "2026-11-21 18:22:18"
  },
  "earth/climate": {
   "counts": {
@@ -1715,7 +1716,7 @@
    "zh": "气候"
   },
   "updated": "2026-11-21 18:16:56",
-  "verified": ""
+  "verified": "2026-11-21 18:21:55"
  },
  "earth/earth-layers": {
   "counts": {
@@ -1761,7 +1762,7 @@
    "zh": "化石与地质年代"
   },
   "updated": "2026-11-21 18:19:08",
-  "verified": ""
+  "verified": "2026-11-21 18:22:50"
  },
  "earth/natural-resources": {
   "counts": {
@@ -1784,7 +1785,7 @@
    "zh": "自然资源与能源"
   },
   "updated": "2026-11-21 18:14:36",
-  "verified": ""
+  "verified": "2026-11-21 18:19:50"
  },
  "earth/oceans": {
   "counts": {
@@ -1807,7 +1808,7 @@
    "zh": "海洋、波浪与洋流"
   },
   "updated": "2026-11-21 18:15:03",
-  "verified": ""
+  "verified": "2026-11-21 18:21:01"
  },
  "earth/plate-tectonics": {
   "counts": {
@@ -1830,7 +1831,7 @@
    "zh": "板块构造"
   },
   "updated": "2026-11-21 18:14:56",
-  "verified": ""
+  "verified": "2026-11-21 18:20:54"
  },
  "earth/rocks-minerals": {
   "counts": {
@@ -1853,7 +1854,7 @@
    "zh": "岩石、矿物与岩石循环"
   },
   "updated": "2026-11-21 18:13:35",
-  "verified": ""
+  "verified": "2026-11-21 18:19:41"
  },
  "earth/soil": {
   "counts": {
@@ -1876,7 +1877,7 @@
    "zh": "土壤的形成"
   },
   "updated": "2026-11-21 18:15:24",
-  "verified": ""
+  "verified": "2026-11-21 18:21:30"
  },
  "earth/water-cycle": {
   "counts": {
@@ -1899,7 +1900,7 @@
    "zh": "水循环"
   },
   "updated": "2026-11-21 18:16:20",
-  "verified": ""
+  "verified": "2026-11-21 18:21:46"
  },
  "earth/weather": {
   "counts": {
@@ -1922,7 +1923,7 @@
    "zh": "天气与气团"
   },
   "updated": "2026-11-21 18:17:16",
-  "verified": ""
+  "verified": "2026-11-21 18:22:10"
  },
  "earth/weathering-erosion": {
   "counts": {
@@ -1945,7 +1946,7 @@
    "zh": "风化、侵蚀与沉积"
   },
   "updated": "2026-11-21 18:16:11",
-  "verified": ""
+  "verified": "2026-11-21 18:21:39"
  },
  "physics/buoyancy": {
   "counts": {
