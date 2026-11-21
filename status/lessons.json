@@ -820,15 +820,15 @@
  },
  "biology/osmosis": {
   "counts": {
-   "done": 20,
+   "done": 23,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 3,
+   "old": 0,
    "total": 23
   },
   "fingerprint": "6f1dc0ba17df",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "record_langs": [
    "zh"
@@ -837,7 +837,7 @@
    "en": "Osmosis: Water on the Move",
    "zh": "渗透：水的移动"
   },
-  "updated": "2026-11-21 05:45:09",
+  "updated": "2026-11-21 05:47:57",
   "verified": ""
  },
  "biology/photosynthesis": {
