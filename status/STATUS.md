@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:57:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 21:01:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Updated 2026-11-21 20:57:31. Labels: finished / in progress / no audio / failed 
 | astronomy/small-bodies | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:14 |  |
 | astronomy/solar-system | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:27 | 2026-11-21 20:55:47 |
 | astronomy/space-exploration | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:37:45 | 2026-11-21 20:44:12 |
-| astronomy/star-life | finished | 147 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:31 |  |
+| astronomy/star-life | finished | 147 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:31 | 2026-11-21 21:01:36 |
 | astronomy/sun-stars | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:47:13 | 2026-11-21 20:54:04 |
 | astronomy/telescopes-light | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:49:56 | 2026-11-21 20:56:07 |
 | astronomy/three-body | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:19 |  |
@@ -35,7 +35,7 @@ Updated 2026-11-21 20:57:31. Labels: finished / in progress / no audio / failed 
 | biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:34:36 | 2026-11-21 20:42:33 |
 | biology/cell-theory | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 20:32:50 | 2026-11-21 20:34:55 |
 | biology/cell-transport | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:38:58 | 2026-11-21 20:44:41 |
-| biology/cells-review | finished | 79 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:20 |  |
+| biology/cells-review | finished | 79 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:20 | 2026-11-21 21:00:03 |
 | biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:21 | 2026-11-21 20:33:48 |
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:31 |  |
 | biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:29:57 | 2026-11-21 20:33:09 |
@@ -63,20 +63,20 @@ Updated 2026-11-21 20:57:31. Labels: finished / in progress / no audio / failed 
 | chemistry/carbon | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:41 |  |
 | chemistry/changes | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:24 |  |
 | chemistry/chemical-equations | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:36 |  |
-| chemistry/chemistry-life | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:54 |  |
-| chemistry/combustion-fuels | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:47 |  |
+| chemistry/chemistry-life | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:54 | 2026-11-21 20:59:13 |
+| chemistry/combustion-fuels | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:47 | 2026-11-21 20:58:08 |
 | chemistry/density | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:32 |  |
 | chemistry/elements-compounds | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:21 |  |
 | chemistry/formulas-valence | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:34 |  |
-| chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 |  |
+| chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 | 2026-11-21 20:59:04 |
 | chemistry/metals | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:43 |  |
 | chemistry/oxygen-air | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:39 |  |
 | chemistry/periodic-table | finished | 125 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:17 |  |
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:26 |  |
-| chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 |  |
+| chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 | 2026-11-21 20:58:29 |
 | chemistry/solutions | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:28 |  |
 | chemistry/states-of-matter | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:19 |  |
-| chemistry/water-purification | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:45 |  |
+| chemistry/water-purification | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:45 | 2026-11-21 20:57:58 |
 | cs/cs-ai | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 08:23:43 |  |
 | cs/cs-algorithms | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 08:51:33 |  |
 | cs/cs-coding | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 09:02:10 |  |
@@ -112,8 +112,8 @@ Updated 2026-11-21 20:57:31. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
 | physics/motion | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 20:36:51 |  |
 | physics/newtons-laws | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:23 |  |
-| physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:13 |  |
-| physics/phase-changes | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:53 |  |
+| physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:13 | 2026-11-21 20:59:16 |
+| physics/phase-changes | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:01:49 |  |
 | physics/pressure | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:51:54 | 2026-11-21 20:56:34 |
 | physics/simple-machines | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:27 |  |
 | physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:53:16 | 2026-11-21 20:56:57 |
