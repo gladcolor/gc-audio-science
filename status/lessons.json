@@ -514,15 +514,15 @@
  },
  "biology/cell-theory": {
   "counts": {
-   "done": 31,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 21,
    "total": 31
   },
   "fingerprint": "12e62a3269dd",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "record_langs": [
    "zh"
@@ -531,8 +531,8 @@
    "en": "Cell Theory & Levels of Organization",
    "zh": "细胞学说与结构层次"
   },
-  "updated": "2026-11-20 18:54:09",
-  "verified": "2026-11-20 18:55:42"
+  "updated": "2026-11-21 05:20:37",
+  "verified": ""
  },
  "biology/cell-transport": {
   "counts": {
@@ -619,7 +619,7 @@
    "old": 12,
    "total": 27
   },
-  "fingerprint": "b739b1407cef",
+  "fingerprint": "",
   "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "record_langs": [
