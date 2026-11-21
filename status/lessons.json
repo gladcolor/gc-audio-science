@@ -1490,24 +1490,25 @@
  },
  "chemistry/reactions": {
   "counts": {
-   "done": 8,
+   "done": 16,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 8
+   "total": 16
   },
-  "fingerprint": "",
+  "fingerprint": "a9db68991051",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/reactions.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Chemical Reactions & Conservation of Mass",
    "zh": "化学反应与质量守恒"
   },
-  "updated": "2026-11-21 17:34:55",
+  "updated": "2026-11-21 19:04:58",
   "verified": ""
  },
  "chemistry/salts-fertilizers": {
