@@ -793,21 +793,24 @@
  },
  "biology/habitat-niche": {
   "counts": {
-   "done": 30,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 30
+   "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "38bb099de21f",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/habitat-niche.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Habitat, Niche & Population Limits",
    "zh": "栖息地、生态位与种群的限制"
   },
-  "updated": "2026-11-20 00:57:27",
+  "updated": "2026-11-21 06:34:55",
   "verified": ""
  },
  "biology/heredity": {
