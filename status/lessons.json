@@ -1255,15 +1255,15 @@
  },
  "chemistry/metals": {
   "counts": {
-   "done": 5,
+   "done": 26,
    "failed": 0,
    "held": 0,
-   "missing": 21,
+   "missing": 0,
    "old": 0,
    "total": 26
   },
   "fingerprint": "4b569a638d16",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/metals.html",
   "record_langs": [
    "zh"
@@ -1272,7 +1272,7 @@
    "en": "Metals & the Activity Series",
    "zh": "金属与金属活动性顺序"
   },
-  "updated": "2026-11-21 11:49:58",
+  "updated": "2026-11-21 12:15:38",
   "verified": ""
  },
  "chemistry/oxygen-air": {
