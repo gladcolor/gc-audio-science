@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/static-charge", "voice": "serena", "en": "34e23f39 ca7a39a0 d8b4a0bb df374203", "zh": ""});
+LabAudioManifest({"lesson": "physics/static-charge", "voice": "serena", "en": "11e22468 1d330f98 1ea26b9c 33a4d226 34e23f39 36741cdd 42ce99b3 4514c4c6 4c232604 4ea4caa0 55e071c0 67e18f7a 6bbb0dc4 9a616449 b89d802f ca724d99 ca7a39a0 d8b4a0bb dd222bc3 df374203 dfcfc5bb f8054529", "zh": "014153d4 183a7ec8 21e43a49 37d887eb 493b13a7 5070ffbb 5324a0d6 69f45c5a 6cd14dcc 78cfd828 8008d055 8ace5066 8f55990f 97aebade ab675234 b2d1b18a b753569d d248b973 e04824a5 f539bbef fccb63a3 fdee11a8"});
