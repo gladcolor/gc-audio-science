@@ -353,15 +353,15 @@
  },
  "astronomy/solar-system": {
   "counts": {
-   "done": 26,
+   "done": 22,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 4,
    "total": 26
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "298280c906d3",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "record_langs": [
    "zh"
@@ -370,7 +370,7 @@
    "en": "The Solar System",
    "zh": "太阳系"
   },
-  "updated": "2026-11-21 20:00:31",
+  "updated": "2026-11-21 20:42:09",
   "verified": ""
  },
  "astronomy/space-exploration": {
