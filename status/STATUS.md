@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 19:59:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:59:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -47,7 +47,7 @@ Updated 2026-11-21 19:59:24. Labels: finished / in progress / no audio / failed 
 | biology/food-webs | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:14 | 2026-11-21 17:59:26 |
 | biology/habitat-niche | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 17:52:57 | 2026-11-21 18:07:25 |
 | biology/health-first-aid | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 18:10:45 | 2026-11-21 18:14:00 |
-| biology/heredity | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:23 | 2026-11-21 17:59:35 |
+| biology/heredity | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:26 |  |
 | biology/infection-immunity | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:29:09 | 2026-11-21 18:31:19 |
 | biology/microorganisms | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:52 | 2026-11-21 18:01:02 |
 | biology/nervous-endocrine | finished | 72 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:47 | 2026-11-21 18:20:25 |
