@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "chemistry/formulas-valence", "voice": "serena", "en": "", "zh": "02a49f5c 175201aa 3f7c31f7 505d4701 5336d3dc 7834270e 806bc729 86405c70 a0061583 a6d02076 b37ec9ab c0251111 c151bd6d f7e06526"});
+LabAudioManifest({"lesson": "chemistry/formulas-valence", "voice": "serena", "en": "099dcfc0 122da7f6 2128df04 35b6dff7 3a4b7194 3dbb5c7a 4a18a157 56251e52 768ea6c5 898be0b1 931d309d a6965ea3 b8ced51f eac281d9", "zh": "02a49f5c 175201aa 3f7c31f7 505d4701 5336d3dc 7834270e 806bc729 86405c70 a0061583 a6d02076 b37ec9ab c0251111 c151bd6d f7e06526"});

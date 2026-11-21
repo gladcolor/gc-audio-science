@@ -1399,25 +1399,26 @@
  },
  "chemistry/formulas-valence": {
   "counts": {
-   "done": 14,
+   "done": 28,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 14
+   "total": 28
   },
-  "fingerprint": "",
+  "fingerprint": "26d868d64e2a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/formulas-valence.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Chemical Formulas & Valence",
    "zh": "化学式与化合价"
   },
-  "updated": "2026-11-21 12:10:12",
-  "verified": "2026-11-21 13:10:40"
+  "updated": "2026-11-21 19:04:19",
+  "verified": ""
  },
  "chemistry/metals": {
   "counts": {
