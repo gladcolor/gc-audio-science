@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:32:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:34:36. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -32,13 +32,13 @@ Updated 2026-11-21 20:32:50. Labels: finished / in progress / no audio / failed 
 | biology/breathing-circulation | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:58 | 2026-11-21 20:14:14 |
 | biology/cell-city | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:02 |  |
 | biology/cell-division | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:20 |  |
-| biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 19:58:58 |  |
+| biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:34:36 |  |
 | biology/cell-theory | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 20:32:50 |  |
 | biology/cell-transport | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:04 |  |
 | biology/cells-review | finished | 78 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:18 |  |
-| biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:21 |  |
+| biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:21 | 2026-11-21 20:33:48 |
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:31 |  |
-| biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:29:57 |  |
+| biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:29:57 | 2026-11-21 20:33:09 |
 | biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:22 |  |
 | biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:46 |  |
 | biology/endocytosis | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:14 |  |
@@ -54,7 +54,7 @@ Updated 2026-11-21 20:32:50. Labels: finished / in progress / no audio / failed 
 | biology/nutrition-digestion | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:55 | 2026-11-21 20:13:58 |
 | biology/osmosis | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:09 |  |
 | biology/photosynthesis | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:36 |  |
-| biology/plants | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:13 |  |
+| biology/plants | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:13 | 2026-11-21 20:33:17 |
 | biology/protein-synthesis | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:24 |  |
 | biology/reproduction | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:29 |  |
 | biology/tonicity-labs | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:11 |  |
@@ -91,7 +91,7 @@ Updated 2026-11-21 20:32:50. Labels: finished / in progress / no audio / failed 
 | earth/natural-resources | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:28 |  |
 | earth/oceans | in progress | 8 | 1 | 0 | 0 | 0 | 2026-11-21 20:32:36 |  |
 | earth/plate-tectonics | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:07 |  |
-| earth/rocks-minerals | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:35 |  |
+| earth/rocks-minerals | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:30:35 | 2026-11-21 20:33:54 |
 | earth/soil | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:13 |  |
 | earth/water-cycle | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:18 |  |
 | earth/weather | in progress | 12 | 7 | 0 | 0 | 0 | 2026-11-21 20:29:45 |  |

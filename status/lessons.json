@@ -624,7 +624,7 @@
    "old": 0,
    "total": 11
   },
-  "fingerprint": "",
+  "fingerprint": "5ecb72d82f7e",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
   "record_langs": [
@@ -634,7 +634,7 @@
    "en": "Cell Organelles",
    "zh": "细胞器"
   },
-  "updated": "2026-11-21 19:58:58",
+  "updated": "2026-11-21 20:34:36",
   "verified": ""
  },
  "biology/cell-theory": {
@@ -723,7 +723,7 @@
    "zh": "它是活的吗？生物的特征"
   },
   "updated": "2026-11-21 20:30:21",
-  "verified": ""
+  "verified": "2026-11-21 20:33:48"
  },
  "biology/classification": {
   "counts": {
@@ -767,7 +767,7 @@
    "zh": "人体中的扩散"
   },
   "updated": "2026-11-21 20:29:57",
-  "verified": ""
+  "verified": "2026-11-21 20:33:09"
  },
  "biology/dna": {
   "counts": {
@@ -1119,7 +1119,7 @@
    "zh": "植物结构与生命周期"
   },
   "updated": "2026-11-21 20:30:13",
-  "verified": ""
+  "verified": "2026-11-21 20:33:17"
  },
  "biology/protein-synthesis": {
   "counts": {
@@ -1915,7 +1915,7 @@
    "zh": "岩石、矿物与岩石循环"
   },
   "updated": "2026-11-21 20:30:35",
-  "verified": ""
+  "verified": "2026-11-21 20:33:54"
  },
  "earth/soil": {
   "counts": {
