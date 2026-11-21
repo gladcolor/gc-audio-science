@@ -1853,26 +1853,25 @@
  },
  "earth/fossils-time": {
   "counts": {
-   "done": 24,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 24
+   "total": 12
   },
   "fingerprint": "8d86a8d20b60",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Fossils & Geologic Time",
    "zh": "化石与地质年代"
   },
-  "updated": "2026-11-21 18:19:08",
-  "verified": "2026-11-21 18:22:50"
+  "updated": "2026-11-21 20:00:16",
+  "verified": ""
  },
  "earth/natural-resources": {
   "counts": {
