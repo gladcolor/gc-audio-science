@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 17:31:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 17:31:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Updated 2026-11-21 17:31:57. Labels: finished / in progress / no audio / failed 
 | biology/cells-review | finished | 79 | 0 | 0 | 0 | 0 | 2026-11-21 06:05:11 | 2026-11-21 12:57:47 |
 | biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 17:31:48 |  |
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 06:13:28 | 2026-11-21 12:58:26 |
-| biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 05:44:56 | 2026-11-21 12:56:21 |
+| biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 17:31:59 |  |
 | biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 05:57:47 | 2026-11-21 12:57:56 |
 | biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 06:27:09 | 2026-11-21 12:59:46 |
 | biology/endocytosis | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 05:51:38 | 2026-11-21 12:56:57 |
