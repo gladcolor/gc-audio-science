@@ -1985,6 +1985,29 @@
   "updated": "2026-11-21 18:47:41",
   "verified": ""
  },
+ "physics/communications-energy": {
+  "counts": {
+   "done": 48,
+   "failed": 0,
+   "held": 0,
+   "missing": 22,
+   "old": 0,
+   "total": 70
+  },
+  "fingerprint": "ab034a11339c",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/physics/communications-energy.html",
+  "record_langs": [
+   "en",
+   "zh"
+  ],
+  "title": {
+   "en": "Electromagnetic Waves, Communication & Energy",
+   "zh": "电磁波、信息传递与能源"
+  },
+  "updated": "2026-11-21 18:51:04",
+  "verified": ""
+ },
  "physics/electric-power": {
   "counts": {
    "done": 10,
