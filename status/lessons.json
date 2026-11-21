@@ -573,24 +573,25 @@
  },
  "biology/cell-division": {
   "counts": {
-   "done": 8,
+   "done": 19,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 8
+   "total": 19
   },
-  "fingerprint": "",
+  "fingerprint": "b12b8548490e",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-division.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Mitosis & Meiosis",
    "zh": "有丝分裂与减数分裂"
   },
-  "updated": "2026-11-21 17:32:12",
+  "updated": "2026-11-21 17:50:16",
   "verified": ""
  },
  "biology/cell-organelles": {
