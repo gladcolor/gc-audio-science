@@ -918,21 +918,24 @@
  },
  "biology/tonicity-labs": {
   "counts": {
-   "done": 51,
+   "done": 25,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 51
+   "total": 25
   },
-  "fingerprint": "",
+  "fingerprint": "c7f6f2ab5db6",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Hyper-, Hypo- & Isotonic: Elodea & Egg Labs",
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
-  "updated": "2026-11-19 22:50:37",
+  "updated": "2026-11-21 05:50:34",
   "verified": ""
  },
  "chemistry/acids-bases": {
