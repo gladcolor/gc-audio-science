@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/simple-machines", "voice": "serena", "en": "5e8a0f2b 6faec8e9 846e17e7 98408e86 990ee452 ae244db8 c1b05a55 d66a638d ead425ce ebb90053", "zh": "0363552d 03df1061 08b4b62b 3e3d7f11 4f50fbdd 50aab12c 8959a9b9 8fd6a7c9 ba7d2205 f7070cbf"});
+LabAudioManifest({"lesson": "physics/simple-machines", "voice": "serena", "en": "5e8a0f2b 6faec8e9 846e17e7 98408e86 990ee452 ae244db8 c1b05a55 d66a638d ead425ce ebb90053", "zh": "0363552d 03df1061 08b4b62b 3953644d 3e3d7f11 4f50fbdd 50aab12c 8959a9b9 8cfcbf27 8fd6a7c9 9eeae2f3 ba7d2205 e645c720 f7070cbf"});
