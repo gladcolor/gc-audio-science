@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:23:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:24:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -8,7 +8,7 @@ Updated 2026-11-21 18:23:05. Labels: finished / in progress / no audio / failed 
 | astronomy/black-holes | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:45 |  |
 | astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 |  |
 | astronomy/exoplanets | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:47 |  |
-| astronomy/galaxies | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:16 |  |
+| astronomy/galaxies | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:18 |  |
 | astronomy/gravity-orbits | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:19:01 | 2026-11-21 18:22:41 |
 | astronomy/kepler-laws | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:49 |  |
 | astronomy/measuring-distance | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 18:17:10 | 2026-11-21 18:21:57 |
