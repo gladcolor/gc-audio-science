@@ -281,9 +281,11 @@ zh	a7d54ca8	astronomy/small-bodies	serena moss8b	48	2026-11-21 11:20:17	tts	e144
 zh	a9aa1712	astronomy/small-bodies	serena moss8b	48	2026-11-21 11:20:33	tts	e43ab2efce
 zh	b2090acf	astronomy/small-bodies	serena moss8b	48	2026-11-21 11:14:36	tts	c78571f013
 en	365d9cb6	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:19	tts	1ead828473
+en	394bdc6f	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:44	tts	c8d253ef68
 en	45ecf974	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:09	tts	42942461a1
 en	4cad6e19	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:28	tts	4120a4ed57
 en	8781600b	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:17	tts	947e9b1f97
+en	c12bdbf6	astronomy/solar-system	serena moss8b	48	2026-11-21 17:53:52	tts	2fa9b8b77e
 zh	016e15a1	astronomy/solar-system	serena moss8b	48	2026-11-21 05:59:39	tts	585d4ccbc7
 zh	0636262f	astronomy/solar-system	serena moss8b	48	2026-11-21 06:06:26	tts	9a0e5992a2
 zh	165dd63f	astronomy/solar-system	serena moss8b	48	2026-11-21 06:10:24	tts	09abd59c42
@@ -474,6 +476,7 @@ zh	fa47d05c	astronomy/star-life	serena moss8b	48	2026-11-21 06:50:39	tts	5e23156
 zh	fbae5a7f	astronomy/star-life	serena moss8b	48	2026-11-21 10:34:58	tts	a2408428bb
 zh	fc6613eb	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:02	tts	347336926c
 zh	ffdeca2c	astronomy/star-life	serena moss8b	48	2026-11-21 06:51:27	tts	8265a7dafb
+en	7b0dc635	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:53:45	tts	5343ed8830
 zh	1ced4004	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:09:03	tts	d84726959c
 zh	2335e055	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:04:29	tts	3f5cbb0fed
 zh	26a48282	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:21:52	tts	c66a8ea845
@@ -1225,6 +1228,7 @@ en	2cba52c0	biology/ecosystems	serena moss8b	48	2026-11-21 17:44:46	tts	2e047b81
 en	36b7b699	biology/ecosystems	serena moss8b	48	2026-11-21 17:43:48	tts	5d2ace3731
 en	3c110d78	biology/ecosystems	serena moss8b	48	2026-11-21 17:50:04	tts	9bd88da7b3
 en	431ce8de	biology/ecosystems	serena moss8b	48	2026-11-21 17:51:29	tts	f338681295
+en	4a8dd683	biology/ecosystems	serena moss8b	48	2026-11-21 17:53:56	tts	e7b914d7ea
 en	518ad575	biology/ecosystems	serena moss8b	48	2026-11-21 17:42:59	tts	e32f3bfc46
 en	54c23b5b	biology/ecosystems	serena moss8b	48	2026-11-21 17:48:07	tts	fd992aa3f7
 en	55cbe0b5	biology/ecosystems	serena moss8b	48	2026-11-21 17:51:37	tts	88399cbf7f
@@ -1457,7 +1461,11 @@ en	93f87552	biology/health-first-aid	serena moss8b	48	2026-11-21 17:49:31	tts	8d
 en	ce5e6b0f	biology/health-first-aid	serena moss8b	48	2026-11-21 17:49:00	tts	ae7f35607a
 en	e9cbfdd9	biology/health-first-aid	serena moss8b	48	2026-11-21 17:49:06	tts	6527bf6492
 en	f5453711	biology/health-first-aid	serena moss8b	48	2026-11-21 17:50:26	tts	0e78220739
+zh	04d6ec4b	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:47	tts	e2c7c8d737
+zh	117a904f	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:51	tts	a3145c7f58
+zh	67336cd5	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:55	tts	7e00e12677
 zh	80d0a9d4	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:07	tts	3af1459a93
+zh	9b90b8bb	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:46	tts	945f4009a6
 en	0b64934d	biology/heredity	serena moss8b	48	2026-11-21 17:43:02	tts	b8c0887a76
 en	0e591dc2	biology/heredity	serena moss8b	48	2026-11-21 17:43:08	tts	2ed91758a0
 en	0f649640	biology/heredity	serena moss8b	48	2026-11-21 17:40:47	tts	1474745749
@@ -1490,6 +1498,7 @@ zh	e4a0ab24	biology/heredity	serena moss8b	48	2026-11-21 06:09:04	tts	7819b885f9
 en	2de9260b	biology/infection-immunity	serena moss8b	48	2026-11-21 17:50:51	tts	5b971d48e2
 en	304be7e1	biology/infection-immunity	serena moss8b	48	2026-11-21 17:45:58	tts	dce29de0f7
 en	619bb94b	biology/infection-immunity	serena moss8b	48	2026-11-21 17:49:34	tts	b2dadfdeab
+en	6762e3a9	biology/infection-immunity	serena moss8b	48	2026-11-21 17:53:42	tts	5f98da10b2
 en	6d72cbf0	biology/infection-immunity	serena moss8b	48	2026-11-21 17:52:21	tts	cb4ba459d9
 en	7508c066	biology/infection-immunity	serena moss8b	48	2026-11-21 17:48:15	tts	b52405c6b2
 en	88142d78	biology/infection-immunity	serena moss8b	48	2026-11-21 17:52:00	tts	9b62ccc6ae
@@ -1500,6 +1509,8 @@ en	d0bcb89f	biology/infection-immunity	serena moss8b	48	2026-11-21 17:47:47	tts	
 en	ecf8faf6	biology/infection-immunity	serena moss8b	48	2026-11-21 17:52:56	tts	e2f5395d91
 en	ef4d10fc	biology/infection-immunity	serena moss8b	48	2026-11-21 17:51:55	tts	7588490add
 zh	066d6778	biology/infection-immunity	serena moss8b	48	2026-11-21 17:53:26	tts	56f745751a
+zh	169d1bc9	biology/infection-immunity	serena moss8b	48	2026-11-21 17:53:48	tts	89d14f5285
+zh	fe672120	biology/infection-immunity	serena moss8b	48	2026-11-21 17:53:43	tts	58c90a71de
 en	12d65814	biology/microorganisms	serena moss8b	48	2026-11-21 17:45:28	tts	f800932cf9
 en	18220771	biology/microorganisms	serena moss8b	48	2026-11-21 17:51:00	tts	9c2b0d3911
 en	1966c570	biology/microorganisms	serena moss8b	48	2026-11-21 17:51:31	tts	efaa32f5e8
@@ -1588,6 +1599,7 @@ en	f15207be	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:52:48	tts	d
 en	f1e04356	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:52:24	tts	df08f01254
 en	f38220bd	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:50:03	tts	1919b81b9a
 en	fbd3c20c	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:49:22	tts	db382e1e8e
+zh	c5aa8953	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:53:41	tts	56ba248c2e
 en	0a5fba81	biology/nutrition-digestion	serena moss8b	48	2026-11-21 17:51:07	tts	47655b46a9
 en	1993f6a0	biology/nutrition-digestion	serena moss8b	48	2026-11-21 17:52:31	tts	19baa2bea8
 en	1fc80da7	biology/nutrition-digestion	serena moss8b	48	2026-11-21 17:49:50	tts	099bd45fb5
@@ -2169,6 +2181,7 @@ zh	cc0cfff0	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:26:15	tts	
 zh	dbed527a	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:37:25	tts	c3fde79372
 zh	f0b17e88	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:33:21	tts	bb41b48534
 zh	13f36919	cs/cs-safety	serena moss8b	48	2026-11-21 14:56:57	tts	7810150dce
+en	3b513162	earth/atmosphere	serena moss8b	48	2026-11-21 17:53:50	tts	ceebb0313c
 en	9671e37b	earth/atmosphere	serena moss8b	48	2026-11-21 17:53:01	tts	74b61dc8a6
 en	e0927c0b	earth/atmosphere	serena moss8b	48	2026-11-21 17:52:06	tts	56c16d30e7
 zh	10682a5b	earth/atmosphere	serena moss8b	48	2026-11-21 06:26:08	tts	93deae0fd3
@@ -2248,6 +2261,7 @@ zh	f772ba3c	earth/natural-resources	serena moss8b	48	2026-11-21 06:07:20	tts	b95
 zh	f8e3ff10	earth/natural-resources	serena moss8b	48	2026-11-21 06:44:22	tts	0f590db578
 zh	f9586c46	earth/natural-resources	serena moss8b	48	2026-11-21 06:36:51	tts	5386249f53
 zh	fc295672	earth/natural-resources	serena moss8b	48	2026-11-21 06:08:51	tts	65eecf6290
+en	01eca304	earth/oceans	serena moss8b	48	2026-11-21 17:53:37	tts	d4b1bae482
 en	a18b4476	earth/oceans	serena moss8b	48	2026-11-21 17:50:54	tts	dfd95c0cda
 en	c9d0fb8e	earth/oceans	serena moss8b	48	2026-11-21 17:53:13	tts	a612d969ca
 en	e40969b4	earth/oceans	serena moss8b	48	2026-11-21 17:53:02	tts	5df8cdc131
@@ -2265,6 +2279,8 @@ en	3a2303a6	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:50:05	tts	d09fb
 en	47fdcbe7	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:52:22	tts	c9658ba653
 en	4a7f78f4	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:49:52	tts	a9c93d84d7
 en	64439fa4	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:50:11	tts	88d47b7e46
+en	68d1c15f	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:53:39	tts	2c11b13e41
+en	6d6f18c6	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:53:54	tts	ab0411bee4
 en	741112d8	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:53:18	tts	5cbc9e5204
 en	88e2e308	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:50:00	tts	6f647314ea
 en	8feef8e1	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:52:22	tts	a3ccbf17ed
@@ -2323,6 +2339,8 @@ zh	c3475656	earth/soil	serena moss8b	48	2026-11-21 06:25:33	tts	2b5f671514
 zh	d5c8e5b9	earth/soil	serena moss8b	48	2026-11-21 05:56:26	tts	5c5e1fa51c
 zh	e5056beb	earth/soil	serena moss8b	48	2026-11-21 05:51:40	tts	21e534c096
 zh	fa4065d8	earth/soil	serena moss8b	48	2026-11-21 06:21:54	tts	dd67d6b09b
+en	cbd49ca0	earth/water-cycle	serena moss8b	48	2026-11-21 17:53:52	tts	9cf40c801d
+en	ebfc7228	earth/water-cycle	serena moss8b	48	2026-11-21 17:53:38	tts	6faf3d4d90
 en	f960459f	earth/water-cycle	serena moss8b	48	2026-11-21 17:52:03	tts	48c7dec95b
 zh	33947c88	earth/water-cycle	serena moss8b	48	2026-11-21 06:19:13	tts	3ef6425da5
 zh	388ef172	earth/water-cycle	serena moss8b	48	2026-11-21 05:53:17	tts	8953605907
