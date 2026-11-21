@@ -1233,26 +1233,25 @@
  },
  "chemistry/carbon": {
   "counts": {
-   "done": 37,
+   "done": 19,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 37
+   "total": 19
   },
   "fingerprint": "fe47fa9dcf2d",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/carbon.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Carbon, CO₂ & Fuels",
    "zh": "碳和碳的氧化物与燃料"
   },
-  "updated": "2026-11-21 19:08:00",
-  "verified": "2026-11-21 19:15:11"
+  "updated": "2026-11-21 20:02:41",
+  "verified": ""
  },
  "chemistry/changes": {
   "counts": {
