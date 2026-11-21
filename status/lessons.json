@@ -290,24 +290,25 @@
  },
  "astronomy/seasons": {
   "counts": {
-   "done": 17,
+   "done": 32,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 17
+   "missing": 1,
+   "old": 1,
+   "total": 34
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "ae07a4f1db7f",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/seasons.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Day, Night & Seasons",
    "zh": "昼夜与四季"
   },
-  "updated": "2026-11-21 17:33:21",
+  "updated": "2026-11-21 18:18:34",
   "verified": ""
  },
  "astronomy/sky-tonight": {
