@@ -2036,7 +2036,7 @@
    "old": 0,
    "total": 13
   },
-  "fingerprint": "",
+  "fingerprint": "29bea1e13490",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/newtons-laws.html",
   "record_langs": [
@@ -2046,8 +2046,8 @@
    "en": "Newton’s Laws of Motion",
    "zh": "牛顿运动定律"
   },
-  "updated": "2026-11-21 11:30:17",
-  "verified": "2026-11-21 13:06:34"
+  "updated": "2026-11-21 17:34:04",
+  "verified": ""
  },
  "physics/ohms-law": {
   "counts": {
