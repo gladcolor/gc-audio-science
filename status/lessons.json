@@ -941,6 +941,29 @@
   "updated": "2026-11-21 17:51:23",
   "verified": ""
  },
+ "biology/infection-immunity": {
+  "counts": {
+   "done": 21,
+   "failed": 0,
+   "held": 0,
+   "missing": 6,
+   "old": 0,
+   "total": 27
+  },
+  "fingerprint": "58555f216998",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/biology/infection-immunity.html",
+  "record_langs": [
+   "en",
+   "zh"
+  ],
+  "title": {
+   "en": "Infectious Disease, Immunity & Prevention",
+   "zh": "传染病、免疫与预防"
+  },
+  "updated": "2026-11-21 17:54:48",
+  "verified": ""
+ },
  "biology/microorganisms": {
   "counts": {
    "done": 52,
