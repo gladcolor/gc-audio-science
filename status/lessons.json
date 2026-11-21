@@ -1149,11 +1149,11 @@
  },
  "chemistry/periodic-table": {
   "counts": {
-   "done": 19,
+   "done": 30,
    "failed": 0,
    "held": 0,
-   "missing": 69,
-   "old": 37,
+   "missing": 64,
+   "old": 31,
    "total": 125
   },
   "fingerprint": "b8ab3534143d",
@@ -1166,7 +1166,7 @@
    "en": "The Periodic Table",
    "zh": "元素周期表"
   },
-  "updated": "2026-11-21 11:18:37",
+  "updated": "2026-11-21 11:27:54",
   "verified": ""
  },
  "chemistry/reactions": {
