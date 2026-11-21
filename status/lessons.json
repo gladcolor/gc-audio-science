@@ -1922,26 +1922,25 @@
  },
  "earth/plate-tectonics": {
   "counts": {
-   "done": 54,
+   "done": 28,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 54
+   "total": 28
   },
   "fingerprint": "479d51cfd8f7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Plate Tectonics",
    "zh": "板块构造"
   },
-  "updated": "2026-11-21 18:14:56",
-  "verified": "2026-11-21 18:20:54"
+  "updated": "2026-11-21 20:00:07",
+  "verified": ""
  },
  "earth/rocks-minerals": {
   "counts": {

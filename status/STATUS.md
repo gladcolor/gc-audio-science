@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:00:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:00:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -90,7 +90,7 @@ Updated 2026-11-21 20:00:04. Labels: finished / in progress / no audio / failed 
 | earth/fossils-time | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:19:08 | 2026-11-21 18:22:50 |
 | earth/natural-resources | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:36 | 2026-11-21 18:19:50 |
 | earth/oceans | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:15:03 | 2026-11-21 18:21:01 |
-| earth/plate-tectonics | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:56 | 2026-11-21 18:20:54 |
+| earth/plate-tectonics | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:07 |  |
 | earth/rocks-minerals | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:35 | 2026-11-21 18:19:41 |
 | earth/soil | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:15:24 | 2026-11-21 18:21:30 |
 | earth/water-cycle | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:16:20 | 2026-11-21 18:21:46 |
