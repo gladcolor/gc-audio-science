@@ -1662,7 +1662,7 @@
    "old": 0,
    "total": 28
   },
-  "fingerprint": "",
+  "fingerprint": "479d51cfd8f7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
   "record_langs": [
@@ -1672,8 +1672,8 @@
    "en": "Plate Tectonics",
    "zh": "板块构造"
   },
-  "updated": "2026-11-21 06:37:58",
-  "verified": "2026-11-21 13:00:24"
+  "updated": "2026-11-21 17:32:48",
+  "verified": ""
  },
  "earth/rocks-minerals": {
   "counts": {
