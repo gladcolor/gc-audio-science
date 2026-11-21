@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/combustion-fuels", "voice": "serena", "en": "043d79bd 41f269b6 49b69b60 53f9c6fa 55d858ec 62f42057 686664eb 7601adbb 79b32240 9a92f56f a02fa884 a854329b abbc0f58 c702b0c8 cb395230 db8a94c7", "zh": "1b8fb143 31370fee 321f5de0 3b230b5e 4c993bce 7ac5db8f 9ebd0ba7 a7a90ab9 a8317f21 ab256562 b60e7d2d bb4a4f04 cfa3b3b7 d2dfad9d e8d4e598 fdddbe2d fe338f07"});

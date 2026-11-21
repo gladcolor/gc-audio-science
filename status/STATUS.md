@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 19:08:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:16:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -58,23 +58,24 @@ Updated 2026-11-21 19:08:46. Labels: finished / in progress / no audio / failed 
 | biology/protein-synthesis | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:01 | 2026-11-21 17:59:11 |
 | biology/reproduction | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 17:49:13 | 2026-11-21 17:58:58 |
 | biology/tonicity-labs | finished | 50 | 0 | 0 | 0 | 0 | 2026-11-21 17:47:00 | 2026-11-21 17:57:55 |
-| chemistry/acids-bases | finished | 49 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:08 |  |
-| chemistry/atoms | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 19:00:54 |  |
-| chemistry/carbon | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:00 |  |
-| chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:01 |  |
-| chemistry/chemical-equations | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:52 |  |
-| chemistry/density | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:15 |  |
-| chemistry/elements-compounds | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:10 |  |
-| chemistry/formulas-valence | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:19 |  |
+| chemistry/acids-bases | finished | 49 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:08 | 2026-11-21 19:14:38 |
+| chemistry/atoms | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 19:00:54 | 2026-11-21 19:11:22 |
+| chemistry/carbon | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:00 | 2026-11-21 19:15:11 |
+| chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:01 | 2026-11-21 19:14:13 |
+| chemistry/chemical-equations | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:52 | 2026-11-21 19:14:03 |
+| chemistry/combustion-fuels | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:07 |  |
+| chemistry/density | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:15 | 2026-11-21 19:14:49 |
+| chemistry/elements-compounds | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:10 | 2026-11-21 19:13:36 |
+| chemistry/formulas-valence | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:19 | 2026-11-21 19:13:44 |
 | chemistry/lab-skills | in progress | 79 | 0 | 41 | 0 | 0 | 2026-11-21 19:05:06 |  |
-| chemistry/metals | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:11 |  |
-| chemistry/oxygen-air | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:07:10 |  |
-| chemistry/periodic-table | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:54 |  |
-| chemistry/reactions | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:58 |  |
+| chemistry/metals | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:11 | 2026-11-21 19:15:30 |
+| chemistry/oxygen-air | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:07:10 | 2026-11-21 19:14:59 |
+| chemistry/periodic-table | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:54 | 2026-11-21 19:13:24 |
+| chemistry/reactions | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:58 | 2026-11-21 19:14:08 |
 | chemistry/salts-fertilizers | in progress | 17 | 0 | 51 | 0 | 0 | 2026-11-21 18:58:16 |  |
-| chemistry/solutions | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:22 |  |
-| chemistry/states-of-matter | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:43 |  |
-| chemistry/water-purification | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:46 |  |
+| chemistry/solutions | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:22 | 2026-11-21 19:14:23 |
+| chemistry/states-of-matter | finished | 42 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:43 | 2026-11-21 19:13:59 |
+| chemistry/water-purification | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:46 | 2026-11-21 19:15:44 |
 | cs/cs-ai | finished | 2 | 0 | 0 | 0 | 0 | 2026-11-20 08:23:43 |  |
 | cs/cs-algorithms | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-20 08:51:33 |  |
 | cs/cs-coding | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-20 09:02:10 |  |
@@ -95,7 +96,7 @@ Updated 2026-11-21 19:08:46. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-21 18:17:16 | 2026-11-21 18:22:10 |
 | earth/weathering-erosion | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 18:16:11 | 2026-11-21 18:21:39 |
 | physics/buoyancy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:41 | 2026-11-21 18:54:34 |
-| physics/communications-energy | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-21 19:02:11 |  |
+| physics/communications-energy | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-21 19:02:11 | 2026-11-21 19:11:47 |
 | physics/electric-power | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:03 | 2026-11-21 18:54:04 |
 | physics/electricity | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:06 | 2026-11-21 18:53:35 |
 | physics/electromagnetism | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:59:04 | 2026-11-21 19:01:45 |
@@ -106,7 +107,7 @@ Updated 2026-11-21 19:08:46. Labels: finished / in progress / no audio / failed 
 | physics/lenses | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:12 | 2026-11-21 18:54:13 |
 | physics/light | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 18:55:54 | 2026-11-21 18:57:57 |
 | physics/magnetism | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:34 | 2026-11-21 18:54:28 |
-| physics/measurements-density | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:40 |  |
+| physics/measurements-density | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:40 | 2026-11-21 19:11:59 |
 | physics/mechanical-motion | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:57:28 | 2026-11-21 19:01:17 |
 | physics/motion | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:09 | 2026-11-21 18:53:15 |
 | physics/newtons-laws | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:47 | 2026-11-21 18:53:29 |
@@ -116,6 +117,6 @@ Updated 2026-11-21 19:08:46. Labels: finished / in progress / no audio / failed 
 | physics/simple-machines | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:53 | 2026-11-21 18:54:00 |
 | physics/sound | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:21 | 2026-11-21 18:54:20 |
 | physics/specific-heat | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:49:15 | 2026-11-21 18:55:03 |
-| physics/static-charge | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:45 |  |
+| physics/static-charge | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:45 | 2026-11-21 19:12:12 |
 | physics/waves | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:39 | 2026-11-21 18:53:50 |
 | physics/work-power | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:29 | 2026-11-21 18:53:20 |
