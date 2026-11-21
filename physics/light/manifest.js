@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/light", "voice": "serena", "en": "1ca4975e 445d6509 44c093ee 4bd274ae 90863d2d 95d137e7 c5bf1afd ca201a40", "zh": "00e285a1 104a5771 185cb984 29aaecfa 574891e9 58ca868f 6a75fca9 6b9ceda1 84bdd12f 9c699437 a6d4cdd7 adffea38 b9f6f1b8 baf24880 e786b97c"});
+LabAudioManifest({"lesson": "physics/light", "voice": "serena", "en": "036dbd6b 0e912d74 1a0ba3e5 1ca4975e 3466ac23 445d6509 44c093ee 4bd274ae 6e3eb64f 90863d2d 95d137e7 a1a5cf00 c5bf1afd ca201a40 fb7c1b21", "zh": "00e285a1 104a5771 185cb984 29aaecfa 574891e9 58ca868f 6a75fca9 6b9ceda1 84bdd12f 9c699437 a6d4cdd7 adffea38 b9f6f1b8 baf24880 e786b97c"});

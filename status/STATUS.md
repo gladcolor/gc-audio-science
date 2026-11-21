@@ -1,10 +1,10 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:51:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:55:54. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| astronomy/big-bang | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:43:26 |  |
+| astronomy/big-bang | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:43:26 | 2026-11-21 18:53:06 |
 | astronomy/black-holes | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 18:35:27 | 2026-11-21 18:38:37 |
 | astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 | 2026-11-21 18:24:55 |
 | astronomy/exoplanets | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:57 | 2026-11-21 18:34:59 |
@@ -25,7 +25,7 @@ Updated 2026-11-21 18:51:04. Labels: finished / in progress / no audio / failed 
 | astronomy/star-life | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-21 18:35:36 | 2026-11-21 18:40:00 |
 | astronomy/sun-stars | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:25:04 | 2026-11-21 18:27:14 |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:18:28 | 2026-11-21 18:22:22 |
-| astronomy/three-body | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:43:41 |  |
+| astronomy/three-body | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:43:41 | 2026-11-21 18:53:11 |
 | astronomy/tides | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:19 | 2026-11-21 18:19:33 |
 | biology/animals | finished | 40 | 0 | 0 | 0 | 0 | 2026-11-21 17:52:49 | 2026-11-21 18:06:46 |
 | biology/body-systems | finished | 58 | 0 | 0 | 0 | 0 | 2026-11-21 18:15:17 | 2026-11-21 18:21:22 |
@@ -91,26 +91,26 @@ Updated 2026-11-21 18:51:04. Labels: finished / in progress / no audio / failed 
 | earth/water-cycle | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:16:20 | 2026-11-21 18:21:46 |
 | earth/weather | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-21 18:17:16 | 2026-11-21 18:22:10 |
 | earth/weathering-erosion | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 18:16:11 | 2026-11-21 18:21:39 |
-| physics/buoyancy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:41 |  |
+| physics/buoyancy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:41 | 2026-11-21 18:54:34 |
 | physics/communications-energy | in progress | 48 | 0 | 22 | 0 | 0 | 2026-11-21 18:51:04 |  |
-| physics/electric-power | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:03 |  |
-| physics/electricity | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:06 |  |
-| physics/energy | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:03 |  |
+| physics/electric-power | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:03 | 2026-11-21 18:54:04 |
+| physics/electricity | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:06 | 2026-11-21 18:53:35 |
+| physics/energy | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:03 | 2026-11-21 18:54:40 |
 | physics/forces | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 11:31:03 |  |
-| physics/formula-sheet | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-21 18:50:23 |  |
-| physics/heat-transfer | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:29 |  |
-| physics/lenses | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:12 |  |
-| physics/light | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:17 |  |
-| physics/magnetism | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:34 |  |
+| physics/formula-sheet | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-21 18:50:23 | 2026-11-21 18:55:40 |
+| physics/heat-transfer | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:29 | 2026-11-21 18:53:41 |
+| physics/lenses | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:12 | 2026-11-21 18:54:13 |
+| physics/light | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 18:55:54 |  |
+| physics/magnetism | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:34 | 2026-11-21 18:54:28 |
 | physics/measurements-density | in progress | 14 | 0 | 20 | 0 | 0 | 2026-11-21 18:46:15 |  |
-| physics/motion | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:09 |  |
-| physics/newtons-laws | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:47 |  |
-| physics/ohms-law | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:08 |  |
-| physics/phase-changes | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:52 |  |
-| physics/pressure | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:16 |  |
-| physics/simple-machines | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:53 |  |
-| physics/sound | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:21 |  |
-| physics/specific-heat | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:49:15 |  |
+| physics/motion | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:09 | 2026-11-21 18:53:15 |
+| physics/newtons-laws | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:47 | 2026-11-21 18:53:29 |
+| physics/ohms-law | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:08 | 2026-11-21 18:54:07 |
+| physics/phase-changes | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:52 | 2026-11-21 18:54:55 |
+| physics/pressure | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:16 | 2026-11-21 18:54:48 |
+| physics/simple-machines | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:53 | 2026-11-21 18:54:00 |
+| physics/sound | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:21 | 2026-11-21 18:54:20 |
+| physics/specific-heat | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:49:15 | 2026-11-21 18:55:03 |
 | physics/static-charge | in progress | 4 | 0 | 40 | 0 | 0 | 2026-11-21 18:43:55 |  |
-| physics/waves | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:39 |  |
-| physics/work-power | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:29 |  |
+| physics/waves | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:39 | 2026-11-21 18:53:50 |
+| physics/work-power | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:29 | 2026-11-21 18:53:20 |
