@@ -32,6 +32,7 @@ zh	58963bac	astronomy/black-holes	serena moss8b	48	2026-11-21 10:40:13	tts	6ab46
 zh	63c041ea	astronomy/black-holes	serena moss8b	48	2026-11-21 06:46:59	tts	72a6a6b0fe
 zh	cb73b4bb	astronomy/black-holes	serena moss8b	48	2026-11-21 10:21:21	tts	d3b846cf40
 zh	dce8a134	astronomy/black-holes	serena moss8b	48	2026-11-21 10:37:47	tts	7ee102e13a
+en	32d8a319	astronomy/eclipses	serena moss8b	48	2026-11-21 18:17:01	tts	844954575b
 en	484c5b47	astronomy/eclipses	serena moss8b	48	2026-11-21 18:10:05	tts	0c42148f36
 en	70161592	astronomy/eclipses	serena moss8b	48	2026-11-21 18:15:01	tts	f797720208
 en	790b382d	astronomy/eclipses	serena moss8b	48	2026-11-21 17:57:12	tts	15abbdea6f
@@ -56,6 +57,7 @@ zh	bef9f0ec	astronomy/eclipses	serena moss8b	48	2026-11-21 06:20:39	tts	4d8f526a
 zh	e19a2006	astronomy/eclipses	serena moss8b	48	2026-11-21 06:18:16	tts	aa4c52a41f
 zh	e8f282f5	astronomy/eclipses	serena moss8b	48	2026-11-21 06:51:38	tts	a58a077bb8
 en	4b4dd231	astronomy/exoplanets	serena moss8b	48	2026-11-21 18:16:48	tts	666f0d57e7
+en	68a0e1b4	astronomy/exoplanets	serena moss8b	48	2026-11-21 18:17:04	tts	12607b4ed3
 en	85877b22	astronomy/exoplanets	serena moss8b	48	2026-11-21 18:16:41	tts	b9a5c9c6a3
 zh	0180716d	astronomy/exoplanets	serena moss8b	48	2026-11-21 10:38:24	tts	c3b1a4d2ca
 zh	0d2f073f	astronomy/exoplanets	serena moss8b	48	2026-11-21 10:42:34	tts	e87e4bb9b2
@@ -116,6 +118,7 @@ zh	ca55eb0a	astronomy/kepler-laws	serena moss8b	48	2026-11-21 11:03:07	tts	63c73
 zh	ecd0dc7c	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:56:48	tts	1fe90953e3
 zh	f09c39ba	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:53:20	tts	4052c493e8
 zh	fbb4c148	astronomy/kepler-laws	serena moss8b	48	2026-11-21 11:02:06	tts	2cff4154b1
+en	ca9cd8b9	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:17:10	tts	ed84ea9a77
 en	dc67228e	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:12:35	tts	c7dd1c3b0a
 en	e58d422c	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:14:18	tts	d58146a213
 zh	1f8ffd91	astronomy/measuring-distance	serena moss8b	48	2026-11-21 10:27:00	tts	4ef04440f8
@@ -191,6 +194,7 @@ en	002fdc7e	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:16:43	tts	045
 en	10d1d70c	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:15:49	tts	e57ca87ac8
 en	17795637	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:15:31	tts	a043d0edeb
 en	2304def3	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:16:53	tts	87e35133f7
+en	29127b58	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:17:06	tts	9540baa7f8
 en	cda31e37	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:16:33	tts	63e4c9f628
 zh	0ed70d5d	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:53:02	tts	3d671db5a1
 zh	2b2a0a3b	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:52:54	tts	7b4829929c
@@ -477,6 +481,7 @@ en	44f02aab	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:43	tts	b0f1736
 en	4d1c16ca	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:00	tts	de9438adf3
 en	4dc970f0	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:55	tts	ab6839c892
 en	52d4d15b	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:53	tts	8c64187fd8
+en	530456e9	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:07	tts	65eb7e87c8
 en	582e1a55	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:04	tts	caa44d2824
 en	6739137c	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:49	tts	5989356f18
 en	69037df3	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:10	tts	c160cf855f
@@ -491,6 +496,7 @@ en	a6c15ebb	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:32	tts	50494fb
 en	ba827f42	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:28	tts	5d44514d1e
 en	c01ce7fb	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:42	tts	700489221f
 en	c81b51b7	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:18	tts	42de8fe880
+en	d0fd3913	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:08	tts	10319431e9
 en	e457ca1d	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:50	tts	07657f9054
 en	fd583ca1	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:51	tts	1308a4c7d9
 zh	01df9abc	astronomy/star-life	serena moss8b	48	2026-11-21 06:53:36	tts	1aa89ebb4b
