@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 17:32:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 17:32:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@ Updated 2026-11-21 17:32:05. Labels: finished / in progress / no audio / failed 
 | biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 06:27:09 | 2026-11-21 12:59:46 |
 | biology/endocytosis | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:05 |  |
 | biology/evolution | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 06:35:10 | 2026-11-21 13:00:05 |
-| biology/exocytosis | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 05:54:40 | 2026-11-21 12:57:04 |
+| biology/exocytosis | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:07 |  |
 | biology/food-webs | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 06:25:31 | 2026-11-21 12:59:25 |
 | biology/habitat-niche | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 06:34:55 | 2026-11-21 12:59:59 |
 | biology/heredity | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 06:09:04 | 2026-11-21 12:58:09 |
