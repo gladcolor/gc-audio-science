@@ -305,6 +305,7 @@ zh	148a13eb	astronomy/scale-universe	serena moss8b	48	2026-11-21 20:34:33	tts	fd
 zh	22c46a9d	astronomy/scale-universe	serena moss8b	48	2026-11-21 20:46:26	tts	4b62e85aba
 zh	40b9a371	astronomy/scale-universe	serena moss8b	48	2026-11-21 06:56:04	tts	e3f0cfe007
 zh	4db8cb89	astronomy/scale-universe	serena moss8b	48	2026-11-21 06:55:25	tts	dd4cc6d8fc
+zh	557bd85b	astronomy/scale-universe	serena moss8b	48	2026-11-21 21:04:03	tts	fa021e41c3
 zh	60b478a2	astronomy/scale-universe	serena moss8b	48	2026-11-21 20:39:35	tts	9768bf4b7a
 zh	734be2ec	astronomy/scale-universe	serena moss8b	48	2026-11-21 20:32:10	tts	f6613a1021
 zh	7891b8b1	astronomy/scale-universe	serena moss8b	48	2026-11-21 20:38:34	tts	5f64f5dd60
@@ -417,6 +418,7 @@ en	fd42be20	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:27:54	tts	23ce0
 en	fed3c817	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:30:33	tts	6f480110fa
 zh	0e8e6e06	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:41	tts	03d3d577d3
 zh	1ba6c16b	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:09	tts	7ed7e598f2
+zh	29395370	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:57	tts	e31545dc01
 zh	70c9c23e	astronomy/sky-tonight	serena moss8b	48	2026-11-21 20:40:00	tts	d64cb4b330
 zh	d8aa0ba0	astronomy/sky-tonight	serena moss8b	48	2026-11-21 20:49:54	tts	21b32dcc56
 en	00f1a51f	astronomy/small-bodies	serena moss8b	48	2026-11-21 18:17:56	tts	c4f223d04b
@@ -2452,6 +2454,7 @@ zh	5575e24e	chemistry/carbon	serena moss8b	48	2026-11-21 21:03:30	tts	dfbfd93939
 zh	5d54974d	chemistry/carbon	serena moss8b	48	2026-11-21 11:51:13	tts	c290ecc14b
 zh	84f183a9	chemistry/carbon	serena moss8b	48	2026-11-21 12:12:42	tts	653a0d3b76
 zh	a1363632	chemistry/carbon	serena moss8b	48	2026-11-21 11:52:05	tts	5b21d773fe
+zh	bdc0fa4a	chemistry/carbon	serena moss8b	48	2026-11-21 21:04:01	tts	58d994e6e5
 en	1ea70471	chemistry/changes	serena moss8b	48	2026-11-21 18:49:21	tts	1cff9d5677
 en	2ffe380e	chemistry/changes	serena moss8b	48	2026-11-21 19:04:33	tts	a7e157928c
 en	42fe3755	chemistry/changes	serena moss8b	48	2026-11-21 19:04:24	tts	3ea7f557ff
@@ -2471,6 +2474,7 @@ en	0f8fc06a	chemistry/chemical-equations	serena moss8b	48	2026-11-21 18:57:14	tt
 en	ad197167	chemistry/chemical-equations	serena moss8b	48	2026-11-21 18:57:04	tts	a45213433f
 en	b938a89d	chemistry/chemical-equations	serena moss8b	48	2026-11-21 19:04:52	tts	4c40484325
 en	d7b3fca0	chemistry/chemical-equations	serena moss8b	48	2026-11-21 19:04:48	tts	2f59b2d15c
+zh	463fcf7c	chemistry/chemical-equations	serena moss8b	48	2026-11-21 21:03:49	tts	28c5156927
 zh	74f2c0cb	chemistry/chemical-equations	serena moss8b	48	2026-11-21 12:08:43	tts	6984e03b7a
 zh	97c1a5c0	chemistry/chemical-equations	serena moss8b	48	2026-11-21 21:01:37	tts	22c317c40d
 zh	a72fd884	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:58:50	tts	8da1d999b9
@@ -2559,6 +2563,7 @@ en	f596cdf0	chemistry/density	serena moss8b	48	2026-11-21 19:01:00	tts	3cf7405f2
 en	fd271867	chemistry/density	serena moss8b	48	2026-11-21 18:50:38	tts	cf509c1a7e
 zh	1b062fb0	chemistry/density	serena moss8b	48	2026-11-21 21:02:44	tts	8b1528864b
 zh	51ac2fa7	chemistry/density	serena moss8b	48	2026-11-21 11:32:54	tts	92a6aa1959
+zh	59f6697d	chemistry/density	serena moss8b	48	2026-11-21 21:03:53	tts	e2f3dc6a09
 zh	5c8669c5	chemistry/density	serena moss8b	48	2026-11-21 11:42:56	tts	e9aea13523
 zh	8f832947	chemistry/density	serena moss8b	48	2026-11-21 21:02:46	tts	21f938da26
 zh	90eef171	chemistry/density	serena moss8b	48	2026-11-21 21:02:37	tts	f0cbfc2b01
@@ -2616,6 +2621,7 @@ en	b8ced51f	chemistry/formulas-valence	serena moss8b	48	2026-11-21 18:52:02	tts	
 en	eac281d9	chemistry/formulas-valence	serena moss8b	48	2026-11-21 18:51:57	tts	a5860cd855
 zh	b37ec9ab	chemistry/formulas-valence	serena moss8b	48	2026-11-21 12:07:31	tts	7931892cfd
 zh	c0251111	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:42:07	tts	cf3113b7eb
+zh	c151bd6d	chemistry/formulas-valence	serena moss8b	48	2026-11-21 21:03:48	tts	4d3967c6e7
 en	065a579d	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:06:22	tts	87e1a33658
 en	08987f7f	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:06:29	tts	87ddc702bc
 en	09473bcb	chemistry/lab-skills	serena moss8b	48	2026-11-21 19:04:34	tts	1940ee457f
@@ -2770,6 +2776,7 @@ zh	10b6fc6a	chemistry/metals	serena moss8b	48	2026-11-21 12:08:39	tts	88877584ca
 zh	11335fd4	chemistry/metals	serena moss8b	48	2026-11-21 12:02:18	tts	29e2263354
 zh	157df995	chemistry/metals	serena moss8b	48	2026-11-21 11:53:21	tts	4e8198f7aa
 zh	162aa974	chemistry/metals	serena moss8b	48	2026-11-21 21:03:34	tts	9e1ca6bfad
+zh	18de98f6	chemistry/metals	serena moss8b	48	2026-11-21 21:03:51	tts	8409f18af6
 zh	2801e41d	chemistry/metals	serena moss8b	48	2026-11-21 21:03:14	tts	3683465076
 zh	29ba38a0	chemistry/metals	serena moss8b	48	2026-11-21 11:43:32	tts	719f726f15
 zh	48ad80e2	chemistry/metals	serena moss8b	48	2026-11-21 12:00:00	tts	adf4dfbefc
@@ -3082,6 +3089,7 @@ en	ebbc28a2	chemistry/solutions	serena moss8b	48	2026-11-21 18:49:22	tts	99ea622
 zh	0d314d14	chemistry/solutions	serena moss8b	48	2026-11-21 11:36:18	tts	565fdebf64
 zh	3ce92a48	chemistry/solutions	serena moss8b	48	2026-11-21 11:59:58	tts	32b3e39db4
 zh	404d3f42	chemistry/solutions	serena moss8b	48	2026-11-21 11:38:27	tts	3733baf729
+zh	46be29a6	chemistry/solutions	serena moss8b	48	2026-11-21 21:04:00	tts	845fe45f41
 zh	49584d2d	chemistry/solutions	serena moss8b	48	2026-11-21 21:02:51	tts	15c3ad4d42
 zh	70c9cdc7	chemistry/solutions	serena moss8b	48	2026-11-21 21:02:28	tts	50dd498663
 zh	751d7e5f	chemistry/solutions	serena moss8b	48	2026-11-21 11:35:19	tts	fb50abf2ac
