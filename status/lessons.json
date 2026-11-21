@@ -1130,7 +1130,7 @@
    "old": 0,
    "total": 12
   },
-  "fingerprint": "",
+  "fingerprint": "193ce4e07a70",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
   "record_langs": [
@@ -1140,7 +1140,7 @@
    "en": "DNA → RNA → Protein",
    "zh": "DNA → RNA → 蛋白质"
   },
-  "updated": "2026-11-21 19:59:24",
+  "updated": "2026-11-21 21:06:28",
   "verified": ""
  },
  "biology/reproduction": {

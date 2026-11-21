@@ -30,6 +30,7 @@ zh	1ccf27d7	astronomy/big-bang	serena moss8b	48	2026-11-21 10:43:19	tts	acfccfd6
 zh	3b79426d	astronomy/big-bang	serena moss8b	48	2026-11-21 10:34:57	tts	714c67602f
 zh	3f20b1ba	astronomy/big-bang	serena moss8b	48	2026-11-21 20:48:49	tts	143469dff1
 zh	4111c705	astronomy/big-bang	serena moss8b	48	2026-11-21 20:51:16	tts	e4468a745e
+zh	44d4498b	astronomy/big-bang	serena moss8b	48	2026-11-21 21:05:12	tts	38428150db
 zh	4a25067a	astronomy/big-bang	serena moss8b	48	2026-11-21 10:33:11	tts	1c33660db0
 zh	5422c2bd	astronomy/big-bang	serena moss8b	48	2026-11-21 20:52:13	tts	6df50faba1
 zh	5ebf100e	astronomy/big-bang	serena moss8b	48	2026-11-21 20:52:46	tts	7f99dc83ad
@@ -417,13 +418,25 @@ en	f236f59e	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:31:06	tts	9292a
 en	f8deeeec	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:23:51	tts	82fea1ce23
 en	fd42be20	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:27:54	tts	23ce055616
 en	fed3c817	astronomy/sky-tonight	serena moss8b	48	2026-11-21 18:30:33	tts	6f480110fa
+zh	05a3adf1	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:18	tts	7746969aa7
 zh	0b4adb07	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:04:33	tts	ad72a0f473
 zh	0d6763cb	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:04:38	tts	1c4a87a4a7
 zh	0e8e6e06	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:41	tts	03d3d577d3
+zh	0ef4ee1c	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:57	tts	90b8b3e686
+zh	197cd2a0	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:06:15	tts	17a248469b
 zh	1ba6c16b	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:09	tts	7ed7e598f2
+zh	1dec86f3	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:06:02	tts	92b3b8a84c
+zh	1eb717ca	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:06:10	tts	2692e668db
 zh	2849dade	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:04:54	tts	1a086263ff
 zh	29395370	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:03:57	tts	e31545dc01
+zh	4ce5b56c	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:06:26	tts	cee7526c67
+zh	5f2fb83a	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:48	tts	df94ecd086
+zh	6156ef59	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:30	tts	bec5e3c113
+zh	6be8d6e2	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:42	tts	620a76820f
+zh	6e37f249	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:53	tts	20e0b5e44b
 zh	70c9c23e	astronomy/sky-tonight	serena moss8b	48	2026-11-21 20:40:00	tts	d64cb4b330
+zh	8a9f969c	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:05:36	tts	a19978af05
+zh	9ff5affd	astronomy/sky-tonight	serena moss8b	48	2026-11-21 21:06:06	tts	ed1d73ac6c
 zh	d8aa0ba0	astronomy/sky-tonight	serena moss8b	48	2026-11-21 20:49:54	tts	21b32dcc56
 en	00f1a51f	astronomy/small-bodies	serena moss8b	48	2026-11-21 18:17:56	tts	c4f223d04b
 en	08af938d	astronomy/small-bodies	serena moss8b	48	2026-11-21 18:31:21	tts	f02d309644
@@ -2265,6 +2278,7 @@ zh	572eaa05	biology/protein-synthesis	serena moss8b	48	2026-11-21 20:51:24	tts	6
 zh	64839f4e	biology/protein-synthesis	serena moss8b	48	2026-11-21 05:36:21	tts	fe5c9474c3
 zh	9177a2bd	biology/protein-synthesis	serena moss8b	48	2026-11-21 20:28:11	tts	5ce4c49d4e
 zh	aa110a53	biology/protein-synthesis	serena moss8b	48	2026-11-21 20:28:23	tts	3194cab7db
+zh	eb25fe08	biology/protein-synthesis	serena moss8b	48	2026-11-21 21:06:28	tts	1386cabd6a
 zh	f7839335	biology/protein-synthesis	serena moss8b	48	2026-11-21 20:47:51	tts	9dc2c50488
 en	0294c5cf	biology/reproduction	serena moss8b	48	2026-11-21 17:44:13	tts	61557b6722
 en	07ce9545	biology/reproduction	serena moss8b	48	2026-11-21 17:41:25	tts	920fe80601
@@ -2432,6 +2446,7 @@ zh	9a08c028	chemistry/atoms	serena moss8b	48	2026-11-21 11:35:20	tts	2dcd300c90
 zh	aa5676b5	chemistry/atoms	serena moss8b	48	2026-11-21 20:50:59	tts	ca9e356194
 zh	ad61e86a	chemistry/atoms	serena moss8b	48	2026-11-21 20:52:43	tts	ad6d88952c
 zh	b9eda135	chemistry/atoms	serena moss8b	48	2026-11-21 11:30:15	tts	d2b86d94ed
+zh	beea2e71	chemistry/atoms	serena moss8b	48	2026-11-21 21:05:14	tts	def36e061a
 zh	ec1f1eab	chemistry/atoms	serena moss8b	48	2026-11-21 11:33:50	tts	f4d6a155c8
 zh	f7956814	chemistry/atoms	serena moss8b	48	2026-11-21 11:37:42	tts	079550c088
 zh	fe6c3b4d	chemistry/atoms	serena moss8b	48	2026-11-21 11:21:53	tts	c32fca9155
@@ -2963,6 +2978,7 @@ zh	34e40d67	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:50:07	tts	37
 zh	389a22c8	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:50:18	tts	60970fefae
 zh	39ec96dd	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:50:14	tts	0a54fb7961
 zh	3bdf94e8	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:57:06	tts	1068791b49
+zh	3e66bc43	chemistry/periodic-table	serena moss8b	48	2026-11-21 21:06:20	tts	52f42edd84
 zh	3f3949d9	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:50:08	tts	a9c9fc82b9
 zh	3f88bbd1	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:50:06	tts	103ce1f714
 zh	407ac117	chemistry/periodic-table	serena moss8b	48	2026-11-21 20:48:51	tts	8e95cfa844
@@ -3843,6 +3859,7 @@ zh	dbdd0c3d	physics/formula-sheet	serena moss8b	48	2026-11-21 10:35:46	tts	a1756
 zh	df324872	physics/formula-sheet	serena moss8b	48	2026-11-21 11:39:08	tts	7e98936174
 zh	e6982879	physics/formula-sheet	serena moss8b	48	2026-11-21 11:20:17	tts	5ef8d465c2
 zh	f879a726	physics/formula-sheet	serena moss8b	48	2026-11-21 11:16:31	tts	df57648707
+zh	fb06f6b9	physics/formula-sheet	serena moss8b	48	2026-11-21 21:06:18	tts	c3f9ae8eec
 zh	fff7caea	physics/formula-sheet	serena moss8b	48	2026-11-21 11:36:43	tts	ab269cce03
 en	0125c7a4	physics/heat-transfer	serena moss8b	48	2026-11-21 18:31:39	tts	4ae59d6717
 en	1365992e	physics/heat-transfer	serena moss8b	48	2026-11-21 18:44:43	tts	d18be2d67d
@@ -3928,6 +3945,7 @@ zh	20807533	physics/magnetism	serena moss8b	48	2026-11-21 11:24:10	tts	555366e59
 zh	36a76bb9	physics/magnetism	serena moss8b	48	2026-11-21 11:36:30	tts	13de3ab082
 zh	36e6ae8e	physics/magnetism	serena moss8b	48	2026-11-21 20:47:59	tts	8d5149df67
 zh	7883f4c0	physics/magnetism	serena moss8b	48	2026-11-21 20:52:36	tts	a920c78dfb
+zh	9518a961	physics/magnetism	serena moss8b	48	2026-11-21 21:05:19	tts	62acff57c9
 zh	98ef993e	physics/magnetism	serena moss8b	48	2026-11-21 11:36:06	tts	364231cba4
 zh	b2945f1c	physics/magnetism	serena moss8b	48	2026-11-21 21:01:44	tts	c682c19f41
 zh	ec836794	physics/magnetism	serena moss8b	48	2026-11-21 20:52:55	tts	6455d50ddd
