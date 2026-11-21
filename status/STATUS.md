@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:13:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:14:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -45,7 +45,7 @@ Updated 2026-11-21 18:13:35. Labels: finished / in progress / no audio / failed 
 | biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 17:48:43 | 2026-11-21 17:58:48 |
 | biology/food-webs | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:14 | 2026-11-21 17:59:26 |
 | biology/habitat-niche | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 17:52:57 | 2026-11-21 18:07:25 |
-| biology/health-first-aid | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 18:10:45 |  |
+| biology/health-first-aid | finished | 36 | 0 | 0 | 0 | 0 | 2026-11-21 18:10:45 | 2026-11-21 18:14:00 |
 | biology/heredity | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:23 | 2026-11-21 17:59:35 |
 | biology/infection-immunity | in progress | 21 | 0 | 6 | 0 | 0 | 2026-11-21 17:54:48 |  |
 | biology/microorganisms | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:52 | 2026-11-21 18:01:02 |
@@ -80,9 +80,9 @@ Updated 2026-11-21 18:13:35. Labels: finished / in progress / no audio / failed 
 | cs/cs-safety | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-21 14:56:57 |  |
 | earth/atmosphere | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:04 |  |
 | earth/climate | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:08 |  |
-| earth/earth-layers | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 18:11:37 |  |
+| earth/earth-layers | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 18:11:37 | 2026-11-21 18:14:08 |
 | earth/fossils-time | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:57 |  |
-| earth/natural-resources | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:10 |  |
+| earth/natural-resources | in progress | 23 | 1 | 0 | 0 | 0 | 2026-11-21 18:14:23 |  |
 | earth/oceans | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:01 |  |
 | earth/plate-tectonics | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:48 |  |
 | earth/rocks-minerals | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:35 |  |
