@@ -199,24 +199,25 @@
  },
  "astronomy/night-sky": {
   "counts": {
-   "done": 16,
+   "done": 32,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 16
+   "total": 32
   },
-  "fingerprint": "",
+  "fingerprint": "9c40cb8db62a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/night-sky.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Constellations & the Night Sky",
    "zh": "星座与夜空"
   },
-  "updated": "2026-11-21 17:33:29",
+  "updated": "2026-11-21 18:13:03",
   "verified": ""
  },
  "astronomy/planets-moons": {
