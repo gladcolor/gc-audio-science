@@ -237,21 +237,24 @@
  },
  "astronomy/rocketry": {
   "counts": {
-   "done": 12,
+   "done": 6,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 12
+   "total": 6
   },
-  "fingerprint": "",
+  "fingerprint": "6ef143129108",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/rocketry.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Rocket Science",
    "zh": "火箭是怎样飞上天的"
   },
-  "updated": "2026-11-20 02:16:34",
+  "updated": "2026-11-21 11:12:38",
   "verified": ""
  },
  "astronomy/scale-universe": {
