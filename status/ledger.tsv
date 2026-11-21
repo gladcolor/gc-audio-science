@@ -1968,6 +1968,7 @@ zh	ec1f1eab	chemistry/atoms	serena moss8b	48	2026-11-21 11:33:50	tts	f4d6a155c8
 zh	f7956814	chemistry/atoms	serena moss8b	48	2026-11-21 11:37:42	tts	079550c088
 zh	f856bc71	chemistry/atoms	serena moss8b	48	2026-11-21 11:32:45	tts	6dbb9c4c59
 zh	fe6c3b4d	chemistry/atoms	serena moss8b	48	2026-11-21 11:21:53	tts	c32fca9155
+zh	07cc78e8	chemistry/carbon	serena moss8b	48	2026-11-21 11:42:25	tts	9a875a7064
 zh	171e1b4f	chemistry/carbon	serena moss8b	48	2026-11-21 11:35:23	tts	70555587d8
 zh	b4566331	chemistry/carbon	serena moss8b	48	2026-11-21 11:35:54	tts	595a9485e3
 zh	bd52d686	chemistry/carbon	serena moss8b	48	2026-11-21 11:38:06	tts	08c61c5f6c
@@ -2003,6 +2004,7 @@ en	e64f7b2a	chemistry/density	serena t0.5 -16LUFS	48	2026-11-20 02:36:02	tts	dfc
 en	e734fee6	chemistry/density	serena t0.5 -16LUFS	48	2026-11-20 02:40:55	tts	2e26f61c8e
 en	f596cdf0	chemistry/density	serena t0.5 -16LUFS	48	2026-11-20 03:07:05	tts	3cf7405f28
 zh	51ac2fa7	chemistry/density	serena moss8b	48	2026-11-21 11:32:54	tts	92a6aa1959
+zh	5c8669c5	chemistry/density	serena moss8b	48	2026-11-21 11:42:56	tts	e9aea13523
 zh	62d557b3	chemistry/density	serena moss8b	48	2026-11-21 11:33:52	tts	73b40d6279
 zh	7ea82070	chemistry/density	serena moss8b	48	2026-11-21 11:34:17	tts	7aaa3aadf7
 zh	90eef171	chemistry/density	serena moss8b	48	2026-11-21 11:35:53	tts	f0cbfc2b01
@@ -2020,6 +2022,7 @@ en	b1d57736	chemistry/elements-compounds	serena t0.5 -16LUFS	48	2026-11-20 01:13
 en	c2bfbc9d	chemistry/elements-compounds	serena t0.5 -16LUFS	48	2026-11-20 02:33:00	tts	d72334c810
 en	de7546f6	chemistry/elements-compounds	serena t0.5 -16LUFS	48	2026-11-20 02:33:04	tts	746fd68848
 zh	06012075	chemistry/elements-compounds	serena moss8b	48	2026-11-21 11:38:25	tts	25cabb3c2c
+zh	0dd4c04f	chemistry/elements-compounds	serena moss8b	48	2026-11-21 11:42:54	tts	4d3bbd07cf
 zh	14ea0391	chemistry/elements-compounds	serena moss8b	48	2026-11-21 11:38:54	tts	cc04f446e8
 zh	156b0c3e	chemistry/elements-compounds	serena moss8b	48	2026-11-21 11:29:49	tts	cf8a68dbad
 zh	46596150	chemistry/elements-compounds	serena moss8b	48	2026-11-21 11:37:40	tts	fe246717b2
@@ -2895,6 +2898,7 @@ zh	f8941459	physics/waves	serena moss8b	48	2026-11-21 11:16:30	tts	815cadc3e5
 zh	f938a88e	physics/waves	serena moss8b	48	2026-11-21 11:34:51	tts	2c3eaac654
 zh	209bfda2	physics/work-power	serena moss8b	48	2026-11-21 11:09:37	tts	f1294bdb1a
 zh	2c2e3902	physics/work-power	serena moss8b	48	2026-11-21 10:34:32	tts	cbcece6318
+zh	3c4d3e68	physics/work-power	serena moss8b	48	2026-11-21 11:42:58	tts	6a6325ebfb
 zh	6957450c	physics/work-power	serena moss8b	48	2026-11-21 10:36:04	tts	444d3aa0b2
 zh	8064ba71	physics/work-power	serena moss8b	48	2026-11-21 10:35:46	tts	b40e3e6f77
 zh	9fdcd4a0	physics/work-power	serena moss8b	48	2026-11-21 11:25:26	tts	a206e31eda

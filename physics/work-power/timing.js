@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/work-power", "en": {}, "zh": {"209bfda2": {"dur": 15.89}, "2c2e3902": {"dur": 17.42}, "3c4d3e68": {"dur": 29.66}, "6957450c": {"dur": 15.5}, "8064ba71": {"dur": 8.93}, "9fdcd4a0": {"dur": 21.89}, "a5556f09": {"dur": 15.58}, "bdcc7a1a": {"dur": 11.5}, "dd545eb8": {"dur": 20.54}}});

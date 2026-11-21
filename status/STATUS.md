@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 11:42:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 11:42:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -98,3 +98,4 @@ Updated 2026-11-21 11:42:24. Labels: finished / in progress / no audio / failed 
 | physics/simple-machines | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 11:34:20 |  |
 | physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 11:33:38 |  |
 | physics/waves | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 11:38:53 |  |
+| physics/work-power | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 11:42:58 |  |
