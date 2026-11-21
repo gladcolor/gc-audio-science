@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:25:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:28:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -8,7 +8,7 @@ Updated 2026-11-21 18:25:04. Labels: finished / in progress / no audio / failed 
 | astronomy/black-holes | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:45 |  |
 | astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 | 2026-11-21 18:24:55 |
 | astronomy/exoplanets | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:47 |  |
-| astronomy/galaxies | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:18 |  |
+| astronomy/galaxies | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:18 | 2026-11-21 18:26:45 |
 | astronomy/gravity-orbits | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:19:01 | 2026-11-21 18:22:41 |
 | astronomy/kepler-laws | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:49 |  |
 | astronomy/measuring-distance | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 18:17:10 | 2026-11-21 18:21:57 |
@@ -17,13 +17,13 @@ Updated 2026-11-21 18:25:04. Labels: finished / in progress / no audio / failed 
 | astronomy/planets-moons | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:53 |  |
 | astronomy/rocketry | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:51 |  |
 | astronomy/scale-universe | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:36 |  |
-| astronomy/seasons | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:26 |  |
-| astronomy/sky-tonight | finished | 73 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:34 |  |
+| astronomy/seasons | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:26 | 2026-11-21 18:26:56 |
+| astronomy/sky-tonight | in progress | 108 | 28 | 0 | 0 | 0 | 2026-11-21 18:28:08 |  |
 | astronomy/small-bodies | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:55 |  |
 | astronomy/solar-system | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:00 | 2026-11-21 18:24:47 |
 | astronomy/space-exploration | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:52 | 2026-11-21 18:20:37 |
 | astronomy/star-life | finished | 147 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:42 |  |
-| astronomy/sun-stars | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:25:04 |  |
+| astronomy/sun-stars | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:25:04 | 2026-11-21 18:27:14 |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:18:28 | 2026-11-21 18:22:22 |
 | astronomy/three-body | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:00 |  |
 | astronomy/tides | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:19 | 2026-11-21 18:19:33 |
