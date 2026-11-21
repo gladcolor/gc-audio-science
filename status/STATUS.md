@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:15:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:15:24. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -87,7 +87,7 @@ Updated 2026-11-21 18:15:17. Labels: finished / in progress / no audio / failed 
 | earth/oceans | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:15:03 |  |
 | earth/plate-tectonics | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:56 |  |
 | earth/rocks-minerals | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:35 |  |
-| earth/soil | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:54 |  |
+| earth/soil | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:15:24 |  |
 | earth/water-cycle | in progress | 21 | 4 | 0 | 0 | 0 | 2026-11-21 17:57:14 |  |
 | earth/weather | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:06 |  |
 | earth/weathering-erosion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:52 |  |
