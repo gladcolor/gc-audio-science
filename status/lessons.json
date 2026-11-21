@@ -1772,7 +1772,7 @@
    "old": 0,
    "total": 15
   },
-  "fingerprint": "",
+  "fingerprint": "3b39abb2e5d4",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "record_langs": [
@@ -1782,8 +1782,8 @@
    "en": "Weathering, Erosion & Deposition",
    "zh": "风化、侵蚀与沉积"
   },
-  "updated": "2026-11-21 06:43:20",
-  "verified": "2026-11-21 13:00:41"
+  "updated": "2026-11-21 17:32:52",
+  "verified": ""
  },
  "physics/buoyancy": {
   "counts": {
