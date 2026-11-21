@@ -778,26 +778,25 @@
  },
  "biology/diffusion": {
   "counts": {
-   "done": 53,
+   "done": 27,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 53
+   "total": 27
   },
   "fingerprint": "b739b1407cef",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Diffusion in the Body",
    "zh": "人体中的扩散"
   },
-  "updated": "2026-11-21 17:47:52",
-  "verified": "2026-11-21 17:58:28"
+  "updated": "2026-11-21 19:59:06",
+  "verified": ""
  },
  "biology/dna": {
   "counts": {
