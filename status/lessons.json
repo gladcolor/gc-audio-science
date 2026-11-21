@@ -872,21 +872,24 @@
  },
  "biology/photosynthesis": {
   "counts": {
-   "done": 18,
+   "done": 20,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 18
+   "total": 20
   },
-  "fingerprint": "",
+  "fingerprint": "f398b54edf84",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Photosynthesis & Respiration",
    "zh": "光合作用与呼吸作用"
   },
-  "updated": "2026-11-19 23:24:37",
+  "updated": "2026-11-21 06:18:54",
   "verified": ""
  },
  "biology/plants": {
