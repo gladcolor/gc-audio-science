@@ -376,11 +376,11 @@
  },
  "astronomy/star-life": {
   "counts": {
-   "done": 23,
+   "done": 106,
    "failed": 0,
    "held": 0,
-   "missing": 83,
-   "old": 41,
+   "missing": 36,
+   "old": 5,
    "total": 147
   },
   "fingerprint": "5a38f4e360bc",
@@ -393,7 +393,7 @@
    "en": "How Stars Live & Die: the H-R Diagram",
    "zh": "恒星的一生：赫罗图"
   },
-  "updated": "2026-11-21 06:39:49",
+  "updated": "2026-11-21 10:29:57",
   "verified": ""
  },
  "astronomy/sun-stars": {
