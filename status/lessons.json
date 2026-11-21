@@ -500,26 +500,25 @@
  },
  "astronomy/tides": {
   "counts": {
-   "done": 24,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 24
+   "total": 12
   },
   "fingerprint": "27bf187b6d85",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/tides.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Tides",
    "zh": "潮汐"
   },
-  "updated": "2026-11-21 18:13:19",
-  "verified": "2026-11-21 18:19:33"
+  "updated": "2026-11-21 20:00:46",
+  "verified": ""
  },
  "biology/animals": {
   "counts": {
