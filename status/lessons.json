@@ -1278,26 +1278,25 @@
  },
  "chemistry/chemical-equations": {
   "counts": {
-   "done": 12,
+   "done": 6,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 12
+   "total": 6
   },
   "fingerprint": "d56fcbe6aea7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/chemical-equations.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Balancing & Calculating with Equations",
    "zh": "化学方程式与计算"
   },
-  "updated": "2026-11-21 19:04:52",
-  "verified": "2026-11-21 19:14:03"
+  "updated": "2026-11-21 20:02:36",
+  "verified": ""
  },
  "chemistry/chemistry-life": {
   "counts": {
