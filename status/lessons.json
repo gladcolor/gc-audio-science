@@ -409,24 +409,25 @@
  },
  "astronomy/star-life": {
   "counts": {
-   "done": 147,
+   "done": 248,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 147
+   "missing": 30,
+   "old": 17,
+   "total": 295
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "5a38f4e360bc",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/star-life.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "How Stars Live & Die: the H-R Diagram",
    "zh": "恒星的一生：赫罗图"
   },
-  "updated": "2026-11-21 17:33:42",
+  "updated": "2026-11-21 18:32:26",
   "verified": ""
  },
  "astronomy/sun-stars": {

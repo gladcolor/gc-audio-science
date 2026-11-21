@@ -1,4 +1,5 @@
 lang	key	lesson	voice	kbps	date	source	send
+en	c7fd6137	astronomy/big-bang	serena moss8b	48	2026-11-21 18:32:04	tts	300ca5245f
 zh	008f341c	astronomy/big-bang	serena moss8b	48	2026-11-21 10:34:13	tts	8dfad67ac0
 zh	125c76e6	astronomy/big-bang	serena moss8b	48	2026-11-21 10:18:46	tts	3a21a455d6
 zh	1ccf27d7	astronomy/big-bang	serena moss8b	48	2026-11-21 10:43:19	tts	acfccfd629
@@ -599,8 +600,10 @@ en	123ab21f	astronomy/star-life	serena moss8b	48	2026-11-21 18:25:15	tts	f77e68c
 en	136b8994	astronomy/star-life	serena moss8b	48	2026-11-21 18:25:55	tts	502a2b0c7c
 en	1442a6d6	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:23	tts	34a6fe9daf
 en	152897d5	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:17	tts	114a853d10
+en	15a54768	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:02	tts	9a77963f0e
 en	167288c0	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:21	tts	381fd7f77f
 en	1789d083	astronomy/star-life	serena moss8b	48	2026-11-21 18:25:14	tts	ed01f71a16
+en	1b1c169d	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:14	tts	5df746e7db
 en	1b74614b	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:57	tts	8cc1dea6fe
 en	1ed9408b	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:16	tts	6dda7c6f36
 en	1efc27e5	astronomy/star-life	serena moss8b	48	2026-11-21 18:24:56	tts	0e0f4803fd
@@ -610,6 +613,7 @@ en	284a128d	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:54	tts	474f052
 en	2940c1db	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:51	tts	49e3eb621a
 en	2c5077de	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:01	tts	adec4fdd26
 en	2cbd021e	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:34	tts	517fd5af97
+en	30c6ae83	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:20	tts	fdbabfc16c
 en	337f0ba4	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:47	tts	20ffcdab9a
 en	37405ea4	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:32	tts	4847b07dc3
 en	391ebc2f	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:35	tts	19ed7d0041
@@ -619,12 +623,17 @@ en	3f8b86df	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:30	tts	7c310cc
 en	415376fc	astronomy/star-life	serena moss8b	48	2026-11-21 18:18:38	tts	bb31127577
 en	435744a8	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:21	tts	4d9e5c5098
 en	44f02aab	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:43	tts	b0f173615f
+en	48a9e61c	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:19	tts	7933744d2f
 en	4be97a4f	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:33	tts	55e6532425
 en	4d1c16ca	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:00	tts	de9438adf3
 en	4dc970f0	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:55	tts	ab6839c892
+en	51307a7f	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:22	tts	944ed52308
 en	521a821a	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:35	tts	d056c55d93
+en	521b1a0d	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:08	tts	c720de34e5
 en	52d4d15b	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:53	tts	8c64187fd8
 en	530456e9	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:07	tts	65eb7e87c8
+en	56768321	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:11	tts	0a6578d762
+en	57eb3342	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:03	tts	edc9960e8e
 en	582e1a55	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:04	tts	caa44d2824
 en	6294836f	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:55	tts	774981ad30
 en	650b5be8	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:31	tts	19f26be256
@@ -633,15 +642,18 @@ en	6739137c	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:49	tts	5989356
 en	67d4601e	astronomy/star-life	serena moss8b	48	2026-11-21 18:26:29	tts	67a4aa9aea
 en	69037df3	astronomy/star-life	serena moss8b	48	2026-11-21 18:12:10	tts	c160cf855f
 en	6c00da69	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:50	tts	efa8522943
+en	6ce8394b	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:12	tts	08115c2da4
 en	6d8c2132	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:53	tts	4bb30c5f18
 en	6e7987a2	astronomy/star-life	serena moss8b	48	2026-11-21 18:23:09	tts	06e6950152
 en	712e4031	astronomy/star-life	serena moss8b	48	2026-11-21 18:26:28	tts	ce8b082f9d
 en	7601bdfc	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:56	tts	9e44506eea
 en	787518a6	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:39	tts	dfc7b4ce1b
 en	7de6f4c1	astronomy/star-life	serena moss8b	48	2026-11-21 18:18:20	tts	9fff2368ec
+en	7e24fab2	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:21	tts	73c8acf13c
 en	8057741f	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:54	tts	00b7645e76
 en	855f5fa5	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:51	tts	80886351b9
 en	87a1690a	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:38	tts	6d03d04d69
+en	8d68a1fd	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:15	tts	6be72bfc72
 en	8edfff9c	astronomy/star-life	serena moss8b	48	2026-11-21 18:26:09	tts	45a6577cde
 en	93be86eb	astronomy/star-life	serena moss8b	48	2026-11-21 18:26:01	tts	eb336cc35c
 en	99b63dfa	astronomy/star-life	serena moss8b	48	2026-11-21 18:25:56	tts	9c5da0aff3
@@ -653,6 +665,7 @@ en	9e1a6b08	astronomy/star-life	serena moss8b	48	2026-11-21 18:22:54	tts	c2fa62c
 en	9fdd2f3a	astronomy/star-life	serena moss8b	48	2026-11-21 18:18:19	tts	50fce728d3
 en	a6c15ebb	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:32	tts	50494fbda9
 en	a941825c	astronomy/star-life	serena moss8b	48	2026-11-21 18:22:59	tts	99355eb746
+en	b1aeea0d	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:17	tts	6484184296
 en	b76138ed	astronomy/star-life	serena moss8b	48	2026-11-21 18:18:23	tts	99f9b72432
 en	b94bb73c	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:38	tts	a03741176f
 en	ba827f42	astronomy/star-life	serena moss8b	48	2026-11-21 18:15:28	tts	5d44514d1e
@@ -665,10 +678,17 @@ en	d0fd3913	astronomy/star-life	serena moss8b	48	2026-11-21 18:17:08	tts	1031943
 en	d405ad88	astronomy/star-life	serena moss8b	48	2026-11-21 18:18:37	tts	b735413b3f
 en	d540fab9	astronomy/star-life	serena moss8b	48	2026-11-21 18:22:57	tts	aaa90e5df8
 en	d9f570a8	astronomy/star-life	serena moss8b	48	2026-11-21 18:25:35	tts	b043fd4d19
+en	da6f0b9d	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:23	tts	932cbec587
 en	ddcce093	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:48	tts	1adfe46c4c
 en	e457ca1d	astronomy/star-life	serena moss8b	48	2026-11-21 18:16:50	tts	07657f9054
+en	e6e698a4	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:24	tts	f9c1dda9ae
 en	e9d18de4	astronomy/star-life	serena moss8b	48	2026-11-21 18:22:53	tts	a69b081c4c
 en	ed5013db	astronomy/star-life	serena moss8b	48	2026-11-21 18:31:42	tts	c012c27791
+en	ef00b418	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:16	tts	e637e9db12
+en	f1c72da4	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:05	tts	2b490bcaa1
+en	f26c508a	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:09	tts	3afcd7dbd5
+en	f54a0afb	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:18	tts	ad02ce1511
+en	fd32fd3b	astronomy/star-life	serena moss8b	48	2026-11-21 18:32:06	tts	68deb1f42f
 en	fd583ca1	astronomy/star-life	serena moss8b	48	2026-11-21 18:11:51	tts	1308a4c7d9
 zh	01df9abc	astronomy/star-life	serena moss8b	48	2026-11-21 06:53:36	tts	1aa89ebb4b
 zh	02ce5af6	astronomy/star-life	serena moss8b	48	2026-11-21 10:28:48	tts	1b78b442ef
@@ -3116,6 +3136,7 @@ zh	f879a726	physics/formula-sheet	serena moss8b	48	2026-11-21 11:16:31	tts	df576
 zh	fb06f6b9	physics/formula-sheet	serena moss8b	48	2026-11-21 11:31:49	tts	c3f9ae8eec
 zh	fff7caea	physics/formula-sheet	serena moss8b	48	2026-11-21 11:36:43	tts	ab269cce03
 en	0125c7a4	physics/heat-transfer	serena moss8b	48	2026-11-21 18:31:39	tts	4ae59d6717
+en	fae99445	physics/heat-transfer	serena moss8b	48	2026-11-21 18:32:08	tts	ad878510a9
 zh	0d5455f7	physics/heat-transfer	serena moss8b	48	2026-11-21 10:23:55	tts	6bb445e968
 zh	25cb0c8a	physics/heat-transfer	serena moss8b	48	2026-11-21 10:20:47	tts	f7df13eabd
 zh	4ba3d962	physics/heat-transfer	serena moss8b	48	2026-11-21 11:35:39	tts	08d29c9334
@@ -3164,6 +3185,7 @@ zh	ec836794	physics/magnetism	serena moss8b	48	2026-11-21 11:22:47	tts	6455d50dd
 zh	f2239bf0	physics/magnetism	serena moss8b	48	2026-11-21 10:34:15	tts	d325c55059
 zh	f7e2c782	physics/magnetism	serena moss8b	48	2026-11-21 11:21:10	tts	1290123bfc
 en	9f9b3788	physics/motion	serena moss8b	48	2026-11-21 18:26:19	tts	7eca254420
+en	cf690f4c	physics/motion	serena moss8b	48	2026-11-21 18:32:13	tts	1f70c606ee
 en	e23e30ca	physics/motion	serena moss8b	48	2026-11-21 18:26:34	tts	7cb9893230
 en	658bbd59	physics/newtons-laws	serena moss8b	48	2026-11-21 18:24:09	tts	7197eb7b86
 en	7876cdda	physics/newtons-laws	serena moss8b	48	2026-11-21 18:23:27	tts	c8aeedadd8
