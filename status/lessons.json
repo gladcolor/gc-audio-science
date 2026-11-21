@@ -1465,21 +1465,24 @@
  },
  "earth/soil": {
   "counts": {
-   "done": 16,
+   "done": 12,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 16
+   "total": 12
   },
-  "fingerprint": "",
+  "fingerprint": "7c6f504dbf99",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/soil.html",
+  "record_langs": [
+   "zh"
+  ],
   "title": {
    "en": "Soil Formation",
    "zh": "土壤的形成"
   },
-  "updated": "2026-11-19 23:25:03",
+  "updated": "2026-11-21 06:39:35",
   "verified": ""
  },
  "earth/water-cycle": {
