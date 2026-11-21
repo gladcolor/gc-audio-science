@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:00:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:00:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Updated 2026-11-21 20:00:31. Labels: finished / in progress / no audio / failed 
 | astronomy/solar-system | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:31 |  |
 | astronomy/space-exploration | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:52 | 2026-11-21 18:20:37 |
 | astronomy/star-life | finished | 295 | 0 | 0 | 0 | 0 | 2026-11-21 18:35:36 | 2026-11-21 18:40:00 |
-| astronomy/sun-stars | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:25:04 | 2026-11-21 18:27:14 |
+| astronomy/sun-stars | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:33 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:18:28 | 2026-11-21 18:22:22 |
 | astronomy/three-body | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:43:41 | 2026-11-21 18:53:11 |
 | astronomy/tides | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:19 | 2026-11-21 18:19:33 |
