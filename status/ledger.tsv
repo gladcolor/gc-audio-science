@@ -331,6 +331,7 @@ zh	f98ddec2	astronomy/solar-system	serena moss8b	48	2026-11-21 06:18:48	tts	f894
 en	426dd0c6	astronomy/space-exploration	serena moss8b	48	2026-11-21 17:56:30	tts	60d9153989
 en	5a5aba2a	astronomy/space-exploration	serena moss8b	48	2026-11-21 17:57:01	tts	5bd5056024
 en	7736db81	astronomy/space-exploration	serena moss8b	48	2026-11-21 17:56:20	tts	d9a5e7536f
+en	bbbbfe47	astronomy/space-exploration	serena moss8b	48	2026-11-21 17:57:25	tts	3e97ff9b7b
 en	ebddbe75	astronomy/space-exploration	serena moss8b	48	2026-11-21 17:56:17	tts	599eea859b
 zh	1912a6a6	astronomy/space-exploration	serena moss8b	48	2026-11-21 06:42:48	tts	7c22ccf31b
 zh	3f337524	astronomy/space-exploration	serena moss8b	48	2026-11-21 06:44:17	tts	14bb120759
@@ -504,6 +505,7 @@ en	7e33b908	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:56:21	tts	b8b0a8d
 en	97bad3b7	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:56:31	tts	be394fa2e9
 en	9b2eec74	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:56:18	tts	01e61d2d88
 en	ce954cde	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:56:28	tts	3b6241f3bb
+en	edeb4f9d	astronomy/sun-stars	serena moss8b	48	2026-11-21 17:57:28	tts	b31d639078
 zh	1ced4004	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:09:03	tts	d84726959c
 zh	2335e055	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:04:29	tts	3f5cbb0fed
 zh	26a48282	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:21:52	tts	c66a8ea845
@@ -1533,6 +1535,7 @@ zh	80d0a9d4	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:07	tts	3a
 zh	9b90b8bb	biology/health-first-aid	serena moss8b	48	2026-11-21 17:53:46	tts	945f4009a6
 zh	b7b49651	biology/health-first-aid	serena moss8b	48	2026-11-21 17:55:16	tts	d32449c4bf
 zh	c0a779a9	biology/health-first-aid	serena moss8b	48	2026-11-21 17:54:23	tts	f4f32dcee5
+zh	c17f0e91	biology/health-first-aid	serena moss8b	48	2026-11-21 17:57:31	tts	972e559273
 zh	c46e17f8	biology/health-first-aid	serena moss8b	48	2026-11-21 17:54:44	tts	b1e9f9b49d
 zh	c80befa6	biology/health-first-aid	serena moss8b	48	2026-11-21 17:55:17	tts	d345e5beb9
 zh	d02013cb	biology/health-first-aid	serena moss8b	48	2026-11-21 17:55:22	tts	d344a2942c
@@ -1686,10 +1689,12 @@ zh	22d36587	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:55:01	tts	c
 zh	233a680f	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:55:34	tts	c2201089df
 zh	28e1912b	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:55:27	tts	6b63c803de
 zh	2abc522d	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:54:55	tts	18727c2923
+zh	4413dea1	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:57:21	tts	2c1eb688ee
 zh	4926537d	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:54:22	tts	94143f21d7
 zh	4a0c282b	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:56:53	tts	722353664f
 zh	4da33b11	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:55:39	tts	b6ac398926
 zh	54a2e002	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:54:41	tts	96f4370734
+zh	5750c173	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:57:22	tts	058d87af8a
 zh	58ea276a	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:57:03	tts	9b1e6fd19f
 zh	5d94b6b9	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:54:27	tts	de6585b23e
 zh	619deaba	biology/nervous-endocrine	serena moss8b	48	2026-11-21 17:55:40	tts	392a9e796a
@@ -2338,10 +2343,12 @@ zh	ac5a0a81	earth/climate	serena moss8b	48	2026-11-21 06:22:19	tts	59dc9c27f9
 zh	b2bc97a7	earth/climate	serena moss8b	48	2026-11-21 06:41:26	tts	6c6b1c63f4
 zh	db6925e5	earth/climate	serena moss8b	48	2026-11-21 06:05:48	tts	77ad26d9f5
 zh	ec427bc9	earth/climate	serena moss8b	48	2026-11-21 06:11:42	tts	0410c31c4a
+en	06147cb5	earth/earth-layers	serena moss8b	48	2026-11-21 17:57:20	tts	fb7843b694
 en	2470b2f8	earth/earth-layers	serena moss8b	48	2026-11-21 17:52:25	tts	03f7e51c8a
 en	2e228b95	earth/earth-layers	serena moss8b	48	2026-11-21 17:52:12	tts	7e1253c511
 en	3260c77e	earth/earth-layers	serena moss8b	48	2026-11-21 17:56:57	tts	dc317d069e
 en	3d84216b	earth/earth-layers	serena moss8b	48	2026-11-21 17:52:30	tts	fe6ebc564a
+en	48283e6d	earth/earth-layers	serena moss8b	48	2026-11-21 17:57:23	tts	2b1a83a545
 en	7dcfa8fb	earth/earth-layers	serena moss8b	48	2026-11-21 17:50:13	tts	e898cc3f61
 en	acc8239c	earth/earth-layers	serena moss8b	48	2026-11-21 17:50:25	tts	bbe680212c
 en	cc72b82a	earth/earth-layers	serena moss8b	48	2026-11-21 17:49:55	tts	bf3f8bb18f
@@ -2362,6 +2369,7 @@ zh	c32da9a2	earth/earth-layers	serena moss8b	48	2026-11-21 06:08:18	tts	416b9e40
 en	3e086278	earth/fossils-time	serena moss8b	48	2026-11-21 17:52:04	tts	4e974d8e4f
 en	8100a500	earth/fossils-time	serena moss8b	48	2026-11-21 17:52:28	tts	e9a8efd5be
 en	8e38ab2c	earth/fossils-time	serena moss8b	48	2026-11-21 17:52:26	tts	58f34a93ba
+en	91fe9ff6	earth/fossils-time	serena moss8b	48	2026-11-21 17:57:30	tts	59c8204c60
 en	aeef7412	earth/fossils-time	serena moss8b	48	2026-11-21 17:52:10	tts	356fba4ca2
 zh	01f405a3	earth/fossils-time	serena moss8b	48	2026-11-21 06:33:24	tts	e8a6fdf1ca
 zh	0542671a	earth/fossils-time	serena moss8b	48	2026-11-21 06:22:58	tts	c1d7840e08
@@ -2416,6 +2424,7 @@ en	6d6f18c6	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:53:54	tts	ab041
 en	741112d8	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:53:18	tts	5cbc9e5204
 en	88e2e308	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:50:00	tts	6f647314ea
 en	8feef8e1	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:52:22	tts	a3ccbf17ed
+en	d4892d09	earth/plate-tectonics	serena moss8b	48	2026-11-21 17:57:26	tts	e8fbf00e52
 zh	17438218	earth/plate-tectonics	serena moss8b	48	2026-11-21 05:52:10	tts	b6bdfd2f95
 zh	17fc53ec	earth/plate-tectonics	serena moss8b	48	2026-11-21 06:14:45	tts	d7d4db797c
 zh	25b53c36	earth/plate-tectonics	serena moss8b	48	2026-11-21 06:15:53	tts	4ebe47601c
