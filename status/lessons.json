@@ -774,24 +774,25 @@
  },
  "biology/ecosystems": {
   "counts": {
-   "done": 44,
+   "done": 56,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 44
+   "missing": 24,
+   "old": 7,
+   "total": 87
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "335998bb295e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/ecosystems.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Biomes & Ecosystems",
    "zh": "生物群落与生态系统"
   },
-  "updated": "2026-11-21 17:32:38",
+  "updated": "2026-11-21 17:45:31",
   "verified": ""
  },
  "biology/endocytosis": {
