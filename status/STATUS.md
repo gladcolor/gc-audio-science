@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 17:31:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 17:32:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -47,7 +47,7 @@ Updated 2026-11-21 17:31:59. Labels: finished / in progress / no audio / failed 
 | biology/habitat-niche | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 06:34:55 | 2026-11-21 12:59:59 |
 | biology/heredity | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 06:09:04 | 2026-11-21 12:58:09 |
 | biology/microorganisms | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 06:16:29 | 2026-11-21 12:58:37 |
-| biology/osmosis | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 05:47:57 | 2026-11-21 12:56:34 |
+| biology/osmosis | finished | 23 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:01 |  |
 | biology/photosynthesis | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 06:18:54 | 2026-11-21 12:58:45 |
 | biology/plants | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 06:18:17 | 2026-11-21 12:58:52 |
 | biology/protein-synthesis | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 06:00:58 | 2026-11-21 12:58:02 |
