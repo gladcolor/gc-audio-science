@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "chemistry/oxygen-air", "en": {}, "zh": {"0e38d9e3": {"dur": 10.22}, "188ddb51": {"dur": 36.22}, "3d1fb25a": {"dur": 7.01}, "5506ff8e": {"dur": 9.65}, "6b933e90": {"dur": 19.97}, "ada38afa": {"dur": 6.94}, "b24c6da1": {"dur": 18.77}, "b6eda0dd": {"dur": 31.9}, "bb959a5c": {"dur": 31.1}, "c12952fb": {"dur": 20.21}, "c45b82e6": {"dur": 18.22}, "c8f71771": {"dur": 12.14}, "cbf49b92": {"dur": 16.46}}});
