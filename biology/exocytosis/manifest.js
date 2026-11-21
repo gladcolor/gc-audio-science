@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "biology/exocytosis", "voice": "serena", "en": "08e109d7 1490a2bb 1820b815 3a28f2dd 3f5626ea 57c11048 8b8c0c70 b981ab83 c3c04bc6 c8ee8682 d379b3f5 d7e185b4 e296885c", "zh": "0233dff6 02ec10ca 063975ec 0728d0ba 0d91c60d 28d64a3b 3906ca4a 4bd8c063 58fefad3 69db3fc7 a348767d d8e9c81d e33071a7 ea9dfacc"});
+LabAudioManifest({"lesson": "biology/exocytosis", "voice": "serena", "en": "08e109d7 1490a2bb 1820b815 29827d3f 3a28f2dd 3f5626ea 57c11048 8b8c0c70 b981ab83 c3c04bc6 c8ee8682 d379b3f5 d7e185b4 e296885c", "zh": "0233dff6 02ec10ca 063975ec 0728d0ba 0d91c60d 28d64a3b 3906ca4a 4bd8c063 58fefad3 69db3fc7 a348767d d8e9c81d e33071a7 ea9dfacc"});
