@@ -129,7 +129,7 @@
    "zh": "引力与轨道"
   },
   "updated": "2026-11-21 20:39:30",
-  "verified": ""
+  "verified": "2026-11-21 20:44:57"
  },
  "astronomy/kepler-laws": {
   "counts": {
@@ -173,7 +173,7 @@
    "zh": "怎样测量宇宙的距离"
   },
   "updated": "2026-11-21 20:37:51",
-  "verified": ""
+  "verified": "2026-11-21 20:44:15"
  },
  "astronomy/moon-phases": {
   "counts": {
@@ -393,7 +393,7 @@
    "zh": "太空探索"
   },
   "updated": "2026-11-21 20:37:45",
-  "verified": ""
+  "verified": "2026-11-21 20:44:12"
  },
  "astronomy/star-life": {
   "counts": {
@@ -503,7 +503,7 @@
    "zh": "潮汐"
   },
   "updated": "2026-11-21 20:39:54",
-  "verified": ""
+  "verified": "2026-11-21 20:45:17"
  },
  "biology/animals": {
   "counts": {
@@ -591,7 +591,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-21 20:37:55",
-  "verified": ""
+  "verified": "2026-11-21 20:44:34"
  },
  "biology/cell-division": {
   "counts": {
@@ -613,7 +613,7 @@
    "zh": "有丝分裂与减数分裂"
   },
   "updated": "2026-11-21 20:39:05",
-  "verified": ""
+  "verified": "2026-11-21 20:44:49"
  },
  "biology/cell-organelles": {
   "counts": {
@@ -635,7 +635,7 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-21 20:34:36",
-  "verified": ""
+  "verified": "2026-11-21 20:42:33"
  },
  "biology/cell-theory": {
   "counts": {
@@ -679,7 +679,7 @@
    "zh": "扩散与渗透"
   },
   "updated": "2026-11-21 20:38:58",
-  "verified": ""
+  "verified": "2026-11-21 20:44:41"
  },
  "biology/cells-review": {
   "counts": {
@@ -811,7 +811,7 @@
    "zh": "生物群落与生态系统"
   },
   "updated": "2026-11-21 20:41:38",
-  "verified": ""
+  "verified": "2026-11-21 20:45:59"
  },
  "biology/endocytosis": {
   "counts": {
@@ -833,7 +833,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-21 20:37:08",
-  "verified": ""
+  "verified": "2026-11-21 20:43:59"
  },
  "biology/evolution": {
   "counts": {
@@ -844,7 +844,7 @@
    "old": 0,
    "total": 11
   },
-  "fingerprint": "",
+  "fingerprint": "179e08cfede2",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "record_langs": [
@@ -854,7 +854,7 @@
    "en": "Natural Selection & Evolution",
    "zh": "自然选择与进化"
   },
-  "updated": "2026-11-21 19:59:51",
+  "updated": "2026-11-21 20:46:35",
   "verified": ""
  },
  "biology/exocytosis": {
@@ -877,7 +877,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-21 20:36:17",
-  "verified": ""
+  "verified": "2026-11-21 20:43:48"
  },
  "biology/food-webs": {
   "counts": {
@@ -899,7 +899,7 @@
    "zh": "食物网与能量金字塔"
   },
   "updated": "2026-11-21 20:40:03",
-  "verified": ""
+  "verified": "2026-11-21 20:45:27"
  },
  "biology/habitat-niche": {
   "counts": {
@@ -921,7 +921,7 @@
    "zh": "栖息地、生态位与种群的限制"
   },
   "updated": "2026-11-21 20:35:52",
-  "verified": ""
+  "verified": "2026-11-21 20:43:40"
  },
  "biology/health-first-aid": {
   "counts": {
@@ -1009,7 +1009,7 @@
    "zh": "微生物"
   },
   "updated": "2026-11-21 20:35:28",
-  "verified": ""
+  "verified": "2026-11-21 20:43:01"
  },
  "biology/nervous-endocrine": {
   "counts": {
@@ -1075,7 +1075,7 @@
    "zh": "渗透：水的移动"
   },
   "updated": "2026-11-21 20:35:23",
-  "verified": ""
+  "verified": "2026-11-21 20:42:45"
  },
  "biology/photosynthesis": {
   "counts": {
@@ -1185,7 +1185,7 @@
    "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
   },
   "updated": "2026-11-21 20:35:45",
-  "verified": ""
+  "verified": "2026-11-21 20:43:28"
  },
  "chemistry/acids-bases": {
   "counts": {
@@ -1783,7 +1783,7 @@
    "zh": "气候"
   },
   "updated": "2026-11-21 20:35:34",
-  "verified": ""
+  "verified": "2026-11-21 20:43:12"
  },
  "earth/earth-layers": {
   "counts": {
@@ -1827,7 +1827,7 @@
    "zh": "化石与地质年代"
   },
   "updated": "2026-11-21 20:39:49",
-  "verified": ""
+  "verified": "2026-11-21 20:45:07"
  },
  "earth/natural-resources": {
   "counts": {
@@ -1937,7 +1937,7 @@
    "zh": "土壤的形成"
   },
   "updated": "2026-11-21 20:42:21",
-  "verified": ""
+  "verified": "2026-11-21 20:46:06"
  },
  "earth/water-cycle": {
   "counts": {
