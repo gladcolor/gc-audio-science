@@ -1120,15 +1120,15 @@
  },
  "chemistry/changes": {
   "counts": {
-   "done": 3,
+   "done": 7,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 4,
+   "old": 0,
    "total": 7
   },
   "fingerprint": "a5d909e4085f",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
   "record_langs": [
    "zh"
@@ -1137,7 +1137,7 @@
    "en": "Physical & Chemical Changes",
    "zh": "物理变化与化学变化"
   },
-  "updated": "2026-11-21 11:40:24",
+  "updated": "2026-11-21 11:51:22",
   "verified": ""
  },
  "chemistry/density": {
