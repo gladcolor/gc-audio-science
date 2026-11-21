@@ -37,6 +37,8 @@ en	cbbd4635	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:16:38	tts
 en	cff69b4f	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:16:33	tts	
 en	f6f11f51	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:06:04	tts	
 zh	1c993223	astronomy/eclipses	serena moss8b	48	2026-11-21 06:42:41	tts	f211f0f009
+zh	30f37d95	astronomy/eclipses	serena moss8b	48	2026-11-21 06:51:14	tts	13c0f73ea8
+zh	45d6b417	astronomy/eclipses	serena moss8b	48	2026-11-21 06:49:08	tts	258653ed82
 zh	498ff3da	astronomy/eclipses	serena moss8b	48	2026-11-21 06:39:32	tts	19653be0d9
 zh	732d4cb5	astronomy/eclipses	serena moss8b	48	2026-11-21 06:47:00	tts	50b7afcf70
 zh	90554d99	astronomy/eclipses	serena moss8b	48	2026-11-21 06:22:25	tts	0febdaf560
@@ -50,6 +52,7 @@ en	85877b22	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:43:52	tts	
 en	88e06700	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:46:11	tts	7742586da8
 en	cafe5531	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 01:23:03	tts	ae12599d47
 en	faf3ab16	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:43:56	tts	42c24a0e5b
+zh	cb70b877	astronomy/exoplanets	serena moss8b	48	2026-11-21 06:50:40	tts	7dd09a1715
 en	01f4cb1d	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:36:28	tts	5fb8afd6e1
 en	5de6e53a	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:22:54	tts	
 en	8ed32239	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:24:02	tts	
@@ -63,6 +66,7 @@ zh	1644d983	astronomy/galaxies	serena moss8b	48	2026-11-21 06:34:07	tts	b84e8077
 zh	1bb7f02c	astronomy/galaxies	serena moss8b	48	2026-11-21 06:39:08	tts	81a5e579fc
 zh	306a2737	astronomy/galaxies	serena moss8b	48	2026-11-21 06:05:14	tts	50d296eb65
 zh	5ccf1faa	astronomy/galaxies	serena moss8b	48	2026-11-21 06:37:28	tts	46e25c3896
+zh	6261560e	astronomy/galaxies	serena moss8b	48	2026-11-21 06:50:39	tts	abc775fd81
 zh	66abb394	astronomy/galaxies	serena moss8b	48	2026-11-21 06:32:46	tts	4a4e55ee70
 zh	71d6bb3b	astronomy/galaxies	serena moss8b	48	2026-11-21 06:18:16	tts	e97eea04dc
 zh	9be7f5e6	astronomy/galaxies	serena moss8b	48	2026-11-21 06:24:15	tts	41826c7387
@@ -80,6 +84,7 @@ en	f41e0251	astronomy/gravity-orbits	serena t0.5 -16LUFS	48	2026-11-19 22:23:53	
 zh	0b2b6e0a	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:15:10	tts	7364669432
 zh	104faa2a	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:09:16	tts	04ad297f7f
 zh	37dab953	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:11:44	tts	5d81a4fda8
+zh	5139b4cd	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:48:37	tts	f82bdb82a0
 zh	7fada827	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:45:12	tts	4dbad8b858
 zh	b801a4f7	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:40:28	tts	e44b0d3712
 zh	b9ad5fed	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 06:11:44	tts	0011fb3d76
@@ -121,6 +126,7 @@ zh	75807e76	astronomy/moon-phases	serena moss8b	48	2026-11-21 06:39:47	tts	033c3
 zh	8e8698c5	astronomy/moon-phases	serena moss8b	48	2026-11-21 06:18:50	tts	cecfbe55a7
 zh	9314d3c9	astronomy/moon-phases	serena moss8b	48	2026-11-21 06:11:32	tts	612434d2e1
 zh	b20a1974	astronomy/moon-phases	serena moss8b	48	2026-11-21 06:37:24	tts	2476535829
+zh	ed33f344	astronomy/moon-phases	serena moss8b	48	2026-11-21 06:50:36	tts	ee9532a3fe
 en	04b90863	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:32:11	tts	ac189728f6
 en	1542fd0b	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:17:48	tts	
 en	35169a2e	astronomy/night-sky	serena t0.5 -16LUFS	48	2026-11-19 22:32:09	tts	223628c15f
@@ -162,6 +168,8 @@ en	cb637e98	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 01:13:56	t
 en	cda31e37	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:46:18	tts	63e4c9f628
 en	cfd2f3bd	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 02:32:44	tts	530b43c8be
 en	ec1a77f9	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:39:59	tts	9585715593
+zh	518a12e7	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:49:59	tts	c5e8fa6d97
+zh	8dfdc279	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:48:39	tts	1f2d23068e
 en	24d95d0f	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:45:51	tts	96446fe0ec
 en	639c8e48	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 01:11:34	tts	73a407e62f
 en	663026d8	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:45:54	tts	8916954c6f
@@ -203,6 +211,7 @@ zh	05d2cf53	astronomy/seasons	serena moss8b	48	2026-11-21 06:18:07	tts	ba2a751cf
 zh	0b4ad5b2	astronomy/seasons	serena moss8b	48	2026-11-21 06:20:46	tts	0e833626ca
 zh	0fb6d5ba	astronomy/seasons	serena moss8b	48	2026-11-21 06:37:18	tts	c62a223fb3
 zh	27afa927	astronomy/seasons	serena moss8b	48	2026-11-21 06:17:54	tts	149ce7e0ff
+zh	2c9defac	astronomy/seasons	serena moss8b	48	2026-11-21 06:50:41	tts	cd60296fa3
 zh	7d5b7f5b	astronomy/seasons	serena moss8b	48	2026-11-21 06:35:50	tts	79debfea0d
 zh	9d897277	astronomy/seasons	serena moss8b	48	2026-11-21 06:44:19	tts	483bcf2846
 zh	a66500bd	astronomy/seasons	serena moss8b	48	2026-11-21 06:39:03	tts	8c27a8d6bf
@@ -414,15 +423,19 @@ en	fe8119df	astronomy/star-life	serena t0.5 -16LUFS	48	2026-11-19 22:38:31	tts	5
 zh	05e5c054	astronomy/star-life	serena moss8b	48	2026-11-21 06:27:11	tts	4b47255fd9
 zh	066623cb	astronomy/star-life	serena moss8b	48	2026-11-21 06:27:06	tts	ac436698b6
 zh	0c488fe2	astronomy/star-life	serena moss8b	48	2026-11-21 06:39:45	tts	a53481c784
+zh	0dcd5ac5	astronomy/star-life	serena moss8b	48	2026-11-21 06:50:42	tts	cc5c1eca68
 zh	141036b2	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:59	tts	e70a437097
 zh	1461a545	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:13	tts	04388bf954
 zh	148ab5fa	astronomy/star-life	serena moss8b	48	2026-11-21 06:25:49	tts	e89600723c
+zh	14947475	astronomy/star-life	serena moss8b	48	2026-11-21 06:48:01	tts	e227362d29
 zh	1d804485	astronomy/star-life	serena moss8b	48	2026-11-21 06:27:05	tts	6fe69fcd8e
 zh	1ff30835	astronomy/star-life	serena moss8b	48	2026-11-21 06:45:27	tts	0cfb4f1f70
+zh	214f0b62	astronomy/star-life	serena moss8b	48	2026-11-21 06:50:38	tts	97458ae6fb
 zh	250fda80	astronomy/star-life	serena moss8b	48	2026-11-21 06:44:33	tts	2ec1748dbc
 zh	263e353e	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:14	tts	b0f774e234
 zh	2e6c8ee5	astronomy/star-life	serena moss8b	48	2026-11-21 06:44:34	tts	296a1cea24
 zh	2f779374	astronomy/star-life	serena moss8b	48	2026-11-21 06:46:59	tts	b84d1fea5c
+zh	38292bdc	astronomy/star-life	serena moss8b	48	2026-11-21 06:49:20	tts	9050be570a
 zh	3b4c44e1	astronomy/star-life	serena moss8b	48	2026-11-21 06:25:52	tts	b87940065a
 zh	3f67fcdd	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:44	tts	0c8c48f3b0
 zh	4517888e	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:45	tts	b19d69f3ad
@@ -435,10 +448,13 @@ zh	58e9e626	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:45	tts	9a97fec
 zh	59cc475b	astronomy/star-life	serena moss8b	48	2026-11-21 06:39:50	tts	495e88f645
 zh	5e1b4a86	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:46	tts	00d520d9da
 zh	5f64dd13	astronomy/star-life	serena moss8b	48	2026-11-21 06:37:29	tts	74337fa289
+zh	5faaef5e	astronomy/star-life	serena moss8b	48	2026-11-21 06:49:19	tts	6333f3df3b
 zh	7aaf1dd8	astronomy/star-life	serena moss8b	48	2026-11-21 06:26:07	tts	331e75f0c4
+zh	8149daac	astronomy/star-life	serena moss8b	48	2026-11-21 06:49:21	tts	dc5f02ba1f
 zh	8643bbf6	astronomy/star-life	serena moss8b	48	2026-11-21 06:25:47	tts	7895622eff
 zh	875361e6	astronomy/star-life	serena moss8b	48	2026-11-21 06:36:23	tts	eed719a5f6
 zh	87619893	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:14	tts	4fa6fbd3ee
+zh	8a20c3f1	astronomy/star-life	serena moss8b	48	2026-11-21 06:49:21	tts	f6a3b5a7bd
 zh	90d06550	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:16	tts	bd959697a1
 zh	a23a452f	astronomy/star-life	serena moss8b	48	2026-11-21 06:34:11	tts	501b628414
 zh	a4b1e3cd	astronomy/star-life	serena moss8b	48	2026-11-21 06:25:50	tts	f587eb37bc
@@ -456,7 +472,10 @@ zh	d6d518b8	astronomy/star-life	serena moss8b	48	2026-11-21 06:25:48	tts	de2f808
 zh	d79fa54e	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:50	tts	8db45b960b
 zh	d7ff72e9	astronomy/star-life	serena moss8b	48	2026-11-21 06:26:04	tts	b0cbd719c5
 zh	dffd8816	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:38	tts	9581ca6c9d
+zh	e5f41697	astronomy/star-life	serena moss8b	48	2026-11-21 06:50:37	tts	913c9e4fbf
+zh	ea69c12b	astronomy/star-life	serena moss8b	48	2026-11-21 06:49:22	tts	344bdf1bf7
 zh	f1c91d1a	astronomy/star-life	serena moss8b	48	2026-11-21 06:42:17	tts	16da5f1709
+zh	fa47d05c	astronomy/star-life	serena moss8b	48	2026-11-21 06:50:39	tts	5e2315696b
 zh	fc6613eb	astronomy/star-life	serena moss8b	48	2026-11-21 06:47:02	tts	347336926c
 en	08ca9898	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-20 06:54:17	tts	0fbe28a2be
 en	15c50805	astronomy/sun-stars	serena t0.5 -16LUFS	48	2026-11-19 22:23:56	tts	
@@ -490,8 +509,10 @@ zh	9635103f	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:18:47	tts	8397a9a
 zh	96eca535	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:17:15	tts	b7c2723b4c
 zh	a056d0a6	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:35:53	tts	38f6a59e05
 zh	b650d7cf	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:08:04	tts	cb4ac38144
+zh	b7c1b18a	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:51:16	tts	a7dd02c09a
 zh	bcf55854	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:36:33	tts	86bfcb03e2
 zh	c93f1409	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:35:56	tts	b4a4d56e32
+zh	de1b7069	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:50:24	tts	ec86ad2427
 zh	def21b55	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:17:05	tts	f758c81f51
 zh	fcd6e832	astronomy/sun-stars	serena moss8b	48	2026-11-21 06:43:17	tts	92a6b171cf
 en	585013f0	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:22:50	tts	
@@ -501,6 +522,7 @@ en	b8486a1a	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:36:2
 en	bedca478	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:23:50	tts	
 en	e317b642	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-20 01:18:28	tts	eaf4f9cde9
 en	fcd78beb	astronomy/telescopes-light	serena t0.5 -16LUFS	48	2026-11-19 22:23:59	tts	
+zh	01f42f99	astronomy/telescopes-light	serena moss8b	48	2026-11-21 06:49:57	tts	71f275f9cd
 zh	3a218e98	astronomy/telescopes-light	serena moss8b	48	2026-11-21 06:39:05	tts	671afcf060
 zh	4401552f	astronomy/telescopes-light	serena moss8b	48	2026-11-21 06:25:28	tts	85be890678
 en	1ad5a3d2	astronomy/tides	serena t0.5 -16LUFS	48	2026-11-19 22:32:14	tts	55dd287af4

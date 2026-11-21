@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "astronomy/sun-stars", "voice": "serena", "en": "08ca9898 15c50805 229aea4d 2e545681 304a45e8 34c7d536 353d79c3 4d1f5cf8 6ce9d637 7b0dc635 b35b2175 edeb4f9d", "zh": "2867f55d 3493ba43 42b3ce24 51b631e9 88ce6123 8e6c51ac 9635103f bcf55854 def21b55"});
+LabAudioManifest({"lesson": "astronomy/sun-stars", "voice": "serena", "en": "08ca9898 15c50805 229aea4d 2e545681 304a45e8 34c7d536 353d79c3 4d1f5cf8 6ce9d637 7b0dc635 b35b2175 edeb4f9d", "zh": "1ced4004 2335e055 26a48282 2867f55d 3493ba43 42b3ce24 51b631e9 57274f1e 5badc0d8 6a4f4485 6dd85462 7979afe1 7ff6a9ba 88ce6123 8e6473fc 8e6c51ac 9635103f 96eca535 a056d0a6 b650d7cf b7c1b18a bcf55854 c93f1409 de1b7069 def21b55 fcd6e832"});
