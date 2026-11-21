@@ -948,26 +948,25 @@
  },
  "biology/health-first-aid": {
   "counts": {
-   "done": 36,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 36
+   "total": 18
   },
-  "fingerprint": "",
+  "fingerprint": "8ff1337ae0a7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/health-first-aid.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Healthy Living: Medicine & First Aid",
    "zh": "健康地生活：用药与急救"
   },
-  "updated": "2026-11-21 18:10:45",
-  "verified": "2026-11-21 18:14:00"
+  "updated": "2026-11-21 20:00:02",
+  "verified": ""
  },
  "biology/heredity": {
   "counts": {
