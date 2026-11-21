@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "biology/nutrition-digestion", "voice": "serena", "en": "0a5fba81 1993f6a0 1fc80da7 4bb6df75 501dd63a 6ebae97b 7bec6197 8232498d 8c484d9c b66966cc daa699e0 f7c103fa fb7d8f81 fdaa9f05", "zh": "0c0d952c 38170d79 5c024acc 5f2be897 63bb15ad 69e5da97 6f318c7d 79af4bd8 79b945c4 af9c3b98 b71dfb45 c0d21e32 ca79a146 e2614f37"});
