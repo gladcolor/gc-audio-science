@@ -2138,6 +2138,7 @@ en	ae71b1a1	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:36:1
 en	c0b8df75	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:01:51	tts	ff1ba46100
 en	e956fbd3	chemistry/states-of-matter	serena t0.5 -16LUFS	48	2026-11-20 01:14:03	tts	bba515ba81
 zh	79b4b0a0	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:23:14	tts	ea894620ee
+zh	a2674e6b	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:30:44	tts	200a649c34
 zh	bcdc452b	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:22:50	tts	15c52be737
 zh	cc0cfff0	chemistry/states-of-matter	serena moss8b	48	2026-11-21 11:26:15	tts	dbf5e4977e
 en	5c0cf48f	cs/cs-ai	serena t0.5 -16LUFS	48	2026-11-20 07:52:17	tts	16c394c8f1
@@ -2460,6 +2461,7 @@ zh	d5c38e4c	physics/buoyancy	serena moss8b	48	2026-11-21 11:27:31	tts	bf69f805ea
 zh	3f5e0bf7	physics/electric-power	serena moss8b	48	2026-11-21 11:07:38	tts	aee1fff86c
 zh	41ce8b5e	physics/electric-power	serena moss8b	48	2026-11-21 11:26:13	tts	bd5f8aa34d
 zh	67fa48b5	physics/electric-power	serena moss8b	48	2026-11-21 11:24:09	tts	6be33982bd
+zh	6aad1b65	physics/electric-power	serena moss8b	48	2026-11-21 11:30:51	tts	576bf7a3f9
 en	6b6eb269	physics/electricity	serena t0.5 -16LUFS	48	2026-11-20 01:18:29	tts	81837c39e7
 en	7dc4a62e	physics/electricity	serena t0.5 -16LUFS	48	2026-11-20 01:14:02	tts	2effd6f6e3
 en	936ce5be	physics/electricity	serena t0.5 -16LUFS	48	2026-11-20 00:43:58	tts	1b7e9ee361
@@ -2480,8 +2482,10 @@ en	c3eb2ae6	physics/energy	serena t0.5 -16LUFS	48	2026-11-19 23:00:09	tts	196ded
 en	e9205542	physics/energy	serena t0.5 -16LUFS	48	2026-11-19 23:00:11	tts	8901186343
 en	f4ef3533	physics/energy	serena t0.5 -16LUFS	48	2026-11-20 01:02:01	tts	68b9c93c57
 zh	02b92663	physics/energy	serena moss8b	48	2026-11-21 11:13:43	tts	5bee0de2e1
+zh	20549b91	physics/energy	serena moss8b	48	2026-11-21 11:30:52	tts	9f0f20033a
 zh	3f53668a	physics/energy	serena moss8b	48	2026-11-21 10:18:53	tts	b16e0f98e1
 zh	52c0409c	physics/energy	serena moss8b	48	2026-11-21 11:17:26	tts	1e522c12db
+zh	e4869fd1	physics/energy	serena moss8b	48	2026-11-21 11:30:46	tts	d3ef51c51c
 zh	ea3a3752	physics/energy	serena moss8b	48	2026-11-21 11:21:04	tts	3f9694fa6a
 en	0cc2aea7	physics/forces	serena t0.5 -16LUFS	48	2026-11-20 01:13:58	tts	769a3ffcd6
 en	495b445b	physics/forces	serena t0.5 -16LUFS	48	2026-11-19 22:53:51	tts	7beba5c0fc
@@ -2494,8 +2498,10 @@ zh	5c96d638	physics/forces	serena moss8b	48	2026-11-21 11:29:51	tts	ae6b93be75
 zh	95e78c61	physics/forces	serena moss8b	48	2026-11-21 10:16:42	tts	ce4f24fa33
 zh	a7fd3ca5	physics/forces	serena moss8b	48	2026-11-21 11:29:56	tts	616f25394d
 zh	b9e6a713	physics/forces	serena moss8b	48	2026-11-21 11:16:29	tts	cd1ff7a337
+zh	c05b3346	physics/forces	serena moss8b	48	2026-11-21 11:30:48	tts	b35ba666d0
 zh	c1e954b8	physics/forces	serena moss8b	48	2026-11-21 10:25:26	tts	02463ca482
 zh	c7d3d881	physics/forces	serena moss8b	48	2026-11-21 11:21:08	tts	ee5db4d22e
+zh	cfccb0f3	physics/forces	serena moss8b	48	2026-11-21 11:31:03	tts	df4586cbe5
 zh	d5e75a69	physics/forces	serena moss8b	48	2026-11-21 10:37:02	tts	1eac6b5319
 zh	01b9f991	physics/formula-sheet	serena moss8b	48	2026-11-21 10:46:12	tts	4f3b040576
 zh	04c2f7ca	physics/formula-sheet	serena moss8b	48	2026-11-21 10:36:07	tts	c9b879467b
@@ -2587,6 +2593,7 @@ en	ed11f43e	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:26	tts	787
 en	ef93ad2c	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 01:14:00	tts	368b0ef0d4
 en	f4ed3084	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:18	tts	741959c083
 zh	20807533	physics/magnetism	serena moss8b	48	2026-11-21 11:24:10	tts	555366e595
+zh	7883f4c0	physics/magnetism	serena moss8b	48	2026-11-21 11:30:54	tts	a920c78dfb
 zh	9518a961	physics/magnetism	serena moss8b	48	2026-11-21 11:21:02	tts	62acff57c9
 zh	b2945f1c	physics/magnetism	serena moss8b	48	2026-11-21 11:15:15	tts	c682c19f41
 zh	ec836794	physics/magnetism	serena moss8b	48	2026-11-21 11:22:47	tts	6455d50ddd
@@ -2680,6 +2687,7 @@ zh	e1af7a90	physics/sound	serena moss8b	48	2026-11-21 10:34:36	tts	dc0df961e4
 zh	e7d0a89e	physics/sound	serena moss8b	48	2026-11-21 11:26:16	tts	2e51ecdb0d
 zh	f858335f	physics/sound	serena moss8b	48	2026-11-21 11:21:27	tts	56d791dd9f
 zh	ff3db2b0	physics/sound	serena moss8b	48	2026-11-21 11:22:48	tts	7115f5c520
+zh	0b2c2196	physics/specific-heat	serena moss8b	48	2026-11-21 11:30:49	tts	077ac50790
 zh	31b809ba	physics/specific-heat	serena moss8b	48	2026-11-21 11:26:41	tts	d82c9bcc1d
 zh	36064225	physics/specific-heat	serena moss8b	48	2026-11-21 11:13:41	tts	8da9f342ce
 zh	375cee46	physics/specific-heat	serena moss8b	48	2026-11-21 11:08:45	tts	c9db14eb53
