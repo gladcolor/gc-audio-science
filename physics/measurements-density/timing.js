@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/measurements-density", "en": {"000051ce": {"dur": 16.06}, "147c2d27": {"dur": 23.02}, "26429712": {"dur": 5.5}, "269e4133": {"dur": 22.06}, "3595d424": {"dur": 6.38}, "500d94d1": {"dur": 19.18}, "5f02915c": {"dur": 24.22}, "939eef8e": {"dur": 6.05}, "a7914da1": {"dur": 6.7}, "c01c2d3a": {"dur": 6.29}, "d716d894": {"dur": 19.34}, "ded6f259": {"dur": 16.22}, "df223444": {"dur": 6.05}, "f579467c": {"dur": 21.17}}, "zh": {}});
