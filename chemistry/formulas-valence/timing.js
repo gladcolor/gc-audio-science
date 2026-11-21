@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "chemistry/formulas-valence", "en": {}, "zh": {"02a49f5c": {"dur": 5.57}, "175201aa": {"dur": 5.5}, "3f7c31f7": {"dur": 5.26}, "505d4701": {"dur": 5.42}, "5336d3dc": {"dur": 10.7}, "7834270e": {"dur": 6.14}, "806bc729": {"dur": 5.33}, "86405c70": {"dur": 5.98}, "a0061583": {"dur": 5.5}, "a6d02076": {"dur": 5.5}, "b37ec9ab": {"dur": 17.9}, "c0251111": {"dur": 12.14}, "c151bd6d": {"dur": 29.74}, "f7e06526": {"dur": 5.18}}});
