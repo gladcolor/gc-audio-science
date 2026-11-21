@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:47:41. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:48:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -94,7 +94,7 @@ Updated 2026-11-21 18:47:41. Labels: finished / in progress / no audio / failed 
 | physics/buoyancy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:41 |  |
 | physics/electric-power | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:03 |  |
 | physics/electricity | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:06 |  |
-| physics/energy | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:09 |  |
+| physics/energy | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:03 |  |
 | physics/forces | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 11:31:03 |  |
 | physics/formula-sheet | in progress | 77 | 0 | 41 | 0 | 0 | 2026-11-21 18:35:40 |  |
 | physics/heat-transfer | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:29 |  |
