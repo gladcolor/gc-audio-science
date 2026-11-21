@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 20:40:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 20:41:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ Updated 2026-11-21 20:40:03. Labels: finished / in progress / no audio / failed 
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:31 |  |
 | biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 20:29:57 | 2026-11-21 20:33:09 |
 | biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:22 |  |
-| biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:46 |  |
+| biology/ecosystems | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 20:41:38 |  |
 | biology/endocytosis | finished | 19 | 0 | 0 | 0 | 0 | 2026-11-21 20:37:08 |  |
 | biology/evolution | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 19:59:51 |  |
 | biology/exocytosis | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:36:17 |  |
@@ -97,10 +97,10 @@ Updated 2026-11-21 20:40:03. Labels: finished / in progress / no audio / failed 
 | earth/weather | in progress | 12 | 7 | 0 | 0 | 0 | 2026-11-21 20:29:45 |  |
 | earth/weathering-erosion | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:00:11 |  |
 | physics/buoyancy | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:46 |  |
-| physics/communications-energy | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:13 |  |
+| physics/communications-energy | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:13 | 2026-11-21 20:41:08 |
 | physics/electric-power | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:59 |  |
 | physics/electricity | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:40 |  |
-| physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 |  |
+| physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
 | physics/energy | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:29 |  |
 | physics/forces | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:25 | 2026-11-21 20:22:59 |
 | physics/formula-sheet | finished | 59 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:02 |  |
@@ -108,8 +108,8 @@ Updated 2026-11-21 20:40:03. Labels: finished / in progress / no audio / failed 
 | physics/lenses | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:55 |  |
 | physics/light | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:38 |  |
 | physics/magnetism | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:42 |  |
-| physics/measurements-density | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:04 |  |
-| physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 |  |
+| physics/measurements-density | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:04 | 2026-11-21 20:40:20 |
+| physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
 | physics/motion | old voice | 0 | 0 | 0 | 0 | 0 | 2026-11-21 20:36:51 |  |
 | physics/newtons-laws | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:23 |  |
 | physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:57 |  |
@@ -118,6 +118,6 @@ Updated 2026-11-21 20:40:03. Labels: finished / in progress / no audio / failed 
 | physics/simple-machines | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:27 |  |
 | physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:36 |  |
 | physics/specific-heat | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:51 |  |
-| physics/static-charge | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:08 |  |
+| physics/static-charge | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:08 | 2026-11-21 20:40:41 |
 | physics/waves | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:34 |  |
 | physics/work-power | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 20:01:49 |  |
