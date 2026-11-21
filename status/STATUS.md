@@ -1,12 +1,12 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:24:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:25:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:58 |  |
 | astronomy/black-holes | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:45 |  |
-| astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 |  |
+| astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 | 2026-11-21 18:24:55 |
 | astronomy/exoplanets | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:47 |  |
 | astronomy/galaxies | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:18 |  |
 | astronomy/gravity-orbits | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:19:01 | 2026-11-21 18:22:41 |
@@ -20,10 +20,10 @@ Updated 2026-11-21 18:24:26. Labels: finished / in progress / no audio / failed 
 | astronomy/seasons | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:26 |  |
 | astronomy/sky-tonight | finished | 73 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:34 |  |
 | astronomy/small-bodies | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:55 |  |
-| astronomy/solar-system | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:00 |  |
+| astronomy/solar-system | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:00 | 2026-11-21 18:24:47 |
 | astronomy/space-exploration | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:52 | 2026-11-21 18:20:37 |
 | astronomy/star-life | finished | 147 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:42 |  |
-| astronomy/sun-stars | in progress | 41 | 7 | 4 | 0 | 0 | 2026-11-21 18:10:20 |  |
+| astronomy/sun-stars | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:25:04 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:18:28 | 2026-11-21 18:22:22 |
 | astronomy/three-body | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 17:34:00 |  |
 | astronomy/tides | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:19 | 2026-11-21 18:19:33 |
