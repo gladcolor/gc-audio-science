@@ -1993,6 +1993,7 @@ zh	241617af	chemistry/carbon	serena moss8b	48	2026-11-21 11:44:58	tts	52e147b0a0
 zh	2c786c59	chemistry/carbon	serena moss8b	48	2026-11-21 12:04:05	tts	af62bb8816
 zh	5575e24e	chemistry/carbon	serena moss8b	48	2026-11-21 11:43:23	tts	dfbfd93939
 zh	5d54974d	chemistry/carbon	serena moss8b	48	2026-11-21 11:51:13	tts	c290ecc14b
+zh	61f4cea8	chemistry/carbon	serena moss8b	48	2026-11-21 12:07:11	tts	7fc89bdfce
 zh	a1363632	chemistry/carbon	serena moss8b	48	2026-11-21 11:52:05	tts	5b21d773fe
 zh	b4566331	chemistry/carbon	serena moss8b	48	2026-11-21 11:35:54	tts	595a9485e3
 zh	bd52d686	chemistry/carbon	serena moss8b	48	2026-11-21 11:38:06	tts	08c61c5f6c
@@ -2016,6 +2017,7 @@ zh	9aef169a	chemistry/changes	serena moss8b	48	2026-11-21 11:40:26	tts	558de5cfd
 zh	9edd8ba5	chemistry/changes	serena moss8b	48	2026-11-21 11:36:16	tts	2b2577ebef
 zh	c684e6a0	chemistry/changes	serena moss8b	48	2026-11-21 11:43:34	tts	b20e806bb0
 zh	fd21b8af	chemistry/changes	serena moss8b	48	2026-11-21 11:51:22	tts	68b4ee77e9
+zh	97c1a5c0	chemistry/chemical-equations	serena moss8b	48	2026-11-21 12:06:17	tts	22c317c40d
 zh	a72fd884	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:58:50	tts	8da1d999b9
 zh	d7a6fb20	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:49:39	tts	115b4cdaae
 zh	db8e19fc	chemistry/chemical-equations	serena moss8b	48	2026-11-21 11:40:13	tts	b0fda4f590
@@ -2036,11 +2038,16 @@ en	e734fee6	chemistry/density	serena t0.5 -16LUFS	48	2026-11-20 02:40:55	tts	2e2
 en	f596cdf0	chemistry/density	serena t0.5 -16LUFS	48	2026-11-20 03:07:05	tts	3cf7405f28
 zh	0f810a4a	chemistry/density	serena moss8b	48	2026-11-21 11:57:51	tts	37a4270aa9
 zh	10210470	chemistry/density	serena moss8b	48	2026-11-21 11:58:51	tts	306f77369f
+zh	1b062fb0	chemistry/density	serena moss8b	48	2026-11-21 12:04:48	tts	8b1528864b
 zh	4d728f64	chemistry/density	serena moss8b	48	2026-11-21 12:00:34	tts	6edff31840
 zh	51ac2fa7	chemistry/density	serena moss8b	48	2026-11-21 11:32:54	tts	92a6aa1959
+zh	580970e8	chemistry/density	serena moss8b	48	2026-11-21 12:05:12	tts	af058e7bcc
+zh	59f6697d	chemistry/density	serena moss8b	48	2026-11-21 12:06:41	tts	e2f3dc6a09
+zh	5b4e671b	chemistry/density	serena moss8b	48	2026-11-21 12:07:59	tts	f98b41d306
 zh	5c8669c5	chemistry/density	serena moss8b	48	2026-11-21 11:42:56	tts	e9aea13523
 zh	62d557b3	chemistry/density	serena moss8b	48	2026-11-21 11:33:52	tts	73b40d6279
 zh	7ea82070	chemistry/density	serena moss8b	48	2026-11-21 11:34:17	tts	7aaa3aadf7
+zh	8f832947	chemistry/density	serena moss8b	48	2026-11-21 12:06:14	tts	21f938da26
 zh	90eef171	chemistry/density	serena moss8b	48	2026-11-21 11:35:53	tts	f0cbfc2b01
 zh	9a68e5f6	chemistry/density	serena moss8b	48	2026-11-21 11:49:17	tts	9065cfc9c7
 zh	bf0642bf	chemistry/density	serena moss8b	48	2026-11-21 11:35:53	tts	27a9bc260c
@@ -2082,6 +2089,7 @@ zh	5336d3dc	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:34:32	tts	
 zh	7834270e	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:53:28	tts	f754a44884
 zh	806bc729	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:54:44	tts	7b5af0a9f8
 zh	86405c70	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:54:45	tts	d779c1b84f
+zh	b37ec9ab	chemistry/formulas-valence	serena moss8b	48	2026-11-21 12:07:31	tts	7931892cfd
 zh	c0251111	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:42:07	tts	cf3113b7eb
 zh	c151bd6d	chemistry/formulas-valence	serena moss8b	48	2026-11-21 11:53:59	tts	4d3967c6e7
 zh	07b2d775	chemistry/metals	serena moss8b	48	2026-11-21 11:43:31	tts	029fc45e60
@@ -2105,6 +2113,7 @@ zh	c4ca38e0	chemistry/metals	serena moss8b	48	2026-11-21 12:04:37	tts	4fb3bfc2ce
 zh	f2445502	chemistry/metals	serena moss8b	48	2026-11-21 11:59:26	tts	ab59feb2f6
 zh	f2a2ad74	chemistry/metals	serena moss8b	48	2026-11-21 11:43:25	tts	33671fc13b
 zh	0e38d9e3	chemistry/oxygen-air	serena moss8b	48	2026-11-21 11:37:56	tts	9f9fda9769
+zh	0f3367ff	chemistry/oxygen-air	serena moss8b	48	2026-11-21 12:06:42	tts	a0e641d755
 zh	188ddb51	chemistry/oxygen-air	serena moss8b	48	2026-11-21 11:56:47	tts	439ce5d464
 zh	3d1fb25a	chemistry/oxygen-air	serena moss8b	48	2026-11-21 11:37:26	tts	4a71843f49
 zh	5506ff8e	chemistry/oxygen-air	serena moss8b	48	2026-11-21 11:48:17	tts	7553aa60e2
