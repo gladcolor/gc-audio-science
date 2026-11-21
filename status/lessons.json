@@ -2208,26 +2208,25 @@
  },
  "physics/heat-transfer": {
   "counts": {
-   "done": 22,
+   "done": 11,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 22
+   "total": 11
   },
   "fingerprint": "a4b2ba9e4a8b",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/heat-transfer.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Heat Transfer",
    "zh": "热传递"
   },
-  "updated": "2026-11-21 18:45:29",
-  "verified": "2026-11-21 18:53:41"
+  "updated": "2026-11-21 20:01:31",
+  "verified": ""
  },
  "physics/lenses": {
   "counts": {
