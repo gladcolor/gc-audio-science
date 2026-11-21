@@ -40,8 +40,11 @@ en	7b355918	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 02:32:47	tts
 en	839f5577	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 01:13:52	tts	9894c4344c
 en	fd243433	astronomy/black-holes	serena t0.5 -16LUFS	48	2026-11-20 00:46:14	tts	01ae126029
 zh	0b078e60	astronomy/black-holes	serena moss8b	48	2026-11-21 10:35:39	tts	2420d1d914
+zh	4f558628	astronomy/black-holes	serena moss8b	48	2026-11-21 10:37:01	tts	5849cdb6c2
+zh	58963bac	astronomy/black-holes	serena moss8b	48	2026-11-21 10:40:13	tts	6ab46ab1f0
 zh	63c041ea	astronomy/black-holes	serena moss8b	48	2026-11-21 06:46:59	tts	72a6a6b0fe
 zh	cb73b4bb	astronomy/black-holes	serena moss8b	48	2026-11-21 10:21:21	tts	d3b846cf40
+zh	dce8a134	astronomy/black-holes	serena moss8b	48	2026-11-21 10:37:47	tts	7ee102e13a
 en	32d8a319	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:20:21	tts	
 en	484c5b47	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:17:46	tts	
 en	70161592	astronomy/eclipses	serena t0.5 -16LUFS	48	2026-11-19 22:36:26	tts	f797720208
@@ -71,6 +74,7 @@ en	85877b22	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:43:52	tts	
 en	88e06700	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:46:11	tts	7742586da8
 en	cafe5531	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 01:23:03	tts	ae12599d47
 en	faf3ab16	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:43:56	tts	42c24a0e5b
+zh	0180716d	astronomy/exoplanets	serena moss8b	48	2026-11-21 10:38:24	tts	c3b1a4d2ca
 zh	cb70b877	astronomy/exoplanets	serena moss8b	48	2026-11-21 06:50:40	tts	7dd09a1715
 zh	e85705f4	astronomy/exoplanets	serena moss8b	48	2026-11-21 06:54:47	tts	255f17995f
 en	01f4cb1d	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:36:28	tts	5fb8afd6e1
@@ -202,10 +206,12 @@ en	cfd2f3bd	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 02:32:44	t
 en	ec1a77f9	astronomy/planets-moons	serena t0.5 -16LUFS	48	2026-11-20 00:39:59	tts	9585715593
 zh	0ed70d5d	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:53:02	tts	3d671db5a1
 zh	2b2a0a3b	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:52:54	tts	7b4829929c
+zh	3834c15e	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:39:00	tts	557570cbaa
 zh	3aa69cd1	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:51:41	tts	b4b3d4fa6c
 zh	518a12e7	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:49:59	tts	c5e8fa6d97
 zh	6c0b1de1	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:35:34	tts	cea49374b7
 zh	71732346	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:26:09	tts	772eaae31d
+zh	746186dd	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:38:58	tts	7c53ade69c
 zh	76fa79c9	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:53:49	tts	cfc74c4117
 zh	8644cdbb	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:24:23	tts	8d10c39ab7
 zh	8dfdc279	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:48:39	tts	1f2d23068e
@@ -214,6 +220,7 @@ zh	9e197dbf	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:19:19	tts	9b9
 zh	a547ef3a	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:35:42	tts	eeba952fe8
 zh	daefcc19	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:35:37	tts	017fac7dfd
 zh	e9056f26	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:25:39	tts	0b6c64a996
+zh	f03ef66c	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:37:45	tts	c29eff91a8
 en	24d95d0f	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:45:51	tts	96446fe0ec
 en	639c8e48	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 01:11:34	tts	73a407e62f
 en	663026d8	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:45:54	tts	8916954c6f
@@ -429,6 +436,7 @@ en	c5704819	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 02:32:51	tt
 en	c90af118	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 01:19:14	tts	d6748601e5
 en	da031bdf	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 00:46:19	tts	82bf160058
 en	e7fed5be	astronomy/small-bodies	serena t0.5 -16LUFS	48	2026-11-20 00:40:03	tts	a2668ecc5d
+zh	09874ffb	astronomy/small-bodies	serena moss8b	48	2026-11-21 10:36:54	tts	9d6de38c7e
 zh	2649bb3e	astronomy/small-bodies	serena moss8b	48	2026-11-21 06:51:40	tts	2a6a66defb
 zh	39c2f9ce	astronomy/small-bodies	serena moss8b	48	2026-11-21 10:27:03	tts	209fab07df
 zh	82ca3f9f	astronomy/small-bodies	serena moss8b	48	2026-11-21 10:27:02	tts	a50a651d73
@@ -2358,6 +2366,7 @@ en	f2d14fa5	physics/forces	serena t0.5 -16LUFS	48	2026-11-20 01:25:37	tts	ee2478
 zh	36b16d06	physics/forces	serena moss8b	48	2026-11-21 10:23:53	tts	5df4e3ac72
 zh	95e78c61	physics/forces	serena moss8b	48	2026-11-21 10:16:42	tts	ce4f24fa33
 zh	c1e954b8	physics/forces	serena moss8b	48	2026-11-21 10:25:26	tts	02463ca482
+zh	d5e75a69	physics/forces	serena moss8b	48	2026-11-21 10:37:02	tts	1eac6b5319
 zh	04c2f7ca	physics/formula-sheet	serena moss8b	48	2026-11-21 10:36:07	tts	c9b879467b
 zh	3cc6a7fd	physics/formula-sheet	serena moss8b	48	2026-11-21 10:35:45	tts	f87600dc63
 zh	54c59d05	physics/formula-sheet	serena moss8b	48	2026-11-21 10:32:26	tts	346d97fdb6
@@ -2420,6 +2429,7 @@ zh	4eae5b5d	physics/newtons-laws	serena moss8b	48	2026-11-21 10:22:53	tts	f96f0f
 zh	6323db11	physics/newtons-laws	serena moss8b	48	2026-11-21 06:55:10	tts	5acb5b2418
 zh	b0dddc59	physics/newtons-laws	serena moss8b	48	2026-11-21 10:24:26	tts	0c07176931
 zh	64eb6a6e	physics/ohms-law	serena moss8b	48	2026-11-21 10:33:13	tts	30a09636c3
+zh	356a73df	physics/phase-changes	serena moss8b	48	2026-11-21 10:37:02	tts	275706d79c
 zh	0a59a545	physics/pressure	serena moss8b	48	2026-11-21 10:34:37	tts	1064f3af65
 zh	61666a5e	physics/pressure	serena moss8b	48	2026-11-21 10:25:38	tts	2bc41ed402
 zh	6bb1975b	physics/pressure	serena moss8b	48	2026-11-21 10:31:04	tts	464b8bf029
@@ -2450,6 +2460,7 @@ en	a03099ec	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 01:01:53	tts	4bb21f5
 en	a66643eb	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 01:01:55	tts	8361c32644
 en	daa437c8	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 00:41:19	tts	50ed534b6d
 en	e8fa6c96	physics/sound	serena t0.5 -16LUFS	48	2026-11-20 01:25:36	tts	af21931743
+zh	275fa454	physics/sound	serena moss8b	48	2026-11-21 10:39:03	tts	62c849b200
 zh	b86a4873	physics/sound	serena moss8b	48	2026-11-21 10:33:09	tts	1847eb49ee
 zh	ccddc460	physics/sound	serena moss8b	48	2026-11-21 10:32:06	tts	d013505ac1
 zh	dc2f3e18	physics/sound	serena moss8b	48	2026-11-21 10:32:08	tts	2324449c50
