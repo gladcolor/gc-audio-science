@@ -1372,26 +1372,25 @@
  },
  "chemistry/elements-compounds": {
   "counts": {
-   "done": 37,
+   "done": 17,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 37
+   "total": 17
   },
   "fingerprint": "0413060a19d1",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Elements, Compounds & Mixtures",
    "zh": "元素、化合物与混合物"
   },
-  "updated": "2026-11-21 19:04:10",
-  "verified": "2026-11-21 19:13:36"
+  "updated": "2026-11-21 20:02:21",
+  "verified": ""
  },
  "chemistry/formulas-valence": {
   "counts": {
