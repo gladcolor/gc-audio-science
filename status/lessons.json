@@ -1299,26 +1299,25 @@
  },
  "chemistry/chemistry-life": {
   "counts": {
-   "done": 30,
+   "done": 15,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 30
+   "total": 15
   },
-  "fingerprint": "",
+  "fingerprint": "37860ac88b58",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/chemistry-life.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "Chemistry, Health & Materials",
    "zh": "化学与健康、材料和社会发展"
   },
-  "updated": "2026-11-21 19:23:34",
-  "verified": "2026-11-21 19:25:55"
+  "updated": "2026-11-21 20:02:54",
+  "verified": ""
  },
  "chemistry/combustion-fuels": {
   "counts": {
