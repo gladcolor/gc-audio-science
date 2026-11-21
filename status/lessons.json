@@ -1563,15 +1563,15 @@
  },
  "chemistry/states-of-matter": {
   "counts": {
-   "done": 21,
+   "done": 15,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 6,
    "total": 21
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "bb4c03244bc3",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
   "record_langs": [
    "zh"
@@ -1580,7 +1580,7 @@
    "en": "States of Matter",
    "zh": "物质的状态"
   },
-  "updated": "2026-11-21 20:02:19",
+  "updated": "2026-11-21 21:03:20",
   "verified": ""
  },
  "chemistry/water-purification": {
