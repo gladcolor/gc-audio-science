@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/specific-heat", "en": {}, "zh": {"0955b5aa": {"dur": 22.54}, "0b2c2196": {"dur": 24.53}, "31b809ba": {"dur": 21.89}, "36064225": {"dur": 29.98}, "375cee46": {"dur": 69.82}, "7569b9e3": {"dur": 22.78}, "95710d4c": {"dur": 27.5}, "9c64f85a": {"dur": 30.53}, "b9b6f2ae": {"dur": 23.81}, "bb315288": {"dur": 24.22}, "de3a698d": {"dur": 21.82}, "e11e68f0": {"dur": 24.86}, "e8428053": {"dur": 23.02}}});
