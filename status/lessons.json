@@ -1042,7 +1042,7 @@
    "old": 0,
    "total": 16
   },
-  "fingerprint": "",
+  "fingerprint": "80e20fafe06b",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/reproduction.html",
   "record_langs": [
@@ -1052,8 +1052,8 @@
    "en": "Reproduction & Selective Breeding",
    "zh": "生殖与选择育种"
   },
-  "updated": "2026-11-21 06:11:41",
-  "verified": "2026-11-21 12:58:17"
+  "updated": "2026-11-21 17:32:20",
+  "verified": ""
  },
  "biology/tonicity-labs": {
   "counts": {
