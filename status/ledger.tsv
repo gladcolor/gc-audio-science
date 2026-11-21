@@ -95,6 +95,7 @@ zh	bddb7660	astronomy/galaxies	serena moss8b	48	2026-11-21 06:21:45	tts	cccb5a12
 zh	c3c28145	astronomy/galaxies	serena moss8b	48	2026-11-21 06:53:01	tts	721e2b0ecd
 zh	c63540c6	astronomy/galaxies	serena moss8b	48	2026-11-21 06:47:01	tts	2493e512ac
 zh	e827b251	astronomy/galaxies	serena moss8b	48	2026-11-21 06:35:55	tts	7ee1592510
+zh	fae6ffb8	astronomy/galaxies	serena moss8b	48	2026-11-21 20:35:58	tts	810f9b4f72
 zh	ff700fa4	astronomy/galaxies	serena moss8b	48	2026-11-21 20:32:45	tts	044c3c3cb8
 en	1f6c203f	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 18:11:27	tts	ef0de166ea
 en	41904d25	astronomy/gravity-orbits	serena moss8b	48	2026-11-21 18:08:30	tts	e27167d861
@@ -123,6 +124,7 @@ en	ca9cd8b9	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:17:10	tt
 en	dc67228e	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:12:35	tts	c7dd1c3b0a
 en	e58d422c	astronomy/measuring-distance	serena moss8b	48	2026-11-21 18:14:18	tts	d58146a213
 zh	1f8ffd91	astronomy/measuring-distance	serena moss8b	48	2026-11-21 10:27:00	tts	4ef04440f8
+zh	78a74ab8	astronomy/measuring-distance	serena moss8b	48	2026-11-21 20:36:01	tts	6d6644705e
 en	1e62d60c	astronomy/moon-phases	serena moss8b	48	2026-11-21 17:56:24	tts	302bca0871
 en	24dcfbb8	astronomy/moon-phases	serena moss8b	48	2026-11-21 17:55:25	tts	344425ce5a
 en	3a6d41a2	astronomy/moon-phases	serena moss8b	48	2026-11-21 18:13:44	tts	f24fde3922
@@ -397,6 +399,7 @@ zh	412cb9e3	astronomy/solar-system	serena moss8b	48	2026-11-21 06:01:07	tts	6ff6
 zh	6f026696	astronomy/solar-system	serena moss8b	48	2026-11-21 20:27:59	tts	1409a73f1d
 zh	7f109fc7	astronomy/solar-system	serena moss8b	48	2026-11-21 06:45:10	tts	08f3713fdd
 zh	84c72638	astronomy/solar-system	serena moss8b	48	2026-11-21 06:17:23	tts	dc8b993924
+zh	92dc0efd	astronomy/solar-system	serena moss8b	48	2026-11-21 20:36:09	tts	2c6ccf1545
 zh	93b14e81	astronomy/solar-system	serena moss8b	48	2026-11-21 06:45:11	tts	3e9111eb80
 zh	945444b9	astronomy/solar-system	serena moss8b	48	2026-11-21 06:34:11	tts	dc71e653de
 zh	e90a217d	astronomy/solar-system	serena moss8b	48	2026-11-21 06:09:17	tts	d0dc4476bb
@@ -705,6 +708,7 @@ en	b8486a1a	astronomy/telescopes-light	serena moss8b	48	2026-11-21 18:17:59	tts	
 en	bedca478	astronomy/telescopes-light	serena moss8b	48	2026-11-21 18:16:08	tts	523ff1c6ad
 en	e317b642	astronomy/telescopes-light	serena moss8b	48	2026-11-21 18:12:27	tts	eaf4f9cde9
 en	fcd78beb	astronomy/telescopes-light	serena moss8b	48	2026-11-21 18:11:25	tts	3dacea045d
+zh	0145f65e	astronomy/telescopes-light	serena moss8b	48	2026-11-21 20:36:12	tts	ac8a1686bf
 en	0afe0a5c	astronomy/three-body	serena moss8b	48	2026-11-21 18:37:24	tts	6d2f928604
 en	8d467bda	astronomy/three-body	serena moss8b	48	2026-11-21 18:43:41	tts	61407b9816
 en	91584b3a	astronomy/three-body	serena moss8b	48	2026-11-21 18:35:14	tts	d4de4228f7
@@ -1530,8 +1534,10 @@ en	ebc7b7fa	biology/endocytosis	serena moss8b	48	2026-11-21 17:38:07	tts	fd43211
 en	ee5cae9d	biology/endocytosis	serena moss8b	48	2026-11-21 17:46:15	tts	80738bc0be
 zh	0e8e9a95	biology/endocytosis	serena moss8b	48	2026-11-21 05:20:23	tts	57f99a6f7a
 zh	0ea3119c	biology/endocytosis	serena moss8b	48	2026-11-21 20:29:25	tts	c870da2850
+zh	14a5a90d	biology/endocytosis	serena moss8b	48	2026-11-21 20:36:04	tts	e4fb946dfc
 zh	2f8a986b	biology/endocytosis	serena moss8b	48	2026-11-21 05:17:07	tts	565e74f5f7
 zh	4b7c8f54	biology/endocytosis	serena moss8b	48	2026-11-21 05:17:18	tts	a1fb110bc1
+zh	60157e90	biology/endocytosis	serena moss8b	48	2026-11-21 20:36:07	tts	393976a513
 zh	66ad7ec8	biology/endocytosis	serena moss8b	48	2026-11-21 05:50:29	tts	5157f5cf0f
 zh	8e34ccd5	biology/endocytosis	serena moss8b	48	2026-11-21 05:16:54	tts	c3bc9b0f4f
 zh	9f50a4f3	biology/endocytosis	serena moss8b	48	2026-11-21 05:51:38	tts	e511a9ee8c
@@ -1589,6 +1595,7 @@ zh	3906ca4a	biology/exocytosis	serena moss8b	48	2026-11-21 05:48:01	tts	e4e535c4
 zh	4bd8c063	biology/exocytosis	serena moss8b	48	2026-11-21 05:36:02	tts	502acd17dc
 zh	58fefad3	biology/exocytosis	serena moss8b	48	2026-11-21 05:34:55	tts	4e27c8a2fe
 zh	69db3fc7	biology/exocytosis	serena moss8b	48	2026-11-21 20:27:43	tts	0467ab0c1c
+zh	a348767d	biology/exocytosis	serena moss8b	48	2026-11-21 20:36:16	tts	40e5919e24
 zh	d8e9c81d	biology/exocytosis	serena moss8b	48	2026-11-21 05:26:19	tts	91c867e358
 zh	e33071a7	biology/exocytosis	serena moss8b	48	2026-11-21 05:36:10	tts	c639b35842
 zh	ea9dfacc	biology/exocytosis	serena moss8b	48	2026-11-21 05:47:06	tts	88d55aae6d
