@@ -777,11 +777,11 @@
  },
  "biology/ecosystems": {
   "counts": {
-   "done": 56,
+   "done": 78,
    "failed": 0,
    "held": 0,
-   "missing": 24,
-   "old": 7,
+   "missing": 8,
+   "old": 1,
    "total": 87
   },
   "fingerprint": "335998bb295e",
@@ -795,7 +795,7 @@
    "en": "Biomes & Ecosystems",
    "zh": "生物群落与生态系统"
   },
-  "updated": "2026-11-21 17:45:31",
+  "updated": "2026-11-21 17:50:41",
   "verified": ""
  },
  "biology/endocytosis": {

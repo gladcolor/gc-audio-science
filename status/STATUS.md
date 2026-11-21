@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 17:50:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 17:50:41. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Updated 2026-11-21 17:50:16. Labels: finished / in progress / no audio / failed 
 | biology/classification | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:22 |  |
 | biology/diffusion | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-21 17:47:52 |  |
 | biology/dna | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:14 |  |
-| biology/ecosystems | in progress | 56 | 7 | 24 | 0 | 0 | 2026-11-21 17:45:31 |  |
+| biology/ecosystems | in progress | 78 | 1 | 8 | 0 | 0 | 2026-11-21 17:50:41 |  |
 | biology/endocytosis | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 17:47:59 |  |
 | biology/evolution | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 17:32:42 |  |
 | biology/exocytosis | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 17:48:43 |  |
