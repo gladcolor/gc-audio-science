@@ -76,6 +76,7 @@ en	cafe5531	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 01:23:03	tts	
 en	faf3ab16	astronomy/exoplanets	serena t0.5 -16LUFS	48	2026-11-20 00:43:56	tts	42c24a0e5b
 zh	0180716d	astronomy/exoplanets	serena moss8b	48	2026-11-21 10:38:24	tts	c3b1a4d2ca
 zh	cb70b877	astronomy/exoplanets	serena moss8b	48	2026-11-21 06:50:40	tts	7dd09a1715
+zh	d98aa52c	astronomy/exoplanets	serena moss8b	48	2026-11-21 10:40:16	tts	6dc448d518
 zh	e85705f4	astronomy/exoplanets	serena moss8b	48	2026-11-21 06:54:47	tts	255f17995f
 en	01f4cb1d	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:36:28	tts	5fb8afd6e1
 en	5de6e53a	astronomy/galaxies	serena t0.5 -16LUFS	48	2026-11-19 22:22:54	tts	
@@ -2396,7 +2397,9 @@ en	90863d2d	physics/light	serena t0.5 -16LUFS	48	2026-11-20 00:41:24	tts	def788d
 en	95d137e7	physics/light	serena t0.5 -16LUFS	48	2026-11-20 00:41:23	tts	17afd7602a
 en	c5bf1afd	physics/light	serena t0.5 -16LUFS	48	2026-11-20 00:43:55	tts	e510675c62
 en	ca201a40	physics/light	serena t0.5 -16LUFS	48	2026-11-20 01:13:42	tts	1e0a91fa46
+zh	574891e9	physics/light	serena moss8b	48	2026-11-21 10:40:50	tts	915189ea7d
 zh	6a75fca9	physics/light	serena moss8b	48	2026-11-21 10:26:11	tts	37a7739a9f
+zh	a6d4cdd7	physics/light	serena moss8b	48	2026-11-21 10:40:53	tts	e46f8abd60
 zh	e786b97c	physics/light	serena moss8b	48	2026-11-21 10:21:53	tts	18ad7cd4b3
 en	194b36d2	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:28	tts	7ef2f0fcf9
 en	39b6471e	physics/magnetism	serena t0.5 -16LUFS	48	2026-11-20 00:41:28	tts	84683d77a5
