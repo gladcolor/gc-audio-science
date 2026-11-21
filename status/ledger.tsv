@@ -131,6 +131,12 @@ en	93f80b10	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-20 01:04:45	tts
 en	bee2f95a	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-20 00:45:56	tts	315793af06
 en	ecaa0d7d	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-20 01:04:47	tts	074c46d78a
 en	f4c4945f	astronomy/kepler-laws	serena t0.5 -16LUFS	48	2026-11-20 00:45:47	tts	e33e9c34db
+zh	3df21c1f	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:58:43	tts	f3768723d2
+zh	590487ec	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:51:17	tts	56b69cef75
+zh	ca55eb0a	astronomy/kepler-laws	serena moss8b	48	2026-11-21 11:03:07	tts	63c73874b1
+zh	ecd0dc7c	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:56:48	tts	1fe90953e3
+zh	f09c39ba	astronomy/kepler-laws	serena moss8b	48	2026-11-21 10:53:20	tts	4052c493e8
+zh	fbb4c148	astronomy/kepler-laws	serena moss8b	48	2026-11-21 11:02:06	tts	2cff4154b1
 en	ca9cd8b9	astronomy/measuring-distance	serena t0.5 -16LUFS	48	2026-11-19 22:36:23	tts	ed84ea9a77
 en	e58d422c	astronomy/measuring-distance	serena t0.5 -16LUFS	48	2026-11-19 22:20:19	tts	
 zh	1f8ffd91	astronomy/measuring-distance	serena moss8b	48	2026-11-21 10:27:00	tts	4ef04440f8
@@ -215,6 +221,7 @@ zh	0ed70d5d	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:53:02	tts	3d6
 zh	2b2a0a3b	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:52:54	tts	7b4829929c
 zh	3834c15e	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:39:00	tts	557570cbaa
 zh	3aa69cd1	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:51:41	tts	b4b3d4fa6c
+zh	43502f4c	astronomy/planets-moons	serena moss8b	48	2026-11-21 11:03:03	tts	95c89e458b
 zh	518a12e7	astronomy/planets-moons	serena moss8b	48	2026-11-21 06:49:59	tts	c5e8fa6d97
 zh	6c0b1de1	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:35:34	tts	cea49374b7
 zh	71732346	astronomy/planets-moons	serena moss8b	48	2026-11-21 10:26:09	tts	772eaae31d
@@ -237,6 +244,7 @@ en	8a86a5c3	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 01:11:38	tts	58
 en	bb114c69	astronomy/rocketry	serena t0.5 -16LUFS	48	2026-11-20 00:00:08	tts	6b2b5bf5cb
 zh	1e01b757	astronomy/rocketry	serena moss8b	48	2026-11-21 10:48:45	tts	df4fabeab2
 zh	450d6b71	astronomy/rocketry	serena moss8b	48	2026-11-21 10:27:51	tts	a4a0b00a78
+zh	8ce9900c	astronomy/rocketry	serena moss8b	48	2026-11-21 10:52:23	tts	1afa86ddad
 en	15cab9bc	astronomy/scale-universe	serena t0.5 -16LUFS	48	2026-11-20 01:25:23	tts	f9c588b5dd
 en	27095eda	astronomy/scale-universe	serena t0.5 -16LUFS	48	2026-11-19 22:48:08	tts	a96cfc473c
 en	2f0d0aa4	astronomy/scale-universe	serena t0.5 -16LUFS	48	2026-11-19 22:53:42	tts	30bbb6df0c
