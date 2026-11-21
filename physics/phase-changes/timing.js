@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/phase-changes", "en": {}, "zh": {"080a3927": {"dur": 21.34}, "356a73df": {"dur": 9.17}, "5b8167b6": {"dur": 4.54}, "6a592360": {"dur": 13.66}, "6dff2613": {"dur": 15.02}, "79e6dca7": {"dur": 9.1}, "8390da0a": {"dur": 6.94}, "84d2c75c": {"dur": 13.58}, "9bbcd5d4": {"dur": 26.86}, "ea7d87c9": {"dur": 24.77}}});
