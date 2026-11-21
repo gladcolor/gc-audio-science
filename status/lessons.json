@@ -1985,24 +1985,25 @@
  },
  "physics/electric-power": {
   "counts": {
-   "done": 5,
+   "done": 10,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 5
+   "total": 10
   },
   "fingerprint": "db1a0163fa5b",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electric-power.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Electric Power & Household Circuits",
    "zh": "电功率与家庭电路"
   },
-  "updated": "2026-11-21 17:34:39",
+  "updated": "2026-11-21 18:46:03",
   "verified": ""
  },
  "physics/electricity": {
