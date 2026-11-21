@@ -2185,24 +2185,25 @@
  },
  "physics/motion": {
   "counts": {
-   "done": 0,
+   "done": 11,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 0
+   "total": 11
   },
-  "fingerprint": "",
-  "label": "old voice",
+  "fingerprint": "27865d4db270",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/motion.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Speed, Velocity & Acceleration",
    "zh": "速度与加速度"
   },
-  "updated": "2026-11-21 17:34:02",
+  "updated": "2026-11-21 18:44:09",
   "verified": ""
  },
  "physics/newtons-laws": {
