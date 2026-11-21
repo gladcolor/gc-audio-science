@@ -684,24 +684,25 @@
  },
  "biology/characteristics-of-life": {
   "counts": {
-   "done": 52,
+   "done": 100,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 52
+   "total": 100
   },
-  "fingerprint": "",
+  "fingerprint": "72afcaa9fe81",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Is It Alive? Characteristics of Life",
    "zh": "它是活的吗？生物的特征"
   },
-  "updated": "2026-11-21 17:31:48",
+  "updated": "2026-11-21 17:40:28",
   "verified": ""
  },
  "biology/classification": {
