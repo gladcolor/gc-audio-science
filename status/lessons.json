@@ -1785,26 +1785,25 @@
  },
  "earth/atmosphere": {
   "counts": {
-   "done": 23,
+   "done": 11,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 23
+   "total": 11
   },
   "fingerprint": "e8e9f5a52cf4",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/atmosphere.html",
   "record_langs": [
-   "en",
    "zh"
   ],
   "title": {
    "en": "The Atmosphere",
    "zh": "大气层"
   },
-  "updated": "2026-11-21 18:18:08",
-  "verified": "2026-11-21 18:22:18"
+  "updated": "2026-11-21 20:00:22",
+  "verified": ""
  },
  "earth/climate": {
   "counts": {
