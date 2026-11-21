@@ -1,13 +1,13 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 18:32:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 18:35:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:58 |  |
-| astronomy/black-holes | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:45 |  |
+| astronomy/black-holes | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 18:35:27 |  |
 | astronomy/eclipses | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:05 | 2026-11-21 18:24:55 |
-| astronomy/exoplanets | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:57 |  |
+| astronomy/exoplanets | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:57 | 2026-11-21 18:34:59 |
 | astronomy/galaxies | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:18 | 2026-11-21 18:26:45 |
 | astronomy/gravity-orbits | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:19:01 | 2026-11-21 18:22:41 |
 | astronomy/kepler-laws | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:49 |  |
@@ -16,9 +16,9 @@ Updated 2026-11-21 18:32:26. Labels: finished / in progress / no audio / failed 
 | astronomy/night-sky | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 18:13:03 | 2026-11-21 18:19:24 |
 | astronomy/planets-moons | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:53 |  |
 | astronomy/rocketry | finished | 6 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:51 |  |
-| astronomy/scale-universe | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:27 |  |
+| astronomy/scale-universe | finished | 39 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:27 | 2026-11-21 18:34:51 |
 | astronomy/seasons | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:24:26 | 2026-11-21 18:26:56 |
-| astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:07 |  |
+| astronomy/sky-tonight | finished | 136 | 0 | 0 | 0 | 0 | 2026-11-21 18:31:07 | 2026-11-21 18:34:38 |
 | astronomy/small-bodies | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 17:33:55 |  |
 | astronomy/solar-system | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 18:23:00 | 2026-11-21 18:24:47 |
 | astronomy/space-exploration | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 18:14:52 | 2026-11-21 18:20:37 |
