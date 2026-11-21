@@ -948,24 +948,25 @@
  },
  "biology/osmosis": {
   "counts": {
-   "done": 23,
+   "done": 32,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 23
+   "missing": 1,
+   "old": 11,
+   "total": 44
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "6f1dc0ba17df",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Osmosis: Water on the Move",
    "zh": "渗透：水的移动"
   },
-  "updated": "2026-11-21 17:32:01",
+  "updated": "2026-11-21 17:40:09",
   "verified": ""
  },
  "biology/photosynthesis": {
