@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 19:00:54. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:02:11. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -93,19 +93,19 @@ Updated 2026-11-21 19:00:54. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 38 | 0 | 0 | 0 | 0 | 2026-11-21 18:17:16 | 2026-11-21 18:22:10 |
 | earth/weathering-erosion | finished | 29 | 0 | 0 | 0 | 0 | 2026-11-21 18:16:11 | 2026-11-21 18:21:39 |
 | physics/buoyancy | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:41 | 2026-11-21 18:54:34 |
-| physics/communications-energy | in progress | 48 | 0 | 22 | 0 | 0 | 2026-11-21 18:51:04 |  |
+| physics/communications-energy | finished | 70 | 0 | 0 | 0 | 0 | 2026-11-21 19:02:11 |  |
 | physics/electric-power | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:03 | 2026-11-21 18:54:04 |
 | physics/electricity | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:06 | 2026-11-21 18:53:35 |
-| physics/electromagnetism | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:59:04 |  |
+| physics/electromagnetism | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 18:59:04 | 2026-11-21 19:01:45 |
 | physics/energy | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 18:48:03 | 2026-11-21 18:54:40 |
-| physics/forces | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 18:58:04 |  |
+| physics/forces | finished | 44 | 0 | 0 | 0 | 0 | 2026-11-21 18:58:04 | 2026-11-21 19:01:36 |
 | physics/formula-sheet | finished | 118 | 0 | 0 | 0 | 0 | 2026-11-21 18:50:23 | 2026-11-21 18:55:40 |
 | physics/heat-transfer | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 18:45:29 | 2026-11-21 18:53:41 |
 | physics/lenses | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:12 | 2026-11-21 18:54:13 |
 | physics/light | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 18:55:54 | 2026-11-21 18:57:57 |
 | physics/magnetism | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:47:34 | 2026-11-21 18:54:28 |
 | physics/measurements-density | in progress | 14 | 0 | 20 | 0 | 0 | 2026-11-21 18:46:15 |  |
-| physics/mechanical-motion | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:57:28 |  |
+| physics/mechanical-motion | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 18:57:28 | 2026-11-21 19:01:17 |
 | physics/motion | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:09 | 2026-11-21 18:53:15 |
 | physics/newtons-laws | finished | 25 | 0 | 0 | 0 | 0 | 2026-11-21 18:44:47 | 2026-11-21 18:53:29 |
 | physics/ohms-law | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 18:46:08 | 2026-11-21 18:54:07 |
