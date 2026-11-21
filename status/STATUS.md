@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 05:54:40. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 05:55:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ Updated 2026-11-21 05:54:40. Labels: finished / in progress / no audio / failed 
 | biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 05:27:36 |  |
 | biology/cell-theory | finished | 31 | 0 | 0 | 0 | 0 | 2026-11-21 05:34:25 |  |
 | biology/cell-transport | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 05:40:15 |  |
-| biology/cells-review | finished | 158 | 0 | 0 | 0 | 0 | 2026-11-20 06:53:43 |  |
+| biology/cells-review | in progress | 54 | 23 | 2 | 0 | 0 | 2026-11-21 05:55:17 |  |
 | biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 05:26:21 |  |
 | biology/classification | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-20 06:51:10 |  |
 | biology/diffusion | finished | 27 | 0 | 0 | 0 | 0 | 2026-11-21 05:44:56 |  |
