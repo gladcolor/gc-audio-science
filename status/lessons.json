@@ -107,7 +107,7 @@
    "zh": "星系与宇宙"
   },
   "updated": "2026-11-21 21:01:58",
-  "verified": ""
+  "verified": "2026-11-21 21:12:59"
  },
  "astronomy/gravity-orbits": {
   "counts": {
@@ -184,7 +184,7 @@
    "old": 0,
    "total": 17
   },
-  "fingerprint": "",
+  "fingerprint": "f51796e6ab80",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
   "record_langs": [
@@ -194,7 +194,7 @@
    "en": "Phases of the Moon",
    "zh": "月相"
   },
-  "updated": "2026-11-21 20:00:42",
+  "updated": "2026-11-21 21:29:32",
   "verified": ""
  },
  "astronomy/night-sky": {
@@ -217,7 +217,7 @@
    "zh": "星座与夜空"
   },
   "updated": "2026-11-21 21:04:39",
-  "verified": ""
+  "verified": "2026-11-21 21:14:13"
  },
  "astronomy/planets-moons": {
   "counts": {
@@ -283,7 +283,7 @@
    "zh": "宇宙有多大"
   },
   "updated": "2026-11-21 21:04:03",
-  "verified": ""
+  "verified": "2026-11-21 21:13:35"
  },
  "astronomy/seasons": {
   "counts": {
@@ -745,7 +745,7 @@
    "zh": "生物分类与二歧检索表"
   },
   "updated": "2026-11-21 21:02:02",
-  "verified": ""
+  "verified": "2026-11-21 21:13:14"
  },
  "biology/diffusion": {
   "counts": {
@@ -965,7 +965,7 @@
    "zh": "基因、性状与庞氏方格"
   },
   "updated": "2026-11-21 21:08:21",
-  "verified": ""
+  "verified": "2026-11-21 21:15:35"
  },
  "biology/infection-immunity": {
   "counts": {
@@ -1141,7 +1141,7 @@
    "zh": "DNA → RNA → 蛋白质"
   },
   "updated": "2026-11-21 21:06:28",
-  "verified": ""
+  "verified": "2026-11-21 21:14:42"
  },
  "biology/reproduction": {
   "counts": {
@@ -1163,7 +1163,7 @@
    "zh": "生殖与选择育种"
   },
   "updated": "2026-11-21 21:09:09",
-  "verified": ""
+  "verified": "2026-11-21 21:15:45"
  },
  "biology/tonicity-labs": {
   "counts": {
@@ -1449,7 +1449,7 @@
    "zh": "金属与金属活动性顺序"
   },
   "updated": "2026-11-21 21:10:02",
-  "verified": ""
+  "verified": "2026-11-21 21:16:09"
  },
  "chemistry/oxygen-air": {
   "counts": {
@@ -1559,7 +1559,7 @@
    "zh": "溶液与溶解度"
   },
   "updated": "2026-11-21 21:04:26",
-  "verified": ""
+  "verified": "2026-11-21 21:14:03"
  },
  "chemistry/states-of-matter": {
   "counts": {
@@ -2025,7 +2025,7 @@
    "zh": "浮力与阿基米德原理"
   },
   "updated": "2026-11-21 21:04:09",
-  "verified": ""
+  "verified": "2026-11-21 21:13:40"
  },
  "physics/communications-energy": {
   "counts": {
@@ -2069,7 +2069,7 @@
    "zh": "电功率与家庭电路"
   },
   "updated": "2026-11-21 21:04:43",
-  "verified": ""
+  "verified": "2026-11-21 21:14:16"
  },
  "physics/electricity": {
   "counts": {
@@ -2135,7 +2135,7 @@
    "zh": "动能与势能"
   },
   "updated": "2026-11-21 21:06:40",
-  "verified": ""
+  "verified": "2026-11-21 21:14:53"
  },
  "physics/forces": {
   "counts": {
@@ -2179,7 +2179,7 @@
    "zh": "初中物理公式表与计算器"
   },
   "updated": "2026-11-21 21:07:06",
-  "verified": ""
+  "verified": "2026-11-21 21:15:26"
  },
  "physics/heat-transfer": {
   "counts": {
@@ -2201,7 +2201,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-21 21:04:57",
-  "verified": ""
+  "verified": "2026-11-21 21:14:24"
  },
  "physics/lenses": {
   "counts": {
@@ -2223,7 +2223,7 @@
    "zh": "透镜及其应用"
   },
   "updated": "2026-11-21 21:06:35",
-  "verified": ""
+  "verified": "2026-11-21 21:14:47"
  },
  "physics/light": {
   "counts": {
@@ -2245,7 +2245,7 @@
    "zh": "光与电磁波谱"
   },
   "updated": "2026-11-21 21:05:06",
-  "verified": ""
+  "verified": "2026-11-21 21:14:35"
  },
  "physics/magnetism": {
   "counts": {
@@ -2355,7 +2355,7 @@
    "zh": "牛顿运动定律"
   },
   "updated": "2026-11-21 21:04:21",
-  "verified": ""
+  "verified": "2026-11-21 21:13:51"
  },
  "physics/ohms-law": {
   "counts": {
@@ -2399,7 +2399,7 @@
    "zh": "物态变化"
   },
   "updated": "2026-11-21 21:01:49",
-  "verified": ""
+  "verified": "2026-11-21 21:12:50"
  },
  "physics/pressure": {
   "counts": {
@@ -2553,6 +2553,6 @@
    "zh": "功、功率与机械效率"
   },
   "updated": "2026-11-21 21:03:42",
-  "verified": ""
+  "verified": "2026-11-21 21:13:21"
  }
 }
