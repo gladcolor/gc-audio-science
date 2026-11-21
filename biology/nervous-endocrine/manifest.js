@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "biology/nervous-endocrine", "voice": "serena", "en": "07c1e9ac 093f6fe0 10e0f6e5 17dea8cc 33ae11e0 39267e94 3cd3ffe9 41ae8c40 4446f4d6 5db946d2 70352071 7a29dce2 7f5682c9 87b498cc 8baa9857 8c6d490c 965035e7 96ae5ef0 a2d3fea8 a544afba b22014ee d59a829b d647a9d1 d6994309 d909ceeb da9a72aa e1673ff8 e40e92d8 ea74dc7a eb72a431 f1e04356 f38220bd fbd3c20c", "zh": ""});
