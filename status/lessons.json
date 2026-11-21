@@ -734,7 +734,7 @@
    "old": 0,
    "total": 24
   },
-  "fingerprint": "",
+  "fingerprint": "513905ba9611",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "record_langs": [
@@ -744,7 +744,7 @@
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-21 19:59:31",
+  "updated": "2026-11-21 21:02:02",
   "verified": ""
  },
  "biology/diffusion": {
