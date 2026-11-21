@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-21 19:23:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-21 19:58:56. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Updated 2026-11-21 19:23:34. Labels: finished / in progress / no audio / failed 
 | biology/cell-theory | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 17:54:11 | 2026-11-21 18:06:06 |
 | biology/cell-transport | finished | 24 | 0 | 0 | 0 | 0 | 2026-11-21 17:46:19 | 2026-11-21 17:57:38 |
 | biology/cells-review | finished | 157 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:34 | 2026-11-21 18:00:19 |
-| biology/characteristics-of-life | finished | 100 | 0 | 0 | 0 | 0 | 2026-11-21 17:40:28 | 2026-11-21 17:42:55 |
+| biology/characteristics-of-life | finished | 52 | 0 | 0 | 0 | 0 | 2026-11-21 19:58:56 |  |
 | biology/classification | finished | 51 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:47 | 2026-11-21 18:00:44 |
 | biology/diffusion | finished | 53 | 0 | 0 | 0 | 0 | 2026-11-21 17:47:52 | 2026-11-21 17:58:28 |
 | biology/dna | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 17:51:08 | 2026-11-21 17:59:17 |
@@ -63,12 +63,12 @@ Updated 2026-11-21 19:23:34. Labels: finished / in progress / no audio / failed 
 | chemistry/carbon | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:00 | 2026-11-21 19:15:11 |
 | chemistry/changes | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 19:05:01 | 2026-11-21 19:14:13 |
 | chemistry/chemical-equations | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:52 | 2026-11-21 19:14:03 |
-| chemistry/chemistry-life | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:34 |  |
+| chemistry/chemistry-life | finished | 30 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:34 | 2026-11-21 19:25:55 |
 | chemistry/combustion-fuels | finished | 33 | 0 | 0 | 0 | 0 | 2026-11-21 19:16:07 | 2026-11-21 19:18:21 |
 | chemistry/density | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:06:15 | 2026-11-21 19:14:49 |
 | chemistry/elements-compounds | finished | 37 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:10 | 2026-11-21 19:13:36 |
 | chemistry/formulas-valence | finished | 28 | 0 | 0 | 0 | 0 | 2026-11-21 19:04:19 | 2026-11-21 19:13:44 |
-| chemistry/lab-skills | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:16 |  |
+| chemistry/lab-skills | finished | 120 | 0 | 0 | 0 | 0 | 2026-11-21 19:23:16 | 2026-11-21 19:25:46 |
 | chemistry/metals | finished | 54 | 0 | 0 | 0 | 0 | 2026-11-21 19:08:11 | 2026-11-21 19:15:30 |
 | chemistry/oxygen-air | finished | 32 | 0 | 0 | 0 | 0 | 2026-11-21 19:07:10 | 2026-11-21 19:14:59 |
 | chemistry/periodic-table | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-21 19:03:54 | 2026-11-21 19:13:24 |
