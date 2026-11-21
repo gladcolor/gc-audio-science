@@ -89,15 +89,15 @@
  },
  "astronomy/galaxies": {
   "counts": {
-   "done": 16,
+   "done": 15,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 16
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "d934ed628d3a",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
   "record_langs": [
    "zh"
@@ -106,7 +106,7 @@
    "en": "Galaxies & the Universe",
    "zh": "星系与宇宙"
   },
-  "updated": "2026-11-21 20:00:35",
+  "updated": "2026-11-21 20:49:39",
   "verified": ""
  },
  "astronomy/gravity-orbits": {
