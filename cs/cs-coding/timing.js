@@ -1,2 +1,2 @@
 /* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
-LabAudioTiming({"lesson": "cs/cs-coding", "en": {"15cacd57": {"dur": 13.97}, "30c8d0fb": {"dur": 14.54}, "a9f9cca0": {"dur": 20.69}, "c8a90820": {"dur": 13.97}, "cb6ae30a": {"dur": 13.18}}, "zh": {"369edb67": {"dur": 12.94}, "52150a9f": {"dur": 15.5}, "c1c42b7c": {"dur": 13.73}, "cd2a4e9a": {"dur": 11.57}, "d48e09a0": {"dur": 13.66}}});
+LabAudioTiming({"lesson": "cs/cs-coding", "en": {"15cacd57": {"dur": 13.97}, "30c8d0fb": {"dur": 14.54}, "a9f9cca0": {"dur": 20.69}, "c8a90820": {"dur": 13.97}, "cb6ae30a": {"dur": 13.18}}, "zh": {"369edb67": {"dur": 12.94}, "52150a9f": {"dur": 15.58}, "c1c42b7c": {"dur": 18.14}, "cd2a4e9a": {"dur": 12.77}, "d48e09a0": {"dur": 13.66}}});
