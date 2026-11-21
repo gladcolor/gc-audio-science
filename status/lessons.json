@@ -825,24 +825,25 @@
  },
  "biology/evolution": {
   "counts": {
-   "done": 11,
+   "done": 23,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 11
+   "total": 23
   },
-  "fingerprint": "",
+  "fingerprint": "179e08cfede2",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Natural Selection & Evolution",
    "zh": "自然选择与进化"
   },
-  "updated": "2026-11-21 17:32:42",
+  "updated": "2026-11-21 17:52:34",
   "verified": ""
  },
  "biology/exocytosis": {
