@@ -2359,6 +2359,29 @@
   "updated": "2026-11-21 17:34:30",
   "verified": ""
  },
+ "physics/static-charge": {
+  "counts": {
+   "done": 4,
+   "failed": 0,
+   "held": 0,
+   "missing": 40,
+   "old": 0,
+   "total": 44
+  },
+  "fingerprint": "5a8f0dd77b81",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/physics/static-charge.html",
+  "record_langs": [
+   "en",
+   "zh"
+  ],
+  "title": {
+   "en": "Electric Charge & Static Electricity",
+   "zh": "电荷与静电"
+  },
+  "updated": "2026-11-21 18:43:55",
+  "verified": ""
+ },
  "physics/waves": {
   "counts": {
    "done": 14,
