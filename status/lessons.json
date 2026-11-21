@@ -2407,24 +2407,25 @@
  },
  "physics/work-power": {
   "counts": {
-   "done": 9,
+   "done": 18,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 9
+   "total": 18
   },
   "fingerprint": "3d783d3251ed",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/work-power.html",
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Work, Power & Efficiency",
    "zh": "功、功率与机械效率"
   },
-  "updated": "2026-11-21 17:34:28",
+  "updated": "2026-11-21 18:44:29",
   "verified": ""
  }
 }
