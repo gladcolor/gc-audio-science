@@ -1243,11 +1243,11 @@
  },
  "chemistry/acids-bases": {
   "counts": {
-   "done": 34,
+   "done": 83,
    "failed": 0,
    "held": 0,
-   "missing": 163,
-   "old": 4,
+   "missing": 115,
+   "old": 3,
    "total": 201
   },
   "fingerprint": "46fcb7c956e7",
@@ -1261,7 +1261,7 @@
    "en": "Acids, Bases & pH",
    "zh": "酸、碱与 pH"
   },
-  "updated": "2026-11-22 16:09:31",
+  "updated": "2026-11-22 16:10:24",
   "verified": ""
  },
  "chemistry/atoms": {
