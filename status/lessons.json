@@ -1265,16 +1265,17 @@
  },
  "chemistry/atoms": {
   "counts": {
-   "done": 27,
+   "done": 133,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 51,
    "old": 0,
-   "total": 27
+   "total": 184
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "f17292f09cc8",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/atoms.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1282,7 +1283,7 @@
    "en": "Atomic Structure",
    "zh": "原子结构"
   },
-  "updated": "2026-11-21 21:37:47",
+  "updated": "2026-11-22 16:05:33",
   "verified": ""
  },
  "chemistry/carbon": {
@@ -2410,7 +2411,7 @@
    "zh": "长度时间的测量与机械运动"
   },
   "updated": "2026-11-22 15:32:04",
-  "verified": ""
+  "verified": "2026-11-22 16:05:10"
  },
  "physics/motion": {
   "counts": {
@@ -2548,7 +2549,7 @@
    "zh": "欧姆定律与串并联电路"
   },
   "updated": "2026-11-22 15:30:53",
-  "verified": ""
+  "verified": "2026-11-22 16:05:09"
  },
  "physics/phase-changes": {
   "counts": {
