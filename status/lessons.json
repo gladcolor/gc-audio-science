@@ -1106,15 +1106,15 @@
  },
  "biology/nutrition-digestion": {
   "counts": {
-   "done": 457,
+   "done": 505,
    "failed": 0,
    "held": 0,
-   "missing": 27,
-   "old": 21,
+   "missing": 0,
+   "old": 0,
    "total": 505
   },
   "fingerprint": "6f7beab229c7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/nutrition-digestion.html",
   "record_demand": true,
   "record_langs": [
@@ -1125,7 +1125,7 @@
    "en": "Nutrition & Digestion",
    "zh": "人体的营养与消化"
   },
-  "updated": "2026-11-22 21:16:09",
+  "updated": "2026-11-22 21:22:47",
   "verified": ""
  },
  "biology/osmosis": {
