@@ -1896,10 +1896,10 @@
  },
  "earth/climate": {
   "counts": {
-   "done": 244,
+   "done": 362,
    "failed": 0,
    "held": 0,
-   "missing": 121,
+   "missing": 3,
    "old": 0,
    "total": 365
   },
@@ -1915,7 +1915,7 @@
    "en": "Climate",
    "zh": "气候"
   },
-  "updated": "2026-11-22 21:29:08",
+  "updated": "2026-11-22 21:31:26",
   "verified": ""
  },
  "earth/earth-layers": {
