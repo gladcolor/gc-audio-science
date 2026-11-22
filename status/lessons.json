@@ -2627,25 +2627,26 @@
  },
  "physics/ohms-law": {
   "counts": {
-   "done": 183,
+   "done": 188,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 183
+   "missing": 170,
+   "old": 4,
+   "total": 362
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "2145d39c5bb8",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/ohms-law.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Ohm’s Law, Series & Parallel Circuits",
    "zh": "欧姆定律与串并联电路"
   },
-  "updated": "2026-11-22 20:19:22",
+  "updated": "2026-11-22 22:04:44",
   "verified": ""
  },
  "physics/phase-changes": {
