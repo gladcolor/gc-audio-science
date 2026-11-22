@@ -2468,10 +2468,10 @@
  },
  "physics/measurements-density": {
   "counts": {
-   "done": 293,
+   "done": 351,
    "failed": 0,
    "held": 0,
-   "missing": 66,
+   "missing": 8,
    "old": 3,
    "total": 362
   },
@@ -2487,7 +2487,7 @@
    "en": "Mass, Density & Measurement",
    "zh": "质量、密度及其测量"
   },
-  "updated": "2026-11-22 22:08:53",
+  "updated": "2026-11-22 22:09:15",
   "verified": ""
  },
  "physics/mechanical-motion": {
