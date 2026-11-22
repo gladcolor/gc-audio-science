@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "cs/cs-ai", "voice": "serena", "en": "5c0cf48f", "zh": "3a749f6a"});
+LabAudioManifest({"lesson": "cs/cs-ai", "voice": "serena", "en": "5c0cf48f", "zh": "042c1ddd 0968ad22 0a5a513f 0acb40cc 0e9ea069 13d81f3b 22648cea 2f5193e1 2f687927 3334f55a 36930f36 39a02a8d 3a749f6a 43285544 4f347de8 5328cc48 533d63e9 605b0c59 632abcc5 63f3b9d9 6db40425 70694d86 79de4c84 97a28dc8 9e1caeae a07b5d23 ac5d3f55 acfae556 ad1b9087 ae2bdc1e b6211929 bae6c54c bb3bcd67 bf32545b c18667bc c31e1a4a cc66613e"});
