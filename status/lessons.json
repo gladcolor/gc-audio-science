@@ -859,15 +859,15 @@
  },
  "biology/endocytosis": {
   "counts": {
-   "done": 335,
+   "done": 338,
    "failed": 0,
    "held": 0,
-   "missing": 3,
+   "missing": 0,
    "old": 0,
    "total": 338
   },
   "fingerprint": "73e19971a222",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "record_demand": true,
   "record_langs": [
@@ -878,7 +878,7 @@
    "en": "Endocytosis: How Cells Eat",
    "zh": "胞吞：细胞怎样“吃”东西"
   },
-  "updated": "2026-11-22 21:06:40",
+  "updated": "2026-11-22 21:08:32",
   "verified": ""
  },
  "biology/evolution": {
