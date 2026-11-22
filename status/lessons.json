@@ -786,11 +786,11 @@
  },
  "biology/diffusion": {
   "counts": {
-   "done": 264,
+   "done": 301,
    "failed": 0,
    "held": 0,
-   "missing": 43,
-   "old": 2,
+   "missing": 7,
+   "old": 1,
    "total": 309
   },
   "fingerprint": "54702cf6a7de",
@@ -805,7 +805,7 @@
    "en": "Diffusion in the Body",
    "zh": "人体中的扩散"
   },
-  "updated": "2026-11-22 21:04:40",
+  "updated": "2026-11-22 21:05:06",
   "verified": ""
  },
  "biology/dna": {
