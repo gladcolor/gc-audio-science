@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 22:42:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:42:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Updated 2026-11-22 22:42:09. Labels: finished / in progress / no audio / failed 
 | astronomy/star-life | finished | 649 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:44 |  |
 | astronomy/sun-stars | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-22 21:49:52 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-22 21:48:07 |  |
-| astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-22 22:15:20 |  |
+| astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-22 22:15:20 | 2026-11-22 22:42:19 |
 | astronomy/tides | finished | 393 | 0 | 0 | 0 | 0 | 2026-11-22 21:48:03 |  |
 | biology/animals | finished | 453 | 0 | 0 | 0 | 0 | 2026-11-22 21:11:15 |  |
 | biology/body-systems | finished | 609 | 0 | 0 | 0 | 0 | 2026-11-22 21:14:01 |  |
@@ -58,7 +58,7 @@ Updated 2026-11-22 22:42:09. Labels: finished / in progress / no audio / failed 
 | biology/protein-synthesis | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-22 21:10:15 |  |
 | biology/reproduction | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-22 21:09:47 |  |
 | biology/tonicity-labs | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-22 21:07:13 |  |
-| chemistry/acids-bases | in progress | 317 | 4 | 64 | 0 | 0 | 2026-11-22 22:21:45 |  |
+| chemistry/acids-bases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-22 22:42:58 |  |
 | chemistry/atoms | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-22 22:33:04 |  |
 | chemistry/carbon | finished | 425 | 0 | 0 | 0 | 0 | 2026-11-22 22:35:44 |  |
 | chemistry/changes | finished | 278 | 0 | 0 | 0 | 0 | 2026-11-22 22:36:48 |  |
@@ -97,12 +97,12 @@ Updated 2026-11-22 22:42:09. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 703 | 0 | 0 | 0 | 0 | 2026-11-22 21:37:43 |  |
 | earth/weathering-erosion | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-22 21:38:24 |  |
 | physics/buoyancy | finished | 411 | 0 | 0 | 0 | 0 | 2026-11-22 22:09:05 |  |
-| physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:27 |  |
+| physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:27 | 2026-11-22 22:42:40 |
 | physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-22 22:13:34 |  |
 | physics/electricity | finished | 324 | 0 | 0 | 0 | 0 | 2026-11-22 22:21:07 |  |
 | physics/electromagnetism | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:54 |  |
 | physics/energy | finished | 326 | 0 | 0 | 0 | 0 | 2026-11-22 22:11:45 |  |
-| physics/forces | finished | 465 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:20 |  |
+| physics/forces | finished | 465 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:20 | 2026-11-22 22:42:42 |
 | physics/formula-sheet | finished | 683 | 0 | 0 | 0 | 0 | 2026-11-22 22:32:14 |  |
 | physics/heat-transfer | finished | 291 | 0 | 0 | 0 | 0 | 2026-11-22 22:23:31 |  |
 | physics/lenses | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 22:18:23 |  |

@@ -525,7 +525,7 @@
    "zh": "三体问题：秩序与混沌"
   },
   "updated": "2026-11-22 22:15:20",
-  "verified": ""
+  "verified": "2026-11-22 22:42:19"
  },
  "astronomy/tides": {
   "counts": {
@@ -1297,15 +1297,15 @@
  },
  "chemistry/acids-bases": {
   "counts": {
-   "done": 317,
+   "done": 385,
    "failed": 0,
    "held": 0,
-   "missing": 64,
-   "old": 4,
+   "missing": 0,
+   "old": 0,
    "total": 385
   },
   "fingerprint": "46fcb7c956e7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
   "record_demand": true,
   "record_langs": [
@@ -1316,7 +1316,7 @@
    "en": "Acids, Bases & pH",
    "zh": "酸、碱与 pH"
   },
-  "updated": "2026-11-22 22:21:45",
+  "updated": "2026-11-22 22:42:58",
   "verified": ""
  },
  "chemistry/atoms": {
@@ -2246,7 +2246,7 @@
    "zh": "电磁波、信息传递与能源"
   },
   "updated": "2026-11-22 22:17:27",
-  "verified": ""
+  "verified": "2026-11-22 22:42:40"
  },
  "physics/electric-power": {
   "counts": {
@@ -2366,7 +2366,7 @@
    "zh": "力、摩擦力与重力"
   },
   "updated": "2026-11-22 22:17:20",
-  "verified": ""
+  "verified": "2026-11-22 22:42:42"
  },
  "physics/formula-sheet": {
   "counts": {
