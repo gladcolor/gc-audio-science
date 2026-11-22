@@ -2261,15 +2261,15 @@
  },
  "physics/electricity": {
   "counts": {
-   "done": 245,
+   "done": 324,
    "failed": 0,
    "held": 0,
-   "missing": 76,
-   "old": 3,
+   "missing": 0,
+   "old": 0,
    "total": 324
   },
   "fingerprint": "04c827da44d8",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electricity.html",
   "record_demand": true,
   "record_langs": [
@@ -2280,7 +2280,7 @@
    "en": "Electric Circuits",
    "zh": "电路"
   },
-  "updated": "2026-11-22 22:00:22",
+  "updated": "2026-11-22 22:21:07",
   "verified": ""
  },
  "physics/electromagnetism": {
