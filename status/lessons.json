@@ -1729,15 +1729,15 @@
  },
  "chemistry/water-purification": {
   "counts": {
-   "done": 431,
+   "done": 451,
    "failed": 0,
    "held": 0,
-   "missing": 14,
-   "old": 6,
+   "missing": 0,
+   "old": 0,
    "total": 451
   },
   "fingerprint": "a105d3551163",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/water-purification.html",
   "record_demand": true,
   "record_langs": [
@@ -1748,7 +1748,7 @@
    "en": "Water: Purification & Composition",
    "zh": "水的净化、组成与保护"
   },
-  "updated": "2026-11-22 22:28:52",
+  "updated": "2026-11-22 22:43:33",
   "verified": ""
  },
  "cs/cs-ai": {
