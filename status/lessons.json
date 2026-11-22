@@ -2285,7 +2285,7 @@
    "old": 0,
    "total": 349
   },
-  "fingerprint": "",
+  "fingerprint": "0474676025bb",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/formula-sheet.html",
   "record_demand": true,
@@ -2296,7 +2296,7 @@
    "en": "Physics Formula Sheet & Calculators",
    "zh": "初中物理公式表与计算器"
   },
-  "updated": "2026-11-22 15:35:57",
+  "updated": "2026-11-22 20:25:55",
   "verified": ""
  },
  "physics/heat-transfer": {
