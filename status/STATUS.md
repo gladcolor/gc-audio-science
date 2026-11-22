@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:27:02. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:27:13. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -65,7 +65,7 @@ Updated 2026-11-22 16:27:02. Labels: finished / in progress / no audio / failed 
 | chemistry/chemical-equations | finished | 117 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:24 |  |
 | chemistry/chemistry-life | in progress | 26 | 0 | 184 | 0 | 0 | 2026-11-22 16:26:41 |  |
 | chemistry/combustion-fuels | in progress | 169 | 0 | 23 | 0 | 0 | 2026-11-22 16:25:32 |  |
-| chemistry/density | in progress | 70 | 1 | 129 | 0 | 0 | 2026-11-22 16:11:45 |  |
+| chemistry/density | finished | 200 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:13 |  |
 | chemistry/elements-compounds | finished | 171 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:50 |  |
 | chemistry/formulas-valence | finished | 128 | 0 | 0 | 0 | 0 | 2026-11-22 16:23:03 |  |
 | chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 | 2026-11-21 20:59:04 |
