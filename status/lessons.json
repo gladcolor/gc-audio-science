@@ -2480,6 +2480,29 @@
   "updated": "2026-11-22 15:31:02",
   "verified": ""
  },
+ "physics/nuclear-fusion": {
+  "counts": {
+   "done": 80,
+   "failed": 0,
+   "held": 0,
+   "missing": 142,
+   "old": 0,
+   "total": 222
+  },
+  "fingerprint": "865dc674a152",
+  "label": "in progress",
+  "page": "https://shanchuan.org/middle/physics/nuclear-fusion.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Nuclear Fusion, the Sun & the Hydrogen Bomb",
+   "zh": "核聚变、太阳与氢弹"
+  },
+  "updated": "2026-11-22 15:33:08",
+  "verified": ""
+ },
  "physics/ohms-law": {
   "counts": {
    "done": 183,
