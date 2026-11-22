@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 15:31:02. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 15:31:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -96,11 +96,11 @@ Updated 2026-11-22 15:31:02. Labels: finished / in progress / no audio / failed 
 | earth/water-cycle | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-22 12:21:40 | 2026-11-22 12:28:02 |
 | earth/weather | finished | 361 | 0 | 0 | 0 | 0 | 2026-11-22 12:28:50 | 2026-11-22 12:44:42 |
 | earth/weathering-erosion | finished | 180 | 0 | 0 | 0 | 0 | 2026-11-22 12:02:35 | 2026-11-22 12:09:28 |
-| physics/buoyancy | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:09 |  |
+| physics/buoyancy | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:09 | 2026-11-22 15:31:25 |
 | physics/communications-energy | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:13 | 2026-11-21 20:41:08 |
 | physics/electric-power | in progress | 129 | 0 | 53 | 0 | 0 | 2026-11-22 15:23:02 |  |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
-| physics/electromagnetism | in progress | 100 | 0 | 88 | 0 | 0 | 2026-11-22 15:27:14 |  |
+| physics/electromagnetism | in progress | 146 | 3 | 39 | 0 | 0 | 2026-11-22 15:31:29 |  |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
 | physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
 | physics/formula-sheet | in progress | 319 | 0 | 30 | 0 | 0 | 2026-11-22 15:25:26 |  |
@@ -114,11 +114,11 @@ Updated 2026-11-22 15:31:02. Labels: finished / in progress / no audio / failed 
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
 | physics/nuclear-fission | in progress | 10 | 14 | 174 | 0 | 0 | 2026-11-22 15:31:02 |  |
 | physics/ohms-law | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 15:30:53 |  |
-| physics/phase-changes | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:22 |  |
+| physics/phase-changes | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:22 | 2026-11-22 15:31:25 |
 | physics/pressure | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:50 | 2026-11-22 15:19:20 |
 | physics/simple-machines | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:25 | 2026-11-22 14:56:27 |
 | physics/sound | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:09 | 2026-11-22 15:15:46 |
-| physics/specific-heat | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:16 |  |
+| physics/specific-heat | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:16 | 2026-11-22 15:31:25 |
 | physics/static-charge | in progress | 96 | 0 | 144 | 0 | 0 | 2026-11-22 15:25:53 |  |
 | physics/waves | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:57 | 2026-11-22 14:57:15 |
-| physics/work-power | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 15:19:26 |  |
+| physics/work-power | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 15:19:26 | 2026-11-22 15:31:16 |
