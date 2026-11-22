@@ -1942,10 +1942,10 @@
  },
  "earth/fossils-time": {
   "counts": {
-   "done": 276,
+   "done": 327,
    "failed": 0,
    "held": 0,
-   "missing": 99,
+   "missing": 48,
    "old": 2,
    "total": 377
   },
@@ -1961,7 +1961,7 @@
    "en": "Fossils & Geologic Time",
    "zh": "化石与地质年代"
   },
-  "updated": "2026-11-22 21:23:00",
+  "updated": "2026-11-22 21:23:27",
   "verified": ""
  },
  "earth/natural-resources": {
