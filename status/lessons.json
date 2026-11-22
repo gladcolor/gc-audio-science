@@ -1601,16 +1601,17 @@
  },
  "chemistry/solutions": {
   "counts": {
-   "done": 17,
+   "done": 86,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 74,
    "old": 0,
-   "total": 17
+   "total": 160
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "ee1a3d7ab61a",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/solutions.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1618,8 +1619,8 @@
    "en": "Solutions & Solubility",
    "zh": "溶液与溶解度"
   },
-  "updated": "2026-11-21 21:04:26",
-  "verified": "2026-11-21 21:14:03"
+  "updated": "2026-11-22 16:10:45",
+  "verified": ""
  },
  "chemistry/states-of-matter": {
   "counts": {
