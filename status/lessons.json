@@ -1654,25 +1654,26 @@
  },
  "chemistry/salts-fertilizers": {
   "counts": {
-   "done": 225,
+   "done": 230,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 225
+   "missing": 155,
+   "old": 77,
+   "total": 462
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "f0b53968cdcc",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/salts-fertilizers.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Salts, Double Displacement & Fertilizers",
    "zh": "盐、复分解反应与化肥"
   },
-  "updated": "2026-11-22 20:24:15",
+  "updated": "2026-11-22 22:29:16",
   "verified": ""
  },
  "chemistry/solutions": {
