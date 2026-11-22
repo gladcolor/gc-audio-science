@@ -1749,15 +1749,15 @@
  },
  "cs/cs-computers": {
   "counts": {
-   "done": 397,
+   "done": 433,
    "failed": 0,
    "held": 0,
-   "missing": 36,
+   "missing": 0,
    "old": 0,
    "total": 433
   },
   "fingerprint": "2cdc4b5e9d91",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-computers.html",
   "record_demand": true,
   "record_langs": [
@@ -1767,7 +1767,7 @@
    "en": "How Computers Work",
    "zh": "计算机是怎样工作的"
   },
-  "updated": "2026-11-22 20:07:24",
+  "updated": "2026-11-22 20:25:18",
   "verified": ""
  },
  "cs/cs-data-crypto": {
