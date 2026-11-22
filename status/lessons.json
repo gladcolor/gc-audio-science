@@ -451,15 +451,15 @@
  },
  "astronomy/sun-stars": {
   "counts": {
-   "done": 375,
+   "done": 448,
    "failed": 0,
    "held": 0,
-   "missing": 67,
-   "old": 6,
+   "missing": 0,
+   "old": 0,
    "total": 448
   },
   "fingerprint": "70ed0b8459ac",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
   "record_demand": true,
   "record_langs": [
@@ -470,7 +470,7 @@
    "en": "The Sun & Life of Stars",
    "zh": "太阳与恒星的一生"
   },
-  "updated": "2026-11-22 21:33:17",
+  "updated": "2026-11-22 21:49:52",
   "verified": ""
  },
  "astronomy/telescopes-light": {
