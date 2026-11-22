@@ -2229,11 +2229,11 @@
  },
  "physics/electric-power": {
   "counts": {
-   "done": 219,
+   "done": 322,
    "failed": 0,
    "held": 0,
-   "missing": 134,
-   "old": 5,
+   "missing": 34,
+   "old": 2,
    "total": 358
   },
   "fingerprint": "1f2940ba0d9f",
@@ -2248,7 +2248,7 @@
    "en": "Electric Power & Household Circuits",
    "zh": "电功率与家庭电路"
   },
-  "updated": "2026-11-22 22:06:13",
+  "updated": "2026-11-22 22:07:07",
   "verified": ""
  },
  "physics/electricity": {
