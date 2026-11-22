@@ -439,10 +439,10 @@
  },
  "astronomy/sun-stars": {
   "counts": {
-   "done": 307,
+   "done": 375,
    "failed": 0,
    "held": 0,
-   "missing": 135,
+   "missing": 67,
    "old": 6,
    "total": 448
   },
@@ -458,7 +458,7 @@
    "en": "The Sun & Life of Stars",
    "zh": "太阳与恒星的一生"
   },
-  "updated": "2026-11-22 21:32:49",
+  "updated": "2026-11-22 21:33:17",
   "verified": ""
  },
  "astronomy/telescopes-light": {
