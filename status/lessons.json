@@ -2368,10 +2368,10 @@
  },
  "physics/heat-transfer": {
   "counts": {
-   "done": 189,
+   "done": 239,
    "failed": 0,
    "held": 0,
-   "missing": 101,
+   "missing": 51,
    "old": 1,
    "total": 291
   },
@@ -2387,7 +2387,7 @@
    "en": "Heat Transfer",
    "zh": "热传递"
   },
-  "updated": "2026-11-22 21:57:39",
+  "updated": "2026-11-22 21:58:30",
   "verified": ""
  },
  "physics/lenses": {
