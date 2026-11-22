@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:57:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 17:10:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -60,23 +60,23 @@ Updated 2026-11-22 16:57:46. Labels: finished / in progress / no audio / failed 
 | biology/tonicity-labs | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-22 10:38:21 | 2026-11-22 10:40:42 |
 | chemistry/acids-bases | finished | 201 | 0 | 0 | 0 | 0 | 2026-11-22 16:21:59 | 2026-11-22 16:57:14 |
 | chemistry/atoms | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:56 | 2026-11-22 16:43:48 |
-| chemistry/carbon | finished | 218 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:50 |  |
+| chemistry/carbon | finished | 218 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:50 | 2026-11-22 16:58:29 |
 | chemistry/changes | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:02 | 2026-11-22 16:44:44 |
 | chemistry/chemical-equations | finished | 117 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:24 | 2026-11-22 16:57:29 |
-| chemistry/chemistry-life | in progress | 94 | 0 | 116 | 0 | 0 | 2026-11-22 16:27:33 |  |
-| chemistry/combustion-fuels | finished | 192 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:25 |  |
+| chemistry/chemistry-life | finished | 210 | 0 | 0 | 0 | 0 | 2026-11-22 17:10:39 |  |
+| chemistry/combustion-fuels | finished | 192 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:25 | 2026-11-22 17:01:27 |
 | chemistry/density | finished | 200 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:13 | 2026-11-22 16:57:14 |
 | chemistry/elements-compounds | finished | 171 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:50 | 2026-11-22 16:44:52 |
 | chemistry/formulas-valence | finished | 128 | 0 | 0 | 0 | 0 | 2026-11-22 16:23:03 | 2026-11-22 16:56:48 |
-| chemistry/lab-skills | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:18 |  |
-| chemistry/metals | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:45 |  |
-| chemistry/oxygen-air | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:14 |  |
-| chemistry/periodic-table | finished | 428 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:22 |  |
+| chemistry/lab-skills | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:18 | 2026-11-22 17:02:12 |
+| chemistry/metals | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:45 | 2026-11-22 16:58:59 |
+| chemistry/oxygen-air | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:14 | 2026-11-22 16:58:23 |
+| chemistry/periodic-table | finished | 428 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:22 | 2026-11-22 16:58:58 |
 | chemistry/reactions | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:02 | 2026-11-22 16:45:31 |
-| chemistry/salts-fertilizers | finished | 225 | 0 | 0 | 0 | 0 | 2026-11-22 16:57:46 |  |
+| chemistry/salts-fertilizers | finished | 225 | 0 | 0 | 0 | 0 | 2026-11-22 16:57:46 | 2026-11-22 17:01:40 |
 | chemistry/solutions | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:21 | 2026-11-22 16:45:44 |
 | chemistry/states-of-matter | finished | 193 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:54 | 2026-11-22 16:44:50 |
-| chemistry/water-purification | finished | 232 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:11 |  |
+| chemistry/water-purification | finished | 232 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:11 | 2026-11-22 16:59:39 |
 | cs/cs-ai | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-22 00:29:41 | 2026-11-22 00:32:09 |
 | cs/cs-algorithms | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-22 00:41:27 | 2026-11-22 00:43:14 |
 | cs/cs-coding | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-22 00:28:36 | 2026-11-22 00:32:08 |
