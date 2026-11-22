@@ -212,10 +212,10 @@
  },
  "astronomy/night-sky": {
   "counts": {
-   "done": 285,
+   "done": 375,
    "failed": 0,
    "held": 0,
-   "missing": 218,
+   "missing": 128,
    "old": 2,
    "total": 505
   },
@@ -231,7 +231,7 @@
    "en": "Constellations & the Night Sky",
    "zh": "星座与夜空"
   },
-  "updated": "2026-11-22 21:37:31",
+  "updated": "2026-11-22 21:38:34",
   "verified": ""
  },
  "astronomy/planets-moons": {

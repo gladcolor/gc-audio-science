@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 21:38:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 21:38:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -13,7 +13,7 @@ Updated 2026-11-22 21:38:25. Labels: finished / in progress / no audio / failed 
 | astronomy/kepler-laws | finished | 178 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:09 |  |
 | astronomy/measuring-distance | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:15 |  |
 | astronomy/moon-phases | in progress | 567 | 0 | 38 | 0 | 0 | 2026-11-22 21:36:22 |  |
-| astronomy/night-sky | in progress | 285 | 2 | 218 | 0 | 0 | 2026-11-22 21:37:31 |  |
+| astronomy/night-sky | in progress | 375 | 2 | 128 | 0 | 0 | 2026-11-22 21:38:34 |  |
 | astronomy/planets-moons | finished | 354 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:26 |  |
 | astronomy/rocketry | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:54 |  |
 | astronomy/scale-universe | finished | 545 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:50 |  |
