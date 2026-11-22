@@ -1,31 +1,31 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 14:05:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 14:19:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| astronomy/big-bang | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:23 |  |
-| astronomy/black-holes | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 13:54:38 |  |
+| astronomy/big-bang | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:23 | 2026-11-22 14:19:14 |
+| astronomy/black-holes | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 13:54:38 | 2026-11-22 14:13:10 |
 | astronomy/eclipses | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-22 13:00:22 | 2026-11-22 13:12:46 |
-| astronomy/exoplanets | finished | 97 | 0 | 0 | 0 | 0 | 2026-11-22 13:55:18 |  |
+| astronomy/exoplanets | finished | 97 | 0 | 0 | 0 | 0 | 2026-11-22 13:55:18 | 2026-11-22 14:13:37 |
 | astronomy/galaxies | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-22 12:39:58 | 2026-11-22 12:50:21 |
 | astronomy/gravity-orbits | finished | 177 | 0 | 0 | 0 | 0 | 2026-11-22 12:40:06 | 2026-11-22 12:51:17 |
-| astronomy/kepler-laws | finished | 178 | 0 | 0 | 0 | 0 | 2026-11-22 13:57:41 |  |
+| astronomy/kepler-laws | finished | 178 | 0 | 0 | 0 | 0 | 2026-11-22 13:57:41 | 2026-11-22 14:14:25 |
 | astronomy/measuring-distance | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-22 13:34:00 | 2026-11-22 13:37:15 |
 | astronomy/moon-phases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-22 13:00:34 | 2026-11-22 13:14:42 |
 | astronomy/night-sky | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-22 13:06:06 | 2026-11-22 13:17:06 |
-| astronomy/planets-moons | finished | 354 | 0 | 0 | 0 | 0 | 2026-11-22 14:01:11 |  |
-| astronomy/rocketry | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 13:59:16 |  |
+| astronomy/planets-moons | finished | 354 | 0 | 0 | 0 | 0 | 2026-11-22 14:01:11 | 2026-11-22 14:16:47 |
+| astronomy/rocketry | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 13:59:16 | 2026-11-22 14:15:10 |
 | astronomy/scale-universe | finished | 545 | 0 | 0 | 0 | 0 | 2026-11-22 13:31:35 | 2026-11-22 13:36:34 |
 | astronomy/seasons | finished | 205 | 0 | 0 | 0 | 0 | 2026-11-22 10:16:00 | 2026-11-22 10:19:27 |
 | astronomy/sky-tonight | finished | 275 | 0 | 0 | 0 | 0 | 2026-11-22 13:27:02 | 2026-11-22 13:33:30 |
-| astronomy/small-bodies | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-22 14:03:49 |  |
+| astronomy/small-bodies | finished | 199 | 0 | 0 | 0 | 0 | 2026-11-22 14:03:49 | 2026-11-22 14:17:43 |
 | astronomy/solar-system | finished | 270 | 0 | 0 | 0 | 0 | 2026-11-22 12:36:59 | 2026-11-22 12:47:54 |
 | astronomy/space-exploration | finished | 246 | 0 | 0 | 0 | 0 | 2026-11-22 13:09:33 | 2026-11-22 13:18:22 |
 | astronomy/star-life | finished | 288 | 0 | 0 | 0 | 0 | 2026-11-22 13:37:18 | 2026-11-22 13:41:27 |
 | astronomy/sun-stars | finished | 236 | 0 | 0 | 0 | 0 | 2026-11-22 12:38:33 | 2026-11-22 12:49:07 |
 | astronomy/telescopes-light | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-22 13:31:25 | 2026-11-22 13:34:09 |
-| astronomy/three-body | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:27 |  |
+| astronomy/three-body | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:27 | 2026-11-22 14:19:59 |
 | astronomy/tides | finished | 202 | 0 | 0 | 0 | 0 | 2026-11-22 13:03:34 | 2026-11-22 13:15:44 |
 | biology/animals | finished | 240 | 0 | 0 | 0 | 0 | 2026-11-22 11:19:41 | 2026-11-22 11:27:12 |
 | biology/body-systems | finished | 304 | 0 | 0 | 0 | 0 | 2026-11-22 11:19:33 | 2026-11-22 11:25:20 |
@@ -110,7 +110,7 @@ Updated 2026-11-22 14:05:27. Labels: finished / in progress / no audio / failed 
 | physics/magnetism | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 21:36:40 | 2026-11-21 21:42:43 |
 | physics/measurements-density | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:04 | 2026-11-21 20:40:20 |
 | physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
-| physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 |  |
+| physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
 | physics/newtons-laws | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:21 |  |
 | physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:13 | 2026-11-21 20:59:16 |
 | physics/phase-changes | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:01:49 | 2026-11-21 21:12:50 |
