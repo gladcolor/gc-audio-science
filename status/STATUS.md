@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 14:49:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 14:57:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -101,7 +101,7 @@ Updated 2026-11-22 14:49:22. Labels: finished / in progress / no audio / failed 
 | physics/electric-power | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:43 | 2026-11-21 21:14:16 |
 | physics/electricity | in progress | 48 | 6 | 116 | 0 | 0 | 2026-11-22 14:46:08 |  |
 | physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
-| physics/energy | in progress | 152 | 0 | 10 | 0 | 0 | 2026-11-22 14:47:13 |  |
+| physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 |  |
 | physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
 | physics/formula-sheet | finished | 59 | 0 | 0 | 0 | 0 | 2026-11-21 21:07:06 |  |
 | physics/heat-transfer | in progress | 110 | 0 | 41 | 0 | 0 | 2026-11-22 14:37:55 |  |
@@ -111,13 +111,13 @@ Updated 2026-11-22 14:49:22. Labels: finished / in progress / no audio / failed 
 | physics/measurements-density | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:04 | 2026-11-21 20:40:20 |
 | physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
-| physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 |  |
+| physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
 | physics/ohms-law | finished | 4 | 0 | 0 | 0 | 0 | 2026-11-21 20:57:13 | 2026-11-21 20:59:16 |
 | physics/phase-changes | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-21 21:01:49 | 2026-11-21 21:12:50 |
 | physics/pressure | in progress | 26 | 0 | 146 | 0 | 0 | 2026-11-22 14:49:22 |  |
-| physics/simple-machines | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:25 |  |
+| physics/simple-machines | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:25 | 2026-11-22 14:56:27 |
 | physics/sound | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:53:16 |  |
 | physics/specific-heat | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 21:32:19 |  |
 | physics/static-charge | finished | 22 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:08 |  |
-| physics/waves | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:57 |  |
+| physics/waves | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:57 | 2026-11-22 14:57:15 |
 | physics/work-power | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 21:03:42 | 2026-11-21 21:13:21 |

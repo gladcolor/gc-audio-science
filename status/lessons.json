@@ -2202,15 +2202,15 @@
  },
  "physics/energy": {
   "counts": {
-   "done": 152,
+   "done": 162,
    "failed": 0,
    "held": 0,
-   "missing": 10,
+   "missing": 0,
    "old": 0,
    "total": 162
   },
   "fingerprint": "a318410b522f",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/energy.html",
   "record_demand": true,
   "record_langs": [
@@ -2220,7 +2220,7 @@
    "en": "Kinetic & Potential Energy",
    "zh": "动能与势能"
   },
-  "updated": "2026-11-22 14:47:13",
+  "updated": "2026-11-22 14:57:39",
   "verified": ""
  },
  "physics/forces": {
@@ -2446,7 +2446,7 @@
    "zh": "牛顿运动定律"
   },
   "updated": "2026-11-22 14:45:38",
-  "verified": ""
+  "verified": "2026-11-22 14:55:42"
  },
  "physics/ohms-law": {
   "counts": {
@@ -2536,7 +2536,7 @@
    "zh": "简单机械"
   },
   "updated": "2026-11-22 14:47:25",
-  "verified": ""
+  "verified": "2026-11-22 14:56:27"
  },
  "physics/sound": {
   "counts": {
@@ -2625,7 +2625,7 @@
    "zh": "波"
   },
   "updated": "2026-11-22 14:47:57",
-  "verified": ""
+  "verified": "2026-11-22 14:57:15"
  },
  "physics/work-power": {
   "counts": {
