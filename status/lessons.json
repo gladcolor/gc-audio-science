@@ -2491,25 +2491,26 @@
  },
  "physics/mechanical-motion": {
   "counts": {
-   "done": 183,
+   "done": 198,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 154,
    "old": 0,
-   "total": 183
+   "total": 352
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "27c08f484146",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/mechanical-motion.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Measurement & Mechanical Motion",
    "zh": "长度时间的测量与机械运动"
   },
-  "updated": "2026-11-22 20:19:26",
+  "updated": "2026-11-22 22:07:59",
   "verified": ""
  },
  "physics/motion": {
