@@ -1918,11 +1918,11 @@
  },
  "earth/earth-layers": {
   "counts": {
-   "done": 214,
+   "done": 241,
    "failed": 0,
    "held": 0,
-   "missing": 129,
-   "old": 19,
+   "missing": 103,
+   "old": 18,
    "total": 362
   },
   "fingerprint": "8cabea8d0900",
@@ -1937,7 +1937,7 @@
    "en": "Earth’s Layers",
    "zh": "地球的圈层"
   },
-  "updated": "2026-11-22 21:18:46",
+  "updated": "2026-11-22 21:19:13",
   "verified": ""
  },
  "earth/fossils-time": {
