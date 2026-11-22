@@ -1461,25 +1461,26 @@
  },
  "chemistry/density": {
   "counts": {
-   "done": 200,
+   "done": 286,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 200
+   "missing": 122,
+   "old": 4,
+   "total": 412
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "b060d34b5ae0",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/density.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Density",
    "zh": "密度"
   },
-  "updated": "2026-11-22 20:24:11",
+  "updated": "2026-11-22 22:22:11",
   "verified": ""
  },
  "chemistry/elements-compounds": {
