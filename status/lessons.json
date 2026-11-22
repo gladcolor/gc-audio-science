@@ -2589,11 +2589,11 @@
  },
  "physics/nuclear-fission": {
   "counts": {
-   "done": 194,
+   "done": 333,
    "failed": 0,
    "held": 0,
-   "missing": 166,
-   "old": 29,
+   "missing": 31,
+   "old": 25,
    "total": 389
   },
   "fingerprint": "a3a062344c0f",
@@ -2608,7 +2608,7 @@
    "en": "Nuclear Fission & the Atomic Bomb",
    "zh": "核裂变与原子弹"
   },
-  "updated": "2026-11-22 22:11:30",
+  "updated": "2026-11-22 22:13:00",
   "verified": ""
  },
  "physics/nuclear-fusion": {
