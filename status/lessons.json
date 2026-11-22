@@ -116,25 +116,26 @@
  },
  "astronomy/gravity-orbits": {
   "counts": {
-   "done": 177,
+   "done": 206,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 137,
    "old": 0,
-   "total": 177
+   "total": 343
   },
   "fingerprint": "7f856caa7ab5",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/gravity-orbits.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Gravity & Orbits",
    "zh": "引力与轨道"
   },
-  "updated": "2026-11-22 20:23:00",
+  "updated": "2026-11-22 21:33:46",
   "verified": ""
  },
  "astronomy/kepler-laws": {
