@@ -240,11 +240,11 @@
  },
  "astronomy/planets-moons": {
   "counts": {
-   "done": 556,
+   "done": 611,
    "failed": 0,
    "held": 0,
-   "missing": 67,
-   "old": 20,
+   "missing": 15,
+   "old": 17,
    "total": 643
   },
   "fingerprint": "6c919c40d838",
@@ -259,7 +259,7 @@
    "en": "Planet Lab: Worlds & Moons",
    "zh": "行星实验室：行星与卫星"
   },
-  "updated": "2026-11-22 21:52:27",
+  "updated": "2026-11-22 21:52:53",
   "verified": ""
  },
  "astronomy/rocketry": {
