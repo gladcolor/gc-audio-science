@@ -2177,7 +2177,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-22 15:02:30",
-  "verified": ""
+  "verified": "2026-11-22 15:17:35"
  },
  "physics/electromagnetism": {
   "counts": {
@@ -2222,7 +2222,7 @@
    "zh": "动能与势能"
   },
   "updated": "2026-11-22 14:57:39",
-  "verified": ""
+  "verified": "2026-11-22 15:14:11"
  },
  "physics/forces": {
   "counts": {
@@ -2290,7 +2290,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-22 14:59:30",
-  "verified": ""
+  "verified": "2026-11-22 15:14:59"
  },
  "physics/lenses": {
   "counts": {
@@ -2335,7 +2335,7 @@
    "zh": "光与电磁波谱"
   },
   "updated": "2026-11-22 14:58:23",
-  "verified": ""
+  "verified": "2026-11-22 15:16:44"
  },
  "physics/magnetism": {
   "counts": {
@@ -2358,7 +2358,7 @@
    "zh": "磁与电磁铁"
   },
   "updated": "2026-11-22 15:00:56",
-  "verified": ""
+  "verified": "2026-11-22 15:18:30"
  },
  "physics/measurements-density": {
   "counts": {
@@ -2515,7 +2515,7 @@
    "zh": "压强：固体、液体与大气"
   },
   "updated": "2026-11-22 15:02:50",
-  "verified": ""
+  "verified": "2026-11-22 15:19:20"
  },
  "physics/simple-machines": {
   "counts": {
@@ -2561,7 +2561,7 @@
    "zh": "声音"
   },
   "updated": "2026-11-22 14:58:09",
-  "verified": ""
+  "verified": "2026-11-22 15:15:46"
  },
  "physics/specific-heat": {
   "counts": {
@@ -2633,15 +2633,15 @@
  },
  "physics/work-power": {
   "counts": {
-   "done": 136,
+   "done": 167,
    "failed": 0,
    "held": 0,
-   "missing": 31,
+   "missing": 0,
    "old": 0,
    "total": 167
   },
   "fingerprint": "622e973725dd",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/work-power.html",
   "record_demand": true,
   "record_langs": [
@@ -2651,7 +2651,7 @@
    "en": "Work, Power & Efficiency",
    "zh": "功、功率与机械效率"
   },
-  "updated": "2026-11-22 15:05:54",
+  "updated": "2026-11-22 15:19:26",
   "verified": ""
  }
 }
