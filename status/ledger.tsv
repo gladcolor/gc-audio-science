@@ -2,6 +2,7 @@ lang	key	lesson	voice	kbps	date	source	send
 en	013e4b7c	astronomy/big-bang	serena moss8b	48	2026-11-21 18:32:55	tts	134cbe4dfa
 en	0c6307b2	astronomy/big-bang	serena moss8b	48	2026-11-21 18:42:12	tts	76d0c5401c
 en	1e1091c9	astronomy/big-bang	serena moss8b	48	2026-11-21 18:33:05	tts	74d05261aa
+en	20453d40	astronomy/big-bang	serena moss8b	48	2026-11-22 21:52:33	tts	29cce6a4d1
 en	23d24aa2	astronomy/big-bang	serena moss8b	48	2026-11-21 18:42:11	tts	a53860295d
 en	291d9d70	astronomy/big-bang	serena moss8b	48	2026-11-21 18:32:33	tts	32f22c95fd
 en	2acc12bc	astronomy/big-bang	serena moss8b	48	2026-11-21 18:42:17	tts	209a63e73d
@@ -1529,6 +1530,7 @@ zh	7f415ac6	astronomy/galaxies	serena moss8b	48	2026-11-22 12:34:42	tts	7e40fa60
 zh	8443f2ca	astronomy/galaxies	serena moss8b	48	2026-11-22 12:32:56	tts	b952347a1f
 zh	87611563	astronomy/galaxies	serena moss8b	48	2026-11-22 12:34:20	tts	e9fcdb490f
 zh	8b020632	astronomy/galaxies	serena moss8b	48	2026-11-22 12:37:50	tts	a2bf962151
+zh	8be8f567	astronomy/galaxies	serena moss8b	48	2026-11-22 21:52:33	tts	6657f6c1a8
 zh	8c9f1818	astronomy/galaxies	serena moss8b	48	2026-11-22 12:37:13	tts	a447e16dab
 zh	8d09365e	astronomy/galaxies	serena moss8b	48	2026-11-22 12:33:53	tts	39696c4057
 zh	8d9f7270	astronomy/galaxies	serena moss8b	48	2026-11-22 12:36:43	tts	c642efdbeb
@@ -3817,16 +3819,20 @@ en	6b030d5e	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:26	tts	f30
 en	6bc73f0b	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:50:30	tts	7d84f02104
 en	6c4e8c63	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:22	tts	5f95223633
 en	6cb732e9	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:03	tts	48daf2ea69
+en	6eddabc4	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	37bbf8f818
 en	6f04ee16	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:33:23	tts	7f8f350f13
 en	6fc76c22	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:14	tts	e91f775716
 en	70beb2f7	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:27	tts	81dd19fc63
 en	70bfe556	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:18	tts	0f7387a233
 en	7198d663	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:03	tts	208c6aabcf
+en	71d43506	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	7352ad414a
 en	731782b2	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:09	tts	cb65adfd63
 en	732ddde8	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:15	tts	cf0dbecee7
+en	74cde3e4	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	b74b2149db
 en	75306e82	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:23	tts	c9d84ad9b6
 en	772edcfb	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:13	tts	b83bd975c2
 en	776940f3	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:19	tts	07e1c010b9
+en	7779c8c8	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	b3fd381051
 en	7824b77d	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:50	tts	0d8ce12698
 en	799e0b88	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:05	tts	fd7b2a8581
 en	7c563561	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:41	tts	2013f7fe09
@@ -3859,6 +3865,7 @@ en	9dd4525e	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:05	tts	851
 en	9e59b908	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:38	tts	bfd42131f2
 en	9fa420f0	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:37:13	tts	014266e969
 en	a056a0aa	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:05	tts	e6316693b4
+en	a2098af5	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	7c46415518
 en	a2506b85	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:25	tts	7d93fc75a0
 en	a27161e7	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:50:19	tts	dac5c71c2e
 en	a2a66913	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:20	tts	ccde96b2e1
@@ -3902,6 +3909,7 @@ en	d5fc61db	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:27	tts	7ce
 en	d93cad29	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:38	tts	9aa8c7babb
 en	d9e1c0eb	astronomy/planets-moons	serena moss8b	48	2026-11-21 18:22:50	tts	c1e1a099ec
 en	da375702	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:05	tts	9060a01f23
+en	dce1227b	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:52:33	tts	caea557ea3
 en	dff91ad7	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:50:16	tts	55b418a8f9
 en	e0e85a5a	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:51:03	tts	38d47a2bc5
 en	e23da9e8	astronomy/planets-moons	serena moss8b	48	2026-11-22 21:50:43	tts	704234597c
@@ -6501,6 +6509,7 @@ en	da031bdf	astronomy/small-bodies	serena moss8b	48	2026-11-21 18:40:58	tts	82bf
 en	db53e4e5	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:52:10	tts	9f2ee4359d
 en	db5bad36	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:51:43	tts	157315e54c
 en	dd416229	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:52:11	tts	6ca09e9cbd
+en	e0e25670	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:52:33	tts	fe73e840a9
 en	e7fed5be	astronomy/small-bodies	serena moss8b	48	2026-11-21 18:19:14	tts	a2668ecc5d
 en	f088e020	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:52:06	tts	5f554c77d5
 en	f1c569cd	astronomy/small-bodies	serena moss8b	48	2026-11-22 21:51:51	tts	7607db9aba
