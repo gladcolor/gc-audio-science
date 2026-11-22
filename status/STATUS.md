@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:22:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:22:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -76,7 +76,7 @@ Updated 2026-11-22 16:22:07. Labels: finished / in progress / no audio / failed 
 | chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 | 2026-11-21 20:58:29 |
 | chemistry/solutions | in progress | 86 | 0 | 74 | 0 | 0 | 2026-11-22 16:10:45 |  |
 | chemistry/states-of-matter | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-21 21:39:23 |  |
-| chemistry/water-purification | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:45 | 2026-11-21 20:57:58 |
+| chemistry/water-purification | in progress | 30 | 0 | 202 | 0 | 0 | 2026-11-22 16:22:36 |  |
 | cs/cs-ai | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-22 00:29:41 | 2026-11-22 00:32:09 |
 | cs/cs-algorithms | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-22 00:41:27 | 2026-11-22 00:43:14 |
 | cs/cs-coding | finished | 10 | 0 | 0 | 0 | 0 | 2026-11-22 00:28:36 | 2026-11-22 00:32:08 |
@@ -112,7 +112,7 @@ Updated 2026-11-22 16:22:07. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:04 | 2026-11-22 16:05:10 |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
-| physics/nuclear-applications | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:21 |  |
+| physics/nuclear-applications | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:21 | 2026-11-22 16:22:33 |
 | physics/nuclear-fission | in progress | 186 | 1 | 11 | 0 | 0 | 2026-11-22 15:34:21 |  |
 | physics/nuclear-fusion | in progress | 187 | 0 | 35 | 0 | 0 | 2026-11-22 15:34:55 |  |
 | physics/ohms-law | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 15:30:53 | 2026-11-22 16:05:09 |
