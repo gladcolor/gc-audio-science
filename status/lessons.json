@@ -1968,25 +1968,26 @@
  },
  "earth/natural-resources": {
   "counts": {
-   "done": 165,
+   "done": 190,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 165
+   "missing": 126,
+   "old": 9,
+   "total": 325
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "3e0bcffdd198",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/earth/natural-resources.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Natural Resources & Energy",
    "zh": "自然资源与能源"
   },
-  "updated": "2026-11-22 20:18:11",
+  "updated": "2026-11-22 21:30:01",
   "verified": ""
  },
  "earth/oceans": {
