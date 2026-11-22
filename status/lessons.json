@@ -2223,10 +2223,10 @@
  },
  "physics/forces": {
   "counts": {
-   "done": 64,
+   "done": 108,
    "failed": 0,
    "held": 0,
-   "missing": 170,
+   "missing": 126,
    "old": 1,
    "total": 235
   },
@@ -2241,7 +2241,7 @@
    "en": "Forces, Friction & Gravity",
    "zh": "力、摩擦力与重力"
   },
-  "updated": "2026-11-22 14:21:11",
+  "updated": "2026-11-22 14:22:25",
   "verified": ""
  },
  "physics/formula-sheet": {
