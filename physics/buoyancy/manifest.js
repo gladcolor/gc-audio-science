@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/buoyancy", "voice": "serena", "en": "05e3b40f 368c5308 3bd6875b 4bed4ec6 5f8bfbaf eb402e53 fbe803ef", "zh": "0f2e85da 4dd6b7f1 6abb85f7 8861d90d 9c4a23cb a0fc5293 d5c38e4c"});
+LabAudioManifest({"lesson": "physics/buoyancy", "voice": "serena", "en": "05e3b40f 368c5308 3bd6875b 4bed4ec6 5f8bfbaf eb402e53 fbe803ef", "zh": "07a7b62a 0f2e85da 0f4dfc86 20b65ff0 29d40a20 2a6ab3f6 2f08e33c 307e21d7 377b7bfc 37d2a9ab 3d4f951d 420792b9 479f1b0f 4dd6b7f1 62c23ed1 6500eedc 6abb85f7 6c76b720 6da36945 76e5b8c5 8861d90d 9a175087 9c4a23cb a0fc5293 a207139b a4185206 ae914fcb bbe0c0cd d5c38e4c d77490f3 d7a1f66b db0a5271 e7182a96 ec7b3e39 f2cbf196"});
