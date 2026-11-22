@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/oxygen-air", "voice": "serena", "en": "3370990c 46dd5206 493f2378 5b136b9c 683516a0 6eb762f7 83249e4d 8adfaadd 9e529e7a a38128da a7a2fcfb b4d714a3 b7779691 b78739a3 bb2b4bfe bed8370d", "zh": "0e38d9e3 0f3367ff 188ddb51 1f23d2ff 3d1fb25a 501ccb42 5506ff8e 6b933e90 ada38afa b24c6da1 b6eda0dd bb959a5c c12952fb c45b82e6 c8f71771 cbf49b92"});

@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/chemistry-life", "voice": "serena", "en": "00564f6d 38870bdc 3d8e60e0 457d2d64 45af9beb 532c8a07 551e0be5 5a26f22b 8c14cc1e 91294beb bfa12931 cbe90968 e3ef58b1 ee41de4e f1a44243", "zh": "07584190 1506ea61 2932b4b2 3ac91ad4 4465aaaf 5334efab 5aea7143 72ebd105 8136d232 9148dc83 a2b268bf b574c2d9 bef069c4 f2a8a1b5 f3dbebbb"});

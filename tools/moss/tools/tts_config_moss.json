@@ -1,0 +1,108 @@
+{
+  "root": "E:/gc-audio",
+  "transcripts": "https://shanchuan.org/middle/readaloud/",
+  "old_audio": "https://shanchuan.org/middle/audio/",
+  "model": "E:/gc-audio/models/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+  "device": "cuda:0",
+  "speaker": "Serena",
+  "kbps": 48,
+  "sample_rate": 24000,
+  "max_tries": 4,
+  "timeout_short_s": 75,
+  "timeout_per_char_s": {
+    "en": 0.6,
+    "zh": 2.0
+  },
+  "cooldown_after_crash_s": 120,
+  "push_every": 100,
+  "poll_minutes": 30,
+  "retry_failed_after_hours": 12,
+  "hold": [],
+  "ffmpeg": "<HOME>/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.2-full_build/bin/ffmpeg.exe",
+  "git": "git",
+  "batch": 32,
+  "batch_audio_s": 180,
+  "decode_one_by_one": true,
+  "models": 1,
+  "temperature": 0.5,
+  "subtalker_temperature": 0.5,
+  "voice_tag": "serena moss15",
+  "loudness_lufs": -16,
+  "qa": {
+    "enabled": true,
+    "f0_min": 185,
+    "f0_max": 300,
+    "pace": {
+      "zh": [
+        3.5,
+        6.5
+      ],
+      "en": [
+        8.0,
+        18.0
+      ]
+    },
+    "tries": 5,
+    "workers": 6,
+    "tries_by_subject": {
+      "chemistry": 15,
+      "physics": 15,
+      "biology": 15,
+      "astronomy": 15,
+      "earth": 15,
+      "math": 15,
+      "cs": 15
+    },
+    "pace_by_subject": {
+      "yuwen/yw-tang-poems": {
+        "zh": [
+          3.0,
+          6.5
+        ]
+      },
+      "yuwen/yw-song-ci": {
+        "zh": [
+          3.0,
+          6.5
+        ]
+      },
+      "yuwen/yw-wenyan-basics": {
+        "zh": [
+          3.0,
+          6.5
+        ]
+      },
+      "yuwen/yw-wenyan-classics": {
+        "zh": [
+          3.0,
+          6.5
+        ]
+      }
+    },
+    "slow_subjects": [
+      "yuwen"
+    ]
+  },
+  "engine": "moss",
+  "record_langs": [
+    "zh"
+  ],
+  "moss": {
+    "batch": 8,
+    "free_tries": 5,
+    "duration_tries": 0,
+    "f0": [
+      175,
+      300
+    ],
+    "model": "E:/gc-audio/models/MOSS-TTS-Local-Transformer-v1.5",
+    "codec": "E:/gc-audio/models/MOSS-Audio-Tokenizer-v2",
+    "refs": "E:/gc-audio/refs",
+    "moods": "E:/gc-audio/tools/moods.json"
+  },
+  "record_demand": false,
+  "hold_lessons": [
+    "yuwen"
+  ],
+  "record_styled": false
+}

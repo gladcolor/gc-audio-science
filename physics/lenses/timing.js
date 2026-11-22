@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/lenses", "en": {"295a3596": {"dur": 19.58}, "2b9f1b57": {"dur": 31.66}, "4661f8aa": {"dur": 24.53}, "654ea276": {"dur": 21.17}, "66acba4f": {"dur": 40.61}, "844b72f0": {"dur": 39.41}, "fafbd7aa": {"dur": 41.26}}, "zh": {"09d830e9": {"dur": 20.86}, "1acaa25b": {"dur": 38.21}, "38750f1e": {"dur": 16.78}, "7e28f776": {"dur": 25.82}, "80a4c40b": {"dur": 36.53}, "b5d1b1a8": {"dur": 32.93}, "be81f1fe": {"dur": 18.53}}});

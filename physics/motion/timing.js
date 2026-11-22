@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "physics/motion", "en": {"1e096e25": {"dur": 25.82}, "5b1d3f96": {"dur": 28.22}, "677605c1": {"dur": 11.42}, "8d38fe0a": {"dur": 13.9}, "8ebf16ef": {"dur": 39.34}, "9f9b3788": {"dur": 10.37}, "ca9b0372": {"dur": 19.18}, "cf690f4c": {"dur": 13.82}, "d7af33e8": {"dur": 24.46}, "e23e30ca": {"dur": 9.74}, "e726ac45": {"dur": 24.29}}, "zh": {}});

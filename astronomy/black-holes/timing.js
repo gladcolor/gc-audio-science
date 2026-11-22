@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "astronomy/black-holes", "en": {"07cd0a50": {"dur": 9.82}, "663a1fed": {"dur": 10.78}, "67daba9c": {"dur": 43.66}, "7b355918": {"dur": 34.3}, "839f5577": {"dur": 42.94}, "fd243433": {"dur": 36.22}}, "zh": {"0b078e60": {"dur": 40.13}, "4f558628": {"dur": 7.82}, "58963bac": {"dur": 42.7}, "63c041ea": {"dur": 10.06}, "cb73b4bb": {"dur": 33.82}, "dce8a134": {"dur": 35.81}}});

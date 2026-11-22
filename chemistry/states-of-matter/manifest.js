@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/states-of-matter", "voice": "serena", "en": "0ee7c41b 1ce45f07 298f0c27 315ee293 324fc1e3 33ee2a47 3e13ad18 3e493c4b 426c50c0 44a81e62 67e8f3e6 6ed9ba0c 74aa4a96 801f762d 85c6b0bd ae71b1a1 c0b8df75 cd3d377b d0eb7477 e956fbd3 f433a6bb", "zh": "0d16e55a 16a5c060 3d20b4ce 4a4695f8 591abda2 696dd7a5 6b3c1d79 79b4b0a0 7f802817 8216459e 881426a7 8cdb7cd6 8e349eb3 a2674e6b a9015dd9 af959a56 bcdc452b c09684ae cc0cfff0 dbed527a f0b17e88"});

@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "chemistry/chemical-equations", "en": {"02f38a09": {"dur": 13.82}, "06106f10": {"dur": 16.22}, "0f8fc06a": {"dur": 18.7}, "ad197167": {"dur": 17.98}, "b938a89d": {"dur": 28.7}, "d7b3fca0": {"dur": 24.46}}, "zh": {"463fcf7c": {"dur": 26.86}, "74f2c0cb": {"dur": 28.78}, "97c1a5c0": {"dur": 9.65}, "a72fd884": {"dur": 15.58}, "d7a6fb20": {"dur": 15.34}, "db8e19fc": {"dur": 12.38}}});

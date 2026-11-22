@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/water-purification", "voice": "serena", "en": "100fd258 13d9b25c 1e2ec940 1e64e435 3ea71ad0 499f082d 51412537 5959c902 699fea17 7b106783 88d92706 9855dee6 9f2f80a5 ac13a7e7 d00a342b db6dc58f dce710b5 e0e7e8ef f3daeb9e f541b596", "zh": "07acf988 3ff01614 43a49814 44702e0c 47f94a40 680b7d95 6fa116c2 753ec3f9 80b66905 81c3f187 893aae37 93f5914b a3722a6a bdf9b0ce c257eea4 c53f1b25 cdf63bbe e47638da f8a06d1f f95509a7"});

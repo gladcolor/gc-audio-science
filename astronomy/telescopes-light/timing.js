@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "astronomy/telescopes-light", "en": {"585013f0": {"dur": 47.57}, "8632f75b": {"dur": 40.61}, "a468305d": {"dur": 39.1}, "b8486a1a": {"dur": 50.54}, "bedca478": {"dur": 39.34}, "e317b642": {"dur": 37.49}, "fcd78beb": {"dur": 47.33}}, "zh": {"0145f65e": {"dur": 45.34}, "01f42f99": {"dur": 35.9}, "3a218e98": {"dur": 38.93}, "4401552f": {"dur": 35.42}, "55675a9d": {"dur": 48.7}, "562fb1c5": {"dur": 48.7}, "e6edddf5": {"dur": 34.06}}});

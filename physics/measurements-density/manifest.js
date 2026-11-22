@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "physics/measurements-density", "voice": "serena", "en": "000051ce 147c2d27 182ae923 26429712 269e4133 3595d424 500d94d1 5f02915c 939eef8e a7914da1 c01c2d3a d2b8b533 d716d894 ded6f259 df223444 e8728b0a f579467c", "zh": "04abadc4 0d2b7f18 371866e2 561f1555 5f3269e7 6f61a302 808b9629 82487483 91ebee55 a85355bd bd8a70fb d5b4bd65 ea066e2d f1e4fa03 f44180ed f4662b45 fc74fb3c"});

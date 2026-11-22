@@ -1,0 +1,2 @@
+/* read-aloud clip durations in seconds of this lesson - written by tts_worker.py */
+LabAudioTiming({"lesson": "cs/cs-coding", "en": {"15cacd57": {"dur": 13.97}, "30c8d0fb": {"dur": 14.54}, "a9f9cca0": {"dur": 20.69}, "c8a90820": {"dur": 13.97}, "cb6ae30a": {"dur": 13.18}}, "zh": {"03293c08": {"dur": 8.3}, "369edb67": {"dur": 14.69}, "4ded5af6": {"dur": 6.46}, "52150a9f": {"dur": 15.34}, "803654f9": {"dur": 6.05}, "95c11820": {"dur": 13.42}, "a81b0647": {"dur": 10.61}, "c1c42b7c": {"dur": 17.33}, "cd2a4e9a": {"dur": 12.29}, "d48e09a0": {"dur": 13.73}}});

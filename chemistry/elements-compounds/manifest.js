@@ -1,0 +1,2 @@
+/* read-aloud clips of this lesson - written by tts_worker.py */
+LabAudioManifest({"lesson": "chemistry/elements-compounds", "voice": "serena", "en": "092241c6 0ee3a7f6 228234bf 321ff893 38027efa 60df8c57 63d31811 667ca486 7af66797 8aac43ce 8ab64a27 90f4f73d 94dc8d02 b1d57736 b56ac1d3 c2bfbc9d c9326b29 d00e4080 de7546f6 e24887c3", "zh": "06012075 0dd4c04f 14ea0391 156b0c3e 199e0cb7 1a2d5ddf 46596150 4a1e8ea8 74e86a5b 7d85219d a4f2dde7 b14556d6 b799b304 c6b5a68b dc515e7b f36e64ad ff2980b1"});

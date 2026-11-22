@@ -1,0 +1,2635 @@
+{
+ "astronomy/big-bang": {
+  "counts": {
+   "done": 26,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 26
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/big-bang.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Big Bang & the Expanding Universe",
+   "zh": "大爆炸与膨胀的宇宙"
+  },
+  "updated": "2026-11-21 21:35:37",
+  "verified": ""
+ },
+ "astronomy/black-holes": {
+  "counts": {
+   "done": 6,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 6
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/black-holes.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Black Holes & Gravity Waves",
+   "zh": "黑洞与引力波"
+  },
+  "updated": "2026-11-21 21:33:15",
+  "verified": "2026-11-21 21:41:59"
+ },
+ "astronomy/eclipses": {
+  "counts": {
+   "done": 254,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 254
+  },
+  "fingerprint": "f84dab89581c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/eclipses.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Solar & Lunar Eclipses",
+   "zh": "日食与月食"
+  },
+  "updated": "2026-11-22 13:00:22",
+  "verified": "2026-11-22 13:12:46"
+ },
+ "astronomy/exoplanets": {
+  "counts": {
+   "done": 9,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 9
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/exoplanets.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Exoplanets: Worlds Around Other Stars",
+   "zh": "系外行星：其他恒星的世界"
+  },
+  "updated": "2026-11-21 21:30:25",
+  "verified": "2026-11-21 21:40:58"
+ },
+ "astronomy/galaxies": {
+  "counts": {
+   "done": 244,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 244
+  },
+  "fingerprint": "9bbb0f46b82b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Galaxies & the Universe",
+   "zh": "星系与宇宙"
+  },
+  "updated": "2026-11-22 12:39:58",
+  "verified": "2026-11-22 12:50:21"
+ },
+ "astronomy/gravity-orbits": {
+  "counts": {
+   "done": 177,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 177
+  },
+  "fingerprint": "7f856caa7ab5",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/gravity-orbits.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Gravity & Orbits",
+   "zh": "引力与轨道"
+  },
+  "updated": "2026-11-22 12:40:06",
+  "verified": "2026-11-22 12:51:17"
+ },
+ "astronomy/kepler-laws": {
+  "counts": {
+   "done": 6,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 6
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/kepler-laws.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Orbits, Kepler’s Laws & Going to Mars",
+   "zh": "轨道、开普勒定律与飞向火星"
+  },
+  "updated": "2026-11-21 21:30:19",
+  "verified": "2026-11-21 21:40:51"
+ },
+ "astronomy/measuring-distance": {
+  "counts": {
+   "done": 139,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 139
+  },
+  "fingerprint": "8d689db34451",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/measuring-distance.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Measuring Cosmic Distances",
+   "zh": "怎样测量宇宙的距离"
+  },
+  "updated": "2026-11-22 13:34:00",
+  "verified": "2026-11-22 13:37:15"
+ },
+ "astronomy/moon-phases": {
+  "counts": {
+   "done": 385,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 385
+  },
+  "fingerprint": "f26d45da15a7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Phases of the Moon",
+   "zh": "月相"
+  },
+  "updated": "2026-11-22 13:00:34",
+  "verified": "2026-11-22 13:14:42"
+ },
+ "astronomy/night-sky": {
+  "counts": {
+   "done": 249,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 249
+  },
+  "fingerprint": "84ae8f447208",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/night-sky.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Constellations & the Night Sky",
+   "zh": "星座与夜空"
+  },
+  "updated": "2026-11-22 13:06:06",
+  "verified": "2026-11-22 13:17:06"
+ },
+ "astronomy/planets-moons": {
+  "counts": {
+   "done": 27,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 27
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/planets-moons.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Planet Lab: Worlds & Moons",
+   "zh": "行星实验室：行星与卫星"
+  },
+  "updated": "2026-11-21 21:30:39",
+  "verified": ""
+ },
+ "astronomy/rocketry": {
+  "counts": {
+   "done": 6,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 6
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/rocketry.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Rocket Science",
+   "zh": "火箭是怎样飞上天的"
+  },
+  "updated": "2026-11-21 21:30:45",
+  "verified": ""
+ },
+ "astronomy/scale-universe": {
+  "counts": {
+   "done": 545,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 545
+  },
+  "fingerprint": "13fdf0fa91fa",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/scale-universe.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Scale of the Universe",
+   "zh": "宇宙有多大"
+  },
+  "updated": "2026-11-22 13:31:35",
+  "verified": "2026-11-22 13:36:34"
+ },
+ "astronomy/seasons": {
+  "counts": {
+   "done": 205,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 205
+  },
+  "fingerprint": "cebff00426e3",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/seasons.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Day, Night & Seasons",
+   "zh": "昼夜与四季"
+  },
+  "updated": "2026-11-22 10:16:00",
+  "verified": "2026-11-22 10:19:27"
+ },
+ "astronomy/sky-tonight": {
+  "counts": {
+   "done": 275,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 275
+  },
+  "fingerprint": "3ad6d3336e1b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Planetarium: The Sky Tonight",
+   "zh": "天象馆：今晚的星空"
+  },
+  "updated": "2026-11-22 13:27:02",
+  "verified": "2026-11-22 13:33:30"
+ },
+ "astronomy/small-bodies": {
+  "counts": {
+   "done": 17,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 17
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/small-bodies.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Asteroids, Comets & Meteors",
+   "zh": "小行星、彗星与流星"
+  },
+  "updated": "2026-11-21 21:29:45",
+  "verified": "2026-11-21 21:39:56"
+ },
+ "astronomy/solar-system": {
+  "counts": {
+   "done": 270,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 270
+  },
+  "fingerprint": "7a5fe2543469",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Solar System",
+   "zh": "太阳系"
+  },
+  "updated": "2026-11-22 12:36:59",
+  "verified": "2026-11-22 12:47:54"
+ },
+ "astronomy/space-exploration": {
+  "counts": {
+   "done": 246,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 246
+  },
+  "fingerprint": "948fbd0c4bfd",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/space-exploration.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Space Exploration",
+   "zh": "太空探索"
+  },
+  "updated": "2026-11-22 13:09:33",
+  "verified": "2026-11-22 13:18:22"
+ },
+ "astronomy/star-life": {
+  "counts": {
+   "done": 288,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 288
+  },
+  "fingerprint": "a9f249695579",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/star-life.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "How Stars Live & Die: the H-R Diagram",
+   "zh": "恒星的一生：赫罗图"
+  },
+  "updated": "2026-11-22 13:37:18",
+  "verified": "2026-11-22 13:41:27"
+ },
+ "astronomy/sun-stars": {
+  "counts": {
+   "done": 236,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 236
+  },
+  "fingerprint": "70ed0b8459ac",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Sun & Life of Stars",
+   "zh": "太阳与恒星的一生"
+  },
+  "updated": "2026-11-22 12:38:33",
+  "verified": "2026-11-22 12:49:07"
+ },
+ "astronomy/telescopes-light": {
+  "counts": {
+   "done": 7,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 7
+  },
+  "fingerprint": "9ddcfa79e124",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/telescopes-light.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Telescopes & Invisible Light",
+   "zh": "望远镜与看不见的光"
+  },
+  "updated": "2026-11-22 13:31:25",
+  "verified": "2026-11-22 13:34:09"
+ },
+ "astronomy/three-body": {
+  "counts": {
+   "done": 7,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 7
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/three-body.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Three-Body Problem: Order & Chaos",
+   "zh": "三体问题：秩序与混沌"
+  },
+  "updated": "2026-11-21 21:33:25",
+  "verified": ""
+ },
+ "astronomy/tides": {
+  "counts": {
+   "done": 202,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 202
+  },
+  "fingerprint": "0a7eedfdbd34",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/astronomy/tides.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Tides",
+   "zh": "潮汐"
+  },
+  "updated": "2026-11-22 13:03:34",
+  "verified": "2026-11-22 13:15:44"
+ },
+ "biology/animals": {
+  "counts": {
+   "done": 240,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 240
+  },
+  "fingerprint": "5def97d0580a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/animals.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Animal Kingdom",
+   "zh": "动物界"
+  },
+  "updated": "2026-11-22 11:19:41",
+  "verified": "2026-11-22 11:27:12"
+ },
+ "biology/body-systems": {
+  "counts": {
+   "done": 304,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 304
+  },
+  "fingerprint": "01fbc8a85c78",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/body-systems.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Human Body Systems",
+   "zh": "人体系统"
+  },
+  "updated": "2026-11-22 11:19:33",
+  "verified": "2026-11-22 11:25:20"
+ },
+ "biology/breathing-circulation": {
+  "counts": {
+   "done": 300,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 300
+  },
+  "fingerprint": "c8595a4d8889",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/breathing-circulation.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Breathing & Blood Circulation",
+   "zh": "人体的呼吸与血液循环"
+  },
+  "updated": "2026-11-22 11:43:44",
+  "verified": "2026-11-22 11:55:44"
+ },
+ "biology/cell-city": {
+  "counts": {
+   "done": 159,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 159
+  },
+  "fingerprint": "dbdc24043db5",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cell-city.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Cell City: Organelle Analogies",
+   "zh": "细胞城市：细胞器的类比"
+  },
+  "updated": "2026-11-22 07:15:13",
+  "verified": "2026-11-22 07:18:23"
+ },
+ "biology/cell-division": {
+  "counts": {
+   "done": 102,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 102
+  },
+  "fingerprint": "b8d6ae44af1e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cell-division.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Mitosis & Meiosis",
+   "zh": "有丝分裂与减数分裂"
+  },
+  "updated": "2026-11-22 11:17:40",
+  "verified": "2026-11-22 11:22:58"
+ },
+ "biology/cell-organelles": {
+  "counts": {
+   "done": 11,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 11
+  },
+  "fingerprint": "5ecb72d82f7e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cell-organelles.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Cell Organelles",
+   "zh": "细胞器"
+  },
+  "updated": "2026-11-22 10:26:28",
+  "verified": "2026-11-22 10:27:18"
+ },
+ "biology/cell-theory": {
+  "counts": {
+   "done": 269,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 269
+  },
+  "fingerprint": "6fb86c7477f6",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cell-theory.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Cell Theory & Levels of Organization",
+   "zh": "细胞学说与结构层次"
+  },
+  "updated": "2026-11-22 10:29:24",
+  "verified": "2026-11-22 10:32:08"
+ },
+ "biology/cell-transport": {
+  "counts": {
+   "done": 180,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 180
+  },
+  "fingerprint": "fb25660bcff1",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cell-transport.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Diffusion & Osmosis",
+   "zh": "扩散与渗透"
+  },
+  "updated": "2026-11-22 10:32:14",
+  "verified": "2026-11-22 10:34:20"
+ },
+ "biology/cells-review": {
+  "counts": {
+   "done": 161,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 161
+  },
+  "fingerprint": "44ef3f9a1a88",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/cells-review.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Cells Unit Review & Practice Test",
+   "zh": "细胞单元复习与模拟测试"
+  },
+  "updated": "2026-11-22 10:48:49",
+  "verified": "2026-11-22 10:50:56"
+ },
+ "biology/characteristics-of-life": {
+  "counts": {
+   "done": 246,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 246
+  },
+  "fingerprint": "094d4002481b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Is It Alive? Characteristics of Life",
+   "zh": "它是活的吗？生物的特征"
+  },
+  "updated": "2026-11-22 07:06:34",
+  "verified": "2026-11-22 07:10:06"
+ },
+ "biology/classification": {
+  "counts": {
+   "done": 195,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 195
+  },
+  "fingerprint": "73733a99b8d7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/classification.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Classification & Dichotomous Keys",
+   "zh": "生物分类与二歧检索表"
+  },
+  "updated": "2026-11-22 11:03:04",
+  "verified": "2026-11-22 11:06:20"
+ },
+ "biology/diffusion": {
+  "counts": {
+   "done": 154,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 154
+  },
+  "fingerprint": "54702cf6a7de",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/diffusion.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Diffusion in the Body",
+   "zh": "人体中的扩散"
+  },
+  "updated": "2026-11-22 10:34:27",
+  "verified": "2026-11-22 10:36:15"
+ },
+ "biology/dna": {
+  "counts": {
+   "done": 117,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 117
+  },
+  "fingerprint": "8e5157c24ef0",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/dna.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "DNA: The Code of Life",
+   "zh": "DNA：生命密码"
+  },
+  "updated": "2026-11-22 10:54:54",
+  "verified": "2026-11-22 10:57:27"
+ },
+ "biology/ecosystems": {
+  "counts": {
+   "done": 349,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 349
+  },
+  "fingerprint": "ca4f6595dbc6",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/ecosystems.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Biomes & Ecosystems",
+   "zh": "生物群落与生态系统"
+  },
+  "updated": "2026-11-22 11:19:57",
+  "verified": "2026-11-22 11:29:06"
+ },
+ "biology/endocytosis": {
+  "counts": {
+   "done": 178,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 178
+  },
+  "fingerprint": "73e19971a222",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/endocytosis.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Endocytosis: How Cells Eat",
+   "zh": "胞吞：细胞怎样“吃”东西"
+  },
+  "updated": "2026-11-22 10:40:48",
+  "verified": "2026-11-22 10:42:44"
+ },
+ "biology/evolution": {
+  "counts": {
+   "done": 181,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 181
+  },
+  "fingerprint": "a8809635a0ab",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/evolution.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Natural Selection & Evolution",
+   "zh": "自然选择与进化"
+  },
+  "updated": "2026-11-22 11:20:16",
+  "verified": "2026-11-22 11:31:09"
+ },
+ "biology/exocytosis": {
+  "counts": {
+   "done": 161,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 161
+  },
+  "fingerprint": "96e7e9437905",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/exocytosis.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Exocytosis: How Cells Ship Out",
+   "zh": "胞吐：细胞怎样往外运"
+  },
+  "updated": "2026-11-22 10:44:50",
+  "verified": "2026-11-22 10:46:41"
+ },
+ "biology/food-webs": {
+  "counts": {
+   "done": 207,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 207
+  },
+  "fingerprint": "7d78ce32ad89",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/food-webs.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Food Webs & Energy Pyramids",
+   "zh": "食物网与能量金字塔"
+  },
+  "updated": "2026-11-22 11:20:06",
+  "verified": "2026-11-22 11:30:13"
+ },
+ "biology/habitat-niche": {
+  "counts": {
+   "done": 238,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 238
+  },
+  "fingerprint": "c87999ebc797",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/habitat-niche.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Habitat, Niche & Population Limits",
+   "zh": "栖息地、生态位与种群的限制"
+  },
+  "updated": "2026-11-22 11:07:31",
+  "verified": "2026-11-22 11:17:30"
+ },
+ "biology/health-first-aid": {
+  "counts": {
+   "done": 249,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 249
+  },
+  "fingerprint": "1688e8022454",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/health-first-aid.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Healthy Living: Medicine & First Aid",
+   "zh": "健康地生活：用药与急救"
+  },
+  "updated": "2026-11-22 11:49:41",
+  "verified": "2026-11-22 11:58:41"
+ },
+ "biology/heredity": {
+  "counts": {
+   "done": 173,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 173
+  },
+  "fingerprint": "5db9f4bbb1a5",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/heredity.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Genes, Traits & Punnett Squares",
+   "zh": "基因、性状与庞氏方格"
+  },
+  "updated": "2026-11-22 11:00:51",
+  "verified": "2026-11-22 11:02:52"
+ },
+ "biology/infection-immunity": {
+  "counts": {
+   "done": 258,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 258
+  },
+  "fingerprint": "571de380df5b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/infection-immunity.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Infectious Disease, Immunity & Prevention",
+   "zh": "传染病、免疫与预防"
+  },
+  "updated": "2026-11-22 11:40:11",
+  "verified": "2026-11-22 11:52:50"
+ },
+ "biology/microorganisms": {
+  "counts": {
+   "done": 265,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 265
+  },
+  "fingerprint": "a59cc835664c",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/microorganisms.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Microorganisms",
+   "zh": "微生物"
+  },
+  "updated": "2026-11-22 11:10:15",
+  "verified": "2026-11-22 11:13:19"
+ },
+ "biology/nervous-endocrine": {
+  "counts": {
+   "done": 319,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 319
+  },
+  "fingerprint": "286193c4803a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/nervous-endocrine.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Nerves, Senses & Hormones",
+   "zh": "神经调节与激素调节"
+  },
+  "updated": "2026-11-22 11:45:55",
+  "verified": "2026-11-22 11:57:29"
+ },
+ "biology/nutrition-digestion": {
+  "counts": {
+   "done": 268,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 268
+  },
+  "fingerprint": "6f7beab229c7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/nutrition-digestion.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Nutrition & Digestion",
+   "zh": "人体的营养与消化"
+  },
+  "updated": "2026-11-22 11:41:46",
+  "verified": "2026-11-22 11:54:11"
+ },
+ "biology/osmosis": {
+  "counts": {
+   "done": 137,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 137
+  },
+  "fingerprint": "40672a4b2ced",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/osmosis.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Osmosis: Water on the Move",
+   "zh": "渗透：水的移动"
+  },
+  "updated": "2026-11-22 08:26:45",
+  "verified": "2026-11-22 08:29:27"
+ },
+ "biology/photosynthesis": {
+  "counts": {
+   "done": 190,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 190
+  },
+  "fingerprint": "03414ca02a81",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Photosynthesis & Respiration",
+   "zh": "光合作用与呼吸作用"
+  },
+  "updated": "2026-11-22 11:10:17",
+  "verified": "2026-11-22 11:14:47"
+ },
+ "biology/plants": {
+  "counts": {
+   "done": 184,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 184
+  },
+  "fingerprint": "0d0334f50b31",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/plants.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Plant Structure & Life Cycle",
+   "zh": "植物结构与生命周期"
+  },
+  "updated": "2026-11-22 11:10:20",
+  "verified": "2026-11-22 11:16:09"
+ },
+ "biology/protein-synthesis": {
+  "counts": {
+   "done": 154,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 154
+  },
+  "fingerprint": "5c80996d58b5",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "DNA → RNA → Protein",
+   "zh": "DNA → RNA → 蛋白质"
+  },
+  "updated": "2026-11-22 10:57:52",
+  "verified": "2026-11-22 11:00:46"
+ },
+ "biology/reproduction": {
+  "counts": {
+   "done": 213,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 213
+  },
+  "fingerprint": "650b9e465496",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/reproduction.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Reproduction & Selective Breeding",
+   "zh": "生殖与选择育种"
+  },
+  "updated": "2026-11-22 10:09:55",
+  "verified": "2026-11-22 10:13:28"
+ },
+ "biology/tonicity-labs": {
+  "counts": {
+   "done": 237,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 237
+  },
+  "fingerprint": "69d66549dd97",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Hyper-, Hypo- & Isotonic: Elodea & Egg Labs",
+   "zh": "高渗、低渗与等渗：黑藻与鸡蛋实验"
+  },
+  "updated": "2026-11-22 10:38:21",
+  "verified": "2026-11-22 10:40:42"
+ },
+ "chemistry/acids-bases": {
+  "counts": {
+   "done": 24,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 24
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Acids, Bases & pH",
+   "zh": "酸、碱与 pH"
+  },
+  "updated": "2026-11-21 21:52:49",
+  "verified": ""
+ },
+ "chemistry/atoms": {
+  "counts": {
+   "done": 27,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 27
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/atoms.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Atomic Structure",
+   "zh": "原子结构"
+  },
+  "updated": "2026-11-21 21:37:47",
+  "verified": ""
+ },
+ "chemistry/carbon": {
+  "counts": {
+   "done": 19,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 19
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/carbon.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Carbon, CO₂ & Fuels",
+   "zh": "碳和碳的氧化物与燃料"
+  },
+  "updated": "2026-11-21 21:46:55",
+  "verified": ""
+ },
+ "chemistry/changes": {
+  "counts": {
+   "done": 7,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 7
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/changes.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Physical & Chemical Changes",
+   "zh": "物理变化与化学变化"
+  },
+  "updated": "2026-11-21 21:31:24",
+  "verified": "2026-11-21 21:41:38"
+ },
+ "chemistry/chemical-equations": {
+  "counts": {
+   "done": 6,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 6
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/chemical-equations.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Balancing & Calculating with Equations",
+   "zh": "化学方程式与计算"
+  },
+  "updated": "2026-11-21 21:34:35",
+  "verified": "2026-11-21 21:42:09"
+ },
+ "chemistry/chemistry-life": {
+  "counts": {
+   "done": 15,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 15
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/chemistry-life.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Chemistry, Health & Materials",
+   "zh": "化学与健康、材料和社会发展"
+  },
+  "updated": "2026-11-21 20:02:54",
+  "verified": "2026-11-21 20:59:13"
+ },
+ "chemistry/combustion-fuels": {
+  "counts": {
+   "done": 17,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 17
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/combustion-fuels.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Combustion, Fuels & Fire Safety",
+   "zh": "燃烧、燃料与消防安全"
+  },
+  "updated": "2026-11-21 20:02:47",
+  "verified": "2026-11-21 20:58:08"
+ },
+ "chemistry/density": {
+  "counts": {
+   "done": 18,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 18
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/density.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Density",
+   "zh": "密度"
+  },
+  "updated": "2026-11-21 21:45:24",
+  "verified": ""
+ },
+ "chemistry/elements-compounds": {
+  "counts": {
+   "done": 17,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 17
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Elements, Compounds & Mixtures",
+   "zh": "元素、化合物与混合物"
+  },
+  "updated": "2026-11-21 21:43:50",
+  "verified": ""
+ },
+ "chemistry/formulas-valence": {
+  "counts": {
+   "done": 14,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 14
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/formulas-valence.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Chemical Formulas & Valence",
+   "zh": "化学式与化合价"
+  },
+  "updated": "2026-11-21 21:52:20",
+  "verified": "2026-11-21 21:54:35"
+ },
+ "chemistry/lab-skills": {
+  "counts": {
+   "done": 60,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 60
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/lab-skills.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Chemistry Lab Skills & Safety",
+   "zh": "化学实验基本操作"
+  },
+  "updated": "2026-11-21 20:02:52",
+  "verified": "2026-11-21 20:59:04"
+ },
+ "chemistry/metals": {
+  "counts": {
+   "done": 26,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 26
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/metals.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Metals & the Activity Series",
+   "zh": "金属与金属活动性顺序"
+  },
+  "updated": "2026-11-21 21:10:02",
+  "verified": "2026-11-21 21:16:09"
+ },
+ "chemistry/oxygen-air": {
+  "counts": {
+   "done": 16,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 16
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/oxygen-air.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Air & Oxygen",
+   "zh": "空气与氧气"
+  },
+  "updated": "2026-11-21 21:45:13",
+  "verified": "2026-11-21 21:48:02"
+ },
+ "chemistry/periodic-table": {
+  "counts": {
+   "done": 125,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 125
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/periodic-table.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Periodic Table",
+   "zh": "元素周期表"
+  },
+  "updated": "2026-11-21 21:45:28",
+  "verified": ""
+ },
+ "chemistry/reactions": {
+  "counts": {
+   "done": 8,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 8
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/reactions.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Chemical Reactions & Conservation of Mass",
+   "zh": "化学反应与质量守恒"
+  },
+  "updated": "2026-11-21 21:34:54",
+  "verified": "2026-11-21 21:42:16"
+ },
+ "chemistry/salts-fertilizers": {
+  "counts": {
+   "done": 34,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 34
+  },
+  "fingerprint": "4bab9ab465cc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/salts-fertilizers.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Salts, Double Displacement & Fertilizers",
+   "zh": "盐、复分解反应与化肥"
+  },
+  "updated": "2026-11-21 20:02:50",
+  "verified": "2026-11-21 20:58:29"
+ },
+ "chemistry/solutions": {
+  "counts": {
+   "done": 17,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 17
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/solutions.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Solutions & Solubility",
+   "zh": "溶液与溶解度"
+  },
+  "updated": "2026-11-21 21:04:26",
+  "verified": "2026-11-21 21:14:03"
+ },
+ "chemistry/states-of-matter": {
+  "counts": {
+   "done": 21,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 21
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "States of Matter",
+   "zh": "物质的状态"
+  },
+  "updated": "2026-11-21 21:39:23",
+  "verified": ""
+ },
+ "chemistry/water-purification": {
+  "counts": {
+   "done": 20,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 20
+  },
+  "fingerprint": "4be6c4b71d1e",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/chemistry/water-purification.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Water: Purification & Composition",
+   "zh": "水的净化、组成与保护"
+  },
+  "updated": "2026-11-21 20:02:45",
+  "verified": "2026-11-21 20:57:58"
+ },
+ "cs/cs-ai": {
+  "counts": {
+   "done": 1,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1
+  },
+  "fingerprint": "494b6481aaaa",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-ai.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Artificial Intelligence & Machine Learning",
+   "zh": "人工智能与机器学习"
+  },
+  "updated": "2026-11-22 00:29:41",
+  "verified": "2026-11-22 00:32:09"
+ },
+ "cs/cs-algorithms": {
+  "counts": {
+   "done": 18,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 18
+  },
+  "fingerprint": "a5a7ad1417fb",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-algorithms.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Algorithms: Sorting & Searching",
+   "zh": "算法：排序与查找"
+  },
+  "updated": "2026-11-22 00:41:27",
+  "verified": "2026-11-22 00:43:14"
+ },
+ "cs/cs-coding": {
+  "counts": {
+   "done": 10,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 10
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-coding.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Coding: Loops & Conditions",
+   "zh": "编程：循环与条件"
+  },
+  "updated": "2026-11-22 00:28:36",
+  "verified": "2026-11-22 00:32:08"
+ },
+ "cs/cs-computers": {
+  "counts": {
+   "done": 18,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 18
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-computers.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "How Computers Work",
+   "zh": "计算机是怎样工作的"
+  },
+  "updated": "2026-11-22 00:30:13",
+  "verified": "2026-11-22 00:32:18"
+ },
+ "cs/cs-data-crypto": {
+  "counts": {
+   "done": 12,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 12
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-data-crypto.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Data, Codes & Encryption",
+   "zh": "数据、编码与加密"
+  },
+  "updated": "2026-11-22 00:45:25",
+  "verified": "2026-11-22 00:46:53"
+ },
+ "cs/cs-internet": {
+  "counts": {
+   "done": 13,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 13
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-internet.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "How the Internet Works",
+   "zh": "互联网是怎样工作的"
+  },
+  "updated": "2026-11-22 00:33:24",
+  "verified": "2026-11-22 00:40:55"
+ },
+ "cs/cs-safety": {
+  "counts": {
+   "done": 1,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 1
+  },
+  "fingerprint": "cde934292b80",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/cs/cs-safety.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Cybersecurity & Digital Citizenship",
+   "zh": "网络安全与数字公民"
+  },
+  "updated": "2026-11-22 00:17:34",
+  "verified": "2026-11-22 00:18:41"
+ },
+ "earth/atmosphere": {
+  "counts": {
+   "done": 164,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 164
+  },
+  "fingerprint": "7621ab56196a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/atmosphere.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Atmosphere",
+   "zh": "大气层"
+  },
+  "updated": "2026-11-22 12:18:52",
+  "verified": "2026-11-22 12:27:14"
+ },
+ "earth/climate": {
+  "counts": {
+   "done": 185,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 185
+  },
+  "fingerprint": "3969e0aed192",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/climate.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Climate",
+   "zh": "气候"
+  },
+  "updated": "2026-11-22 12:32:37",
+  "verified": "2026-11-22 12:45:41"
+ },
+ "earth/earth-layers": {
+  "counts": {
+   "done": 188,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 188
+  },
+  "fingerprint": "8cabea8d0900",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/earth-layers.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Earth’s Layers",
+   "zh": "地球的圈层"
+  },
+  "updated": "2026-11-22 11:59:42",
+  "verified": "2026-11-22 12:05:19"
+ },
+ "earth/fossils-time": {
+  "counts": {
+   "done": 190,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 190
+  },
+  "fingerprint": "9e459e80eccc",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/fossils-time.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Fossils & Geologic Time",
+   "zh": "化石与地质年代"
+  },
+  "updated": "2026-11-22 12:17:36",
+  "verified": "2026-11-22 12:26:24"
+ },
+ "earth/natural-resources": {
+  "counts": {
+   "done": 165,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 165
+  },
+  "fingerprint": "3e0bcffdd198",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/natural-resources.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Natural Resources & Energy",
+   "zh": "自然资源与能源"
+  },
+  "updated": "2026-11-22 12:35:12",
+  "verified": "2026-11-22 12:46:30"
+ },
+ "earth/oceans": {
+  "counts": {
+   "done": 154,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 154
+  },
+  "fingerprint": "4261968e1377",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/oceans.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Oceans, Waves & Currents",
+   "zh": "海洋、波浪与洋流"
+  },
+  "updated": "2026-11-22 10:13:33",
+  "verified": "2026-11-22 10:15:35"
+ },
+ "earth/plate-tectonics": {
+  "counts": {
+   "done": 266,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 266
+  },
+  "fingerprint": "01b38affdab4",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Plate Tectonics",
+   "zh": "板块构造"
+  },
+  "updated": "2026-11-22 12:00:24",
+  "verified": "2026-11-22 12:06:45"
+ },
+ "earth/rocks-minerals": {
+  "counts": {
+   "done": 174,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 174
+  },
+  "fingerprint": "0866cf767ae7",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/rocks-minerals.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Rocks, Minerals & the Rock Cycle",
+   "zh": "岩石、矿物与岩石循环"
+  },
+  "updated": "2026-11-22 12:02:24",
+  "verified": "2026-11-22 12:07:34"
+ },
+ "earth/soil": {
+  "counts": {
+   "done": 192,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 192
+  },
+  "fingerprint": "1aa0e873d387",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/soil.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Soil Formation",
+   "zh": "土壤的形成"
+  },
+  "updated": "2026-11-22 12:02:31",
+  "verified": "2026-11-22 12:08:31"
+ },
+ "earth/water-cycle": {
+  "counts": {
+   "done": 172,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 172
+  },
+  "fingerprint": "4c6304da125a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/water-cycle.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "The Water Cycle",
+   "zh": "水循环"
+  },
+  "updated": "2026-11-22 12:21:40",
+  "verified": "2026-11-22 12:28:02"
+ },
+ "earth/weather": {
+  "counts": {
+   "done": 361,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 361
+  },
+  "fingerprint": "203659d95e72",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/weather.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Weather & Air Masses",
+   "zh": "天气与气团"
+  },
+  "updated": "2026-11-22 12:28:50",
+  "verified": "2026-11-22 12:44:42"
+ },
+ "earth/weathering-erosion": {
+  "counts": {
+   "done": 180,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 180
+  },
+  "fingerprint": "287468d2508a",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Weathering, Erosion & Deposition",
+   "zh": "风化、侵蚀与沉积"
+  },
+  "updated": "2026-11-22 12:02:35",
+  "verified": "2026-11-22 12:09:28"
+ },
+ "physics/buoyancy": {
+  "counts": {
+   "done": 7,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 7
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/buoyancy.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Buoyancy & Archimedes’ Principle",
+   "zh": "浮力与阿基米德原理"
+  },
+  "updated": "2026-11-21 21:04:09",
+  "verified": "2026-11-21 21:13:40"
+ },
+ "physics/communications-energy": {
+  "counts": {
+   "done": 35,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 35
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/communications-energy.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Electromagnetic Waves, Communication & Energy",
+   "zh": "电磁波、信息传递与能源"
+  },
+  "updated": "2026-11-21 20:02:13",
+  "verified": "2026-11-21 20:41:08"
+ },
+ "physics/electric-power": {
+  "counts": {
+   "done": 5,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 5
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/electric-power.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Electric Power & Household Circuits",
+   "zh": "电功率与家庭电路"
+  },
+  "updated": "2026-11-21 21:04:43",
+  "verified": "2026-11-21 21:14:16"
+ },
+ "physics/electricity": {
+  "counts": {
+   "done": 11,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 11
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/electricity.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Electric Circuits",
+   "zh": "电路"
+  },
+  "updated": "2026-11-21 20:46:53",
+  "verified": ""
+ },
+ "physics/electromagnetism": {
+  "counts": {
+   "done": 12,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 12
+  },
+  "fingerprint": "90740015bee9",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/electromagnetism.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Electromagnets, Motors & Generators",
+   "zh": "电磁铁、电动机与发电机"
+  },
+  "updated": "2026-11-21 20:02:10",
+  "verified": "2026-11-21 20:40:48"
+ },
+ "physics/energy": {
+  "counts": {
+   "done": 10,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 10
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/energy.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Kinetic & Potential Energy",
+   "zh": "动能与势能"
+  },
+  "updated": "2026-11-21 21:06:40",
+  "verified": ""
+ },
+ "physics/forces": {
+  "counts": {
+   "done": 22,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 22
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/forces.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Forces, Friction & Gravity",
+   "zh": "力、摩擦力与重力"
+  },
+  "updated": "2026-11-21 20:01:25",
+  "verified": ""
+ },
+ "physics/formula-sheet": {
+  "counts": {
+   "done": 59,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 59
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/formula-sheet.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Physics Formula Sheet & Calculators",
+   "zh": "初中物理公式表与计算器"
+  },
+  "updated": "2026-11-21 21:07:06",
+  "verified": ""
+ },
+ "physics/heat-transfer": {
+  "counts": {
+   "done": 11,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 11
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/heat-transfer.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Heat Transfer",
+   "zh": "热传递"
+  },
+  "updated": "2026-11-21 21:04:57",
+  "verified": ""
+ },
+ "physics/lenses": {
+  "counts": {
+   "done": 7,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 7
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/lenses.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Lenses & Image Formation",
+   "zh": "透镜及其应用"
+  },
+  "updated": "2026-11-21 21:06:35",
+  "verified": ""
+ },
+ "physics/light": {
+  "counts": {
+   "done": 15,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 15
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/light.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Light & the EM Spectrum",
+   "zh": "光与电磁波谱"
+  },
+  "updated": "2026-11-21 21:05:06",
+  "verified": "2026-11-21 21:14:35"
+ },
+ "physics/magnetism": {
+  "counts": {
+   "done": 13,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 13
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/magnetism.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Magnetism & Electromagnets",
+   "zh": "磁与电磁铁"
+  },
+  "updated": "2026-11-21 21:36:40",
+  "verified": "2026-11-21 21:42:43"
+ },
+ "physics/measurements-density": {
+  "counts": {
+   "done": 17,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 17
+  },
+  "fingerprint": "82fd8fa78779",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/measurements-density.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Mass, Density & Measurement",
+   "zh": "质量、密度及其测量"
+  },
+  "updated": "2026-11-21 20:02:04",
+  "verified": "2026-11-21 20:40:20"
+ },
+ "physics/mechanical-motion": {
+  "counts": {
+   "done": 13,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 13
+  },
+  "fingerprint": "4ca509d1ad0b",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/mechanical-motion.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Measurement & Mechanical Motion",
+   "zh": "长度时间的测量与机械运动"
+  },
+  "updated": "2026-11-21 20:02:06",
+  "verified": "2026-11-21 20:40:29"
+ },
+ "physics/motion": {
+  "counts": {
+   "done": 0,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 0
+  },
+  "fingerprint": "",
+  "label": "old voice",
+  "page": "https://shanchuan.org/middle/physics/motion.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Speed, Velocity & Acceleration",
+   "zh": "速度与加速度"
+  },
+  "updated": "2026-11-21 20:36:51",
+  "verified": ""
+ },
+ "physics/newtons-laws": {
+  "counts": {
+   "done": 13,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 13
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/newtons-laws.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Newton’s Laws of Motion",
+   "zh": "牛顿运动定律"
+  },
+  "updated": "2026-11-21 21:04:21",
+  "verified": ""
+ },
+ "physics/ohms-law": {
+  "counts": {
+   "done": 4,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 4
+  },
+  "fingerprint": "445d944c1ba4",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/ohms-law.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Ohm’s Law, Series & Parallel Circuits",
+   "zh": "欧姆定律与串并联电路"
+  },
+  "updated": "2026-11-21 20:57:13",
+  "verified": "2026-11-21 20:59:16"
+ },
+ "physics/phase-changes": {
+  "counts": {
+   "done": 10,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 10
+  },
+  "fingerprint": "8347140c0b02",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/phase-changes.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Melting, Boiling & Phase Changes",
+   "zh": "物态变化"
+  },
+  "updated": "2026-11-21 21:01:49",
+  "verified": "2026-11-21 21:12:50"
+ },
+ "physics/pressure": {
+  "counts": {
+   "done": 14,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 14
+  },
+  "fingerprint": "d5945ddd8db0",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/pressure.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Pressure: Solids, Liquids & Air",
+   "zh": "压强：固体、液体与大气"
+  },
+  "updated": "2026-11-21 20:51:54",
+  "verified": "2026-11-21 20:56:34"
+ },
+ "physics/simple-machines": {
+  "counts": {
+   "done": 14,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 14
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/simple-machines.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Simple Machines",
+   "zh": "简单机械"
+  },
+  "updated": "2026-11-21 21:31:40",
+  "verified": ""
+ },
+ "physics/sound": {
+  "counts": {
+   "done": 12,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 12
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/sound.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Sound",
+   "zh": "声音"
+  },
+  "updated": "2026-11-21 20:53:16",
+  "verified": ""
+ },
+ "physics/specific-heat": {
+  "counts": {
+   "done": 13,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 13
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/specific-heat.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Internal Energy & Specific Heat",
+   "zh": "内能与比热容"
+  },
+  "updated": "2026-11-21 21:32:19",
+  "verified": ""
+ },
+ "physics/static-charge": {
+  "counts": {
+   "done": 22,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 22
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/static-charge.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Electric Charge & Static Electricity",
+   "zh": "电荷与静电"
+  },
+  "updated": "2026-11-21 20:02:08",
+  "verified": ""
+ },
+ "physics/waves": {
+  "counts": {
+   "done": 168,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 168
+  },
+  "fingerprint": "",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/waves.html",
+  "record_demand": true,
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Waves",
+   "zh": "波"
+  },
+  "updated": "2026-11-22 09:09:20",
+  "verified": ""
+ },
+ "physics/work-power": {
+  "counts": {
+   "done": 9,
+   "failed": 0,
+   "held": 0,
+   "missing": 0,
+   "old": 0,
+   "total": 9
+  },
+  "fingerprint": "3d783d3251ed",
+  "label": "finished",
+  "page": "https://shanchuan.org/middle/physics/work-power.html",
+  "record_langs": [
+   "zh"
+  ],
+  "title": {
+   "en": "Work, Power & Efficiency",
+   "zh": "功、功率与机械效率"
+  },
+  "updated": "2026-11-21 21:03:42",
+  "verified": "2026-11-21 21:13:21"
+ }
+}
