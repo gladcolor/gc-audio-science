@@ -999,25 +999,26 @@
  },
  "biology/heredity": {
   "counts": {
-   "done": 173,
+   "done": 330,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 173
+   "missing": 13,
+   "old": 1,
+   "total": 344
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "5db9f4bbb1a5",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/heredity.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Genes, Traits & Punnett Squares",
    "zh": "基因、性状与庞氏方格"
   },
-  "updated": "2026-11-22 20:22:12",
+  "updated": "2026-11-22 21:08:02",
   "verified": ""
  },
  "biology/infection-immunity": {
