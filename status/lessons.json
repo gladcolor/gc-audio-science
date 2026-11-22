@@ -1669,11 +1669,11 @@
  },
  "chemistry/solutions": {
   "counts": {
-   "done": 226,
+   "done": 271,
    "failed": 0,
    "held": 0,
-   "missing": 74,
-   "old": 8,
+   "missing": 34,
+   "old": 3,
    "total": 308
   },
   "fingerprint": "ee1a3d7ab61a",
@@ -1688,7 +1688,7 @@
    "en": "Solutions & Solubility",
    "zh": "溶液与溶解度"
   },
-  "updated": "2026-11-22 22:21:00",
+  "updated": "2026-11-22 22:21:30",
   "verified": ""
  },
  "chemistry/states-of-matter": {
