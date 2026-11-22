@@ -2495,10 +2495,10 @@
  },
  "physics/pressure": {
   "counts": {
-   "done": 26,
+   "done": 56,
    "failed": 0,
    "held": 0,
-   "missing": 146,
+   "missing": 116,
    "old": 0,
    "total": 172
   },
@@ -2513,7 +2513,7 @@
    "en": "Pressure: Solids, Liquids & Air",
    "zh": "压强：固体、液体与大气"
   },
-  "updated": "2026-11-22 14:49:22",
+  "updated": "2026-11-22 14:59:17",
   "verified": ""
  },
  "physics/simple-machines": {
