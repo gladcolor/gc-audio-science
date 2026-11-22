@@ -986,10 +986,10 @@
  },
  "biology/health-first-aid": {
   "counts": {
-   "done": 271,
+   "done": 349,
    "failed": 0,
    "held": 0,
-   "missing": 221,
+   "missing": 143,
    "old": 0,
    "total": 492
   },
@@ -1005,7 +1005,7 @@
    "en": "Healthy Living: Medicine & First Aid",
    "zh": "健康地生活：用药与急救"
   },
-  "updated": "2026-11-22 21:17:13",
+  "updated": "2026-11-22 21:18:26",
   "verified": ""
  },
  "biology/heredity": {
