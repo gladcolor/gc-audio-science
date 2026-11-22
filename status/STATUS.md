@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 20:23:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:23:37. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Updated 2026-11-22 20:23:33. Labels: finished / in progress / no audio / failed 
 | astronomy/tides | finished | 202 | 0 | 0 | 0 | 0 | 2026-11-22 20:17:31 |  |
 | biology/animals | finished | 240 | 0 | 0 | 0 | 0 | 2026-11-22 11:19:41 | 2026-11-22 11:27:12 |
 | biology/body-systems | finished | 304 | 0 | 0 | 0 | 0 | 2026-11-22 11:19:33 | 2026-11-22 11:25:20 |
-| biology/breathing-circulation | finished | 300 | 0 | 0 | 0 | 0 | 2026-11-22 11:43:44 |  |
+| biology/breathing-circulation | finished | 300 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:37 |  |
 | biology/cell-city | finished | 159 | 0 | 0 | 0 | 0 | 2026-11-22 07:15:13 | 2026-11-22 07:18:23 |
 | biology/cell-division | finished | 102 | 0 | 0 | 0 | 0 | 2026-11-22 11:17:40 | 2026-11-22 11:22:58 |
 | biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-22 13:46:31 | 2026-11-22 13:48:46 |
