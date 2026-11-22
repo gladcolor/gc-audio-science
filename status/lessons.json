@@ -1793,16 +1793,17 @@
  },
  "cs/cs-internet": {
   "counts": {
-   "done": 13,
+   "done": 114,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 68,
    "old": 0,
-   "total": 13
+   "total": 182
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "4e3dba88994e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/cs/cs-internet.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1810,8 +1811,8 @@
    "en": "How the Internet Works",
    "zh": "互联网是怎样工作的"
   },
-  "updated": "2026-11-22 00:33:24",
-  "verified": "2026-11-22 00:40:55"
+  "updated": "2026-11-22 20:01:39",
+  "verified": ""
  },
  "cs/cs-safety": {
   "counts": {
