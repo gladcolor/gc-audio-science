@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 20:22:26. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:22:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -46,7 +46,7 @@ Updated 2026-11-22 20:22:26. Labels: finished / in progress / no audio / failed 
 | biology/exocytosis | finished | 161 | 0 | 0 | 0 | 0 | 2026-11-22 10:44:50 | 2026-11-22 10:46:41 |
 | biology/food-webs | finished | 207 | 0 | 0 | 0 | 0 | 2026-11-22 20:15:17 |  |
 | biology/habitat-niche | finished | 238 | 0 | 0 | 0 | 0 | 2026-11-22 20:16:13 |  |
-| biology/health-first-aid | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-22 11:49:41 |  |
+| biology/health-first-aid | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:29 |  |
 | biology/heredity | finished | 173 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:12 |  |
 | biology/infection-immunity | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 20:16:34 |  |
 | biology/microorganisms | finished | 265 | 0 | 0 | 0 | 0 | 2026-11-22 11:10:15 | 2026-11-22 11:13:19 |
