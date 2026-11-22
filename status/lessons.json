@@ -938,15 +938,15 @@
  },
  "biology/food-webs": {
   "counts": {
-   "done": 350,
+   "done": 397,
    "failed": 0,
    "held": 0,
-   "missing": 45,
-   "old": 2,
+   "missing": 0,
+   "old": 0,
    "total": 397
   },
   "fingerprint": "7d78ce32ad89",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/food-webs.html",
   "record_demand": true,
   "record_langs": [
@@ -957,7 +957,7 @@
    "en": "Food Webs & Energy Pyramids",
    "zh": "食物网与能量金字塔"
   },
-  "updated": "2026-11-22 21:11:07",
+  "updated": "2026-11-22 21:19:30",
   "verified": ""
  },
  "biology/habitat-niche": {
