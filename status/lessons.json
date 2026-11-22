@@ -1655,11 +1655,11 @@
  },
  "chemistry/salts-fertilizers": {
   "counts": {
-   "done": 325,
+   "done": 393,
    "failed": 0,
    "held": 0,
-   "missing": 79,
-   "old": 58,
+   "missing": 13,
+   "old": 56,
    "total": 462
   },
   "fingerprint": "f0b53968cdcc",
@@ -1674,7 +1674,7 @@
    "en": "Salts, Double Displacement & Fertilizers",
    "zh": "盐、复分解反应与化肥"
   },
-  "updated": "2026-11-22 22:30:06",
+  "updated": "2026-11-22 22:30:25",
   "verified": ""
  },
  "chemistry/solutions": {
