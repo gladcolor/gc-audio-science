@@ -1262,7 +1262,7 @@
    "zh": "酸、碱与 pH"
   },
   "updated": "2026-11-22 16:21:59",
-  "verified": ""
+  "verified": "2026-11-22 16:57:14"
  },
  "chemistry/atoms": {
   "counts": {
@@ -1354,7 +1354,7 @@
    "zh": "化学方程式与计算"
   },
   "updated": "2026-11-22 16:25:24",
-  "verified": ""
+  "verified": "2026-11-22 16:57:29"
  },
  "chemistry/chemistry-life": {
   "counts": {
@@ -1423,7 +1423,7 @@
    "zh": "密度"
   },
   "updated": "2026-11-22 16:27:13",
-  "verified": ""
+  "verified": "2026-11-22 16:57:14"
  },
  "chemistry/elements-compounds": {
   "counts": {
@@ -1469,7 +1469,7 @@
    "zh": "化学式与化合价"
   },
   "updated": "2026-11-22 16:23:03",
-  "verified": ""
+  "verified": "2026-11-22 16:56:48"
  },
  "chemistry/lab-skills": {
   "counts": {
@@ -1588,15 +1588,15 @@
  },
  "chemistry/salts-fertilizers": {
   "counts": {
-   "done": 189,
+   "done": 225,
    "failed": 0,
    "held": 0,
-   "missing": 36,
+   "missing": 0,
    "old": 0,
    "total": 225
   },
   "fingerprint": "f0b53968cdcc",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/salts-fertilizers.html",
   "record_demand": true,
   "record_langs": [
@@ -1606,7 +1606,7 @@
    "en": "Salts, Double Displacement & Fertilizers",
    "zh": "盐、复分解反应与化肥"
   },
-  "updated": "2026-11-22 16:26:28",
+  "updated": "2026-11-22 16:57:46",
   "verified": ""
  },
  "chemistry/solutions": {
