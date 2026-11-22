@@ -24,11 +24,11 @@
  },
  "astronomy/black-holes": {
   "counts": {
-   "done": 126,
+   "done": 127,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 8,
+   "old": 7,
    "total": 134
   },
   "fingerprint": "2ab11d09ae37",
@@ -42,7 +42,7 @@
    "en": "Black Holes & Gravity Waves",
    "zh": "黑洞与引力波"
   },
-  "updated": "2026-11-22 20:16:46",
+  "updated": "2026-11-22 20:18:02",
   "verified": ""
  },
  "astronomy/eclipses": {
