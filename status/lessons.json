@@ -1641,7 +1641,7 @@
    "old": 0,
    "total": 193
   },
-  "fingerprint": "",
+  "fingerprint": "9cdab54dbb66",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
   "record_demand": true,
@@ -1652,7 +1652,7 @@
    "en": "States of Matter",
    "zh": "物质的状态"
   },
-  "updated": "2026-11-22 16:26:54",
+  "updated": "2026-11-22 20:20:42",
   "verified": ""
  },
  "chemistry/water-purification": {
