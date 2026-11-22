@@ -1225,15 +1225,15 @@
  },
  "biology/protein-synthesis": {
   "counts": {
-   "done": 299,
+   "done": 291,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 8,
    "total": 299
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "5c80996d58b5",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
   "record_demand": true,
   "record_langs": [
@@ -1244,7 +1244,7 @@
    "en": "DNA → RNA → Protein",
    "zh": "DNA → RNA → 蛋白质"
   },
-  "updated": "2026-11-22 21:10:15",
+  "updated": "2026-11-22 23:58:48",
   "verified": ""
  },
  "biology/reproduction": {
