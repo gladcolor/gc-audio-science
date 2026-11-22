@@ -68,16 +68,17 @@
  },
  "astronomy/exoplanets": {
   "counts": {
-   "done": 9,
+   "done": 62,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 35,
    "old": 0,
-   "total": 9
+   "total": 97
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "4dc3bef24ad5",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/exoplanets.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -85,8 +86,8 @@
    "en": "Exoplanets: Worlds Around Other Stars",
    "zh": "系外行星：其他恒星的世界"
   },
-  "updated": "2026-11-21 21:30:25",
-  "verified": "2026-11-21 21:40:58"
+  "updated": "2026-11-22 13:50:40",
+  "verified": ""
  },
  "astronomy/galaxies": {
   "counts": {
