@@ -1,2 +1,2 @@
 /* read-aloud clips of this lesson - written by tts_worker.py */
-LabAudioManifest({"lesson": "physics/ohms-law", "voice": "serena", "en": "0859279b 559f4b0f c0063e0a f1d1b56f", "zh": "64eb6a6e 880dbc9e 9aa79f77 a84230f9"});
+LabAudioManifest({"lesson": "physics/ohms-law", "voice": "serena", "en": "0859279b 559f4b0f c0063e0a f1d1b56f", "zh": "05770655 302913c8 3656c3a7 36719c48 395d5533 3b0726a7 3b5cca3a 3c806431 426a47c8 55059c70 64eb6a6e 6bc155b7 716a7fba 860f6bee 880dbc9e 8a18b849 92523d88 9aa79f77 a05c0cc3 a84230f9 ae21f15f b73147bb bb01b7ce edab81da fa40b9b9 fdd700f9"});
