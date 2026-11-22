@@ -2785,25 +2785,26 @@
  },
  "physics/waves": {
   "counts": {
-   "done": 168,
+   "done": 246,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 168
+   "missing": 71,
+   "old": 1,
+   "total": 318
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "73fd11db415f",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/waves.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Waves",
    "zh": "波"
   },
-  "updated": "2026-11-22 14:47:57",
+  "updated": "2026-11-22 21:58:50",
   "verified": ""
  },
  "physics/work-power": {
