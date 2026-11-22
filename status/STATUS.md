@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:26:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:26:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -73,7 +73,7 @@ Updated 2026-11-22 16:26:00. Labels: finished / in progress / no audio / failed 
 | chemistry/oxygen-air | in progress | 155 | 0 | 34 | 0 | 0 | 2026-11-22 16:22:07 |  |
 | chemistry/periodic-table | in progress | 368 | 0 | 60 | 0 | 0 | 2026-11-22 16:08:55 |  |
 | chemistry/reactions | in progress | 27 | 0 | 116 | 0 | 0 | 2026-11-22 16:08:13 |  |
-| chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 | 2026-11-21 20:58:29 |
+| chemistry/salts-fertilizers | in progress | 137 | 0 | 88 | 0 | 0 | 2026-11-22 16:26:09 |  |
 | chemistry/solutions | in progress | 86 | 0 | 74 | 0 | 0 | 2026-11-22 16:10:45 |  |
 | chemistry/states-of-matter | finished | 21 | 0 | 0 | 0 | 0 | 2026-11-21 21:39:23 |  |
 | chemistry/water-purification | in progress | 177 | 0 | 55 | 0 | 0 | 2026-11-22 16:24:32 |  |
