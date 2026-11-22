@@ -253,10 +253,10 @@
  },
  "astronomy/rocketry": {
   "counts": {
-   "done": 85,
+   "done": 130,
    "failed": 0,
    "held": 0,
-   "missing": 81,
+   "missing": 36,
    "old": 1,
    "total": 167
   },
@@ -271,7 +271,7 @@
    "en": "Rocket Science",
    "zh": "火箭是怎样飞上天的"
   },
-  "updated": "2026-11-22 13:53:32",
+  "updated": "2026-11-22 13:56:01",
   "verified": ""
  },
  "astronomy/scale-universe": {
