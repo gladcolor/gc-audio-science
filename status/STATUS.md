@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 15:22:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 15:22:34. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -98,7 +98,7 @@ Updated 2026-11-22 15:22:01. Labels: finished / in progress / no audio / failed 
 | earth/weathering-erosion | finished | 180 | 0 | 0 | 0 | 0 | 2026-11-22 12:02:35 | 2026-11-22 12:09:28 |
 | physics/buoyancy | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:09 |  |
 | physics/communications-energy | finished | 35 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:13 | 2026-11-21 20:41:08 |
-| physics/electric-power | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:43 | 2026-11-21 21:14:16 |
+| physics/electric-power | in progress | 80 | 0 | 102 | 0 | 0 | 2026-11-22 15:22:34 |  |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
 | physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
