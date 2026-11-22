@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 22:19:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:19:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -75,7 +75,7 @@ Updated 2026-11-22 22:19:01. Labels: finished / in progress / no audio / failed 
 | chemistry/reactions | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:22 |  |
 | chemistry/salts-fertilizers | finished | 225 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:15 |  |
 | chemistry/solutions | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:17 |  |
-| chemistry/states-of-matter | in progress | 317 | 1 | 45 | 0 | 0 | 2026-11-22 22:19:00 |  |
+| chemistry/states-of-matter | in progress | 357 | 1 | 5 | 0 | 0 | 2026-11-22 22:19:17 |  |
 | chemistry/water-purification | finished | 232 | 0 | 0 | 0 | 0 | 2026-11-22 20:21:36 |  |
 | cs/cs-ai | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:31 |  |
 | cs/cs-algorithms | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:30 |  |
