@@ -2497,15 +2497,15 @@
  },
  "physics/nuclear-fission": {
   "counts": {
-   "done": 186,
+   "done": 198,
    "failed": 0,
    "held": 0,
-   "missing": 11,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 198
   },
   "fingerprint": "a3a062344c0f",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/nuclear-fission.html",
   "record_demand": true,
   "record_langs": [
@@ -2515,7 +2515,7 @@
    "en": "Nuclear Fission & the Atomic Bomb",
    "zh": "核裂变与原子弹"
   },
-  "updated": "2026-11-22 15:34:21",
+  "updated": "2026-11-22 16:26:00",
   "verified": ""
  },
  "physics/nuclear-fusion": {
