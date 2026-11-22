@@ -553,11 +553,11 @@
  },
  "biology/body-systems": {
   "counts": {
-   "done": 503,
+   "done": 530,
    "failed": 0,
    "held": 0,
-   "missing": 96,
-   "old": 10,
+   "missing": 72,
+   "old": 7,
    "total": 609
   },
   "fingerprint": "01fbc8a85c78",
@@ -572,7 +572,7 @@
    "en": "Human Body Systems",
    "zh": "人体系统"
   },
-  "updated": "2026-11-22 21:08:50",
+  "updated": "2026-11-22 21:09:37",
   "verified": ""
  },
  "biology/breathing-circulation": {
