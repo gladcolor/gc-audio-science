@@ -2653,7 +2653,7 @@
    "old": 0,
    "total": 151
   },
-  "fingerprint": "",
+  "fingerprint": "4e7ccb54cdef",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/sound.html",
   "record_demand": true,
@@ -2664,7 +2664,7 @@
    "en": "Sound",
    "zh": "声音"
   },
-  "updated": "2026-11-22 14:58:09",
+  "updated": "2026-11-22 20:18:42",
   "verified": ""
  },
  "physics/specific-heat": {
