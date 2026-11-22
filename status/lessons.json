@@ -1579,11 +1579,11 @@
  },
  "chemistry/oxygen-air": {
   "counts": {
-   "done": 206,
+   "done": 300,
    "failed": 0,
    "held": 0,
-   "missing": 129,
-   "old": 37,
+   "missing": 52,
+   "old": 20,
    "total": 372
   },
   "fingerprint": "684e5e34262d",
@@ -1598,7 +1598,7 @@
    "en": "Air & Oxygen",
    "zh": "空气与氧气"
   },
-  "updated": "2026-11-22 22:24:16",
+  "updated": "2026-11-22 22:25:16",
   "verified": ""
  },
  "chemistry/periodic-table": {
