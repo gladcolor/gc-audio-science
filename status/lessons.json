@@ -289,15 +289,15 @@
  },
  "astronomy/scale-universe": {
   "counts": {
-   "done": 897,
+   "done": 926,
    "failed": 0,
    "held": 0,
-   "missing": 29,
+   "missing": 0,
    "old": 0,
    "total": 926
   },
   "fingerprint": "13fdf0fa91fa",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/scale-universe.html",
   "record_demand": true,
   "record_langs": [
@@ -308,7 +308,7 @@
    "en": "The Scale of the Universe",
    "zh": "宇宙有多大"
   },
-  "updated": "2026-11-22 21:46:56",
+  "updated": "2026-11-22 22:13:27",
   "verified": ""
  },
  "astronomy/seasons": {
