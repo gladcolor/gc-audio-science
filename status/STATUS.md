@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 15:21:17. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 15:21:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -112,7 +112,7 @@ Updated 2026-11-22 15:21:17. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 13 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:06 | 2026-11-21 20:40:29 |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
-| physics/ohms-law | in progress | 26 | 0 | 157 | 0 | 0 | 2026-11-22 15:20:30 |  |
+| physics/ohms-law | in progress | 65 | 0 | 118 | 0 | 0 | 2026-11-22 15:21:22 |  |
 | physics/phase-changes | in progress | 89 | 0 | 105 | 0 | 0 | 2026-11-22 15:19:56 |  |
 | physics/pressure | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:50 | 2026-11-22 15:19:20 |
 | physics/simple-machines | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:25 | 2026-11-22 14:56:27 |
