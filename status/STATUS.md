@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 15:25:00. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 15:25:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -103,7 +103,7 @@ Updated 2026-11-22 15:25:00. Labels: finished / in progress / no audio / failed 
 | physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
 | physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
-| physics/formula-sheet | in progress | 242 | 1 | 106 | 0 | 0 | 2026-11-22 15:24:13 |  |
+| physics/formula-sheet | in progress | 319 | 0 | 30 | 0 | 0 | 2026-11-22 15:25:26 |  |
 | physics/heat-transfer | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 14:59:30 | 2026-11-22 15:14:59 |
 | physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:38 |  |
 | physics/light | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:23 | 2026-11-22 15:16:44 |
