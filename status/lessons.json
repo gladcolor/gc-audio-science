@@ -2250,11 +2250,11 @@
  },
  "physics/formula-sheet": {
   "counts": {
-   "done": 72,
+   "done": 242,
    "failed": 0,
    "held": 0,
-   "missing": 273,
-   "old": 4,
+   "missing": 106,
+   "old": 1,
    "total": 349
   },
   "fingerprint": "0474676025bb",
@@ -2268,7 +2268,7 @@
    "en": "Physics Formula Sheet & Calculators",
    "zh": "初中物理公式表与计算器"
   },
-  "updated": "2026-11-22 15:22:01",
+  "updated": "2026-11-22 15:24:13",
   "verified": ""
  },
  "physics/heat-transfer": {
