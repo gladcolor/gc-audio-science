@@ -2676,7 +2676,7 @@
    "old": 0,
    "total": 203
   },
-  "fingerprint": "",
+  "fingerprint": "77a59d44b711",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/specific-heat.html",
   "record_demand": true,
@@ -2687,7 +2687,7 @@
    "en": "Internal Energy & Specific Heat",
    "zh": "内能与比热容"
   },
-  "updated": "2026-11-22 15:21:16",
+  "updated": "2026-11-22 20:19:19",
   "verified": ""
  },
  "physics/static-charge": {
