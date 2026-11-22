@@ -2611,7 +2611,7 @@
    "old": 0,
    "total": 168
   },
-  "fingerprint": "",
+  "fingerprint": "73fd11db415f",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/waves.html",
   "record_demand": true,
@@ -2622,7 +2622,7 @@
    "en": "Waves",
    "zh": "波"
   },
-  "updated": "2026-11-22 09:09:20",
+  "updated": "2026-11-22 14:47:57",
   "verified": ""
  },
  "physics/work-power": {
