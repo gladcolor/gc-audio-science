@@ -530,25 +530,26 @@
  },
  "biology/animals": {
   "counts": {
-   "done": 240,
+   "done": 453,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 240
+   "total": 453
   },
-  "fingerprint": "",
+  "fingerprint": "5def97d0580a",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/animals.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "The Animal Kingdom",
    "zh": "动物界"
   },
-  "updated": "2026-11-22 11:19:41",
+  "updated": "2026-11-22 21:11:15",
   "verified": ""
  },
  "biology/body-systems": {
