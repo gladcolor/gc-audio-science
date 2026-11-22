@@ -578,10 +578,10 @@
  },
  "biology/breathing-circulation": {
   "counts": {
-   "done": 431,
+   "done": 508,
    "failed": 0,
    "held": 0,
-   "missing": 153,
+   "missing": 76,
    "old": 1,
    "total": 585
   },
@@ -597,7 +597,7 @@
    "en": "Breathing & Blood Circulation",
    "zh": "人体的呼吸与血液循环"
   },
-  "updated": "2026-11-22 21:16:45",
+  "updated": "2026-11-22 21:17:05",
   "verified": ""
  },
  "biology/cell-city": {
