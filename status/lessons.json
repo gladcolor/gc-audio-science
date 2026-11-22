@@ -2182,10 +2182,10 @@
  },
  "physics/electromagnetism": {
   "counts": {
-   "done": 62,
+   "done": 80,
    "failed": 0,
    "held": 0,
-   "missing": 126,
+   "missing": 108,
    "old": 0,
    "total": 188
   },
@@ -2200,7 +2200,7 @@
    "en": "Electromagnets, Motors & Generators",
    "zh": "电磁铁、电动机与发电机"
   },
-  "updated": "2026-11-22 15:26:26",
+  "updated": "2026-11-22 15:26:53",
   "verified": ""
  },
  "physics/energy": {
