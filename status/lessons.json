@@ -2815,10 +2815,10 @@
  },
  "physics/work-power": {
   "counts": {
-   "done": 204,
+   "done": 255,
    "failed": 0,
    "held": 0,
-   "missing": 121,
+   "missing": 70,
    "old": 1,
    "total": 326
   },
@@ -2834,7 +2834,7 @@
    "en": "Work, Power & Efficiency",
    "zh": "功、功率与机械效率"
   },
-  "updated": "2026-11-22 22:02:11",
+  "updated": "2026-11-22 22:03:02",
   "verified": ""
  }
 }
