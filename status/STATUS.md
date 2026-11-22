@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:05:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:06:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -71,7 +71,7 @@ Updated 2026-11-22 16:05:33. Labels: finished / in progress / no audio / failed 
 | chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 | 2026-11-21 20:59:04 |
 | chemistry/metals | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 21:10:02 | 2026-11-21 21:16:09 |
 | chemistry/oxygen-air | finished | 16 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:13 | 2026-11-21 21:48:02 |
-| chemistry/periodic-table | in progress | 124 | 4 | 300 | 0 | 0 | 2026-11-22 15:35:25 |  |
+| chemistry/periodic-table | in progress | 259 | 0 | 169 | 0 | 0 | 2026-11-22 16:06:13 |  |
 | chemistry/reactions | finished | 8 | 0 | 0 | 0 | 0 | 2026-11-21 21:34:54 | 2026-11-21 21:42:16 |
 | chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 | 2026-11-21 20:58:29 |
 | chemistry/solutions | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:26 | 2026-11-21 21:14:03 |
@@ -121,6 +121,6 @@ Updated 2026-11-22 16:05:33. Labels: finished / in progress / no audio / failed 
 | physics/simple-machines | finished | 154 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:25 | 2026-11-22 14:56:27 |
 | physics/sound | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:09 | 2026-11-22 15:15:46 |
 | physics/specific-heat | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:16 | 2026-11-22 15:31:25 |
-| physics/static-charge | finished | 240 | 0 | 0 | 0 | 0 | 2026-11-22 15:36:28 |  |
+| physics/static-charge | finished | 240 | 0 | 0 | 0 | 0 | 2026-11-22 15:36:28 | 2026-11-22 16:05:37 |
 | physics/waves | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:47:57 | 2026-11-22 14:57:15 |
 | physics/work-power | finished | 167 | 0 | 0 | 0 | 0 | 2026-11-22 15:19:26 | 2026-11-22 15:31:16 |
