@@ -1381,15 +1381,15 @@
  },
  "chemistry/combustion-fuels": {
   "counts": {
-   "done": 169,
+   "done": 192,
    "failed": 0,
    "held": 0,
-   "missing": 23,
+   "missing": 0,
    "old": 0,
    "total": 192
   },
   "fingerprint": "5ce80ce507db",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/combustion-fuels.html",
   "record_demand": true,
   "record_langs": [
@@ -1399,7 +1399,7 @@
    "en": "Combustion, Fuels & Fire Safety",
    "zh": "燃烧、燃料与消防安全"
   },
-  "updated": "2026-11-22 16:25:32",
+  "updated": "2026-11-22 16:56:25",
   "verified": ""
  },
  "chemistry/density": {
