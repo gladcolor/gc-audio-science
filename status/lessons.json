@@ -1100,10 +1100,10 @@
  },
  "biology/nutrition-digestion": {
   "counts": {
-   "done": 304,
+   "done": 343,
    "failed": 0,
    "held": 0,
-   "missing": 180,
+   "missing": 141,
    "old": 21,
    "total": 505
   },
@@ -1119,7 +1119,7 @@
    "en": "Nutrition & Digestion",
    "zh": "人体的营养与消化"
   },
-  "updated": "2026-11-22 21:14:54",
+  "updated": "2026-11-22 21:15:21",
   "verified": ""
  },
  "biology/osmosis": {
