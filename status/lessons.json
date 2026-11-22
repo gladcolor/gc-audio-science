@@ -138,15 +138,15 @@
  },
  "astronomy/kepler-laws": {
   "counts": {
-   "done": 144,
+   "done": 178,
    "failed": 0,
    "held": 0,
-   "missing": 34,
+   "missing": 0,
    "old": 0,
    "total": 178
   },
   "fingerprint": "dc062cb2e2fd",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/kepler-laws.html",
   "record_demand": true,
   "record_langs": [
@@ -156,7 +156,7 @@
    "en": "Orbits, Kepler’s Laws & Going to Mars",
    "zh": "轨道、开普勒定律与飞向火星"
   },
-  "updated": "2026-11-22 13:54:47",
+  "updated": "2026-11-22 13:57:41",
   "verified": ""
  },
  "astronomy/measuring-distance": {
