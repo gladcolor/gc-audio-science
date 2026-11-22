@@ -2296,15 +2296,15 @@
  },
  "physics/lenses": {
   "counts": {
-   "done": 209,
+   "done": 227,
    "failed": 0,
    "held": 0,
-   "missing": 18,
+   "missing": 0,
    "old": 0,
    "total": 227
   },
   "fingerprint": "0fbf4bdbc8e6",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/lenses.html",
   "record_demand": true,
   "record_langs": [
@@ -2314,7 +2314,7 @@
    "en": "Lenses & Image Formation",
    "zh": "透镜及其应用"
   },
-  "updated": "2026-11-22 15:21:34",
+  "updated": "2026-11-22 15:24:38",
   "verified": ""
  },
  "physics/light": {
