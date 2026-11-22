@@ -1310,16 +1310,17 @@
  },
  "chemistry/changes": {
   "counts": {
-   "done": 7,
+   "done": 48,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 95,
    "old": 0,
-   "total": 7
+   "total": 143
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "59ab24b1cb3f",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -1327,8 +1328,8 @@
    "en": "Physical & Chemical Changes",
    "zh": "物理变化与化学变化"
   },
-  "updated": "2026-11-21 21:31:24",
-  "verified": "2026-11-21 21:41:38"
+  "updated": "2026-11-22 16:07:38",
+  "verified": ""
  },
  "chemistry/chemical-equations": {
   "counts": {
