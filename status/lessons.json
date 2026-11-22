@@ -1557,11 +1557,11 @@
  },
  "chemistry/metals": {
   "counts": {
-   "done": 275,
+   "done": 445,
    "failed": 0,
    "held": 0,
-   "missing": 213,
-   "old": 37,
+   "missing": 49,
+   "old": 31,
    "total": 525
   },
   "fingerprint": "6bc5b2fc03c8",
@@ -1576,7 +1576,7 @@
    "en": "Metals & the Activity Series",
    "zh": "金属与金属活动性顺序"
   },
-  "updated": "2026-11-22 22:26:05",
+  "updated": "2026-11-22 22:27:28",
   "verified": ""
  },
  "chemistry/oxygen-air": {
