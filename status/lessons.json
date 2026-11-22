@@ -2182,10 +2182,10 @@
  },
  "physics/buoyancy": {
   "counts": {
-   "done": 260,
+   "done": 374,
    "failed": 0,
    "held": 0,
-   "missing": 151,
+   "missing": 37,
    "old": 0,
    "total": 411
   },
@@ -2201,7 +2201,7 @@
    "en": "Buoyancy & Archimedes’ Principle",
    "zh": "浮力与阿基米德原理"
   },
-  "updated": "2026-11-22 22:01:49",
+  "updated": "2026-11-22 22:02:41",
   "verified": ""
  },
  "physics/communications-energy": {
