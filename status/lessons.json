@@ -665,7 +665,7 @@
    "zh": "细胞器"
   },
   "updated": "2026-11-22 21:02:22",
-  "verified": ""
+  "verified": "2026-11-22 21:03:35"
  },
  "biology/cell-theory": {
   "counts": {
@@ -738,25 +738,26 @@
  },
  "biology/characteristics-of-life": {
   "counts": {
-   "done": 246,
+   "done": 454,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 246
+   "missing": 12,
+   "old": 3,
+   "total": 469
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "094d4002481b",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Is It Alive? Characteristics of Life",
    "zh": "它是活的吗？生物的特征"
   },
-  "updated": "2026-11-22 07:06:34",
+  "updated": "2026-11-22 21:03:52",
   "verified": ""
  },
  "biology/classification": {
