@@ -1,11 +1,11 @@
 {
  "astronomy/big-bang": {
   "counts": {
-   "done": 284,
+   "done": 346,
    "failed": 0,
    "held": 0,
-   "missing": 86,
-   "old": 5,
+   "missing": 25,
+   "old": 4,
    "total": 375
   },
   "fingerprint": "f5c7041ea703",
@@ -20,7 +20,7 @@
    "en": "The Big Bang & the Expanding Universe",
    "zh": "大爆炸与膨胀的宇宙"
   },
-  "updated": "2026-11-22 21:53:50",
+  "updated": "2026-11-22 21:54:20",
   "verified": ""
  },
  "astronomy/black-holes": {
