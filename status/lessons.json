@@ -553,25 +553,26 @@
  },
  "biology/body-systems": {
   "counts": {
-   "done": 304,
+   "done": 503,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 304
+   "missing": 96,
+   "old": 10,
+   "total": 609
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "01fbc8a85c78",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/body-systems.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Human Body Systems",
    "zh": "人体系统"
   },
-  "updated": "2026-11-22 11:19:33",
+  "updated": "2026-11-22 21:08:50",
   "verified": ""
  },
  "biology/breathing-circulation": {
