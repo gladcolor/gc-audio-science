@@ -2182,25 +2182,26 @@
  },
  "physics/buoyancy": {
   "counts": {
-   "done": 208,
+   "done": 260,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 151,
    "old": 0,
-   "total": 208
+   "total": 411
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "aff3a58165d6",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/buoyancy.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Buoyancy & Archimedes’ Principle",
    "zh": "浮力与阿基米德原理"
   },
-  "updated": "2026-11-22 20:18:51",
+  "updated": "2026-11-22 22:01:49",
   "verified": ""
  },
  "physics/communications-energy": {
