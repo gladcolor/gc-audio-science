@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:21:59. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:22:07. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@ Updated 2026-11-22 16:21:59. Labels: finished / in progress / no audio / failed 
 | chemistry/formulas-valence | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:20 | 2026-11-21 21:54:35 |
 | chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 | 2026-11-21 20:59:04 |
 | chemistry/metals | in progress | 49 | 0 | 209 | 0 | 0 | 2026-11-22 16:15:03 |  |
-| chemistry/oxygen-air | in progress | 85 | 0 | 104 | 0 | 0 | 2026-11-22 16:13:37 |  |
+| chemistry/oxygen-air | in progress | 155 | 0 | 34 | 0 | 0 | 2026-11-22 16:22:07 |  |
 | chemistry/periodic-table | in progress | 368 | 0 | 60 | 0 | 0 | 2026-11-22 16:08:55 |  |
 | chemistry/reactions | in progress | 27 | 0 | 116 | 0 | 0 | 2026-11-22 16:08:13 |  |
 | chemistry/salts-fertilizers | finished | 34 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:50 | 2026-11-21 20:58:29 |
@@ -98,7 +98,7 @@ Updated 2026-11-22 16:21:59. Labels: finished / in progress / no audio / failed 
 | earth/weathering-erosion | finished | 180 | 0 | 0 | 0 | 0 | 2026-11-22 12:02:35 | 2026-11-22 12:09:28 |
 | physics/buoyancy | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:09 | 2026-11-22 15:31:25 |
 | physics/communications-energy | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-22 16:21:28 |  |
-| physics/electric-power | finished | 182 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:08 |  |
+| physics/electric-power | finished | 182 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:08 | 2026-11-22 16:22:03 |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
 | physics/electromagnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:24 | 2026-11-22 16:06:19 |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
@@ -108,7 +108,7 @@ Updated 2026-11-22 16:21:59. Labels: finished / in progress / no audio / failed 
 | physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:38 | 2026-11-22 15:32:22 |
 | physics/light | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:23 | 2026-11-22 15:16:44 |
 | physics/magnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:00:56 | 2026-11-22 15:18:30 |
-| physics/measurements-density | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 16:05:00 |  |
+| physics/measurements-density | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 16:05:00 | 2026-11-22 16:22:03 |
 | physics/mechanical-motion | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:04 | 2026-11-22 16:05:10 |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
