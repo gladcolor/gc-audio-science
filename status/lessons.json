@@ -2697,15 +2697,15 @@
  },
  "physics/simple-machines": {
   "counts": {
-   "done": 252,
+   "done": 306,
    "failed": 0,
    "held": 0,
-   "missing": 53,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 306
   },
   "fingerprint": "e37f38536e8a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/simple-machines.html",
   "record_demand": true,
   "record_langs": [
@@ -2716,7 +2716,7 @@
    "en": "Simple Machines",
    "zh": "简单机械"
   },
-  "updated": "2026-11-22 21:57:14",
+  "updated": "2026-11-22 22:04:39",
   "verified": ""
  },
  "physics/sound": {
