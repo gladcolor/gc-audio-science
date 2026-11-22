@@ -1367,10 +1367,10 @@
  },
  "chemistry/changes": {
   "counts": {
-   "done": 195,
+   "done": 238,
    "failed": 0,
    "held": 0,
-   "missing": 81,
+   "missing": 38,
    "old": 2,
    "total": 278
   },
@@ -1386,7 +1386,7 @@
    "en": "Physical & Chemical Changes",
    "zh": "物理变化与化学变化"
   },
-  "updated": "2026-11-22 22:19:41",
+  "updated": "2026-11-22 22:20:10",
   "verified": ""
  },
  "chemistry/chemical-equations": {
