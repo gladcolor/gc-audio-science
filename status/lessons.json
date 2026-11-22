@@ -47,25 +47,26 @@
  },
  "astronomy/eclipses": {
   "counts": {
-   "done": 254,
+   "done": 273,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 207,
    "old": 0,
-   "total": 254
+   "total": 480
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "686a5c2f446d",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/eclipses.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Solar & Lunar Eclipses",
    "zh": "日食与月食"
   },
-  "updated": "2026-11-22 20:17:36",
+  "updated": "2026-11-22 21:35:29",
   "verified": ""
  },
  "astronomy/exoplanets": {
