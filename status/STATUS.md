@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 20:24:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:24:04. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -107,7 +107,7 @@ Updated 2026-11-22 20:24:01. Labels: finished / in progress / no audio / failed 
 | physics/heat-transfer | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:15 |  |
 | physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 20:23:12 |  |
 | physics/light | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 20:18:25 |  |
-| physics/magnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:00:56 |  |
+| physics/magnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:04 |  |
 | physics/measurements-density | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 20:24:01 |  |
 | physics/mechanical-motion | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:26 |  |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 20:22:53 |  |
