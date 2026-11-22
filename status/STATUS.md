@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 22:43:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 22:45:09. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Updated 2026-11-22 22:43:33. Labels: finished / in progress / no audio / failed 
 | astronomy/small-bodies | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-22 22:14:46 |  |
 | astronomy/solar-system | finished | 506 | 0 | 0 | 0 | 0 | 2026-11-22 21:58:38 |  |
 | astronomy/space-exploration | finished | 467 | 0 | 0 | 0 | 0 | 2026-11-22 22:13:15 |  |
-| astronomy/star-life | finished | 649 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:44 |  |
+| astronomy/star-life | finished | 649 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:44 | 2026-11-22 22:43:56 |
 | astronomy/sun-stars | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-22 21:49:52 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-22 21:48:07 |  |
 | astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-22 22:15:20 | 2026-11-22 22:42:19 |
@@ -67,7 +67,7 @@ Updated 2026-11-22 22:43:33. Labels: finished / in progress / no audio / failed 
 | chemistry/combustion-fuels | finished | 367 | 0 | 0 | 0 | 0 | 2026-11-22 22:39:50 |  |
 | chemistry/density | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-22 22:23:13 |  |
 | chemistry/elements-compounds | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-22 22:42:08 |  |
-| chemistry/formulas-valence | in progress | 214 | 20 | 36 | 0 | 0 | 2026-11-22 22:23:23 |  |
+| chemistry/formulas-valence | finished | 270 | 0 | 0 | 0 | 0 | 2026-11-22 22:45:08 |  |
 | chemistry/lab-skills | finished | 574 | 0 | 0 | 0 | 0 | 2026-11-22 22:41:44 |  |
 | chemistry/metals | finished | 525 | 0 | 0 | 0 | 0 | 2026-11-22 22:33:38 |  |
 | chemistry/oxygen-air | finished | 372 | 0 | 0 | 0 | 0 | 2026-11-22 22:39:15 |  |
@@ -100,12 +100,12 @@ Updated 2026-11-22 22:43:33. Labels: finished / in progress / no audio / failed 
 | physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:27 | 2026-11-22 22:42:40 |
 | physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-22 22:13:34 |  |
 | physics/electricity | finished | 324 | 0 | 0 | 0 | 0 | 2026-11-22 22:21:07 |  |
-| physics/electromagnetism | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:54 |  |
+| physics/electromagnetism | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:54 | 2026-11-22 22:43:56 |
 | physics/energy | finished | 326 | 0 | 0 | 0 | 0 | 2026-11-22 22:11:45 |  |
 | physics/forces | finished | 465 | 0 | 0 | 0 | 0 | 2026-11-22 22:17:20 | 2026-11-22 22:42:42 |
 | physics/formula-sheet | finished | 683 | 0 | 0 | 0 | 0 | 2026-11-22 22:32:14 |  |
 | physics/heat-transfer | finished | 291 | 0 | 0 | 0 | 0 | 2026-11-22 22:23:31 |  |
-| physics/lenses | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 22:18:23 |  |
+| physics/lenses | finished | 452 | 0 | 0 | 0 | 0 | 2026-11-22 22:18:23 | 2026-11-22 22:44:50 |
 | physics/light | finished | 327 | 0 | 0 | 0 | 0 | 2026-11-22 22:26:41 |  |
 | physics/magnetism | finished | 368 | 0 | 0 | 0 | 0 | 2026-11-22 22:21:22 |  |
 | physics/measurements-density | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-22 22:33:25 |  |
@@ -113,7 +113,7 @@ Updated 2026-11-22 22:43:33. Labels: finished / in progress / no audio / failed 
 | physics/motion | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-22 22:09:50 |  |
 | physics/newtons-laws | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-22 22:04:11 |  |
 | physics/nuclear-applications | finished | 619 | 0 | 0 | 0 | 0 | 2026-11-22 22:20:44 |  |
-| physics/nuclear-fission | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:19:49 |  |
+| physics/nuclear-fission | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-22 22:19:49 | 2026-11-22 22:44:45 |
 | physics/nuclear-fusion | finished | 445 | 0 | 0 | 0 | 0 | 2026-11-22 22:20:52 |  |
 | physics/ohms-law | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-22 22:12:47 |  |
 | physics/phase-changes | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-22 22:11:18 |  |
