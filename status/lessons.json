@@ -2567,11 +2567,11 @@
  },
  "physics/nuclear-applications": {
   "counts": {
-   "done": 411,
+   "done": 492,
    "failed": 0,
    "held": 0,
-   "missing": 190,
-   "old": 18,
+   "missing": 112,
+   "old": 15,
    "total": 619
   },
   "fingerprint": "d198c62e2c11",
@@ -2586,7 +2586,7 @@
    "en": "Atoms for Peace: Uses of Nuclear Technology",
    "zh": "核技术的和平利用"
   },
-  "updated": "2026-11-22 22:15:03",
+  "updated": "2026-11-22 22:15:29",
   "verified": ""
  },
  "physics/nuclear-fission": {
