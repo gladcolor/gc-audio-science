@@ -1392,11 +1392,11 @@
  },
  "chemistry/chemical-equations": {
   "counts": {
-   "done": 137,
+   "done": 214,
    "failed": 0,
    "held": 0,
-   "missing": 79,
-   "old": 15,
+   "missing": 7,
+   "old": 10,
    "total": 231
   },
   "fingerprint": "d38f8f403186",
@@ -1411,7 +1411,7 @@
    "en": "Balancing & Calculating with Equations",
    "zh": "化学方程式与计算"
   },
-  "updated": "2026-11-22 22:22:57",
+  "updated": "2026-11-22 22:24:46",
   "verified": ""
  },
  "chemistry/chemistry-life": {
