@@ -1725,10 +1725,10 @@
  },
  "chemistry/water-purification": {
   "counts": {
-   "done": 378,
+   "done": 431,
    "failed": 0,
    "held": 0,
-   "missing": 67,
+   "missing": 14,
    "old": 6,
    "total": 451
   },
@@ -1744,7 +1744,7 @@
    "en": "Water: Purification & Composition",
    "zh": "水的净化、组成与保护"
   },
-  "updated": "2026-11-22 22:28:31",
+  "updated": "2026-11-22 22:28:52",
   "verified": ""
  },
  "cs/cs-ai": {
