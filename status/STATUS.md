@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 21:17:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 21:17:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -48,7 +48,7 @@ Updated 2026-11-22 21:17:14. Labels: finished / in progress / no audio / failed 
 | biology/habitat-niche | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-22 21:16:21 |  |
 | biology/health-first-aid | in progress | 271 | 0 | 221 | 0 | 0 | 2026-11-22 21:17:13 |  |
 | biology/heredity | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-22 21:11:20 |  |
-| biology/infection-immunity | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 20:16:34 |  |
+| biology/infection-immunity | finished | 501 | 0 | 0 | 0 | 0 | 2026-11-22 21:17:39 |  |
 | biology/microorganisms | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-22 21:10:31 |  |
 | biology/nervous-endocrine | finished | 319 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:40 |  |
 | biology/nutrition-digestion | in progress | 457 | 21 | 27 | 0 | 0 | 2026-11-22 21:16:09 |  |
