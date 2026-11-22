@@ -484,10 +484,10 @@
  },
  "astronomy/three-body": {
   "counts": {
-   "done": 49,
+   "done": 131,
    "failed": 0,
    "held": 0,
-   "missing": 111,
+   "missing": 29,
    "old": 0,
    "total": 160
   },
@@ -502,7 +502,7 @@
    "en": "The Three-Body Problem: Order & Chaos",
    "zh": "三体问题：秩序与混沌"
   },
-  "updated": "2026-11-22 14:01:37",
+  "updated": "2026-11-22 14:04:24",
   "verified": ""
  },
  "astronomy/tides": {
