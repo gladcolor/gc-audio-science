@@ -8,7 +8,7 @@
    "old": 0,
    "total": 375
   },
-  "fingerprint": "f5c7041ea703",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/big-bang.html",
   "record_demand": true,
@@ -32,7 +32,7 @@
    "old": 0,
    "total": 260
   },
-  "fingerprint": "2ab11d09ae37",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/black-holes.html",
   "record_demand": true,
@@ -56,7 +56,7 @@
    "old": 0,
    "total": 480
   },
-  "fingerprint": "686a5c2f446d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/eclipses.html",
   "record_demand": true,
@@ -80,7 +80,7 @@
    "old": 0,
    "total": 244
   },
-  "fingerprint": "4dc3bef24ad5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/exoplanets.html",
   "record_demand": true,
@@ -104,7 +104,7 @@
    "old": 0,
    "total": 463
   },
-  "fingerprint": "9bbb0f46b82b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/galaxies.html",
   "record_demand": true,
@@ -128,7 +128,7 @@
    "old": 0,
    "total": 343
   },
-  "fingerprint": "7f856caa7ab5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/gravity-orbits.html",
   "record_demand": true,
@@ -152,7 +152,7 @@
    "old": 0,
    "total": 344
   },
-  "fingerprint": "dc062cb2e2fd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/kepler-laws.html",
   "record_demand": true,
@@ -176,7 +176,7 @@
    "old": 0,
    "total": 271
   },
-  "fingerprint": "8d689db34451",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/measuring-distance.html",
   "record_demand": true,
@@ -200,7 +200,7 @@
    "old": 0,
    "total": 605
   },
-  "fingerprint": "f26d45da15a7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
   "record_demand": true,
@@ -224,7 +224,7 @@
    "old": 0,
    "total": 505
   },
-  "fingerprint": "84ae8f447208",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/night-sky.html",
   "record_demand": true,
@@ -248,7 +248,7 @@
    "old": 0,
    "total": 643
   },
-  "fingerprint": "6c919c40d838",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/planets-moons.html",
   "record_demand": true,
@@ -261,7 +261,7 @@
    "zh": "行星实验室：行星与卫星"
   },
   "updated": "2026-11-22 22:21:14",
-  "verified": "2026-11-22 22:48:18"
+  "verified": ""
  },
  "astronomy/rocketry": {
   "counts": {
@@ -272,7 +272,7 @@
    "old": 0,
    "total": 316
   },
-  "fingerprint": "21c6fbef2714",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/rocketry.html",
   "record_demand": true,
@@ -296,7 +296,7 @@
    "old": 0,
    "total": 926
   },
-  "fingerprint": "13fdf0fa91fa",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/scale-universe.html",
   "record_demand": true,
@@ -320,7 +320,7 @@
    "old": 0,
    "total": 398
   },
-  "fingerprint": "cebff00426e3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/seasons.html",
   "record_demand": true,
@@ -344,7 +344,7 @@
    "old": 0,
    "total": 562
   },
-  "fingerprint": "3ad6d3336e1b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
   "record_demand": true,
@@ -368,7 +368,7 @@
    "old": 0,
    "total": 385
   },
-  "fingerprint": "c00587e9c5eb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/small-bodies.html",
   "record_demand": true,
@@ -392,7 +392,7 @@
    "old": 0,
    "total": 506
   },
-  "fingerprint": "7a5fe2543469",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/solar-system.html",
   "record_demand": true,
@@ -416,7 +416,7 @@
    "old": 0,
    "total": 467
   },
-  "fingerprint": "948fbd0c4bfd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/space-exploration.html",
   "record_demand": true,
@@ -440,7 +440,7 @@
    "old": 0,
    "total": 649
   },
-  "fingerprint": "a9f249695579",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/star-life.html",
   "record_demand": true,
@@ -453,7 +453,7 @@
    "zh": "恒星的一生：赫罗图"
   },
   "updated": "2026-11-22 22:17:44",
-  "verified": "2026-11-22 22:43:56"
+  "verified": ""
  },
  "astronomy/sun-stars": {
   "counts": {
@@ -464,7 +464,7 @@
    "old": 0,
    "total": 448
   },
-  "fingerprint": "70ed0b8459ac",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/sun-stars.html",
   "record_demand": true,
@@ -488,7 +488,7 @@
    "old": 0,
    "total": 14
   },
-  "fingerprint": "9ddcfa79e124",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/telescopes-light.html",
   "record_demand": true,
@@ -512,7 +512,7 @@
    "old": 0,
    "total": 315
   },
-  "fingerprint": "0e8138b9683d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/three-body.html",
   "record_demand": true,
@@ -525,7 +525,7 @@
    "zh": "三体问题：秩序与混沌"
   },
   "updated": "2026-11-22 22:15:20",
-  "verified": "2026-11-22 22:42:19"
+  "verified": ""
  },
  "astronomy/tides": {
   "counts": {
@@ -536,7 +536,7 @@
    "old": 0,
    "total": 393
   },
-  "fingerprint": "0a7eedfdbd34",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/tides.html",
   "record_demand": true,
@@ -560,7 +560,7 @@
    "old": 0,
    "total": 453
   },
-  "fingerprint": "5def97d0580a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/animals.html",
   "record_demand": true,
@@ -584,7 +584,7 @@
    "old": 0,
    "total": 609
   },
-  "fingerprint": "01fbc8a85c78",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/body-systems.html",
   "record_demand": true,
@@ -608,7 +608,7 @@
    "old": 0,
    "total": 585
   },
-  "fingerprint": "c8595a4d8889",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/breathing-circulation.html",
   "record_demand": true,
@@ -632,7 +632,7 @@
    "old": 0,
    "total": 303
   },
-  "fingerprint": "dbdc24043db5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-city.html",
   "record_demand": true,
@@ -656,7 +656,7 @@
    "old": 0,
    "total": 259
   },
-  "fingerprint": "b8d6ae44af1e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-division.html",
   "record_demand": true,
@@ -704,7 +704,7 @@
    "old": 0,
    "total": 519
   },
-  "fingerprint": "6fb86c7477f6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-theory.html",
   "record_demand": true,
@@ -728,7 +728,7 @@
    "old": 0,
    "total": 355
   },
-  "fingerprint": "fb25660bcff1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "record_demand": true,
@@ -752,7 +752,7 @@
    "old": 0,
    "total": 320
   },
-  "fingerprint": "44ef3f9a1a88",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cells-review.html",
   "record_demand": true,
@@ -776,7 +776,7 @@
    "old": 0,
    "total": 469
   },
-  "fingerprint": "094d4002481b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/characteristics-of-life.html",
   "record_demand": true,
@@ -800,7 +800,7 @@
    "old": 0,
    "total": 395
   },
-  "fingerprint": "73733a99b8d7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/classification.html",
   "record_demand": true,
@@ -824,7 +824,7 @@
    "old": 0,
    "total": 309
   },
-  "fingerprint": "54702cf6a7de",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/diffusion.html",
   "record_demand": true,
@@ -848,7 +848,7 @@
    "old": 0,
    "total": 219
   },
-  "fingerprint": "8e5157c24ef0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/dna.html",
   "record_demand": true,
@@ -872,7 +872,7 @@
    "old": 0,
    "total": 663
   },
-  "fingerprint": "ca4f6595dbc6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/ecosystems.html",
   "record_demand": true,
@@ -896,7 +896,7 @@
    "old": 0,
    "total": 338
   },
-  "fingerprint": "73e19971a222",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/endocytosis.html",
   "record_demand": true,
@@ -920,7 +920,7 @@
    "old": 0,
    "total": 348
   },
-  "fingerprint": "a8809635a0ab",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/evolution.html",
   "record_demand": true,
@@ -937,15 +937,15 @@
  },
  "biology/exocytosis": {
   "counts": {
-   "done": 306,
+   "done": 300,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 6,
    "total": 306
   },
   "fingerprint": "96e7e9437905",
-  "label": "finished",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "record_demand": true,
   "record_langs": [
@@ -956,7 +956,7 @@
    "en": "Exocytosis: How Cells Ship Out",
    "zh": "胞吐：细胞怎样往外运"
   },
-  "updated": "2026-11-22 21:08:38",
+  "updated": "2026-11-22 23:58:37",
   "verified": ""
  },
  "biology/food-webs": {
@@ -968,7 +968,7 @@
    "old": 0,
    "total": 397
   },
-  "fingerprint": "7d78ce32ad89",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/food-webs.html",
   "record_demand": true,
@@ -992,7 +992,7 @@
    "old": 0,
    "total": 464
   },
-  "fingerprint": "c87999ebc797",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/habitat-niche.html",
   "record_demand": true,
@@ -1016,7 +1016,7 @@
    "old": 0,
    "total": 492
   },
-  "fingerprint": "1688e8022454",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/health-first-aid.html",
   "record_demand": true,
@@ -1040,7 +1040,7 @@
    "old": 0,
    "total": 344
   },
-  "fingerprint": "5db9f4bbb1a5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/heredity.html",
   "record_demand": true,
@@ -1064,7 +1064,7 @@
    "old": 0,
    "total": 501
   },
-  "fingerprint": "571de380df5b",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/infection-immunity.html",
   "record_demand": true,
@@ -1088,7 +1088,7 @@
    "old": 0,
    "total": 508
   },
-  "fingerprint": "a59cc835664c",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/microorganisms.html",
   "record_demand": true,
@@ -1112,7 +1112,7 @@
    "old": 0,
    "total": 613
   },
-  "fingerprint": "286193c4803a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/nervous-endocrine.html",
   "record_demand": true,
@@ -1136,7 +1136,7 @@
    "old": 0,
    "total": 505
   },
-  "fingerprint": "6f7beab229c7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/nutrition-digestion.html",
   "record_demand": true,
@@ -1160,7 +1160,7 @@
    "old": 0,
    "total": 273
   },
-  "fingerprint": "40672a4b2ced",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/osmosis.html",
   "record_demand": true,
@@ -1184,7 +1184,7 @@
    "old": 0,
    "total": 360
   },
-  "fingerprint": "03414ca02a81",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/photosynthesis.html",
   "record_demand": true,
@@ -1208,7 +1208,7 @@
    "old": 0,
    "total": 345
   },
-  "fingerprint": "0d0334f50b31",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/plants.html",
   "record_demand": true,
@@ -1232,7 +1232,7 @@
    "old": 0,
    "total": 299
   },
-  "fingerprint": "5c80996d58b5",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/protein-synthesis.html",
   "record_demand": true,
@@ -1256,7 +1256,7 @@
    "old": 0,
    "total": 412
   },
-  "fingerprint": "650b9e465496",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/reproduction.html",
   "record_demand": true,
@@ -1280,7 +1280,7 @@
    "old": 0,
    "total": 454
   },
-  "fingerprint": "69d66549dd97",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/biology/tonicity-labs.html",
   "record_demand": true,
@@ -1304,7 +1304,7 @@
    "old": 0,
    "total": 385
   },
-  "fingerprint": "46fcb7c956e7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
   "record_demand": true,
@@ -1328,7 +1328,7 @@
    "old": 0,
    "total": 355
   },
-  "fingerprint": "f17292f09cc8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/atoms.html",
   "record_demand": true,
@@ -1352,7 +1352,7 @@
    "old": 0,
    "total": 425
   },
-  "fingerprint": "b73298cee533",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/carbon.html",
   "record_demand": true,
@@ -1376,7 +1376,7 @@
    "old": 0,
    "total": 278
   },
-  "fingerprint": "59ab24b1cb3f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
   "record_demand": true,
@@ -1400,7 +1400,7 @@
    "old": 0,
    "total": 231
   },
-  "fingerprint": "d38f8f403186",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/chemical-equations.html",
   "record_demand": true,
@@ -1424,7 +1424,7 @@
    "old": 0,
    "total": 418
   },
-  "fingerprint": "75a87ffebf6d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/chemistry-life.html",
   "record_demand": true,
@@ -1448,7 +1448,7 @@
    "old": 0,
    "total": 367
   },
-  "fingerprint": "5ce80ce507db",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/combustion-fuels.html",
   "record_demand": true,
@@ -1472,7 +1472,7 @@
    "old": 0,
    "total": 412
   },
-  "fingerprint": "b060d34b5ae0",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/density.html",
   "record_demand": true,
@@ -1485,7 +1485,7 @@
    "zh": "密度"
   },
   "updated": "2026-11-22 22:23:13",
-  "verified": "2026-11-22 22:48:26"
+  "verified": ""
  },
  "chemistry/elements-compounds": {
   "counts": {
@@ -1496,7 +1496,7 @@
    "old": 0,
    "total": 336
   },
-  "fingerprint": "7170a2cd2a21",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/elements-compounds.html",
   "record_demand": true,
@@ -1520,7 +1520,7 @@
    "old": 0,
    "total": 270
   },
-  "fingerprint": "00315a3bd87f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/formulas-valence.html",
   "record_demand": true,
@@ -1544,7 +1544,7 @@
    "old": 0,
    "total": 574
   },
-  "fingerprint": "55563ba608a2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/lab-skills.html",
   "record_demand": true,
@@ -1568,7 +1568,7 @@
    "old": 0,
    "total": 525
   },
-  "fingerprint": "6bc5b2fc03c8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/metals.html",
   "record_demand": true,
@@ -1592,7 +1592,7 @@
    "old": 0,
    "total": 372
   },
-  "fingerprint": "684e5e34262d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/oxygen-air.html",
   "record_demand": true,
@@ -1616,7 +1616,7 @@
    "old": 0,
    "total": 838
   },
-  "fingerprint": "529d617b45f2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/periodic-table.html",
   "record_demand": true,
@@ -1640,7 +1640,7 @@
    "old": 0,
    "total": 269
   },
-  "fingerprint": "df20d16e27ab",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/reactions.html",
   "record_demand": true,
@@ -1653,7 +1653,7 @@
    "zh": "化学反应与质量守恒"
   },
   "updated": "2026-11-22 22:26:15",
-  "verified": "2026-11-22 22:49:38"
+  "verified": ""
  },
  "chemistry/salts-fertilizers": {
   "counts": {
@@ -1664,7 +1664,7 @@
    "old": 0,
    "total": 462
   },
-  "fingerprint": "f0b53968cdcc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/salts-fertilizers.html",
   "record_demand": true,
@@ -1688,7 +1688,7 @@
    "old": 0,
    "total": 308
   },
-  "fingerprint": "ee1a3d7ab61a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/solutions.html",
   "record_demand": true,
@@ -1712,7 +1712,7 @@
    "old": 0,
    "total": 363
   },
-  "fingerprint": "9cdab54dbb66",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/states-of-matter.html",
   "record_demand": true,
@@ -1736,7 +1736,7 @@
    "old": 0,
    "total": 451
   },
-  "fingerprint": "a105d3551163",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/water-purification.html",
   "record_demand": true,
@@ -1760,7 +1760,7 @@
    "old": 0,
    "total": 114
   },
-  "fingerprint": "141a4df5b6cd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-ai.html",
   "record_demand": true,
@@ -1783,7 +1783,7 @@
    "old": 0,
    "total": 183
   },
-  "fingerprint": "5973ee5faafc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-algorithms.html",
   "record_demand": true,
@@ -1806,7 +1806,7 @@
    "old": 0,
    "total": 121
   },
-  "fingerprint": "6d9daf776b7e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-coding.html",
   "record_demand": true,
@@ -1829,7 +1829,7 @@
    "old": 0,
    "total": 433
   },
-  "fingerprint": "2cdc4b5e9d91",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-computers.html",
   "record_demand": true,
@@ -1852,7 +1852,7 @@
    "old": 0,
    "total": 123
   },
-  "fingerprint": "dbba106adcc1",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-data-crypto.html",
   "record_demand": true,
@@ -1875,7 +1875,7 @@
    "old": 0,
    "total": 182
   },
-  "fingerprint": "4e3dba88994e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-internet.html",
   "record_demand": true,
@@ -1898,7 +1898,7 @@
    "old": 0,
    "total": 137
   },
-  "fingerprint": "42da01c9625f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-safety.html",
   "record_demand": true,
@@ -1921,7 +1921,7 @@
    "old": 0,
    "total": 311
   },
-  "fingerprint": "7621ab56196a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/atmosphere.html",
   "record_demand": true,
@@ -1945,7 +1945,7 @@
    "old": 0,
    "total": 365
   },
-  "fingerprint": "3969e0aed192",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/climate.html",
   "record_demand": true,
@@ -1969,7 +1969,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "8cabea8d0900",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/earth-layers.html",
   "record_demand": true,
@@ -1993,7 +1993,7 @@
    "old": 0,
    "total": 377
   },
-  "fingerprint": "9e459e80eccc",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/fossils-time.html",
   "record_demand": true,
@@ -2017,7 +2017,7 @@
    "old": 0,
    "total": 325
   },
-  "fingerprint": "3e0bcffdd198",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/natural-resources.html",
   "record_demand": true,
@@ -2041,7 +2041,7 @@
    "old": 0,
    "total": 308
   },
-  "fingerprint": "4261968e1377",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/oceans.html",
   "record_demand": true,
@@ -2065,7 +2065,7 @@
    "old": 0,
    "total": 529
   },
-  "fingerprint": "01b38affdab4",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/plate-tectonics.html",
   "record_demand": true,
@@ -2089,7 +2089,7 @@
    "old": 0,
    "total": 323
   },
-  "fingerprint": "0866cf767ae7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/rocks-minerals.html",
   "record_demand": true,
@@ -2113,7 +2113,7 @@
    "old": 0,
    "total": 367
   },
-  "fingerprint": "1aa0e873d387",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/soil.html",
   "record_demand": true,
@@ -2137,7 +2137,7 @@
    "old": 0,
    "total": 320
   },
-  "fingerprint": "4c6304da125a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/water-cycle.html",
   "record_demand": true,
@@ -2161,7 +2161,7 @@
    "old": 0,
    "total": 703
   },
-  "fingerprint": "203659d95e72",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weather.html",
   "record_demand": true,
@@ -2185,7 +2185,7 @@
    "old": 0,
    "total": 349
   },
-  "fingerprint": "287468d2508a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "record_demand": true,
@@ -2209,7 +2209,7 @@
    "old": 0,
    "total": 411
   },
-  "fingerprint": "aff3a58165d6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/buoyancy.html",
   "record_demand": true,
@@ -2233,7 +2233,7 @@
    "old": 0,
    "total": 442
   },
-  "fingerprint": "3bcc280b174d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/communications-energy.html",
   "record_demand": true,
@@ -2246,7 +2246,7 @@
    "zh": "电磁波、信息传递与能源"
   },
   "updated": "2026-11-22 22:17:27",
-  "verified": "2026-11-22 22:42:40"
+  "verified": ""
  },
  "physics/electric-power": {
   "counts": {
@@ -2257,7 +2257,7 @@
    "old": 0,
    "total": 358
   },
-  "fingerprint": "1f2940ba0d9f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electric-power.html",
   "record_demand": true,
@@ -2281,7 +2281,7 @@
    "old": 0,
    "total": 324
   },
-  "fingerprint": "04c827da44d8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electricity.html",
   "record_demand": true,
@@ -2294,7 +2294,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-22 22:21:07",
-  "verified": "2026-11-22 22:46:22"
+  "verified": ""
  },
  "physics/electromagnetism": {
   "counts": {
@@ -2305,7 +2305,7 @@
    "old": 0,
    "total": 373
   },
-  "fingerprint": "5b68a92d32e2",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electromagnetism.html",
   "record_demand": true,
@@ -2318,7 +2318,7 @@
    "zh": "电磁铁、电动机与发电机"
   },
   "updated": "2026-11-22 22:17:54",
-  "verified": "2026-11-22 22:43:56"
+  "verified": ""
  },
  "physics/energy": {
   "counts": {
@@ -2329,7 +2329,7 @@
    "old": 0,
    "total": 326
   },
-  "fingerprint": "a318410b522f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/energy.html",
   "record_demand": true,
@@ -2353,7 +2353,7 @@
    "old": 0,
    "total": 465
   },
-  "fingerprint": "7fefb48e69d7",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/forces.html",
   "record_demand": true,
@@ -2366,7 +2366,7 @@
    "zh": "力、摩擦力与重力"
   },
   "updated": "2026-11-22 22:17:20",
-  "verified": "2026-11-22 22:42:42"
+  "verified": ""
  },
  "physics/formula-sheet": {
   "counts": {
@@ -2377,7 +2377,7 @@
    "old": 0,
    "total": 683
   },
-  "fingerprint": "0474676025bb",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/formula-sheet.html",
   "record_demand": true,
@@ -2401,7 +2401,7 @@
    "old": 0,
    "total": 291
   },
-  "fingerprint": "4d61ba069072",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/heat-transfer.html",
   "record_demand": true,
@@ -2414,7 +2414,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-22 22:23:31",
-  "verified": "2026-11-22 22:48:32"
+  "verified": ""
  },
  "physics/lenses": {
   "counts": {
@@ -2425,7 +2425,7 @@
    "old": 0,
    "total": 452
   },
-  "fingerprint": "0fbf4bdbc8e6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/lenses.html",
   "record_demand": true,
@@ -2438,7 +2438,7 @@
    "zh": "透镜及其应用"
   },
   "updated": "2026-11-22 22:18:23",
-  "verified": "2026-11-22 22:44:50"
+  "verified": ""
  },
  "physics/light": {
   "counts": {
@@ -2449,7 +2449,7 @@
    "old": 0,
    "total": 327
   },
-  "fingerprint": "6fa6bf8568c3",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/light.html",
   "record_demand": true,
@@ -2462,7 +2462,7 @@
    "zh": "光与电磁波谱"
   },
   "updated": "2026-11-22 22:26:41",
-  "verified": "2026-11-22 22:50:09"
+  "verified": ""
  },
  "physics/magnetism": {
   "counts": {
@@ -2473,7 +2473,7 @@
    "old": 0,
    "total": 368
   },
-  "fingerprint": "d0c1d7ffa20d",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/magnetism.html",
   "record_demand": true,
@@ -2486,7 +2486,7 @@
    "zh": "磁与电磁铁"
   },
   "updated": "2026-11-22 22:21:22",
-  "verified": "2026-11-22 22:48:08"
+  "verified": ""
  },
  "physics/measurements-density": {
   "counts": {
@@ -2497,7 +2497,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "5da3dca0c6e6",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/measurements-density.html",
   "record_demand": true,
@@ -2521,7 +2521,7 @@
    "old": 0,
    "total": 352
   },
-  "fingerprint": "27c08f484146",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/mechanical-motion.html",
   "record_demand": true,
@@ -2545,7 +2545,7 @@
    "old": 0,
    "total": 203
   },
-  "fingerprint": "b36943581e08",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/motion.html",
   "record_demand": true,
@@ -2569,7 +2569,7 @@
    "old": 0,
    "total": 299
   },
-  "fingerprint": "74e9b5743b5a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/newtons-laws.html",
   "record_demand": true,
@@ -2593,7 +2593,7 @@
    "old": 0,
    "total": 619
   },
-  "fingerprint": "d198c62e2c11",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/nuclear-applications.html",
   "record_demand": true,
@@ -2606,7 +2606,7 @@
    "zh": "核技术的和平利用"
   },
   "updated": "2026-11-22 22:20:44",
-  "verified": "2026-11-22 22:47:02"
+  "verified": ""
  },
  "physics/nuclear-fission": {
   "counts": {
@@ -2617,7 +2617,7 @@
    "old": 0,
    "total": 389
   },
-  "fingerprint": "a3a062344c0f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/nuclear-fission.html",
   "record_demand": true,
@@ -2630,7 +2630,7 @@
    "zh": "核裂变与原子弹"
   },
   "updated": "2026-11-22 22:19:49",
-  "verified": "2026-11-22 22:44:45"
+  "verified": ""
  },
  "physics/nuclear-fusion": {
   "counts": {
@@ -2641,7 +2641,7 @@
    "old": 0,
    "total": 445
   },
-  "fingerprint": "865dc674a152",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/nuclear-fusion.html",
   "record_demand": true,
@@ -2654,7 +2654,7 @@
    "zh": "核聚变、太阳与氢弹"
   },
   "updated": "2026-11-22 22:20:52",
-  "verified": "2026-11-22 22:46:15"
+  "verified": ""
  },
  "physics/ohms-law": {
   "counts": {
@@ -2665,7 +2665,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "2145d39c5bb8",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/ohms-law.html",
   "record_demand": true,
@@ -2689,7 +2689,7 @@
    "old": 0,
    "total": 383
   },
-  "fingerprint": "da31dbf24e5e",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/phase-changes.html",
   "record_demand": true,
@@ -2713,7 +2713,7 @@
    "old": 0,
    "total": 345
   },
-  "fingerprint": "2b05b7c42006",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/pressure.html",
   "record_demand": true,
@@ -2726,7 +2726,7 @@
    "zh": "压强：固体、液体与大气"
   },
   "updated": "2026-11-22 22:26:29",
-  "verified": "2026-11-22 22:50:07"
+  "verified": ""
  },
  "physics/simple-machines": {
   "counts": {
@@ -2737,7 +2737,7 @@
    "old": 0,
    "total": 306
   },
-  "fingerprint": "e37f38536e8a",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/simple-machines.html",
   "record_demand": true,
@@ -2761,7 +2761,7 @@
    "old": 0,
    "total": 289
   },
-  "fingerprint": "4e7ccb54cdef",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/sound.html",
   "record_demand": true,
@@ -2774,7 +2774,7 @@
    "zh": "声音"
   },
   "updated": "2026-11-22 22:25:46",
-  "verified": "2026-11-22 22:49:38"
+  "verified": ""
  },
  "physics/specific-heat": {
   "counts": {
@@ -2785,7 +2785,7 @@
    "old": 0,
    "total": 400
   },
-  "fingerprint": "77a59d44b711",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/specific-heat.html",
   "record_demand": true,
@@ -2809,7 +2809,7 @@
    "old": 0,
    "total": 471
   },
-  "fingerprint": "97019a7ea719",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/static-charge.html",
   "record_demand": true,
@@ -2833,7 +2833,7 @@
    "old": 0,
    "total": 318
   },
-  "fingerprint": "73fd11db415f",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/waves.html",
   "record_demand": true,
@@ -2857,7 +2857,7 @@
    "old": 0,
    "total": 326
   },
-  "fingerprint": "622e973725dd",
+  "fingerprint": "",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/work-power.html",
   "record_demand": true,
