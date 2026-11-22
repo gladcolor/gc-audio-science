@@ -1,12 +1,12 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 14:27:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 14:36:56. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:23 | 2026-11-22 14:19:14 |
 | astronomy/black-holes | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 13:54:38 | 2026-11-22 14:13:10 |
-| astronomy/eclipses | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-22 14:20:52 |  |
+| astronomy/eclipses | finished | 254 | 0 | 0 | 0 | 0 | 2026-11-22 14:20:52 | 2026-11-22 14:34:52 |
 | astronomy/exoplanets | finished | 97 | 0 | 0 | 0 | 0 | 2026-11-22 13:55:18 | 2026-11-22 14:13:37 |
 | astronomy/galaxies | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-22 12:39:58 | 2026-11-22 12:50:21 |
 | astronomy/gravity-orbits | finished | 177 | 0 | 0 | 0 | 0 | 2026-11-22 12:40:06 | 2026-11-22 12:51:17 |
@@ -101,8 +101,8 @@ Updated 2026-11-22 14:27:57. Labels: finished / in progress / no audio / failed 
 | physics/electric-power | finished | 5 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:43 | 2026-11-21 21:14:16 |
 | physics/electricity | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 20:46:53 |  |
 | physics/electromagnetism | finished | 12 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:10 | 2026-11-21 20:40:48 |
-| physics/energy | in progress | 80 | 2 | 80 | 0 | 0 | 2026-11-22 14:27:27 |  |
-| physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 |  |
+| physics/energy | in progress | 110 | 0 | 52 | 0 | 0 | 2026-11-22 14:36:56 |  |
+| physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
 | physics/formula-sheet | finished | 59 | 0 | 0 | 0 | 0 | 2026-11-21 21:07:06 |  |
 | physics/heat-transfer | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-21 21:04:57 |  |
 | physics/lenses | finished | 7 | 0 | 0 | 0 | 0 | 2026-11-21 21:06:35 |  |
