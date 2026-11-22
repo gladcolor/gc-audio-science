@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 15:32:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 15:32:25. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -100,12 +100,12 @@ Updated 2026-11-22 15:32:18. Labels: finished / in progress / no audio / failed 
 | physics/communications-energy | in progress | 177 | 2 | 47 | 0 | 0 | 2026-11-22 15:32:18 |  |
 | physics/electric-power | in progress | 129 | 0 | 53 | 0 | 0 | 2026-11-22 15:23:02 |  |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
-| physics/electromagnetism | in progress | 146 | 3 | 39 | 0 | 0 | 2026-11-22 15:31:29 |  |
+| physics/electromagnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:24 |  |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
 | physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
 | physics/formula-sheet | in progress | 319 | 0 | 30 | 0 | 0 | 2026-11-22 15:25:26 |  |
 | physics/heat-transfer | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 14:59:30 | 2026-11-22 15:14:59 |
-| physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:38 |  |
+| physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:38 | 2026-11-22 15:32:22 |
 | physics/light | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:23 | 2026-11-22 15:16:44 |
 | physics/magnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:00:56 | 2026-11-22 15:18:30 |
 | physics/measurements-density | in progress | 90 | 0 | 94 | 0 | 0 | 2026-11-22 15:24:32 |  |
