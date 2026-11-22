@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 20:19:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 20:19:43. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -112,7 +112,7 @@ Updated 2026-11-22 20:19:39. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:26 |  |
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 |  |
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 |  |
-| physics/nuclear-applications | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:21 |  |
+| physics/nuclear-applications | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:43 |  |
 | physics/nuclear-fission | finished | 198 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:00 |  |
 | physics/nuclear-fusion | finished | 222 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:00 | 2026-11-22 16:43:55 |
 | physics/ohms-law | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:22 |  |
