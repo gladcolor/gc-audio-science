@@ -906,15 +906,15 @@
  },
  "biology/exocytosis": {
   "counts": {
-   "done": 251,
+   "done": 306,
    "failed": 0,
    "held": 0,
-   "missing": 50,
-   "old": 5,
+   "missing": 0,
+   "old": 0,
    "total": 306
   },
   "fingerprint": "96e7e9437905",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/exocytosis.html",
   "record_demand": true,
   "record_langs": [
@@ -925,7 +925,7 @@
    "en": "Exocytosis: How Cells Ship Out",
    "zh": "胞吐：细胞怎样往外运"
   },
-  "updated": "2026-11-22 21:06:01",
+  "updated": "2026-11-22 21:08:38",
   "verified": ""
  },
  "biology/food-webs": {
