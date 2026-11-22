@@ -2182,16 +2182,17 @@
  },
  "physics/electromagnetism": {
   "counts": {
-   "done": 12,
+   "done": 62,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 126,
    "old": 0,
-   "total": 12
+   "total": 188
   },
-  "fingerprint": "90740015bee9",
-  "label": "finished",
+  "fingerprint": "5b68a92d32e2",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/electromagnetism.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -2199,8 +2200,8 @@
    "en": "Electromagnets, Motors & Generators",
    "zh": "电磁铁、电动机与发电机"
   },
-  "updated": "2026-11-21 20:02:10",
-  "verified": "2026-11-21 20:40:48"
+  "updated": "2026-11-22 15:26:26",
+  "verified": ""
  },
  "physics/energy": {
   "counts": {
