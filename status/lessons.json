@@ -2339,15 +2339,15 @@
  },
  "physics/magnetism": {
   "counts": {
-   "done": 48,
+   "done": 188,
    "failed": 0,
    "held": 0,
-   "missing": 140,
+   "missing": 0,
    "old": 0,
    "total": 188
   },
   "fingerprint": "d0c1d7ffa20d",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/magnetism.html",
   "record_demand": true,
   "record_langs": [
@@ -2357,7 +2357,7 @@
    "en": "Magnetism & Electromagnets",
    "zh": "磁与电磁铁"
   },
-  "updated": "2026-11-22 14:48:23",
+  "updated": "2026-11-22 15:00:56",
   "verified": ""
  },
  "physics/measurements-density": {
