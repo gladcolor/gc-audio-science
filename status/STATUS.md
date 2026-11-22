@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:28:22. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:56:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -59,23 +59,23 @@ Updated 2026-11-22 16:28:22. Labels: finished / in progress / no audio / failed 
 | biology/reproduction | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-22 10:09:55 | 2026-11-22 10:13:28 |
 | biology/tonicity-labs | finished | 237 | 0 | 0 | 0 | 0 | 2026-11-22 10:38:21 | 2026-11-22 10:40:42 |
 | chemistry/acids-bases | finished | 201 | 0 | 0 | 0 | 0 | 2026-11-22 16:21:59 |  |
-| chemistry/atoms | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:56 |  |
+| chemistry/atoms | finished | 184 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:56 | 2026-11-22 16:43:48 |
 | chemistry/carbon | finished | 218 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:50 |  |
-| chemistry/changes | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:02 |  |
+| chemistry/changes | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:02 | 2026-11-22 16:44:44 |
 | chemistry/chemical-equations | finished | 117 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:24 |  |
 | chemistry/chemistry-life | in progress | 94 | 0 | 116 | 0 | 0 | 2026-11-22 16:27:33 |  |
 | chemistry/combustion-fuels | in progress | 169 | 0 | 23 | 0 | 0 | 2026-11-22 16:25:32 |  |
 | chemistry/density | finished | 200 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:13 |  |
-| chemistry/elements-compounds | finished | 171 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:50 |  |
+| chemistry/elements-compounds | finished | 171 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:50 | 2026-11-22 16:44:52 |
 | chemistry/formulas-valence | finished | 128 | 0 | 0 | 0 | 0 | 2026-11-22 16:23:03 |  |
-| chemistry/lab-skills | in progress | 245 | 0 | 49 | 0 | 0 | 2026-11-22 16:27:25 |  |
+| chemistry/lab-skills | finished | 294 | 0 | 0 | 0 | 0 | 2026-11-22 16:56:18 |  |
 | chemistry/metals | finished | 258 | 0 | 0 | 0 | 0 | 2026-11-22 16:25:45 |  |
 | chemistry/oxygen-air | finished | 189 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:14 |  |
 | chemistry/periodic-table | finished | 428 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:22 |  |
-| chemistry/reactions | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:02 |  |
+| chemistry/reactions | finished | 143 | 0 | 0 | 0 | 0 | 2026-11-22 16:27:02 | 2026-11-22 16:45:31 |
 | chemistry/salts-fertilizers | in progress | 189 | 0 | 36 | 0 | 0 | 2026-11-22 16:26:28 |  |
-| chemistry/solutions | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:21 |  |
-| chemistry/states-of-matter | finished | 193 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:54 |  |
+| chemistry/solutions | finished | 160 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:21 | 2026-11-22 16:45:44 |
+| chemistry/states-of-matter | finished | 193 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:54 | 2026-11-22 16:44:50 |
 | chemistry/water-purification | finished | 232 | 0 | 0 | 0 | 0 | 2026-11-22 16:28:11 |  |
 | cs/cs-ai | finished | 1 | 0 | 0 | 0 | 0 | 2026-11-22 00:29:41 | 2026-11-22 00:32:09 |
 | cs/cs-algorithms | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-22 00:41:27 | 2026-11-22 00:43:14 |
@@ -97,7 +97,7 @@ Updated 2026-11-22 16:28:22. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 361 | 0 | 0 | 0 | 0 | 2026-11-22 12:28:50 | 2026-11-22 12:44:42 |
 | earth/weathering-erosion | finished | 180 | 0 | 0 | 0 | 0 | 2026-11-22 12:02:35 | 2026-11-22 12:09:28 |
 | physics/buoyancy | finished | 208 | 0 | 0 | 0 | 0 | 2026-11-22 15:21:09 | 2026-11-22 15:31:25 |
-| physics/communications-energy | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-22 16:21:28 |  |
+| physics/communications-energy | finished | 226 | 0 | 0 | 0 | 0 | 2026-11-22 16:21:28 | 2026-11-22 16:44:01 |
 | physics/electric-power | finished | 182 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:08 | 2026-11-22 16:22:03 |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
 | physics/electromagnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:24 | 2026-11-22 16:06:19 |
@@ -113,8 +113,8 @@ Updated 2026-11-22 16:28:22. Labels: finished / in progress / no audio / failed 
 | physics/motion | finished | 80 | 0 | 0 | 0 | 0 | 2026-11-22 14:05:15 | 2026-11-22 14:18:11 |
 | physics/newtons-laws | finished | 152 | 0 | 0 | 0 | 0 | 2026-11-22 14:45:38 | 2026-11-22 14:55:42 |
 | physics/nuclear-applications | finished | 313 | 0 | 0 | 0 | 0 | 2026-11-22 16:07:21 | 2026-11-22 16:22:33 |
-| physics/nuclear-fission | finished | 198 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:00 |  |
-| physics/nuclear-fusion | finished | 222 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:00 |  |
+| physics/nuclear-fission | finished | 198 | 0 | 0 | 0 | 0 | 2026-11-22 16:26:00 | 2026-11-22 16:43:40 |
+| physics/nuclear-fusion | finished | 222 | 0 | 0 | 0 | 0 | 2026-11-22 16:24:00 | 2026-11-22 16:43:55 |
 | physics/ohms-law | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 15:30:53 | 2026-11-22 16:05:09 |
 | physics/phase-changes | finished | 194 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:22 | 2026-11-22 15:31:25 |
 | physics/pressure | finished | 172 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:50 | 2026-11-22 15:19:20 |

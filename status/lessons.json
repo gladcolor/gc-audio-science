@@ -1285,7 +1285,7 @@
    "zh": "原子结构"
   },
   "updated": "2026-11-22 16:25:56",
-  "verified": ""
+  "verified": "2026-11-22 16:43:48"
  },
  "chemistry/carbon": {
   "counts": {
@@ -1331,7 +1331,7 @@
    "zh": "物理变化与化学变化"
   },
   "updated": "2026-11-22 16:28:02",
-  "verified": ""
+  "verified": "2026-11-22 16:44:44"
  },
  "chemistry/chemical-equations": {
   "counts": {
@@ -1446,7 +1446,7 @@
    "zh": "元素、化合物与混合物"
   },
   "updated": "2026-11-22 16:24:50",
-  "verified": ""
+  "verified": "2026-11-22 16:44:52"
  },
  "chemistry/formulas-valence": {
   "counts": {
@@ -1473,15 +1473,15 @@
  },
  "chemistry/lab-skills": {
   "counts": {
-   "done": 245,
+   "done": 294,
    "failed": 0,
    "held": 0,
-   "missing": 49,
+   "missing": 0,
    "old": 0,
    "total": 294
   },
   "fingerprint": "55563ba608a2",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/lab-skills.html",
   "record_demand": true,
   "record_langs": [
@@ -1491,7 +1491,7 @@
    "en": "Chemistry Lab Skills & Safety",
    "zh": "化学实验基本操作"
   },
-  "updated": "2026-11-22 16:27:25",
+  "updated": "2026-11-22 16:56:18",
   "verified": ""
  },
  "chemistry/metals": {
@@ -1584,7 +1584,7 @@
    "zh": "化学反应与质量守恒"
   },
   "updated": "2026-11-22 16:27:02",
-  "verified": ""
+  "verified": "2026-11-22 16:45:31"
  },
  "chemistry/salts-fertilizers": {
   "counts": {
@@ -1630,7 +1630,7 @@
    "zh": "溶液与溶解度"
   },
   "updated": "2026-11-22 16:26:21",
-  "verified": ""
+  "verified": "2026-11-22 16:45:44"
  },
  "chemistry/states-of-matter": {
   "counts": {
@@ -1653,7 +1653,7 @@
    "zh": "物质的状态"
   },
   "updated": "2026-11-22 16:26:54",
-  "verified": ""
+  "verified": "2026-11-22 16:44:50"
  },
  "chemistry/water-purification": {
   "counts": {
@@ -2152,7 +2152,7 @@
    "zh": "电磁波、信息传递与能源"
   },
   "updated": "2026-11-22 16:21:28",
-  "verified": ""
+  "verified": "2026-11-22 16:44:01"
  },
  "physics/electric-power": {
   "counts": {
@@ -2520,7 +2520,7 @@
    "zh": "核裂变与原子弹"
   },
   "updated": "2026-11-22 16:26:00",
-  "verified": ""
+  "verified": "2026-11-22 16:43:40"
  },
  "physics/nuclear-fusion": {
   "counts": {
@@ -2543,7 +2543,7 @@
    "zh": "核聚变、太阳与氢弹"
   },
   "updated": "2026-11-22 16:24:00",
-  "verified": ""
+  "verified": "2026-11-22 16:43:55"
  },
  "physics/ohms-law": {
   "counts": {
