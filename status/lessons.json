@@ -1608,15 +1608,15 @@
  },
  "chemistry/periodic-table": {
   "counts": {
-   "done": 800,
+   "done": 838,
    "failed": 0,
    "held": 0,
-   "missing": 12,
-   "old": 26,
+   "missing": 0,
+   "old": 0,
    "total": 838
   },
   "fingerprint": "529d617b45f2",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/periodic-table.html",
   "record_demand": true,
   "record_langs": [
@@ -1627,7 +1627,7 @@
    "en": "The Periodic Table",
    "zh": "元素周期表"
   },
-  "updated": "2026-11-22 22:18:32",
+  "updated": "2026-11-22 22:40:27",
   "verified": ""
  },
  "chemistry/reactions": {
