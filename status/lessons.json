@@ -1289,10 +1289,10 @@
  },
  "chemistry/carbon": {
   "counts": {
-   "done": 37,
+   "done": 71,
    "failed": 0,
    "held": 0,
-   "missing": 180,
+   "missing": 146,
    "old": 1,
    "total": 218
   },
@@ -1307,7 +1307,7 @@
    "en": "Carbon, CO₂ & Fuels",
    "zh": "碳和碳的氧化物与燃料"
   },
-  "updated": "2026-11-22 16:14:06",
+  "updated": "2026-11-22 16:14:33",
   "verified": ""
  },
  "chemistry/changes": {
