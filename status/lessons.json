@@ -2144,15 +2144,15 @@
  },
  "earth/weathering-erosion": {
   "counts": {
-   "done": 212,
+   "done": 349,
    "failed": 0,
    "held": 0,
-   "missing": 137,
+   "missing": 0,
    "old": 0,
    "total": 349
   },
   "fingerprint": "287468d2508a",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/earth/weathering-erosion.html",
   "record_demand": true,
   "record_langs": [
@@ -2163,7 +2163,7 @@
    "en": "Weathering, Erosion & Deposition",
    "zh": "风化、侵蚀与沉积"
   },
-  "updated": "2026-11-22 21:20:54",
+  "updated": "2026-11-22 21:38:24",
   "verified": ""
  },
  "physics/buoyancy": {
