@@ -2348,25 +2348,26 @@
  },
  "physics/formula-sheet": {
   "counts": {
-   "done": 349,
+   "done": 425,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 349
+   "missing": 249,
+   "old": 9,
+   "total": 683
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "0474676025bb",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/formula-sheet.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Physics Formula Sheet & Calculators",
    "zh": "初中物理公式表与计算器"
   },
-  "updated": "2026-11-22 20:25:55",
+  "updated": "2026-11-22 22:06:39",
   "verified": ""
  },
  "physics/heat-transfer": {
