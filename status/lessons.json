@@ -2615,11 +2615,11 @@
  },
  "physics/nuclear-fusion": {
   "counts": {
-   "done": 288,
+   "done": 403,
    "failed": 0,
    "held": 0,
-   "missing": 127,
-   "old": 30,
+   "missing": 19,
+   "old": 23,
    "total": 445
   },
   "fingerprint": "865dc674a152",
@@ -2634,7 +2634,7 @@
    "en": "Nuclear Fusion, the Sun & the Hydrogen Bomb",
    "zh": "核聚变、太阳与氢弹"
   },
-  "updated": "2026-11-22 22:13:40",
+  "updated": "2026-11-22 22:14:32",
   "verified": ""
  },
  "physics/ohms-law": {
