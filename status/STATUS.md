@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 13:47:46. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 13:49:29. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Updated 2026-11-22 13:47:46. Labels: finished / in progress / no audio / failed 
 | astronomy/exoplanets | finished | 9 | 0 | 0 | 0 | 0 | 2026-11-21 21:30:25 | 2026-11-21 21:40:58 |
 | astronomy/galaxies | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-22 12:39:58 | 2026-11-22 12:50:21 |
 | astronomy/gravity-orbits | finished | 177 | 0 | 0 | 0 | 0 | 2026-11-22 12:40:06 | 2026-11-22 12:51:17 |
-| astronomy/kepler-laws | in progress | 30 | 0 | 148 | 0 | 0 | 2026-11-22 13:47:46 |  |
+| astronomy/kepler-laws | in progress | 57 | 0 | 121 | 0 | 0 | 2026-11-22 13:49:29 |  |
 | astronomy/measuring-distance | finished | 139 | 0 | 0 | 0 | 0 | 2026-11-22 13:34:00 | 2026-11-22 13:37:15 |
 | astronomy/moon-phases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-22 13:00:34 | 2026-11-22 13:14:42 |
 | astronomy/night-sky | finished | 249 | 0 | 0 | 0 | 0 | 2026-11-22 13:06:06 | 2026-11-22 13:17:06 |
@@ -32,7 +32,7 @@ Updated 2026-11-22 13:47:46. Labels: finished / in progress / no audio / failed 
 | biology/breathing-circulation | finished | 300 | 0 | 0 | 0 | 0 | 2026-11-22 11:43:44 | 2026-11-22 11:55:44 |
 | biology/cell-city | finished | 159 | 0 | 0 | 0 | 0 | 2026-11-22 07:15:13 | 2026-11-22 07:18:23 |
 | biology/cell-division | finished | 102 | 0 | 0 | 0 | 0 | 2026-11-22 11:17:40 | 2026-11-22 11:22:58 |
-| biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-22 13:46:31 |  |
+| biology/cell-organelles | finished | 11 | 0 | 0 | 0 | 0 | 2026-11-22 13:46:31 | 2026-11-22 13:48:46 |
 | biology/cell-theory | finished | 269 | 0 | 0 | 0 | 0 | 2026-11-22 10:29:24 | 2026-11-22 10:32:08 |
 | biology/cell-transport | finished | 180 | 0 | 0 | 0 | 0 | 2026-11-22 10:32:14 | 2026-11-22 10:34:20 |
 | biology/cells-review | finished | 161 | 0 | 0 | 0 | 0 | 2026-11-22 10:48:49 | 2026-11-22 10:50:56 |
