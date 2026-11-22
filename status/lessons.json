@@ -2329,15 +2329,15 @@
  },
  "physics/forces": {
   "counts": {
-   "done": 373,
+   "done": 465,
    "failed": 0,
    "held": 0,
-   "missing": 92,
+   "missing": 0,
    "old": 0,
    "total": 465
   },
   "fingerprint": "7fefb48e69d7",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/physics/forces.html",
   "record_demand": true,
   "record_langs": [
@@ -2348,7 +2348,7 @@
    "en": "Forces, Friction & Gravity",
    "zh": "力、摩擦力与重力"
   },
-  "updated": "2026-11-22 21:56:29",
+  "updated": "2026-11-22 22:17:20",
   "verified": ""
  },
  "physics/formula-sheet": {
