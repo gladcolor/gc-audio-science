@@ -692,15 +692,15 @@
  },
  "biology/cell-transport": {
   "counts": {
-   "done": 297,
+   "done": 355,
    "failed": 0,
    "held": 0,
-   "missing": 47,
-   "old": 11,
+   "missing": 0,
+   "old": 0,
    "total": 355
   },
   "fingerprint": "fb25660bcff1",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/biology/cell-transport.html",
   "record_demand": true,
   "record_langs": [
@@ -711,7 +711,7 @@
    "en": "Diffusion & Osmosis",
    "zh": "扩散与渗透"
   },
-  "updated": "2026-11-22 21:04:19",
+  "updated": "2026-11-22 21:05:54",
   "verified": ""
  },
  "biology/cells-review": {
