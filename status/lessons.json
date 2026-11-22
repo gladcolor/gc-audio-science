@@ -1872,11 +1872,11 @@
  },
  "earth/atmosphere": {
   "counts": {
-   "done": 221,
+   "done": 274,
    "failed": 0,
    "held": 0,
-   "missing": 80,
-   "old": 10,
+   "missing": 30,
+   "old": 7,
    "total": 311
   },
   "fingerprint": "7621ab56196a",
@@ -1891,7 +1891,7 @@
    "en": "The Atmosphere",
    "zh": "大气层"
   },
-  "updated": "2026-11-22 21:24:29",
+  "updated": "2026-11-22 21:25:02",
   "verified": ""
  },
  "earth/climate": {
