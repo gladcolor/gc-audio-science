@@ -93,10 +93,10 @@
  },
  "astronomy/galaxies": {
   "counts": {
-   "done": 385,
+   "done": 441,
    "failed": 0,
    "held": 0,
-   "missing": 77,
+   "missing": 21,
    "old": 1,
    "total": 463
   },
@@ -112,7 +112,7 @@
    "en": "Galaxies & the Universe",
    "zh": "星系与宇宙"
   },
-  "updated": "2026-11-22 21:34:24",
+  "updated": "2026-11-22 21:34:56",
   "verified": ""
  },
  "astronomy/gravity-orbits": {
