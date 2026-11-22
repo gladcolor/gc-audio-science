@@ -1746,10 +1746,10 @@
  },
  "cs/cs-computers": {
   "counts": {
-   "done": 104,
+   "done": 192,
    "failed": 0,
    "held": 0,
-   "missing": 329,
+   "missing": 241,
    "old": 0,
    "total": 433
   },
@@ -1764,7 +1764,7 @@
    "en": "How Computers Work",
    "zh": "计算机是怎样工作的"
   },
-  "updated": "2026-11-22 19:57:01",
+  "updated": "2026-11-22 19:57:42",
   "verified": ""
  },
  "cs/cs-data-crypto": {
