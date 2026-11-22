@@ -473,25 +473,26 @@
  },
  "astronomy/telescopes-light": {
   "counts": {
-   "done": 7,
+   "done": 14,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 7
+   "total": 14
   },
-  "fingerprint": "",
+  "fingerprint": "9ddcfa79e124",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/telescopes-light.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Telescopes & Invisible Light",
    "zh": "望远镜与看不见的光"
   },
-  "updated": "2026-11-22 13:31:25",
+  "updated": "2026-11-22 21:48:07",
   "verified": ""
  },
  "astronomy/three-body": {
