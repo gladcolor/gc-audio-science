@@ -169,15 +169,15 @@
  },
  "astronomy/measuring-distance": {
   "counts": {
-   "done": 224,
+   "done": 271,
    "failed": 0,
    "held": 0,
-   "missing": 46,
-   "old": 1,
+   "missing": 0,
+   "old": 0,
    "total": 271
   },
   "fingerprint": "8d689db34451",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/measuring-distance.html",
   "record_demand": true,
   "record_langs": [
@@ -188,7 +188,7 @@
    "en": "Measuring Cosmic Distances",
    "zh": "怎样测量宇宙的距离"
   },
-  "updated": "2026-11-22 21:47:26",
+  "updated": "2026-11-22 21:56:18",
   "verified": ""
  },
  "astronomy/moon-phases": {
