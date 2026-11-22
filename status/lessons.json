@@ -1968,10 +1968,10 @@
  },
  "earth/natural-resources": {
   "counts": {
-   "done": 190,
+   "done": 212,
    "failed": 0,
    "held": 0,
-   "missing": 126,
+   "missing": 104,
    "old": 9,
    "total": 325
   },
@@ -1987,7 +1987,7 @@
    "en": "Natural Resources & Energy",
    "zh": "自然资源与能源"
   },
-  "updated": "2026-11-22 21:30:01",
+  "updated": "2026-11-22 21:30:59",
   "verified": ""
  },
  "earth/oceans": {
