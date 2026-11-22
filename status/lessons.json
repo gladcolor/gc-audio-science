@@ -1680,10 +1680,10 @@
  },
  "cs/cs-ai": {
   "counts": {
-   "done": 37,
+   "done": 89,
    "failed": 0,
    "held": 0,
-   "missing": 77,
+   "missing": 25,
    "old": 0,
    "total": 114
   },
@@ -1698,7 +1698,7 @@
    "en": "Artificial Intelligence & Machine Learning",
    "zh": "人工智能与机器学习"
   },
-  "updated": "2026-11-22 20:02:39",
+  "updated": "2026-11-22 20:03:08",
   "verified": ""
  },
  "cs/cs-algorithms": {
