@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 16:06:14. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 16:06:44. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -66,7 +66,7 @@ Updated 2026-11-22 16:06:14. Labels: finished / in progress / no audio / failed 
 | chemistry/chemistry-life | finished | 15 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:54 | 2026-11-21 20:59:13 |
 | chemistry/combustion-fuels | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:47 | 2026-11-21 20:58:08 |
 | chemistry/density | finished | 18 | 0 | 0 | 0 | 0 | 2026-11-21 21:45:24 |  |
-| chemistry/elements-compounds | finished | 17 | 0 | 0 | 0 | 0 | 2026-11-21 21:43:50 |  |
+| chemistry/elements-compounds | in progress | 29 | 2 | 140 | 0 | 0 | 2026-11-22 16:06:44 |  |
 | chemistry/formulas-valence | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-21 21:52:20 | 2026-11-21 21:54:35 |
 | chemistry/lab-skills | finished | 60 | 0 | 0 | 0 | 0 | 2026-11-21 20:02:52 | 2026-11-21 20:59:04 |
 | chemistry/metals | finished | 26 | 0 | 0 | 0 | 0 | 2026-11-21 21:10:02 | 2026-11-21 21:16:09 |
@@ -100,10 +100,10 @@ Updated 2026-11-22 16:06:14. Labels: finished / in progress / no audio / failed 
 | physics/communications-energy | in progress | 208 | 2 | 16 | 0 | 0 | 2026-11-22 15:32:36 |  |
 | physics/electric-power | in progress | 129 | 0 | 53 | 0 | 0 | 2026-11-22 15:23:02 |  |
 | physics/electricity | finished | 170 | 0 | 0 | 0 | 0 | 2026-11-22 15:02:30 | 2026-11-22 15:17:35 |
-| physics/electromagnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:24 |  |
+| physics/electromagnetism | finished | 188 | 0 | 0 | 0 | 0 | 2026-11-22 15:32:24 | 2026-11-22 16:06:19 |
 | physics/energy | finished | 162 | 0 | 0 | 0 | 0 | 2026-11-22 14:57:39 | 2026-11-22 15:14:11 |
 | physics/forces | finished | 235 | 0 | 0 | 0 | 0 | 2026-11-22 14:27:57 | 2026-11-22 14:36:03 |
-| physics/formula-sheet | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-22 15:35:57 |  |
+| physics/formula-sheet | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-22 15:35:57 | 2026-11-22 16:06:19 |
 | physics/heat-transfer | finished | 151 | 0 | 0 | 0 | 0 | 2026-11-22 14:59:30 | 2026-11-22 15:14:59 |
 | physics/lenses | finished | 227 | 0 | 0 | 0 | 0 | 2026-11-22 15:24:38 | 2026-11-22 15:32:22 |
 | physics/light | finished | 168 | 0 | 0 | 0 | 0 | 2026-11-22 14:58:23 | 2026-11-22 15:16:44 |
