@@ -23,16 +23,17 @@
  },
  "astronomy/black-holes": {
   "counts": {
-   "done": 6,
+   "done": 134,
    "failed": 0,
    "held": 0,
    "missing": 0,
    "old": 0,
-   "total": 6
+   "total": 134
   },
-  "fingerprint": "",
+  "fingerprint": "2ab11d09ae37",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/black-holes.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -40,8 +41,8 @@
    "en": "Black Holes & Gravity Waves",
    "zh": "黑洞与引力波"
   },
-  "updated": "2026-11-21 21:33:15",
-  "verified": "2026-11-21 21:41:59"
+  "updated": "2026-11-22 13:54:38",
+  "verified": ""
  },
  "astronomy/eclipses": {
   "counts": {
