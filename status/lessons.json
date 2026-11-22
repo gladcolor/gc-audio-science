@@ -2672,25 +2672,26 @@
  },
  "physics/pressure": {
   "counts": {
-   "done": 172,
+   "done": 246,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 172
+   "missing": 98,
+   "old": 1,
+   "total": 345
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "2b05b7c42006",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/pressure.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Pressure: Solids, Liquids & Air",
    "zh": "压强：固体、液体与大气"
   },
-  "updated": "2026-11-22 20:18:47",
+  "updated": "2026-11-22 22:01:30",
   "verified": ""
  },
  "physics/simple-machines": {
