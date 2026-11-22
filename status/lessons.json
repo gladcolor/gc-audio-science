@@ -2114,10 +2114,10 @@
  },
  "physics/communications-energy": {
   "counts": {
-   "done": 177,
+   "done": 208,
    "failed": 0,
    "held": 0,
-   "missing": 47,
+   "missing": 16,
    "old": 2,
    "total": 226
   },
@@ -2132,7 +2132,7 @@
    "en": "Electromagnetic Waves, Communication & Energy",
    "zh": "电磁波、信息传递与能源"
   },
-  "updated": "2026-11-22 15:32:18",
+  "updated": "2026-11-22 15:32:36",
   "verified": ""
  },
  "physics/electric-power": {
