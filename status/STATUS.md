@@ -1,12 +1,12 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-22 21:36:35. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-22 21:36:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
 | astronomy/big-bang | finished | 190 | 0 | 0 | 0 | 0 | 2026-11-22 20:19:01 |  |
 | astronomy/black-holes | finished | 134 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:34 |  |
-| astronomy/eclipses | in progress | 273 | 0 | 207 | 0 | 0 | 2026-11-22 21:35:29 |  |
+| astronomy/eclipses | in progress | 370 | 0 | 110 | 0 | 0 | 2026-11-22 21:36:48 |  |
 | astronomy/exoplanets | finished | 97 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:21 |  |
 | astronomy/galaxies | in progress | 441 | 1 | 21 | 0 | 0 | 2026-11-22 21:34:56 |  |
 | astronomy/gravity-orbits | in progress | 206 | 0 | 137 | 0 | 0 | 2026-11-22 21:33:46 |  |
