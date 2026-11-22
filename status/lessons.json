@@ -2365,16 +2365,17 @@
  },
  "physics/measurements-density": {
   "counts": {
-   "done": 17,
+   "done": 38,
    "failed": 0,
    "held": 0,
-   "missing": 0,
+   "missing": 146,
    "old": 0,
-   "total": 17
+   "total": 184
   },
-  "fingerprint": "82fd8fa78779",
-  "label": "finished",
+  "fingerprint": "5da3dca0c6e6",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/measurements-density.html",
+  "record_demand": true,
   "record_langs": [
    "zh"
   ],
@@ -2382,8 +2383,8 @@
    "en": "Mass, Density & Measurement",
    "zh": "质量、密度及其测量"
   },
-  "updated": "2026-11-21 20:02:04",
-  "verified": "2026-11-21 20:40:20"
+  "updated": "2026-11-22 15:23:31",
+  "verified": ""
  },
  "physics/mechanical-motion": {
   "counts": {
