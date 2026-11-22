@@ -765,11 +765,11 @@
  },
  "biology/classification": {
   "counts": {
-   "done": 319,
+   "done": 356,
    "failed": 0,
    "held": 0,
-   "missing": 70,
-   "old": 6,
+   "missing": 35,
+   "old": 4,
    "total": 395
   },
   "fingerprint": "73733a99b8d7",
@@ -784,7 +784,7 @@
    "en": "Classification & Dichotomous Keys",
    "zh": "生物分类与二歧检索表"
   },
-  "updated": "2026-11-22 21:07:34",
+  "updated": "2026-11-22 21:08:26",
   "verified": ""
  },
  "biology/diffusion": {
