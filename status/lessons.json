@@ -601,15 +601,15 @@
  },
  "biology/breathing-circulation": {
   "counts": {
-   "done": 585,
+   "done": 581,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 4,
    "total": 585
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "c8595a4d8889",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/biology/breathing-circulation.html",
   "record_demand": true,
   "record_langs": [
@@ -620,7 +620,7 @@
    "en": "Breathing & Blood Circulation",
    "zh": "人体的呼吸与血液循环"
   },
-  "updated": "2026-11-22 21:22:34",
+  "updated": "2026-11-23 00:41:36",
   "verified": ""
  },
  "biology/cell-city": {
@@ -645,7 +645,7 @@
    "zh": "细胞城市：细胞器的类比"
   },
   "updated": "2026-11-22 23:58:56",
-  "verified": ""
+  "verified": "2026-11-23 00:41:34"
  },
  "biology/cell-division": {
   "counts": {
