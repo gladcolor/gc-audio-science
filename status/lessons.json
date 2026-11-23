@@ -505,15 +505,15 @@
  },
  "astronomy/three-body": {
   "counts": {
-   "done": 315,
+   "done": 313,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 2,
    "total": 315
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "0e8138b9683d",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/three-body.html",
   "record_demand": true,
   "record_langs": [
@@ -524,7 +524,7 @@
    "en": "The Three-Body Problem: Order & Chaos",
    "zh": "三体问题：秩序与混沌"
   },
-  "updated": "2026-11-23 01:26:37",
+  "updated": "2026-11-23 04:35:13",
   "verified": ""
  },
  "astronomy/tides": {
