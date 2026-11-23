@@ -1537,15 +1537,15 @@
  },
  "chemistry/lab-skills": {
   "counts": {
-   "done": 574,
+   "done": 570,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 4,
    "total": 574
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "55563ba608a2",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/lab-skills.html",
   "record_demand": true,
   "record_langs": [
@@ -1556,7 +1556,7 @@
    "en": "Chemistry Lab Skills & Safety",
    "zh": "化学实验基本操作"
   },
-  "updated": "2026-11-23 00:58:50",
+  "updated": "2026-11-23 04:34:27",
   "verified": ""
  },
  "chemistry/metals": {
