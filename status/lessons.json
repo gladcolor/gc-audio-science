@@ -2154,15 +2154,15 @@
  },
  "earth/weather": {
   "counts": {
-   "done": 703,
+   "done": 637,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 66,
    "total": 703
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "203659d95e72",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/earth/weather.html",
   "record_demand": true,
   "record_langs": [
@@ -2173,7 +2173,7 @@
    "en": "Weather & Air Masses",
    "zh": "天气与气团"
   },
-  "updated": "2026-11-22 21:37:43",
+  "updated": "2026-11-23 00:44:13",
   "verified": ""
  },
  "earth/weathering-erosion": {
