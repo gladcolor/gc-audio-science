@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:26:38. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:28:40. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -68,7 +68,7 @@ Updated 2026-11-23 01:26:38. Labels: finished / in progress / no audio / failed 
 | chemistry/density | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-23 01:17:21 |  |
 | chemistry/elements-compounds | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:24 |  |
 | chemistry/formulas-valence | finished | 270 | 0 | 0 | 0 | 0 | 2026-11-22 22:45:08 |  |
-| chemistry/lab-skills | finished | 574 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:50 |  |
+| chemistry/lab-skills | finished | 574 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:50 | 2026-11-23 01:26:42 |
 | chemistry/metals | finished | 525 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:29 |  |
 | chemistry/oxygen-air | in progress | 352 | 20 | 0 | 0 | 0 | 2026-11-23 00:56:43 |  |
 | chemistry/periodic-table | in progress | 783 | 55 | 0 | 0 | 0 | 2026-11-23 00:55:03 |  |
@@ -96,7 +96,7 @@ Updated 2026-11-23 01:26:38. Labels: finished / in progress / no audio / failed 
 | earth/water-cycle | finished | 320 | 0 | 0 | 0 | 0 | 2026-11-23 00:53:04 |  |
 | earth/weather | finished | 703 | 0 | 0 | 0 | 0 | 2026-11-23 00:57:27 |  |
 | earth/weathering-erosion | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:36 |  |
-| physics/buoyancy | finished | 411 | 0 | 0 | 0 | 0 | 2026-11-22 22:09:05 |  |
+| physics/buoyancy | finished | 411 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:40 |  |
 | physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:43 |  |
 | physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-22 22:13:34 |  |
 | physics/electricity | finished | 324 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:15 |  |
@@ -115,12 +115,12 @@ Updated 2026-11-23 01:26:38. Labels: finished / in progress / no audio / failed 
 | physics/nuclear-applications | finished | 619 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:52 |  |
 | physics/nuclear-fission | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:57 |  |
 | physics/nuclear-fusion | finished | 445 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:57 |  |
-| physics/ohms-law | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:58 |  |
+| physics/ohms-law | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:58 | 2026-11-23 01:28:21 |
 | physics/phase-changes | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:54 |  |
 | physics/pressure | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-22 22:26:29 |  |
 | physics/simple-machines | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:47 |  |
 | physics/sound | finished | 289 | 0 | 0 | 0 | 0 | 2026-11-23 00:51:58 |  |
 | physics/specific-heat | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 00:54:09 |  |
 | physics/static-charge | finished | 471 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:07 |  |
-| physics/waves | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:42 |  |
-| physics/work-power | finished | 326 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:22 |  |
+| physics/waves | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-23 01:04:42 | 2026-11-23 01:26:42 |
+| physics/work-power | finished | 326 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:22 | 2026-11-23 01:27:15 |
