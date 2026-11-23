@@ -1800,11 +1800,11 @@
  },
  "cs/cs-coding": {
   "counts": {
-   "done": 132,
+   "done": 181,
    "failed": 0,
    "held": 0,
-   "missing": 94,
-   "old": 5,
+   "missing": 49,
+   "old": 1,
    "total": 231
   },
   "fingerprint": "6d9daf776b7e",
@@ -1819,7 +1819,7 @@
    "en": "Coding: Loops & Conditions",
    "zh": "编程：循环与条件"
   },
-  "updated": "2026-11-23 03:34:05",
+  "updated": "2026-11-23 03:35:15",
   "verified": ""
  },
  "cs/cs-computers": {
