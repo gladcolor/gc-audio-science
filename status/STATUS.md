@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:18:50. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Updated 2026-11-23 01:18:50. Labels: finished / in progress / no audio / failed 
 | astronomy/gravity-orbits | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 00:59:27 |  |
 | astronomy/kepler-laws | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:11 |  |
 | astronomy/measuring-distance | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:40 |  |
-| astronomy/moon-phases | finished | 605 | 0 | 0 | 0 | 0 | 2026-11-22 22:03:34 |  |
+| astronomy/moon-phases | finished | 605 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:39 |  |
 | astronomy/night-sky | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-22 22:12:03 |  |
 | astronomy/planets-moons | finished | 643 | 0 | 0 | 0 | 0 | 2026-11-22 22:21:14 |  |
 | astronomy/rocketry | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:39 |  |
@@ -39,11 +39,11 @@ Updated 2026-11-23 01:18:50. Labels: finished / in progress / no audio / failed 
 | biology/characteristics-of-life | finished | 469 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:13 | 2026-11-23 00:42:20 |
 | biology/classification | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:05 |  |
 | biology/diffusion | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:06 | 2026-11-23 00:43:05 |
-| biology/dna | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:30 |  |
+| biology/dna | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:30 | 2026-11-23 01:19:11 |
 | biology/ecosystems | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:08 |  |
 | biology/endocytosis | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:18 |  |
 | biology/evolution | finished | 348 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:29 |  |
-| biology/exocytosis | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:50 |  |
+| biology/exocytosis | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:50 | 2026-11-23 01:19:11 |
 | biology/food-webs | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:13 |  |
 | biology/habitat-niche | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:47 |  |
 | biology/health-first-aid | finished | 492 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:09 |  |

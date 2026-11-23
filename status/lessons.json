@@ -200,7 +200,7 @@
    "old": 0,
    "total": 605
   },
-  "fingerprint": "",
+  "fingerprint": "f26d45da15a7",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/moon-phases.html",
   "record_demand": true,
@@ -212,7 +212,7 @@
    "en": "Phases of the Moon",
    "zh": "月相"
   },
-  "updated": "2026-11-22 22:03:34",
+  "updated": "2026-11-23 01:19:39",
   "verified": ""
  },
  "astronomy/night-sky": {
@@ -861,7 +861,7 @@
    "zh": "DNA：生命密码"
   },
   "updated": "2026-11-23 00:42:30",
-  "verified": ""
+  "verified": "2026-11-23 01:19:11"
  },
  "biology/ecosystems": {
   "counts": {
@@ -957,7 +957,7 @@
    "zh": "胞吐：细胞怎样往外运"
   },
   "updated": "2026-11-23 00:42:50",
-  "verified": ""
+  "verified": "2026-11-23 01:19:11"
  },
  "biology/food-webs": {
   "counts": {
