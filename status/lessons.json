@@ -2582,7 +2582,7 @@
    "zh": "牛顿运动定律"
   },
   "updated": "2026-11-23 01:09:16",
-  "verified": ""
+  "verified": "2026-11-23 01:30:12"
  },
  "physics/nuclear-applications": {
   "counts": {
@@ -2713,7 +2713,7 @@
    "old": 0,
    "total": 345
   },
-  "fingerprint": "",
+  "fingerprint": "2b05b7c42006",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/pressure.html",
   "record_demand": true,
@@ -2725,7 +2725,7 @@
    "en": "Pressure: Solids, Liquids & Air",
    "zh": "压强：固体、液体与大气"
   },
-  "updated": "2026-11-22 22:26:29",
+  "updated": "2026-11-23 01:30:13",
   "verified": ""
  },
  "physics/simple-machines": {
