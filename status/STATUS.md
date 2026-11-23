@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:20:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed 
 | astronomy/measuring-distance | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:40 |  |
 | astronomy/moon-phases | finished | 605 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:39 |  |
 | astronomy/night-sky | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-22 22:12:03 |  |
-| astronomy/planets-moons | finished | 643 | 0 | 0 | 0 | 0 | 2026-11-22 22:21:14 |  |
+| astronomy/planets-moons | finished | 643 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:23 |  |
 | astronomy/rocketry | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:39 |  |
 | astronomy/scale-universe | finished | 926 | 0 | 0 | 0 | 0 | 2026-11-23 00:48:08 |  |
 | astronomy/seasons | finished | 398 | 0 | 0 | 0 | 0 | 2026-11-23 00:56:19 |  |
@@ -28,7 +28,7 @@ Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed 
 | astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-22 22:15:20 |  |
 | astronomy/tides | finished | 393 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:07 |  |
 | biology/animals | finished | 453 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:18 |  |
-| biology/body-systems | finished | 609 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:42 |  |
+| biology/body-systems | finished | 609 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:42 | 2026-11-23 01:20:05 |
 | biology/breathing-circulation | finished | 585 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:18 |  |
 | biology/cell-city | finished | 303 | 0 | 0 | 0 | 0 | 2026-11-22 23:58:56 | 2026-11-23 00:41:34 |
 | biology/cell-division | finished | 259 | 0 | 0 | 0 | 0 | 2026-11-23 00:40:34 |  |
@@ -40,8 +40,8 @@ Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed 
 | biology/classification | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:05 |  |
 | biology/diffusion | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:06 | 2026-11-23 00:43:05 |
 | biology/dna | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:30 | 2026-11-23 01:19:11 |
-| biology/ecosystems | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:08 |  |
-| biology/endocytosis | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:18 |  |
+| biology/ecosystems | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:08 | 2026-11-23 01:20:05 |
+| biology/endocytosis | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:18 | 2026-11-23 01:20:06 |
 | biology/evolution | finished | 348 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:29 |  |
 | biology/exocytosis | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:50 | 2026-11-23 01:19:11 |
 | biology/food-webs | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:13 |  |
@@ -86,7 +86,7 @@ Updated 2026-11-23 01:19:39. Labels: finished / in progress / no audio / failed 
 | cs/cs-safety | finished | 137 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:27 |  |
 | earth/atmosphere | finished | 311 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:06 |  |
 | earth/climate | finished | 365 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:08 |  |
-| earth/earth-layers | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:26 |  |
+| earth/earth-layers | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:26 | 2026-11-23 01:20:06 |
 | earth/fossils-time | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:50 |  |
 | earth/natural-resources | finished | 325 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:47 |  |
 | earth/oceans | finished | 308 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:43 |  |

@@ -248,7 +248,7 @@
    "old": 0,
    "total": 643
   },
-  "fingerprint": "",
+  "fingerprint": "6c919c40d838",
   "label": "finished",
   "page": "https://shanchuan.org/middle/astronomy/planets-moons.html",
   "record_demand": true,
@@ -260,7 +260,7 @@
    "en": "Planet Lab: Worlds & Moons",
    "zh": "行星实验室：行星与卫星"
   },
-  "updated": "2026-11-22 22:21:14",
+  "updated": "2026-11-23 01:20:23",
   "verified": ""
  },
  "astronomy/rocketry": {
@@ -597,7 +597,7 @@
    "zh": "人体系统"
   },
   "updated": "2026-11-23 00:42:42",
-  "verified": ""
+  "verified": "2026-11-23 01:20:05"
  },
  "biology/breathing-circulation": {
   "counts": {
@@ -885,7 +885,7 @@
    "zh": "生物群落与生态系统"
   },
   "updated": "2026-11-23 00:43:08",
-  "verified": ""
+  "verified": "2026-11-23 01:20:05"
  },
  "biology/endocytosis": {
   "counts": {
@@ -909,7 +909,7 @@
    "zh": "胞吞：细胞怎样“吃”东西"
   },
   "updated": "2026-11-23 00:43:18",
-  "verified": ""
+  "verified": "2026-11-23 01:20:06"
  },
  "biology/evolution": {
   "counts": {
@@ -1982,7 +1982,7 @@
    "zh": "地球的圈层"
   },
   "updated": "2026-11-23 00:43:26",
-  "verified": ""
+  "verified": "2026-11-23 01:20:06"
  },
  "earth/fossils-time": {
   "counts": {
