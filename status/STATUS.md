@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 04:34:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:34:39. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Updated 2026-11-23 04:34:27. Labels: finished / in progress / no audio / failed 
 | astronomy/space-exploration | finished | 467 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:05 |  |
 | astronomy/star-life | finished | 649 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:43 |  |
 | astronomy/sun-stars | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:15 |  |
-| astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:24 |  |
+| astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:24 | 2026-11-23 04:34:30 |
 | astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:37 |  |
 | astronomy/tides | finished | 393 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:17 |  |
 | biology/animals | finished | 453 | 0 | 0 | 0 | 0 | 2026-11-23 04:32:22 |  |
@@ -35,7 +35,7 @@ Updated 2026-11-23 04:34:27. Labels: finished / in progress / no audio / failed 
 | biology/cell-organelles | finished | 20 | 0 | 0 | 0 | 0 | 2026-11-22 21:02:22 | 2026-11-22 21:03:35 |
 | biology/cell-theory | finished | 519 | 0 | 0 | 0 | 0 | 2026-11-23 04:30:57 |  |
 | biology/cell-transport | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 04:32:55 |  |
-| biology/cells-review | finished | 320 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:08 |  |
+| biology/cells-review | finished | 320 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:08 | 2026-11-23 04:34:30 |
 | biology/characteristics-of-life | finished | 469 | 0 | 0 | 0 | 0 | 2026-11-23 04:30:28 |  |
 | biology/classification | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:02 |  |
 | biology/diffusion | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-23 04:32:17 |  |
@@ -77,7 +77,7 @@ Updated 2026-11-23 04:34:27. Labels: finished / in progress / no audio / failed 
 | chemistry/solutions | finished | 308 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:14 |  |
 | chemistry/states-of-matter | finished | 363 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:51 |  |
 | chemistry/water-purification | finished | 451 | 0 | 0 | 0 | 0 | 2026-11-23 04:31:40 |  |
-| cs/cs-ai | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:01 |  |
+| cs/cs-ai | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:01 | 2026-11-23 04:34:30 |
 | cs/cs-algorithms | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:36:12 | 2026-11-23 03:50:21 |
 | cs/cs-coding | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:37 |  |
 | cs/cs-computers | finished | 991 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:52 |  |
@@ -97,7 +97,7 @@ Updated 2026-11-23 04:34:27. Labels: finished / in progress / no audio / failed 
 | earth/weather | finished | 703 | 0 | 0 | 0 | 0 | 2026-11-23 00:57:27 |  |
 | earth/weathering-erosion | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:38 |  |
 | physics/buoyancy | finished | 411 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:40 |  |
-| physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:43 |  |
+| physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-23 04:34:38 |  |
 | physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-23 01:29:53 |  |
 | physics/electricity | finished | 324 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:15 |  |
 | physics/electromagnetism | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 04:32:33 |  |
