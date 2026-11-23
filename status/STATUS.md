@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 00:43:08. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 00:43:18. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Updated 2026-11-23 00:43:08. Labels: finished / in progress / no audio / failed 
 | biology/diffusion | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:06 | 2026-11-23 00:43:05 |
 | biology/dna | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:30 |  |
 | biology/ecosystems | finished | 663 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:08 |  |
-| biology/endocytosis | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-22 21:08:32 |  |
+| biology/endocytosis | finished | 338 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:18 |  |
 | biology/evolution | finished | 348 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:29 |  |
 | biology/exocytosis | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:50 |  |
 | biology/food-webs | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-22 21:19:30 |  |
@@ -52,7 +52,7 @@ Updated 2026-11-23 00:43:08. Labels: finished / in progress / no audio / failed 
 | biology/microorganisms | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-22 21:10:31 |  |
 | biology/nervous-endocrine | finished | 613 | 0 | 0 | 0 | 0 | 2026-11-22 21:21:03 |  |
 | biology/nutrition-digestion | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:15 |  |
-| biology/osmosis | finished | 273 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:10 |  |
+| biology/osmosis | finished | 273 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:10 | 2026-11-23 00:43:14 |
 | biology/photosynthesis | finished | 360 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:54 |  |
 | biology/plants | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-23 00:40:44 |  |
 | biology/protein-synthesis | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:22 |  |
