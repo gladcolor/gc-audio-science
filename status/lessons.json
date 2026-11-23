@@ -2682,15 +2682,15 @@
  },
  "physics/phase-changes": {
   "counts": {
-   "done": 383,
+   "done": 382,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 1,
    "total": 383
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "da31dbf24e5e",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/phase-changes.html",
   "record_demand": true,
   "record_langs": [
@@ -2701,7 +2701,7 @@
    "en": "Melting, Boiling & Phase Changes",
    "zh": "物态变化"
   },
-  "updated": "2026-11-22 22:11:18",
+  "updated": "2026-11-23 00:51:47",
   "verified": ""
  },
  "physics/pressure": {
