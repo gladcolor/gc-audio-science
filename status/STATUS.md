@@ -1,10 +1,10 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:28:48. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:29:53. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
-| astronomy/big-bang | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:27 |  |
+| astronomy/big-bang | finished | 375 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:27 | 2026-11-23 01:29:43 |
 | astronomy/black-holes | finished | 260 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:18 |  |
 | astronomy/eclipses | finished | 480 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:59 |  |
 | astronomy/exoplanets | finished | 244 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:57 |  |
@@ -98,7 +98,7 @@ Updated 2026-11-23 01:28:48. Labels: finished / in progress / no audio / failed 
 | earth/weathering-erosion | finished | 349 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:36 |  |
 | physics/buoyancy | finished | 411 | 0 | 0 | 0 | 0 | 2026-11-23 01:28:40 |  |
 | physics/communications-energy | finished | 442 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:43 |  |
-| physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-22 22:13:34 |  |
+| physics/electric-power | finished | 358 | 0 | 0 | 0 | 0 | 2026-11-23 01:29:53 |  |
 | physics/electricity | finished | 324 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:15 |  |
 | physics/electromagnetism | finished | 373 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:58 |  |
 | physics/energy | finished | 326 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:18 |  |
@@ -109,7 +109,7 @@ Updated 2026-11-23 01:28:48. Labels: finished / in progress / no audio / failed 
 | physics/light | finished | 327 | 0 | 0 | 0 | 0 | 2026-11-23 00:51:40 |  |
 | physics/magnetism | finished | 368 | 0 | 0 | 0 | 0 | 2026-11-23 00:51:53 |  |
 | physics/measurements-density | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:15:47 |  |
-| physics/mechanical-motion | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:41 |  |
+| physics/mechanical-motion | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:41 | 2026-11-23 01:29:04 |
 | physics/motion | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-23 00:50:24 |  |
 | physics/newtons-laws | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:16 |  |
 | physics/nuclear-applications | finished | 619 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:52 |  |
