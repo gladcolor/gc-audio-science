@@ -1848,25 +1848,26 @@
  },
  "cs/cs-data-crypto": {
   "counts": {
-   "done": 123,
+   "done": 144,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 123
+   "missing": 82,
+   "old": 7,
+   "total": 233
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "dbba106adcc1",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/cs/cs-data-crypto.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "Data, Codes & Encryption",
    "zh": "数据、编码与加密"
   },
-  "updated": "2026-11-22 20:26:12",
+  "updated": "2026-11-23 03:35:47",
   "verified": ""
  },
  "cs/cs-internet": {
