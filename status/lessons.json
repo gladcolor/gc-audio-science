@@ -1822,11 +1822,11 @@
  },
  "cs/cs-computers": {
   "counts": {
-   "done": 644,
+   "done": 738,
    "failed": 0,
    "held": 0,
-   "missing": 339,
-   "old": 8,
+   "missing": 248,
+   "old": 5,
    "total": 991
   },
   "fingerprint": "2cdc4b5e9d91",
@@ -1841,7 +1841,7 @@
    "en": "How Computers Work",
    "zh": "计算机是怎样工作的"
   },
-  "updated": "2026-11-23 03:31:30",
+  "updated": "2026-11-23 03:31:38",
   "verified": ""
  },
  "cs/cs-data-crypto": {
