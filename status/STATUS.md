@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 03:39:05. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:52:03. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -78,12 +78,12 @@ Updated 2026-11-23 03:39:05. Labels: finished / in progress / no audio / failed 
 | chemistry/states-of-matter | finished | 363 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:51 | 2026-11-23 02:12:10 |
 | chemistry/water-purification | finished | 451 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:23 | 2026-11-23 02:12:10 |
 | cs/cs-ai | in progress | 174 | 2 | 37 | 0 | 0 | 2026-11-23 03:37:44 |  |
-| cs/cs-algorithms | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:36:12 |  |
+| cs/cs-algorithms | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:36:12 | 2026-11-23 03:50:21 |
 | cs/cs-coding | in progress | 227 | 0 | 4 | 0 | 0 | 2026-11-23 03:37:04 |  |
 | cs/cs-computers | in progress | 895 | 1 | 95 | 0 | 0 | 2026-11-23 03:33:24 |  |
 | cs/cs-data-crypto | in progress | 231 | 0 | 2 | 0 | 0 | 2026-11-23 03:39:04 |  |
 | cs/cs-internet | in progress | 309 | 3 | 40 | 0 | 0 | 2026-11-23 03:36:29 |  |
-| cs/cs-safety | in progress | 214 | 1 | 54 | 0 | 0 | 2026-11-23 03:38:27 |  |
+| cs/cs-safety | in progress | 267 | 0 | 2 | 0 | 0 | 2026-11-23 03:52:03 |  |
 | earth/atmosphere | finished | 311 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:06 |  |
 | earth/climate | finished | 365 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:08 | 2026-11-23 01:24:04 |
 | earth/earth-layers | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:26 | 2026-11-23 01:20:06 |

@@ -1797,7 +1797,7 @@
    "zh": "算法：排序与查找"
   },
   "updated": "2026-11-23 03:36:12",
-  "verified": ""
+  "verified": "2026-11-23 03:50:21"
  },
  "cs/cs-coding": {
   "counts": {
@@ -1897,11 +1897,11 @@
  },
  "cs/cs-safety": {
   "counts": {
-   "done": 214,
+   "done": 267,
    "failed": 0,
    "held": 0,
-   "missing": 54,
-   "old": 1,
+   "missing": 2,
+   "old": 0,
    "total": 269
   },
   "fingerprint": "42da01c9625f",
@@ -1916,7 +1916,7 @@
    "en": "Cybersecurity & Digital Citizenship",
    "zh": "网络安全与数字公民"
   },
-  "updated": "2026-11-23 03:38:27",
+  "updated": "2026-11-23 03:52:03",
   "verified": ""
  },
  "earth/atmosphere": {
