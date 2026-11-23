@@ -1849,11 +1849,11 @@
  },
  "cs/cs-data-crypto": {
   "counts": {
-   "done": 144,
+   "done": 231,
    "failed": 0,
    "held": 0,
-   "missing": 82,
-   "old": 7,
+   "missing": 2,
+   "old": 0,
    "total": 233
   },
   "fingerprint": "dbba106adcc1",
@@ -1868,7 +1868,7 @@
    "en": "Data, Codes & Encryption",
    "zh": "数据、编码与加密"
   },
-  "updated": "2026-11-23 03:35:47",
+  "updated": "2026-11-23 03:39:04",
   "verified": ""
  },
  "cs/cs-internet": {
