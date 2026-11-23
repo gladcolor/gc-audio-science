@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 04:44:01. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:46:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -61,7 +61,7 @@ Updated 2026-11-23 04:44:01. Labels: finished / in progress / no audio / failed 
 | chemistry/acids-bases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-23 04:34:50 |  |
 | chemistry/atoms | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 04:41:50 |  |
 | chemistry/carbon | finished | 425 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:02 |  |
-| chemistry/changes | finished | 278 | 0 | 0 | 0 | 0 | 2026-11-23 00:55:36 |  |
+| chemistry/changes | finished | 278 | 0 | 0 | 0 | 0 | 2026-11-23 04:46:52 |  |
 | chemistry/chemical-equations | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:47 |  |
 | chemistry/chemistry-life | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 04:39:31 |  |
 | chemistry/combustion-fuels | finished | 367 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:48 | 2026-11-23 02:17:15 |
@@ -79,11 +79,11 @@ Updated 2026-11-23 04:44:01. Labels: finished / in progress / no audio / failed 
 | chemistry/water-purification | finished | 451 | 0 | 0 | 0 | 0 | 2026-11-23 04:31:40 |  |
 | cs/cs-ai | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:01 | 2026-11-23 04:34:30 |
 | cs/cs-algorithms | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:36:12 | 2026-11-23 03:50:21 |
-| cs/cs-coding | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:37 |  |
+| cs/cs-coding | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:37 | 2026-11-23 04:44:51 |
 | cs/cs-computers | finished | 991 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:52 |  |
-| cs/cs-data-crypto | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:01 |  |
+| cs/cs-data-crypto | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:01 | 2026-11-23 04:44:51 |
 | cs/cs-internet | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:12 |  |
-| cs/cs-safety | finished | 269 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:44 |  |
+| cs/cs-safety | finished | 269 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:44 | 2026-11-23 04:44:51 |
 | earth/atmosphere | finished | 311 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:10 |  |
 | earth/climate | finished | 365 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:51 |  |
 | earth/earth-layers | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 04:36:41 |  |

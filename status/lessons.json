@@ -1376,7 +1376,7 @@
    "old": 0,
    "total": 278
   },
-  "fingerprint": "",
+  "fingerprint": "59ab24b1cb3f",
   "label": "finished",
   "page": "https://shanchuan.org/middle/chemistry/changes.html",
   "record_demand": true,
@@ -1388,7 +1388,7 @@
    "en": "Physical & Chemical Changes",
    "zh": "物理变化与化学变化"
   },
-  "updated": "2026-11-23 00:55:36",
+  "updated": "2026-11-23 04:46:52",
   "verified": ""
  },
  "chemistry/chemical-equations": {
@@ -1821,7 +1821,7 @@
    "zh": "编程：循环与条件"
   },
   "updated": "2026-11-23 03:58:37",
-  "verified": ""
+  "verified": "2026-11-23 04:44:51"
  },
  "cs/cs-computers": {
   "counts": {
@@ -1869,7 +1869,7 @@
    "zh": "数据、编码与加密"
   },
   "updated": "2026-11-23 03:58:01",
-  "verified": ""
+  "verified": "2026-11-23 04:44:51"
  },
  "cs/cs-internet": {
   "counts": {
@@ -1917,7 +1917,7 @@
    "zh": "网络安全与数字公民"
   },
   "updated": "2026-11-23 03:54:44",
-  "verified": ""
+  "verified": "2026-11-23 04:44:51"
  },
  "earth/atmosphere": {
   "counts": {
