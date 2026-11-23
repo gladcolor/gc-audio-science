@@ -2504,7 +2504,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "",
+  "fingerprint": "5da3dca0c6e6",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/measurements-density.html",
   "record_demand": true,
@@ -2516,7 +2516,7 @@
    "en": "Mass, Density & Measurement",
    "zh": "质量、密度及其测量"
   },
-  "updated": "2026-11-23 01:15:47",
+  "updated": "2026-11-23 04:37:49",
   "verified": ""
  },
  "physics/mechanical-motion": {
