@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:23:57. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:24:44. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Updated 2026-11-23 01:23:57. Labels: finished / in progress / no audio / failed 
 | astronomy/galaxies | finished | 463 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:01 |  |
 | astronomy/gravity-orbits | finished | 343 | 0 | 0 | 0 | 0 | 2026-11-23 00:59:27 |  |
 | astronomy/kepler-laws | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:11 |  |
-| astronomy/measuring-distance | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:40 |  |
+| astronomy/measuring-distance | finished | 271 | 0 | 0 | 0 | 0 | 2026-11-23 00:58:40 | 2026-11-23 01:24:04 |
 | astronomy/moon-phases | finished | 605 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:39 |  |
 | astronomy/night-sky | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-22 22:12:03 |  |
 | astronomy/planets-moons | finished | 643 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:23 |  |
@@ -22,11 +22,11 @@ Updated 2026-11-23 01:23:57. Labels: finished / in progress / no audio / failed 
 | astronomy/small-bodies | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:20 |  |
 | astronomy/solar-system | finished | 506 | 0 | 0 | 0 | 0 | 2026-11-23 00:48:58 |  |
 | astronomy/space-exploration | finished | 467 | 0 | 0 | 0 | 0 | 2026-11-23 00:48:00 |  |
-| astronomy/star-life | in progress | 642 | 7 | 0 | 0 | 0 | 2026-11-23 00:49:33 |  |
+| astronomy/star-life | finished | 649 | 0 | 0 | 0 | 0 | 2026-11-23 01:24:43 |  |
 | astronomy/sun-stars | finished | 448 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:15 |  |
 | astronomy/telescopes-light | finished | 14 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:24 |  |
 | astronomy/three-body | finished | 315 | 0 | 0 | 0 | 0 | 2026-11-22 22:15:20 |  |
-| astronomy/tides | finished | 393 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:07 |  |
+| astronomy/tides | finished | 393 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:07 | 2026-11-23 01:24:42 |
 | biology/animals | finished | 453 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:18 |  |
 | biology/body-systems | finished | 609 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:42 | 2026-11-23 01:20:05 |
 | biology/breathing-circulation | finished | 585 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:18 |  |
@@ -49,7 +49,7 @@ Updated 2026-11-23 01:23:57. Labels: finished / in progress / no audio / failed 
 | biology/health-first-aid | finished | 492 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:09 |  |
 | biology/heredity | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:52 | 2026-11-23 01:22:51 |
 | biology/infection-immunity | finished | 501 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:03 |  |
-| biology/microorganisms | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:18 |  |
+| biology/microorganisms | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:18 | 2026-11-23 01:24:41 |
 | biology/nervous-endocrine | finished | 613 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:36 | 2026-11-23 01:22:50 |
 | biology/nutrition-digestion | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:15 |  |
 | biology/osmosis | finished | 273 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:10 | 2026-11-23 00:43:14 |
@@ -85,7 +85,7 @@ Updated 2026-11-23 01:23:57. Labels: finished / in progress / no audio / failed 
 | cs/cs-internet | finished | 182 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:09 |  |
 | cs/cs-safety | finished | 137 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:27 |  |
 | earth/atmosphere | finished | 311 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:06 |  |
-| earth/climate | finished | 365 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:08 |  |
+| earth/climate | finished | 365 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:08 | 2026-11-23 01:24:04 |
 | earth/earth-layers | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 00:43:26 | 2026-11-23 01:20:06 |
 | earth/fossils-time | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:50 |  |
 | earth/natural-resources | finished | 325 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:47 |  |
