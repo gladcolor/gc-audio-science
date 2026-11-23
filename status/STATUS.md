@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:31:27. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:31:49. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -15,7 +15,7 @@ Updated 2026-11-23 01:31:27. Labels: finished / in progress / no audio / failed 
 | astronomy/moon-phases | finished | 605 | 0 | 0 | 0 | 0 | 2026-11-23 01:19:39 |  |
 | astronomy/night-sky | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-23 01:26:25 |  |
 | astronomy/planets-moons | finished | 643 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:23 |  |
-| astronomy/rocketry | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:39 |  |
+| astronomy/rocketry | finished | 316 | 0 | 0 | 0 | 0 | 2026-11-23 01:10:39 | 2026-11-23 01:31:45 |
 | astronomy/scale-universe | finished | 926 | 0 | 0 | 0 | 0 | 2026-11-23 00:48:08 |  |
 | astronomy/seasons | finished | 398 | 0 | 0 | 0 | 0 | 2026-11-23 00:56:19 |  |
 | astronomy/sky-tonight | finished | 562 | 0 | 0 | 0 | 0 | 2026-11-23 00:50:30 |  |
@@ -64,7 +64,7 @@ Updated 2026-11-23 01:31:27. Labels: finished / in progress / no audio / failed 
 | chemistry/changes | finished | 278 | 0 | 0 | 0 | 0 | 2026-11-23 00:55:36 |  |
 | chemistry/chemical-equations | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 01:16:49 |  |
 | chemistry/chemistry-life | finished | 418 | 0 | 0 | 0 | 0 | 2026-11-23 01:17:29 |  |
-| chemistry/combustion-fuels | finished | 367 | 0 | 0 | 0 | 0 | 2026-11-22 22:39:50 |  |
+| chemistry/combustion-fuels | finished | 367 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:48 |  |
 | chemistry/density | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-23 01:17:21 |  |
 | chemistry/elements-compounds | finished | 336 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:24 |  |
 | chemistry/formulas-valence | finished | 270 | 0 | 0 | 0 | 0 | 2026-11-23 01:31:13 |  |
@@ -112,7 +112,7 @@ Updated 2026-11-23 01:31:27. Labels: finished / in progress / no audio / failed 
 | physics/mechanical-motion | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 01:07:41 | 2026-11-23 01:29:04 |
 | physics/motion | finished | 203 | 0 | 0 | 0 | 0 | 2026-11-23 00:50:24 |  |
 | physics/newtons-laws | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 01:09:16 | 2026-11-23 01:30:12 |
-| physics/nuclear-applications | finished | 619 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:52 |  |
+| physics/nuclear-applications | finished | 619 | 0 | 0 | 0 | 0 | 2026-11-23 01:08:52 | 2026-11-23 01:31:44 |
 | physics/nuclear-fission | finished | 389 | 0 | 0 | 0 | 0 | 2026-11-23 01:20:57 |  |
 | physics/nuclear-fusion | finished | 445 | 0 | 0 | 0 | 0 | 2026-11-23 01:23:57 |  |
 | physics/ohms-law | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 01:06:58 | 2026-11-23 01:28:21 |
