@@ -2473,7 +2473,7 @@
    "old": 0,
    "total": 368
   },
-  "fingerprint": "",
+  "fingerprint": "d0c1d7ffa20d",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/magnetism.html",
   "record_demand": true,
@@ -2485,7 +2485,7 @@
    "en": "Magnetism & Electromagnets",
    "zh": "磁与电磁铁"
   },
-  "updated": "2026-11-22 22:21:22",
+  "updated": "2026-11-23 00:51:53",
   "verified": ""
  },
  "physics/measurements-density": {
