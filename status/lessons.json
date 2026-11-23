@@ -1297,15 +1297,15 @@
  },
  "chemistry/acids-bases": {
   "counts": {
-   "done": 385,
+   "done": 378,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 7,
    "total": 385
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "46fcb7c956e7",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/acids-bases.html",
   "record_demand": true,
   "record_langs": [
@@ -1316,7 +1316,7 @@
    "en": "Acids, Bases & pH",
    "zh": "酸、碱与 pH"
   },
-  "updated": "2026-11-22 22:42:58",
+  "updated": "2026-11-23 00:55:45",
   "verified": ""
  },
  "chemistry/atoms": {
