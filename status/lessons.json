@@ -2154,11 +2154,11 @@
  },
  "earth/weather": {
   "counts": {
-   "done": 637,
+   "done": 686,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 66,
+   "old": 17,
    "total": 703
   },
   "fingerprint": "203659d95e72",
@@ -2173,7 +2173,7 @@
    "en": "Weather & Air Masses",
    "zh": "天气与气团"
   },
-  "updated": "2026-11-23 00:44:13",
+  "updated": "2026-11-23 00:46:01",
   "verified": ""
  },
  "earth/weathering-erosion": {
