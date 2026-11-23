@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 01:22:47. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 01:22:52. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -47,16 +47,16 @@ Updated 2026-11-23 01:22:47. Labels: finished / in progress / no audio / failed 
 | biology/food-webs | finished | 397 | 0 | 0 | 0 | 0 | 2026-11-23 00:49:13 |  |
 | biology/habitat-niche | finished | 464 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:47 |  |
 | biology/health-first-aid | finished | 492 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:09 |  |
-| biology/heredity | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:52 |  |
+| biology/heredity | finished | 344 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:52 | 2026-11-23 01:22:51 |
 | biology/infection-immunity | finished | 501 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:03 |  |
 | biology/microorganisms | finished | 508 | 0 | 0 | 0 | 0 | 2026-11-23 00:46:18 |  |
-| biology/nervous-endocrine | finished | 613 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:36 |  |
+| biology/nervous-endocrine | finished | 613 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:36 | 2026-11-23 01:22:50 |
 | biology/nutrition-digestion | finished | 505 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:15 |  |
 | biology/osmosis | finished | 273 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:10 | 2026-11-23 00:43:14 |
 | biology/photosynthesis | finished | 360 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:54 |  |
 | biology/plants | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-23 00:40:44 |  |
 | biology/protein-synthesis | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:22 |  |
-| biology/reproduction | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-23 00:44:34 |  |
+| biology/reproduction | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-23 00:44:34 | 2026-11-23 01:22:50 |
 | biology/tonicity-labs | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:20 | 2026-11-23 00:44:31 |
 | chemistry/acids-bases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-23 00:56:28 |  |
 | chemistry/atoms | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:24 |  |
@@ -75,7 +75,7 @@ Updated 2026-11-23 01:22:47. Labels: finished / in progress / no audio / failed 
 | chemistry/reactions | finished | 269 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:50 |  |
 | chemistry/salts-fertilizers | finished | 462 | 0 | 0 | 0 | 0 | 2026-11-22 22:35:55 |  |
 | chemistry/solutions | finished | 308 | 0 | 0 | 0 | 0 | 2026-11-23 01:18:14 |  |
-| chemistry/states-of-matter | finished | 363 | 0 | 0 | 0 | 0 | 2026-11-22 22:29:24 |  |
+| chemistry/states-of-matter | finished | 363 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:51 |  |
 | chemistry/water-purification | finished | 451 | 0 | 0 | 0 | 0 | 2026-11-22 22:43:33 |  |
 | cs/cs-ai | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:31 |  |
 | cs/cs-algorithms | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:30 |  |
@@ -90,7 +90,7 @@ Updated 2026-11-23 01:22:47. Labels: finished / in progress / no audio / failed 
 | earth/fossils-time | finished | 377 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:50 |  |
 | earth/natural-resources | finished | 325 | 0 | 0 | 0 | 0 | 2026-11-23 00:52:47 |  |
 | earth/oceans | finished | 308 | 0 | 0 | 0 | 0 | 2026-11-23 00:47:43 |  |
-| earth/plate-tectonics | finished | 529 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:45 |  |
+| earth/plate-tectonics | finished | 529 | 0 | 0 | 0 | 0 | 2026-11-23 00:45:45 | 2026-11-23 01:22:50 |
 | earth/rocks-minerals | finished | 323 | 0 | 0 | 0 | 0 | 2026-11-23 00:53:11 |  |
 | earth/soil | finished | 367 | 0 | 0 | 0 | 0 | 2026-11-23 00:50:15 |  |
 | earth/water-cycle | finished | 320 | 0 | 0 | 0 | 0 | 2026-11-23 00:53:04 |  |
