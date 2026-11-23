@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 04:39:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:41:51. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Updated 2026-11-23 04:39:31. Labels: finished / in progress / no audio / failed 
 | biology/reproduction | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-23 00:44:34 |  |
 | biology/tonicity-labs | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-23 04:32:46 |  |
 | chemistry/acids-bases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-23 04:34:50 |  |
-| chemistry/atoms | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:24 |  |
+| chemistry/atoms | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-23 04:41:50 |  |
 | chemistry/carbon | finished | 425 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:02 |  |
 | chemistry/changes | finished | 278 | 0 | 0 | 0 | 0 | 2026-11-23 00:55:36 |  |
 | chemistry/chemical-equations | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 04:38:47 |  |
