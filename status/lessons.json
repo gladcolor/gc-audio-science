@@ -45,7 +45,7 @@
    "zh": "黑洞与引力波"
   },
   "updated": "2026-11-23 01:26:18",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "astronomy/eclipses": {
   "counts": {
@@ -117,7 +117,7 @@
    "zh": "星系与宇宙"
   },
   "updated": "2026-11-23 01:21:01",
-  "verified": ""
+  "verified": "2026-11-23 01:59:38"
  },
  "astronomy/gravity-orbits": {
   "counts": {
@@ -141,7 +141,7 @@
    "zh": "引力与轨道"
   },
   "updated": "2026-11-23 00:59:27",
-  "verified": ""
+  "verified": "2026-11-23 01:44:34"
  },
  "astronomy/kepler-laws": {
   "counts": {
@@ -165,7 +165,7 @@
    "zh": "轨道、开普勒定律与飞向火星"
   },
   "updated": "2026-11-23 00:52:11",
-  "verified": ""
+  "verified": "2026-11-23 01:40:23"
  },
  "astronomy/measuring-distance": {
   "counts": {
@@ -213,7 +213,7 @@
    "zh": "月相"
   },
   "updated": "2026-11-23 01:19:39",
-  "verified": ""
+  "verified": "2026-11-23 01:59:37"
  },
  "astronomy/night-sky": {
   "counts": {
@@ -237,7 +237,7 @@
    "zh": "星座与夜空"
   },
   "updated": "2026-11-23 01:26:25",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "astronomy/planets-moons": {
   "counts": {
@@ -261,7 +261,7 @@
    "zh": "行星实验室：行星与卫星"
   },
   "updated": "2026-11-23 01:20:23",
-  "verified": ""
+  "verified": "2026-11-23 01:59:38"
  },
  "astronomy/rocketry": {
   "counts": {
@@ -333,7 +333,7 @@
    "zh": "昼夜与四季"
   },
   "updated": "2026-11-23 00:56:19",
-  "verified": ""
+  "verified": "2026-11-23 01:43:23"
  },
  "astronomy/sky-tonight": {
   "counts": {
@@ -381,7 +381,7 @@
    "zh": "小行星、彗星与流星"
   },
   "updated": "2026-11-23 01:21:20",
-  "verified": ""
+  "verified": "2026-11-23 01:59:39"
  },
  "astronomy/solar-system": {
   "counts": {
@@ -453,7 +453,7 @@
    "zh": "恒星的一生：赫罗图"
   },
   "updated": "2026-11-23 01:24:43",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "astronomy/sun-stars": {
   "counts": {
@@ -525,7 +525,7 @@
    "zh": "三体问题：秩序与混沌"
   },
   "updated": "2026-11-23 01:26:37",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "astronomy/tides": {
   "counts": {
@@ -813,7 +813,7 @@
    "zh": "生物分类与二歧检索表"
   },
   "updated": "2026-11-23 01:18:05",
-  "verified": ""
+  "verified": "2026-11-23 01:51:00"
  },
  "biology/diffusion": {
   "counts": {
@@ -1317,7 +1317,7 @@
    "zh": "酸、碱与 pH"
   },
   "updated": "2026-11-23 00:56:28",
-  "verified": ""
+  "verified": "2026-11-23 01:43:24"
  },
  "chemistry/atoms": {
   "counts": {
@@ -1341,7 +1341,7 @@
    "zh": "原子结构"
   },
   "updated": "2026-11-23 01:21:24",
-  "verified": ""
+  "verified": "2026-11-23 01:59:39"
  },
  "chemistry/carbon": {
   "counts": {
@@ -1365,7 +1365,7 @@
    "zh": "碳和碳的氧化物与燃料"
   },
   "updated": "2026-11-23 01:17:40",
-  "verified": ""
+  "verified": "2026-11-23 01:48:44"
  },
  "chemistry/changes": {
   "counts": {
@@ -1389,7 +1389,7 @@
    "zh": "物理变化与化学变化"
   },
   "updated": "2026-11-23 00:55:36",
-  "verified": ""
+  "verified": "2026-11-23 01:42:46"
  },
  "chemistry/chemical-equations": {
   "counts": {
@@ -1413,7 +1413,7 @@
    "zh": "化学方程式与计算"
   },
   "updated": "2026-11-23 01:16:49",
-  "verified": ""
+  "verified": "2026-11-23 01:47:20"
  },
  "chemistry/chemistry-life": {
   "counts": {
@@ -1437,7 +1437,7 @@
    "zh": "化学与健康、材料和社会发展"
   },
   "updated": "2026-11-23 01:17:29",
-  "verified": ""
+  "verified": "2026-11-23 01:48:44"
  },
  "chemistry/combustion-fuels": {
   "counts": {
@@ -1461,7 +1461,7 @@
    "zh": "燃烧、燃料与消防安全"
   },
   "updated": "2026-11-23 01:31:48",
-  "verified": ""
+  "verified": "2026-11-23 02:17:15"
  },
  "chemistry/density": {
   "counts": {
@@ -1485,7 +1485,7 @@
    "zh": "密度"
   },
   "updated": "2026-11-23 01:17:21",
-  "verified": ""
+  "verified": "2026-11-23 01:48:43"
  },
  "chemistry/elements-compounds": {
   "counts": {
@@ -1509,7 +1509,7 @@
    "zh": "元素、化合物与混合物"
   },
   "updated": "2026-11-23 01:18:24",
-  "verified": ""
+  "verified": "2026-11-23 01:51:00"
  },
  "chemistry/formulas-valence": {
   "counts": {
@@ -1533,7 +1533,7 @@
    "zh": "化学式与化合价"
   },
   "updated": "2026-11-23 01:31:13",
-  "verified": ""
+  "verified": "2026-11-23 02:14:24"
  },
  "chemistry/lab-skills": {
   "counts": {
@@ -1581,7 +1581,7 @@
    "zh": "金属与金属活动性顺序"
   },
   "updated": "2026-11-23 01:23:29",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "chemistry/oxygen-air": {
   "counts": {
@@ -1605,7 +1605,7 @@
    "zh": "空气与氧气"
   },
   "updated": "2026-11-23 01:31:18",
-  "verified": ""
+  "verified": "2026-11-23 02:15:24"
  },
  "chemistry/periodic-table": {
   "counts": {
@@ -1629,7 +1629,7 @@
    "zh": "元素周期表"
   },
   "updated": "2026-11-23 01:31:26",
-  "verified": ""
+  "verified": "2026-11-23 02:17:41"
  },
  "chemistry/reactions": {
   "counts": {
@@ -1653,7 +1653,7 @@
    "zh": "化学反应与质量守恒"
   },
   "updated": "2026-11-23 01:18:50",
-  "verified": ""
+  "verified": "2026-11-23 01:51:00"
  },
  "chemistry/salts-fertilizers": {
   "counts": {
@@ -1677,7 +1677,7 @@
    "zh": "盐、复分解反应与化肥"
   },
   "updated": "2026-11-23 01:23:11",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "chemistry/solutions": {
   "counts": {
@@ -1701,7 +1701,7 @@
    "zh": "溶液与溶解度"
   },
   "updated": "2026-11-23 01:18:14",
-  "verified": ""
+  "verified": "2026-11-23 01:51:00"
  },
  "chemistry/states-of-matter": {
   "counts": {
@@ -1725,7 +1725,7 @@
    "zh": "物质的状态"
   },
   "updated": "2026-11-23 01:22:51",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "chemistry/water-purification": {
   "counts": {
@@ -1749,7 +1749,7 @@
    "zh": "水的净化、组成与保护"
   },
   "updated": "2026-11-23 01:23:23",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "cs/cs-ai": {
   "counts": {
@@ -1822,25 +1822,26 @@
  },
  "cs/cs-computers": {
   "counts": {
-   "done": 433,
+   "done": 591,
    "failed": 0,
    "held": 0,
-   "missing": 0,
-   "old": 0,
-   "total": 433
+   "missing": 391,
+   "old": 9,
+   "total": 991
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "2cdc4b5e9d91",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/cs/cs-computers.html",
   "record_demand": true,
   "record_langs": [
+   "en",
    "zh"
   ],
   "title": {
    "en": "How Computers Work",
    "zh": "计算机是怎样工作的"
   },
-  "updated": "2026-11-22 20:25:18",
+  "updated": "2026-11-23 03:31:02",
   "verified": ""
  },
  "cs/cs-data-crypto": {
@@ -2030,7 +2031,7 @@
    "zh": "自然资源与能源"
   },
   "updated": "2026-11-23 00:52:47",
-  "verified": ""
+  "verified": "2026-11-23 01:40:57"
  },
  "earth/oceans": {
   "counts": {
@@ -2102,7 +2103,7 @@
    "zh": "岩石、矿物与岩石循环"
   },
   "updated": "2026-11-23 00:53:11",
-  "verified": ""
+  "verified": "2026-11-23 01:41:33"
  },
  "earth/soil": {
   "counts": {
@@ -2150,7 +2151,7 @@
    "zh": "水循环"
   },
   "updated": "2026-11-23 00:53:04",
-  "verified": ""
+  "verified": "2026-11-23 01:41:28"
  },
  "earth/weather": {
   "counts": {
@@ -2174,7 +2175,7 @@
    "zh": "天气与气团"
   },
   "updated": "2026-11-23 00:57:27",
-  "verified": ""
+  "verified": "2026-11-23 01:46:24"
  },
  "earth/weathering-erosion": {
   "counts": {
@@ -2222,7 +2223,7 @@
    "zh": "浮力与阿基米德原理"
   },
   "updated": "2026-11-23 01:28:40",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "physics/communications-energy": {
   "counts": {
@@ -2246,7 +2247,7 @@
    "zh": "电磁波、信息传递与能源"
   },
   "updated": "2026-11-23 01:15:43",
-  "verified": ""
+  "verified": "2026-11-23 01:38:17"
  },
  "physics/electric-power": {
   "counts": {
@@ -2270,7 +2271,7 @@
    "zh": "电功率与家庭电路"
   },
   "updated": "2026-11-23 01:29:53",
-  "verified": ""
+  "verified": "2026-11-23 02:12:12"
  },
  "physics/electricity": {
   "counts": {
@@ -2294,7 +2295,7 @@
    "zh": "电路"
   },
   "updated": "2026-11-23 01:11:15",
-  "verified": ""
+  "verified": "2026-11-23 01:32:40"
  },
  "physics/electromagnetism": {
   "counts": {
@@ -2318,7 +2319,7 @@
    "zh": "电磁铁、电动机与发电机"
   },
   "updated": "2026-11-23 00:52:58",
-  "verified": ""
+  "verified": "2026-11-23 01:41:27"
  },
  "physics/energy": {
   "counts": {
@@ -2342,7 +2343,7 @@
    "zh": "动能与势能"
   },
   "updated": "2026-11-23 00:52:18",
-  "verified": ""
+  "verified": "2026-11-23 01:40:24"
  },
  "physics/forces": {
   "counts": {
@@ -2390,7 +2391,7 @@
    "zh": "初中物理公式表与计算器"
   },
   "updated": "2026-11-23 01:28:47",
-  "verified": ""
+  "verified": "2026-11-23 02:14:23"
  },
  "physics/heat-transfer": {
   "counts": {
@@ -2414,7 +2415,7 @@
    "zh": "热传递"
   },
   "updated": "2026-11-23 01:22:02",
-  "verified": ""
+  "verified": "2026-11-23 01:59:40"
  },
  "physics/lenses": {
   "counts": {
@@ -2438,7 +2439,7 @@
    "zh": "透镜及其应用"
   },
   "updated": "2026-11-23 01:15:50",
-  "verified": ""
+  "verified": "2026-11-23 01:38:29"
  },
  "physics/light": {
   "counts": {
@@ -2462,7 +2463,7 @@
    "zh": "光与电磁波谱"
   },
   "updated": "2026-11-23 00:51:40",
-  "verified": ""
+  "verified": "2026-11-23 01:37:59"
  },
  "physics/magnetism": {
   "counts": {
@@ -2486,7 +2487,7 @@
    "zh": "磁与电磁铁"
   },
   "updated": "2026-11-23 00:51:53",
-  "verified": ""
+  "verified": "2026-11-23 01:39:40"
  },
  "physics/measurements-density": {
   "counts": {
@@ -2510,7 +2511,7 @@
    "zh": "质量、密度及其测量"
   },
   "updated": "2026-11-23 01:15:47",
-  "verified": ""
+  "verified": "2026-11-23 01:37:56"
  },
  "physics/mechanical-motion": {
   "counts": {
@@ -2630,7 +2631,7 @@
    "zh": "核裂变与原子弹"
   },
   "updated": "2026-11-23 01:20:57",
-  "verified": ""
+  "verified": "2026-11-23 01:59:38"
  },
  "physics/nuclear-fusion": {
   "counts": {
@@ -2654,7 +2655,7 @@
    "zh": "核聚变、太阳与氢弹"
   },
   "updated": "2026-11-23 01:23:57",
-  "verified": ""
+  "verified": "2026-11-23 02:12:11"
  },
  "physics/ohms-law": {
   "counts": {
@@ -2702,7 +2703,7 @@
    "zh": "物态变化"
   },
   "updated": "2026-11-23 01:11:54",
-  "verified": ""
+  "verified": "2026-11-23 01:33:33"
  },
  "physics/pressure": {
   "counts": {
@@ -2726,7 +2727,7 @@
    "zh": "压强：固体、液体与大气"
   },
   "updated": "2026-11-23 01:30:13",
-  "verified": ""
+  "verified": "2026-11-23 02:14:23"
  },
  "physics/simple-machines": {
   "counts": {
@@ -2750,7 +2751,7 @@
    "zh": "简单机械"
   },
   "updated": "2026-11-23 01:22:47",
-  "verified": ""
+  "verified": "2026-11-23 02:12:10"
  },
  "physics/sound": {
   "counts": {
@@ -2774,7 +2775,7 @@
    "zh": "声音"
   },
   "updated": "2026-11-23 00:51:58",
-  "verified": ""
+  "verified": "2026-11-23 01:39:25"
  },
  "physics/specific-heat": {
   "counts": {
@@ -2798,7 +2799,7 @@
    "zh": "内能与比热容"
   },
   "updated": "2026-11-23 00:54:09",
-  "verified": ""
+  "verified": "2026-11-23 01:42:54"
  },
  "physics/static-charge": {
   "counts": {
@@ -2822,7 +2823,7 @@
    "zh": "电荷与静电"
   },
   "updated": "2026-11-23 01:21:07",
-  "verified": ""
+  "verified": "2026-11-23 01:59:39"
  },
  "physics/waves": {
   "counts": {
