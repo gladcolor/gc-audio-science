@@ -1585,15 +1585,15 @@
  },
  "chemistry/oxygen-air": {
   "counts": {
-   "done": 372,
+   "done": 352,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 20,
    "total": 372
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "684e5e34262d",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/chemistry/oxygen-air.html",
   "record_demand": true,
   "record_langs": [
@@ -1604,7 +1604,7 @@
    "en": "Air & Oxygen",
    "zh": "空气与氧气"
   },
-  "updated": "2026-11-22 22:39:15",
+  "updated": "2026-11-23 00:56:43",
   "verified": ""
  },
  "chemistry/periodic-table": {
