@@ -2586,15 +2586,15 @@
  },
  "physics/nuclear-applications": {
   "counts": {
-   "done": 619,
+   "done": 577,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 42,
    "total": 619
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "d198c62e2c11",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/physics/nuclear-applications.html",
   "record_demand": true,
   "record_langs": [
@@ -2605,7 +2605,7 @@
    "en": "Atoms for Peace: Uses of Nuclear Technology",
    "zh": "核技术的和平利用"
   },
-  "updated": "2026-11-22 22:20:44",
+  "updated": "2026-11-23 00:52:33",
   "verified": ""
  },
  "physics/nuclear-fission": {
