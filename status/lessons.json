@@ -1776,15 +1776,15 @@
  },
  "cs/cs-algorithms": {
   "counts": {
-   "done": 297,
+   "done": 352,
    "failed": 0,
    "held": 0,
-   "missing": 49,
-   "old": 6,
+   "missing": 0,
+   "old": 0,
    "total": 352
   },
   "fingerprint": "5973ee5faafc",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-algorithms.html",
   "record_demand": true,
   "record_langs": [
@@ -1795,7 +1795,7 @@
    "en": "Algorithms: Sorting & Searching",
    "zh": "算法：排序与查找"
   },
-  "updated": "2026-11-23 03:34:50",
+  "updated": "2026-11-23 03:36:12",
   "verified": ""
  },
  "cs/cs-coding": {
