@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 04:47:33. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:49:06. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Updated 2026-11-23 04:47:33. Labels: finished / in progress / no audio / failed 
 | cs/cs-ai | finished | 213 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:01 | 2026-11-23 04:34:30 |
 | cs/cs-algorithms | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 03:36:12 | 2026-11-23 03:50:21 |
 | cs/cs-coding | finished | 231 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:37 | 2026-11-23 04:44:51 |
-| cs/cs-computers | finished | 991 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:52 |  |
+| cs/cs-computers | finished | 991 | 0 | 0 | 0 | 0 | 2026-11-23 03:57:52 | 2026-11-23 04:47:36 |
 | cs/cs-data-crypto | finished | 233 | 0 | 0 | 0 | 0 | 2026-11-23 03:58:01 | 2026-11-23 04:44:51 |
 | cs/cs-internet | finished | 352 | 0 | 0 | 0 | 0 | 2026-11-23 04:47:17 |  |
 | cs/cs-safety | finished | 269 | 0 | 0 | 0 | 0 | 2026-11-23 03:54:44 | 2026-11-23 04:44:51 |
@@ -118,7 +118,7 @@ Updated 2026-11-23 04:47:33. Labels: finished / in progress / no audio / failed 
 | physics/ohms-law | finished | 362 | 0 | 0 | 0 | 0 | 2026-11-23 04:35:27 |  |
 | physics/phase-changes | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:54 | 2026-11-23 01:33:33 |
 | physics/pressure | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:15 |  |
-| physics/simple-machines | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:47 |  |
+| physics/simple-machines | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 04:49:06 |  |
 | physics/sound | finished | 289 | 0 | 0 | 0 | 0 | 2026-11-23 04:35:58 |  |
 | physics/specific-heat | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 04:30:39 |  |
 | physics/static-charge | finished | 471 | 0 | 0 | 0 | 0 | 2026-11-23 04:37:58 |  |
