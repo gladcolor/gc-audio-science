@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 03:31:02. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 03:31:31. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Updated 2026-11-23 03:31:02. Labels: finished / in progress / no audio / failed 
 | cs/cs-ai | finished | 114 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:31 |  |
 | cs/cs-algorithms | finished | 183 | 0 | 0 | 0 | 0 | 2026-11-22 20:25:30 |  |
 | cs/cs-coding | finished | 121 | 0 | 0 | 0 | 0 | 2026-11-22 20:20:57 |  |
-| cs/cs-computers | in progress | 591 | 9 | 391 | 0 | 0 | 2026-11-23 03:31:02 |  |
+| cs/cs-computers | in progress | 644 | 8 | 339 | 0 | 0 | 2026-11-23 03:31:30 |  |
 | cs/cs-data-crypto | finished | 123 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:12 |  |
 | cs/cs-internet | finished | 182 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:09 |  |
 | cs/cs-safety | finished | 137 | 0 | 0 | 0 | 0 | 2026-11-22 20:26:27 |  |
