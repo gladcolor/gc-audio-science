@@ -2528,7 +2528,7 @@
    "old": 0,
    "total": 352
   },
-  "fingerprint": "",
+  "fingerprint": "27c08f484146",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/mechanical-motion.html",
   "record_demand": true,
@@ -2540,7 +2540,7 @@
    "en": "Measurement & Mechanical Motion",
    "zh": "长度时间的测量与机械运动"
   },
-  "updated": "2026-11-23 01:07:41",
+  "updated": "2026-11-23 04:42:38",
   "verified": ""
  },
  "physics/motion": {
