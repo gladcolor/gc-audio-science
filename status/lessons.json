@@ -337,15 +337,15 @@
  },
  "astronomy/sky-tonight": {
   "counts": {
-   "done": 562,
+   "done": 547,
    "failed": 0,
    "held": 0,
    "missing": 0,
-   "old": 0,
+   "old": 15,
    "total": 562
   },
-  "fingerprint": "",
-  "label": "finished",
+  "fingerprint": "3ad6d3336e1b",
+  "label": "in progress",
   "page": "https://shanchuan.org/middle/astronomy/sky-tonight.html",
   "record_demand": true,
   "record_langs": [
@@ -356,7 +356,7 @@
    "en": "Planetarium: The Sky Tonight",
    "zh": "天象馆：今晚的星空"
   },
-  "updated": "2026-11-23 00:50:30",
+  "updated": "2026-11-23 04:32:38",
   "verified": ""
  },
  "astronomy/small-bodies": {
