@@ -1801,15 +1801,15 @@
  },
  "cs/cs-coding": {
   "counts": {
-   "done": 227,
+   "done": 231,
    "failed": 0,
    "held": 0,
-   "missing": 4,
+   "missing": 0,
    "old": 0,
    "total": 231
   },
   "fingerprint": "6d9daf776b7e",
-  "label": "in progress",
+  "label": "finished",
   "page": "https://shanchuan.org/middle/cs/cs-coding.html",
   "record_demand": true,
   "record_langs": [
@@ -1820,7 +1820,7 @@
    "en": "Coding: Loops & Conditions",
    "zh": "编程：循环与条件"
   },
-  "updated": "2026-11-23 03:37:04",
+  "updated": "2026-11-23 03:58:37",
   "verified": ""
  },
  "cs/cs-computers": {
