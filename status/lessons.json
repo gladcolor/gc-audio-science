@@ -2288,7 +2288,7 @@
    "old": 0,
    "total": 324
   },
-  "fingerprint": "",
+  "fingerprint": "04c827da44d8",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/electricity.html",
   "record_demand": true,
@@ -2300,7 +2300,7 @@
    "en": "Electric Circuits",
    "zh": "电路"
   },
-  "updated": "2026-11-23 01:11:15",
+  "updated": "2026-11-23 04:38:53",
   "verified": ""
  },
  "physics/electromagnetism": {
