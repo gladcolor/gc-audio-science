@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 00:42:16. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 00:42:23. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Updated 2026-11-23 00:42:16. Labels: finished / in progress / no audio / failed 
 | biology/cell-theory | finished | 519 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:02 |  |
 | biology/cell-transport | finished | 355 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:17 | 2026-11-23 00:41:46 |
 | biology/cells-review | finished | 320 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:08 |  |
-| biology/characteristics-of-life | finished | 469 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:13 |  |
+| biology/characteristics-of-life | finished | 469 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:13 | 2026-11-23 00:42:20 |
 | biology/classification | finished | 395 | 0 | 0 | 0 | 0 | 2026-11-22 21:09:10 |  |
 | biology/diffusion | finished | 309 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:06 |  |
 | biology/dna | finished | 219 | 0 | 0 | 0 | 0 | 2026-11-22 21:09:55 |  |
@@ -55,7 +55,7 @@ Updated 2026-11-23 00:42:16. Labels: finished / in progress / no audio / failed 
 | biology/osmosis | finished | 273 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:10 |  |
 | biology/photosynthesis | finished | 360 | 0 | 0 | 0 | 0 | 2026-11-23 00:41:54 |  |
 | biology/plants | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-23 00:40:44 |  |
-| biology/protein-synthesis | in progress | 291 | 8 | 0 | 0 | 0 | 2026-11-22 23:58:48 |  |
+| biology/protein-synthesis | finished | 299 | 0 | 0 | 0 | 0 | 2026-11-23 00:42:22 |  |
 | biology/reproduction | finished | 412 | 0 | 0 | 0 | 0 | 2026-11-22 21:09:47 |  |
 | biology/tonicity-labs | finished | 454 | 0 | 0 | 0 | 0 | 2026-11-22 23:59:20 |  |
 | chemistry/acids-bases | finished | 385 | 0 | 0 | 0 | 0 | 2026-11-22 22:42:58 |  |
