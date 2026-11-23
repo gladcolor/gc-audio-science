@@ -6168,6 +6168,7 @@ zh	fc5f5e64	astronomy/seasons	serena moss8b	48	2026-11-22 01:29:09	tts	2634d9b3e
 zh	fcd0fe54	astronomy/seasons	serena moss8b	48	2026-11-22 01:29:20	tts	217722ee79
 en	01ea2e2d	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:40:50	tts	53d7d8b914
 en	01fcf8d0	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:39:58	tts	3c5efd0416
+en	024c9bd5	astronomy/sky-tonight	serena moss8b	48	2026-11-23 04:35:26	tts	216c13bfe4
 en	028a5607	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:40:09	tts	9c7a619fe0
 en	03c246d6	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:39:37	tts	daaa4cd395
 en	0422e3e9	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:40:44	tts	c57b8c0552
@@ -6335,6 +6336,7 @@ en	9e99a0ac	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:40:21	tts	a485c
 en	a0da293b	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:42:00	tts	b5ed6a43b7
 en	a1c0a3e6	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:42:39	tts	10ac948bd4
 en	a495bf54	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:40:06	tts	3f8746362d
+en	a576e0f6	astronomy/sky-tonight	serena moss8b	48	2026-11-23 04:35:26	tts	69b4223a8f
 en	a689fd91	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:41:04	tts	36f4b8b40e
 en	a721270a	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:44:07	tts	c7186e4407
 en	a80881c7	astronomy/sky-tonight	serena moss8b	48	2026-11-22 21:43:08	tts	bea1b032df
@@ -43819,6 +43821,7 @@ zh	fcff017e	physics/nuclear-applications	serena moss8b	48	2026-11-22 15:34:01	tt
 zh	fed8375e	physics/nuclear-applications	serena moss8b	48	2026-11-22 16:06:04	tts	e9d5a8f7ce
 zh	ff293c4a	physics/nuclear-applications	serena moss8b	48	2026-11-22 15:34:16	tts	efc9f4f97a
 zh	ff311762	physics/nuclear-applications	serena moss8b	48	2026-11-23 00:54:14	tts	65b01c75a5
+en	016570af	physics/nuclear-fission	serena moss8b	48	2026-11-23 04:35:26	tts	3c049c9138
 en	017bf815	physics/nuclear-fission	serena moss8b	48	2026-11-22 22:11:59	tts	30ad2b876e
 en	026a47ac	physics/nuclear-fission	serena moss8b	48	2026-11-22 22:11:13	tts	e0601e649d
 en	038d66a2	physics/nuclear-fission	serena moss8b	48	2026-11-22 22:11:59	tts	744c43ecaa
@@ -44811,6 +44814,7 @@ en	df17808b	physics/ohms-law	serena moss8b	48	2026-11-22 22:06:35	tts	52388827ce
 en	dfc934d6	physics/ohms-law	serena moss8b	48	2026-11-22 22:06:35	tts	4c312cb701
 en	e179fe54	physics/ohms-law	serena moss8b	48	2026-11-22 22:06:04	tts	ba98179490
 en	e189707b	physics/ohms-law	serena moss8b	48	2026-11-22 22:06:22	tts	af34f1c91d
+en	e2a8c15e	physics/ohms-law	serena moss8b	48	2026-11-23 04:35:26	tts	bd533a4195
 en	e50eb1ea	physics/ohms-law	serena moss8b	48	2026-11-22 22:05:58	tts	7902ab13db
 en	e72768a2	physics/ohms-law	serena moss8b	48	2026-11-22 22:05:45	tts	14a7e0afcd
 en	e9eb715f	physics/ohms-law	serena moss8b	48	2026-11-22 22:05:33	tts	9bce43047f
@@ -45546,6 +45550,7 @@ en	e72768a2	physics/pressure	serena moss8b	48	2026-11-22 22:01:28	tts	14a7e0afcd
 en	e788ef4b	physics/pressure	serena moss8b	48	2026-11-22 22:01:03	tts	904755640a
 en	e7d9be70	physics/pressure	serena moss8b	48	2026-11-22 22:01:55	tts	b944dbc1a2
 en	e826dfb1	physics/pressure	serena moss8b	48	2026-11-22 22:01:55	tts	fb93301103
+en	e83831aa	physics/pressure	serena moss8b	48	2026-11-23 04:35:26	tts	2714279eae
 en	e86cd0ec	physics/pressure	serena moss8b	48	2026-11-22 22:01:05	tts	1e73d37223
 en	e8b9b3ea	physics/pressure	serena moss8b	48	2026-11-22 22:02:04	tts	56b04cd63d
 en	eb2cb603	physics/pressure	serena moss8b	48	2026-11-22 22:01:36	tts	527fb82f7d
