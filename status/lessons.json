@@ -2665,7 +2665,7 @@
    "old": 0,
    "total": 362
   },
-  "fingerprint": "",
+  "fingerprint": "2145d39c5bb8",
   "label": "finished",
   "page": "https://shanchuan.org/middle/physics/ohms-law.html",
   "record_demand": true,
@@ -2677,7 +2677,7 @@
    "en": "Ohm’s Law, Series & Parallel Circuits",
    "zh": "欧姆定律与串并联电路"
   },
-  "updated": "2026-11-22 22:12:47",
+  "updated": "2026-11-23 01:06:58",
   "verified": ""
  },
  "physics/phase-changes": {
