@@ -1,6 +1,6 @@
 # Read-aloud status: gc-audio-science
 
-Updated 2026-11-23 04:35:55. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
+Updated 2026-11-23 04:35:58. Labels: finished / in progress / no audio / failed / old voice / out of date. Clips: done = serena, old = older voice, missing = browser voice.
 
 | lesson | label | done | old | missing | failed | held | updated | live check |
 |---|---|---|---|---|---|---|---|---|
@@ -119,7 +119,7 @@ Updated 2026-11-23 04:35:55. Labels: finished / in progress / no audio / failed 
 | physics/phase-changes | finished | 383 | 0 | 0 | 0 | 0 | 2026-11-23 01:11:54 | 2026-11-23 01:33:33 |
 | physics/pressure | finished | 345 | 0 | 0 | 0 | 0 | 2026-11-23 01:30:13 |  |
 | physics/simple-machines | finished | 306 | 0 | 0 | 0 | 0 | 2026-11-23 01:22:47 |  |
-| physics/sound | finished | 289 | 0 | 0 | 0 | 0 | 2026-11-23 00:51:58 |  |
+| physics/sound | finished | 289 | 0 | 0 | 0 | 0 | 2026-11-23 04:35:58 |  |
 | physics/specific-heat | finished | 400 | 0 | 0 | 0 | 0 | 2026-11-23 04:30:39 |  |
 | physics/static-charge | finished | 471 | 0 | 0 | 0 | 0 | 2026-11-23 01:21:07 |  |
 | physics/waves | finished | 318 | 0 | 0 | 0 | 0 | 2026-11-23 04:33:34 |  |
